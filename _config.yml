@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Nonsense Nonsense
+title: Nonsense (Nonsense)!
 
 # Your name to show in the footer
 author: alice wang
@@ -20,11 +20,12 @@ author: alice wang
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  about me: "aboutme"
+  my recs:
+    - top 100: ""
+    - recents: ""
+  my musings: ""
+  my stuff: ""
 
 ################
 # --- Logo --- #
