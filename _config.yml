@@ -52,7 +52,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "atwang@uchicago.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: atxwang
   youtube: "@alicewang5938"
 #  medium: yourname
@@ -62,7 +62,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: Unironic
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
