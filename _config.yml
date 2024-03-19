@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Nonsense Nonsense
 
 # Your name to show in the footer
-author: Some Person
+author: alice wang
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,16 +50,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "atwang@uchicago.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  github: atxwang
+  youtube: "@alicewang5983"
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: alice-wang-50001b242
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +72,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+  discord: "users/snomasaurus"
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
@@ -83,7 +80,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: some of the posts of all time
 
 ###########################
 # --- General options --- #
@@ -93,12 +90,12 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nonsensesquared.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
