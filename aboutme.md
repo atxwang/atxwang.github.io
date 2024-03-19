@@ -11,4 +11,4 @@ hello! i'm alice, currently a 1st year @ uchicago studying physics, math, lingui
 - medieval art
 - the future (!!)
 
-my cv can be found here.
+my cv can be found [here](https://docs.google.com/document/d/1EkPGc3CyweWSjHKkMegwllJrSUFpCwVTO23XOHrGx0c/edit?usp=sharing).
