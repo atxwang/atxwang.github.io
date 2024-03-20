@@ -21,11 +21,9 @@ author: alice wang
 
 navbar-links:
   about me: "aboutme"
-  my recs:
-    - top 100: ""
-    - recents: ""
+  my recs: ""
   my thoughts: ""
-  my stuff: ""
+  my projects: ""
 
 ################
 # --- Logo --- #
