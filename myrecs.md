@@ -1,6 +1,6 @@
 **music**: 
 
-my current seasonal playlist: ([spring 2024](https://open.spotify.com/playlist/0OFtDN3NGdug377KSPLSDr?si=dcefb2cf505b47a9))
+my current seasonal playlist: [spring 2024](https://open.spotify.com/playlist/0OFtDN3NGdug377KSPLSDr?si=dcefb2cf505b47a9)
 
 what's next: more ethiopian jazz, Sun Kil Moon, Neil Young
 
