@@ -1,3 +1,8 @@
+---
+layout: page
+title: about me
+---
+
 **music**: 
 
 my current seasonal playlist: [spring 2024](https://open.spotify.com/playlist/0OFtDN3NGdug377KSPLSDr?si=dcefb2cf505b47a9)
