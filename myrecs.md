@@ -12,7 +12,7 @@ currently reading: *When Languages Die* by K. David Harrison
 
 what's next: *The Invisibility Cloak* by Ge Fei, *The Name of the Rose* by Umberto Eco
 
-my all times: *Slouching Towards Bethlehem* by Joan Didion, *One Hundred Years of Solitude* by Gabriel Garcia Marquez
+my all times: *Slouching Towards Bethlehem* by Joan Didion, *One Hundred Years of Solitude* by Gabriel Garcia Marquez, *The Three-Body Problem* by Cixin Liu
 
 **movies**:
 
@@ -20,7 +20,7 @@ recently watched: *Dune: Part Two*, *Poor Things*
 
 what's next: *Perfect Days*, *When Harry Met Sally*
 
-my all times: *Spirited Away*, *Song of the Sea* , *American Psycho*
+my all times: *Spirited Away*, *Song of the Sea*, *American Psycho*
 
 **games**:
 
