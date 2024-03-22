@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: my recs
 ---
 
 **music**: 
