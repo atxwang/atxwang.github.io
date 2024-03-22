@@ -7,4 +7,4 @@ title: my projects
 
 [UChiConlangs, the conlang club i cofounded (website coming soon!)]()
 ![UChiConlangs](https://atxwang.github.io/assets/img/uchiconlangs.png)
-
+the logo i designed (regenstein memorial babeltower)
