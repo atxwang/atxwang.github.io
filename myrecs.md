@@ -15,7 +15,7 @@ my all times: The Smiths, Sufjan Stevens, Bladee
 
 currently reading: *When Languages Die* by K. David Harrison
 
-what's next: *Portnoy's Complaint" by Philip Roth, *The Name of the Rose* by Umberto Eco, *The Invisibility Cloak" by Ge Fei
+what's next: *Portnoy's Complaint* by Philip Roth, *The Name of the Rose* by Umberto Eco, *The Invisibility Cloak* by Ge Fei
 
 my all times: *Slouching Towards Bethlehem* by Joan Didion, *One Hundred Years of Solitude* by Gabriel Garcia Marquez, *The Three-Body Problem* by Cixin Liu
 
