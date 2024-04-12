@@ -27,7 +27,9 @@ then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.c
 
 aannd pretty soon **i was reading EA/EA-adjacent blogs and doing every fellowship in my college's EA branch, all while playing the role of staunch EA critic**. this strangeness has culminated in my participation in an EA "retreat", which i found rewarding but uniquely exhausting compared to my fellow attendees. there, i witnessed firsthand some of the most cartoonishly-negative stereotypes of EA:
 - multiple regular soylent drinkers
-- literally only 2 other women (out of ~ 
+- people who could feasibly be called climate change deniers
+- militant vegans
+- literally only 2 other women (out of ~15 attendees) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU0OTU4NTksOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbLTExMjc5MTEyODUsOTYwOTgzNzY0XX0=
 -->
