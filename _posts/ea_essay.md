@@ -25,13 +25,13 @@ tags: [effective altruism, essay]
 then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), which scratched an itch in my STEM-lord vaguely anticapitalist brain with lines like this:
 > Las Vegas doesn’t exist because of some decision to hedonically optimize civilization, it exists because of a quirk in dopaminergic reward circuits, plus the microstructure of an uneven regulatory environment, plus Schelling points (...) People within the system, following the incentives created by these facts, think: “Let’s build a forty-story-high indoor replica of ancient Rome full of albino tigers in the middle of the desert, and so become slightly richer than people who didn’t!”
 
-aannd pretty soon **i was reading EA/EA-adjacent blogs and doing every fellowship in my college's EA branch, all while playing the role of staunch EA critic**. this strangeness has culminated in my participation in an EA "retreat", which i found rewarding but uniquely exhausting compared to my fellow attendees. there, i witnessed firsthand some of the most cartoonishly-negative stereotypes of EA:
+aannd pretty soon **i was reading EA/EA-adjacent blogs and doing every fellowship in my college's EA branch, all while being the token staunch EA critic**. this strangeness has culminated in my participation in an EA "retreat", which i found rewarding but uniquely exhausting compared to my fellow attendees. there, i witnessed firsthand some of the most cartoonishly-negative stereotypes of EA:
 - multiple regular soylent drinkers
 - people who could feasibly be called climate change deniers
 - militant vegans
 - literally only 2 other women (out of ~15 attendees)- *this became comical because i did not bring shower products, and the default backup provided was one of those memed-on 3 in 1 body wash/shampoo/conditioner things*
 
-i also met some very cool, dedicated, passionate people who reinvigorated my willingness to "do good". the intersection of this group with the aforementioned negative stereotypes was non-zero. **i guess what i'm saying is i feel confident enough now to defend EA's instrumental value to my fellow EA haters.**
+i also met some very cool, dedicated, passionate people who reinvigorated my willingness to "do good". the intersection of this group with the aforementioned negative stereotypes was non-zero. i guess what i'm saying is **i feel confident enough now to defend EA's instrumental value to my fellow EA haters.**
 
 What we get wrong about EA
 -
@@ -39,5 +39,5 @@ What we get wrong about EA
 What we get right about EA
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzEyMDIyMyw5NjA5ODM3NjRdfQ==
+eyJoaXN0b3J5IjpbMjA3NTU5MDU2OCw5NjA5ODM3NjRdfQ==
 -->
