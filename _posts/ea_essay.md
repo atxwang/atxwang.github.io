@@ -29,7 +29,9 @@ aannd pretty soon **i was reading EA/EA-adjacent blogs and doing every fellowshi
 - multiple regular soylent drinkers
 - people who could feasibly be called climate change deniers
 - militant vegans
-- literally only 2 other women (out of ~15 attendees)- *this became comical because i did not bring shower products, and the default backup provided was one of those memed-on 3 in 1 
+- literally only 2 other women (out of ~15 attendees)- *this became comical because i did not bring shower products, and the default backup provided was one of those memed-on 3 in 1 body wash/shampoo/conditioner things*
+
+i also met some very cool, dedicated, passionate people who reinvigorated my willingness to "do good". the inter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTI1NzAwNCw5NjA5ODM3NjRdfQ==
+eyJoaXN0b3J5IjpbNDIyODMyMTM3LDk2MDk4Mzc2NF19
 -->
