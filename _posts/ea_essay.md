@@ -25,7 +25,7 @@ tags: [effective altruism, essay]
 then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), which scratched an itch in my STEM-lord vaguely anticapitalist brain with lines like this:
 > Las Vegas doesn’t exist because of some decision to hedonically optimize civilization, it exists because of a quirk in dopaminergic reward circuits, plus the microstructure of an uneven regulatory environment, plus Schelling points (...) People within the system, following the incentives created by these facts, think: “Let’s build a forty-story-high indoor replica of ancient Rome full of albino tigers in the middle of the desert, and so become slightly richer than people who didn’t!”
 
-aannd pretty soon **i was reading EA/EA-adjacent blogs and doing every fellowship in my college's EA branch, all while playing the role of staunch EA critic**. this strangeness has culminated in my participation in an EA "retreat", which i found rewarding but uniquely exhausting compared to my fellow attendees. 
+aannd pretty soon **i was reading EA/EA-adjacent blogs and doing every fellowship in my college's EA branch, all while playing the role of staunch EA critic**. this strangeness has culminated in my participation in an EA "retreat", which i found rewarding but uniquely exhausting compared to my fellow attendees. there, i witnessed firsthand  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNTk1NzYwLDk2MDk4Mzc2NF19
+eyJoaXN0b3J5IjpbNjY1NDI4NjQ4LDk2MDk4Mzc2NF19
 -->
