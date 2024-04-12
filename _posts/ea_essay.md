@@ -1,7 +1,9 @@
+---
+layout: post
+title: Impact is what you make of it
+tags: [effective altruism, essay]
+---
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTYxNTY5MzQxMV19
 -->
