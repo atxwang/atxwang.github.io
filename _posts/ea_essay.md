@@ -31,7 +31,7 @@ aannd pretty soon **i was reading EA/EA-adjacent blogs and doing every fellowshi
 - militant vegans
 - literally only 2 other women (out of ~15 attendees)- *this became comical because i did not bring shower products, and the default backup provided was one of those memed-on 3 in 1 body wash/shampoo/conditioner things*
 
-i also met some very cool, dedicated, passionate people who reinvigorated my willingness to "do good". the inter
+i also met some very cool, dedicated, passionate people who reinvigorated my willingness to "do good". the intersection of this group with the aforementioned negative stereotypes was non-zero. i guess what i'm saying is i feel confident enough now to defend EA's i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyODMyMTM3LDk2MDk4Mzc2NF19
+eyJoaXN0b3J5IjpbNzI1OTg1MTMsOTYwOTgzNzY0XX0=
 -->
