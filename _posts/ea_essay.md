@@ -4,7 +4,7 @@ title: Impact is what you make of it
 subtitle: EA is indeed a form of effective altruism
 tags: [effective altruism, essay]
 ---
-**i sometimes feel that i have a very unique vantage point on effective altruism**, a movement which has ballooned in notoriety over the past several years (*for some very not good reasons*). as a teenager i was one of *those* really annoying socialists (as opposed to the only moderately annoying socialist i am now). like everyone else, i had first heard of EA through the FTX/Sam Bankman-Fried debacle, a cascade of disasters that i observed with digital popcorn in hand. i saw EA as just another turn to private charity meant to justify the inherent inequalities of capitalism ala Carnegie's *Gospel of Wealth*. i saw the movement as populated by libertarian, race realist weirdos like The Caroline Ellison  Herself, whose unsurprisingly-defunct [Tumblr blog](https://caroline.milkyeggs.com/worldoptimization) is worth a baffledly-amused read. even my cringeworthy teenage poetry consisted of lines like this:
+**i sometimes feel that i have a very unique vantage point on effective altruism**, a movement which has ballooned in notoriety over the past several years (*for some very not good reasons*). as a teenager i was one of *those* really annoying socialists (as opposed to the only moderately annoying socialist i am now). i had first heard of EA through the FTX/Sam Bankman-Fried debacle, a cascade of disasters that i observed with digital popcorn in hand. i saw EA as just another turn to private charity meant to justify the inherent inequalities of capitalism ala Carnegie's *Gospel of Wealth*. i saw the movement as populated by libertarian, race realist weirdos like The Caroline Ellison  Herself, whose unsurprisingly-defunct [Tumblr blog](https://caroline.milkyeggs.com/worldoptimization) is worth a baffledly-amused read. even my cringeworthy teenage poetry consisted of lines like this:
 
 > In your mystic blueprints dreams persist: 
 > Forever-replenishing fountains of youth and health, 
@@ -22,7 +22,7 @@ tags: [effective altruism, essay]
 > Zimbardo’s hypothesis needs a software update: Stanford is a prison, 
 > And you are all trapped inside, still pretending.
 
-then (also like everyone else) i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). 
+then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). *woof*. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczOTkwMDYyXX0=
+eyJoaXN0b3J5IjpbMTQ5Nzk1NTc5M119
 -->
