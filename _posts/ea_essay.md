@@ -22,7 +22,7 @@ tags: [effective altruism, essay]
 > Zimbardo’s hypothesis needs a software update: Stanford is a prison, 
 > And you are all trapped inside, still pretending.
 
-then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). *woof*. 
+then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Nzk1NTc5M119
+eyJoaXN0b3J5IjpbOTYwOTgzNzY0XX0=
 -->
