@@ -4,7 +4,7 @@ title: Impact is what you make of it
 subtitle: EA is indeed a form of effective altruism
 tags: [effective altruism, essay]
 ---
-**i sometimes feel that i have a very unique vantage point on effective altruism**, a movement which has ballooned in notoriety over the past several years (*for some very not good reasons*). as a teenager i was one of *those* really annoying socialists (as opposed to the only moderately annoying socialist i am now). i had first heard of EA through the FTX/Sam Bankman-Fried debacle, a cascade of disasters that i observed with digital popcorn in hand. i saw EA as just another turn to private charity meant to justify the inherent inequalities of capitalism ala Carnegie's *Gospel of Wealth*. i saw the movement as populated by libertarian, race realist weirdos like The Caroline Ellison Herself, whose unsurprisingly-defunct [Tumblr blog](https://caroline.milkyeggs.com/worldoptimization) is worth a baffledly-amused read. even my cringeworthy teenage poetry consisted of lines like this:
+**i sometimes feel that i have a very unique vantage point on effective altruism**, a movement which has ballooned in notoriety over the past several years for some very not good reasons. as a teenager i was one of *those* really annoying socialists (as opposed to the only moderately annoying socialist i am now). i had first heard of EA through the FTX/Sam Bankman-Fried debacle, a cascade of disasters that i observed with digital popcorn in hand. i saw EA as just another turn to private charity meant to justify the inherent inequalities of capitalism ala Carnegie's *Gospel of Wealth*. i saw the movement as populated by libertarian, race realist weirdos like The Caroline Ellison Herself, whose unsurprisingly-defunct [Tumblr blog](https://caroline.milkyeggs.com/worldoptimization) is worth a baffledly-amused read. even my cringeworthy teenage poetry consisted of lines like this:
 
 > In your mystic blueprints dreams persist: 
 > Forever-replenishing fountains of youth and health, 
@@ -39,5 +39,6 @@ What we get wrong about EA
 What we get right about EA
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5MzI0MDg1LDk2MDk4Mzc2NF19
+eyJoaXN0b3J5IjpbLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOT
+gzNzY0XX0=
 -->
