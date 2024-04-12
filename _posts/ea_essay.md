@@ -23,9 +23,9 @@ tags: [effective altruism, essay]
 > And you are all trapped inside, still pretending.
 
 then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), which scratched an itch in my STEM-lord vaguely anticapitalist brain with lines like this:
-> Las Vegas doesn’t exist because of some decision to hedonically optimize civilization, it exists because of a quirk in dopaminergic reward circuits, plus the microstructure of an uneven regulatory environment, plus Schelling points. A rational central planner with a god’s-eye-view, contemplating these facts, might have thought “Hm, dopaminergic reward circuits have a quirk where certain tasks with slightly negative risk-benefit ratios get an emotional valence associated with slightly positive risk-benefit ratios, let’s see if we can educate people to beware of that.” People within the system, following the incentives created by these facts, think: “Let’s build a forty-story-high indoor replica of ancient Rome full of albino tigers in the middle of the desert, and so become slightly richer than people who didn’t!”
+> Las Vegas doesn’t exist because of some decision to hedonically optimize civilization, it exists because of a quirk in dopaminergic reward circuits, plus the microstructure of an uneven regulatory environment, plus Schelling points (...) People within the system, following the incentives created by these facts, think: “Let’s build a forty-story-high indoor replica of ancient Rome full of albino tigers in the middle of the desert, and so become slightly richer than people who didn’t!”
 
-aannd 
+aannd pretty soon i was reading EA/EA-adjacent blogs, doing every fellowship in my college's EA branch, and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAzMzYyOTksOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbLTk5MTU0MDUwLDk2MDk4Mzc2NF19
 -->
