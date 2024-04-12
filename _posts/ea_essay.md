@@ -4,7 +4,7 @@ title: Impact is what you make of it
 subtitle: EA is indeed a form of effective altruism
 tags: [effective altruism, essay]
 ---
-**i sometimes feel that i have a very unique vantage point on effective altruism**, a movement which has ballooned in notoriety over the past several years (*for some very not good reasons*). as a teenager i was one of *those* really annoying socialists (as opposed to the only moderately annoying socialist i am now). i had first heard of EA through the FTX/Sam Bankman-Fried debacle, a cascade of disasters that i observed with digital popcorn in hand. i saw EA as just another turn to private charity meant to justify the inherent inequalities of capitalism ala Carnegie's *Gospel of Wealth*. i saw the movement as populated by libertarian, race realist weirdos like The Caroline Ellison  Herself, whose unsurprisingly-defunct [Tumblr blog](https://caroline.milkyeggs.com/worldoptimization) is worth a baffledly-amused read. even my cringeworthy teenage poetry consisted of lines like this:
+**i sometimes feel that i have a very unique vantage point on effective altruism**, a movement which has ballooned in notoriety over the past several years (*for some very not good reasons*). as a teenager i was one of *those* really annoying socialists (as opposed to the only moderately annoying socialist i am now). i had first heard of EA through the FTX/Sam Bankman-Fried debacle, a cascade of disasters that i observed with digital popcorn in hand. i saw EA as just another turn to private charity meant to justify the inherent inequalities of capitalism ala Carnegie's *Gospel of Wealth*. i saw the movement as populated by libertarian, race realist weirdos like The Caroline Ellison Herself, whose unsurprisingly-defunct [Tumblr blog](https://caroline.milkyeggs.com/worldoptimization) is worth a baffledly-amused read. even my cringeworthy teenage poetry consisted of lines like this:
 
 > In your mystic blueprints dreams persist: 
 > Forever-replenishing fountains of youth and health, 
@@ -22,7 +22,9 @@ tags: [effective altruism, essay]
 > Zimbardo’s hypothesis needs a software update: Stanford is a prison, 
 > And you are all trapped inside, still pretending.
 
-then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). 
+then i read Scott Alexander's ["Meditations on Moloch"](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), which scratched an itch in my STEM-lord vaguely anticapitalist brain with lines like this:
+
+> Las Vegas doesn’t exist because of some decision to hedonically optimize civilization, it exists because of a quirk in [dopaminergic reward circuits](http://journal.frontiersin.org/Journal/10.3389/fnbeh.2013.00206/full), plus the microstructure of an uneven regulatory environment, plus Schelling points. A rational central planner with a god’s-eye-view, contemplating these facts, might have thought “Hm, dopaminergic reward circuits have a quirk where certain tasks with slightly negative risk-benefit ratios get an emotional valence associated with slightly positive risk-benefit ratios, let’s see if we can educate people to beware of that.” People within the system, _following the incentives created by these facts_, think: “Let’s build a forty-story-high indoor replica of ancient Rome full of albino tigers in the middle of the desert, and so become slightly richer than people who didn’t!”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbLTY1MDA3ODIxNyw5NjA5ODM3NjRdfQ==
 -->
