@@ -8,7 +8,7 @@ tags: [effective altruism, essay]
 
 yet i continue to find myself reading EA blogs, doing EA fellowships, and participating in EA causes. i recently attended an EA "retreat", which i found rewarding, although exhausting---EA people are usually stubborn and single minded, very often autistic or somehow socially off-putting to most of the population. there's certainly truth to the idea that EA has somewhat of a r/iamverysmart superiority complex and a harmful fixation on quantifying moral realities. of course, many EAs care little for political action, relying on the inherently fallible system of private charity as a primary means to "do good". in some ways, the attendees of the retreat (myself included) represented these impulses, but they were also highly curious and passionate people whose dedication to the movement stemmed from rarely high levels of genuine empathy. i feel that these characteristics, representive of every EA i've personally met, are rarely mentioned in non EAs' critiques.
 
-my post here is intended to reconcile these perspectives: i argue that **although (of course) EA is a flawed movement and in many ways a flawed ideology, there is a specific type of person whose greatest potential benefit to society is unleashed through EA**---hence, EA's instrumental value is hugely underrated by non EAs. rather than 
+my post here is intended to reconcile these perspectives: i argue that **although (of course) EA is a flawed movement and in many ways a flawed ideology, there is a specific type of person whose greatest potential benefit to society is unleashed through EA**---hence, EA's instrumental value is hugely underrated by non EAs. by sharing aspects of EA i believe to be underdiscussed outside the movement, 
 
 **What do we do with STEM majors?**
 -
@@ -27,6 +27,6 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTIxOTA1MCwyMDg1MDMzNzIxLC04NT
+eyJoaXN0b3J5IjpbLTk3NDY0NTEyNywyMDg1MDMzNzIxLC04NT
 E4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2NF19
 -->
