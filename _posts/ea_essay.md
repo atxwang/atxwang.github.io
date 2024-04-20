@@ -14,12 +14,12 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 -
 
 
-**80,000 hours and **
+**80,000 hours and altruistic**
 - 
 **Veganism**
 -
 
-**Longtermism actually matters a lot**
+**Longtermism actually matters**
 - 
 
 
@@ -28,6 +28,6 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNjkxMDYxLDIwODUwMzM3MjEsLTg1MT
-g1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbLTIwMzg5NTc0MDksMjA4NTAzMzcyMSwtOD
+UxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRdfQ==
 -->
