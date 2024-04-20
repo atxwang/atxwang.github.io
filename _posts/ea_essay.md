@@ -8,7 +8,7 @@ tags: [effective altruism, essay]
 
 yet i continue to find myself reading EA blogs, doing EA fellowships, and participating in EA causes. i recently attended an EA "retreat", which i found rewarding, although exhausting---EA people are usually stubborn and single minded, very often autistic or somehow socially off-putting to most of the population. there's certainly truth to the idea that EA has somewhat of a r/iamverysmart superiority complex and a harmful fixation on quantifying moral realities. of course, many EAs care little for political action, relying on the inherently fallible system of private charity as a primary means to "do good". in some ways, the attendees of the retreat (myself included) represented these impulses, but they were also highly curious and passionate people whose dedication to the movement stemmed from rarely high levels of genuine empathy. i feel that these characteristics, representive of every EA i've personally met, are rarely mentioned in non EAs' critiques.
 
-my post here is intended to reconcile these perspectives: 
+my post here is intended to reconcile these perspectives: i argue that although (of course) EA is a flawed movement and in many ways a flawed ideology, there is a specific type of person whose greatest potential benefit to society 
 
 **What do we do with STEM majors?**
 -
@@ -27,6 +27,6 @@ my post here is intended to reconcile these perspectives:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU2MzYxNzYsMjA4NTAzMzcyMSwtOD
+eyJoaXN0b3J5IjpbLTE5NDU1NjE3MDcsMjA4NTAzMzcyMSwtOD
 UxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRdfQ==
 -->
