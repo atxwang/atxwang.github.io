@@ -20,7 +20,7 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 
 given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel immature to well-read humanist outsiders. EA is founded on impartial utilitarianism, statistics, weighing expected values---the same factors drawing its adherents are what makes it seem [cold, ghoulishly detached](https://thespinoff.co.nz/politics/08-04-2019/in-search-of-a-way-to-do-good-that-amounts-to-more-than-feeling-good), [neoliberal](https://jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism).
 
-everyone agrees that a plurality of society's smartest young people should not be striving for lives as consultants or weapons engineers, and until something better comes along (ie. a tota
+everyone agrees that a plurality of society's smartest young people should not be striving for lives as consultants or weapons engineers, and until something better comes along (ie. a total restructuring of higher education), EA seems like the best way to achieve that.
 
 **EA at its best is altruistic networking**
 -
@@ -38,7 +38,7 @@ everyone agrees that a plurality of society's smartest young people should not b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY4ODYxMTMsLTQ4NjA1MjA3MiwtMz
-Y5NDQ2ODUwLDIwODUwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQw
-ODUsOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbLTMwMTA4ODU0NiwtNDg2MDUyMDcyLC0zNj
+k0NDY4NTAsMjA4NTAzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4
+NSw5NjA5ODM3NjRdfQ==
 -->
