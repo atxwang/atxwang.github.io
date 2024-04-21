@@ -18,7 +18,7 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 2) lack and are not given a humanities foundation, which (hot take) teaches important things like ethics, moral philosophy, historical contextualization for current society, etc.
 3) think far more quantitatively than qualitatively.
 
-
+given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel 
 
 i think this is very bad---we shouldn't want a plurality of society's smartest young people to be striving for lives as consultants or weapons engineers.
 
@@ -36,7 +36,7 @@ i think this is very bad---we shouldn't want a plurality of society's smartest y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjM3NDIyLC0zNjk0NDY4NTAsMjA4NT
+eyJoaXN0b3J5IjpbODU1NzY1NTY2LC0zNjk0NDY4NTAsMjA4NT
 AzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRd
 fQ==
 -->
