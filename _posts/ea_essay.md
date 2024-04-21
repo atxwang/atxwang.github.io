@@ -29,7 +29,7 @@ a common criticism of EA is its status as a ["shell game"](https://freddiedeboer
 **Veganism--- "ethical consumption"**
 -
 
-**Longtermism actually matters**
+**Longtermism actually does matter**
 -
 **A note on EA philosophers**
 -
@@ -41,7 +41,7 @@ a common criticism of EA is its status as a ["shell game"](https://freddiedeboer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjM2Mzg0OSw0MDg1NjM5MTQsODcwMD
-I2MDg0LC00ODYwNTIwNzIsLTM2OTQ0Njg1MCwyMDg1MDMzNzIx
-LC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2NF19
+eyJoaXN0b3J5IjpbLTEwMTExMTQwNDksNDA4NTYzOTE0LDg3MD
+AyNjA4NCwtNDg2MDUyMDcyLC0zNjk0NDY4NTAsMjA4NTAzMzcy
+MSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRdfQ==
 -->
