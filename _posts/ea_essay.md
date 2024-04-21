@@ -12,11 +12,11 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 **What do we do with STEM majors?**
 -
-
+everyone and their mom has been decrying the death of the humanities 
 
 **80,000 hours and altruistic**
 - 
-**Veganism**
+**Veganism and "ethical consumption"**
 -
 
 **Longtermism actually matters**
@@ -28,7 +28,7 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MzgxMTM4LC0zNjk0NDY4NTAsMjA4NT
-AzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRd
-fQ==
+eyJoaXN0b3J5IjpbLTk0NDMzMTgzNCwtMzY5NDQ2ODUwLDIwOD
+UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
+XX0=
 -->
