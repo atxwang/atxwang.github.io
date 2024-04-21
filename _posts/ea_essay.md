@@ -24,7 +24,7 @@ everyone agrees that a plurality of society's smartest young people should not b
 
 **EA at its best is altruistic networking**
 -
-a common criticism of EA is its status as a ["shell game"](https://freddiedeboer.substack.com/p/the-effective-altruism-shell-game)---EA is a vacuous rebranding of utilitari
+a common criticism of EA is its status as a ["shell game"](https://freddiedeboer.substack.com/p/the-effective-altruism-shell-game)---EA is a vacuous rebranding of utilitarianism, and thus has nothing new to offer but fanciful nerd debates. 
 
 **Veganism--- "ethical consumption"**
 -
@@ -41,7 +41,7 @@ a common criticism of EA is its status as a ["shell game"](https://freddiedeboer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI3NDc4MCw0MDg1NjM5MTQsODcwMD
+eyJoaXN0b3J5IjpbMTUzMjM2Mzg0OSw0MDg1NjM5MTQsODcwMD
 I2MDg0LC00ODYwNTIwNzIsLTM2OTQ0Njg1MCwyMDg1MDMzNzIx
 LC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2NF19
 -->
