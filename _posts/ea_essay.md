@@ -18,7 +18,7 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 2) lack and are not given a humanities foundation, which (hot take) teaches important things like ethics, moral philosophy, historical contextualization for current society, etc.
 3) think far more quantitatively than qualitatively.
 
-given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel immature to well-read humanist outsiders. EA is founded on impartial utilitarianism, statistics, weighing expected values---the same factors drawing its adherents are what makes it seem [cold, ghoulishly detached](https://thespinoff.co.nz/politics/08-04-2019/in-search-of-a-way-to-do-good-that-amounts-to-more-than-feeling-good), [neoliberal](https://jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism). these are of course valid criticisms, but the non-EA should remember that not everyone---especially not the types of STEM majors i'm describing---wants to dedicate themselves to principled socialist activism or high-level discussion of the categorical imperative. rather, they want high salaries and tractable data---significantly more achievable under an EA-lens. pushing such people away from their innate conceptions of the world will only make them want to do altruism less---the bar is on the floor/s.
+given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel immature to well-read humanist outsiders. EA is founded on impartial utilitarianism, statistics, weighing expected values---the same factors drawing its adherents are what makes it seem [cold, ghoulishly detached](https://thespinoff.co.nz/politics/08-04-2019/in-search-of-a-way-to-do-good-that-amounts-to-more-than-feeling-good), [neoliberal](https://jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism). these are of course valid criticisms, but the non-EA should remember that not everyone---especially not the types of STEM majors i'm describing---wants to dedicate themselves to principled socialist activism or high-level discussion of the categorical imperative. rather, they want high salaries and tractable data---significantly more achievable under an EA-lens. pushing such people away from their innate conceptions of the world will only make them want to do altruism less---the bar is on the floor /hj.
 
 everyone agrees that a plurality of society's smartest young people should not be striving for lives as consultants or weapons engineers, and until something better comes along (ie. a total restructuring of higher education), EA seems like the best way to achieve that.
 
@@ -41,7 +41,7 @@ everyone agrees that a plurality of society's smartest young people should not b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQzMTA0NzMsLTQ4NjA1MjA3MiwtMz
-Y5NDQ2ODUwLDIwODUwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQw
-ODUsOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbODcwMDI2MDg0LC00ODYwNTIwNzIsLTM2OT
+Q0Njg1MCwyMDg1MDMzNzIxLC04NTE4NTE4NTIsMjc5MzI0MDg1
+LDk2MDk4Mzc2NF19
 -->
