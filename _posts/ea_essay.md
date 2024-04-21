@@ -14,11 +14,11 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 -
 everyone has been decrying the death of the humanities since the 80s, and that in itself is an essay post all on its own. the point is that as a result of this decline of humanistic thinking on every level of schooling, more and more very smart people funneled into elite institutions---universities, companies, etc.---
 
-1) enter university (or even high school!!) with the specific goal of breaking into prestigious, lucrative money-moving careers (ie. quant, IB) that don't do much but passiv
-2) 
+1) enter university (or even high school!!) with the specific goal of breaking into prestigious, lucrative money-moving careers (ie. quant, IB) that don't do much but passively harm the world
+2) lack and are not given 
 
-**80,000 hours and altruistic**
-- 
+**80,000 hours and altruistic c**
+
 **Veganism and "ethical consumption"**
 -
 
@@ -31,7 +31,7 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTU5NzU4OCwtMzY5NDQ2ODUwLDIwOD
-UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
-XX0=
+eyJoaXN0b3J5IjpbLTIwMTgwMzQ1NzksLTM2OTQ0Njg1MCwyMD
+g1MDMzNzIxLC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2
+NF19
 -->
