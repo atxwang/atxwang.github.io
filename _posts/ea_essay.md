@@ -12,7 +12,10 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 **What do we do with STEM majors?**
 -
-everyone and their mom has been decrying the death of the humanities since the 80s, and that in itself is an essay post all on its own. the point is that as a result of the decline of humanistic thinking on every level of schooling, more and more people funneled into elite institutions---universities, companies, etc.---
+everyone has been decrying the death of the humanities since the 80s, and that in itself is an essay post all on its own. the point is that as a result of this decline of humanistic thinking on every level of schooling, more and more people funneled into elite institutions---universities, companies, etc.---
+
+1) enter university (or even high school!!) 
+2) 
 
 **80,000 hours and altruistic**
 - 
@@ -28,7 +31,7 @@ everyone and their mom has been decrying the death of the humanities since the 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDM1MDU0NSwtMzY5NDQ2ODUwLDIwOD
+eyJoaXN0b3J5IjpbLTk1OTgzMTQ3NywtMzY5NDQ2ODUwLDIwOD
 UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
 XX0=
 -->
