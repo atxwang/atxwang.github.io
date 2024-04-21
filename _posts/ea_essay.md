@@ -12,7 +12,7 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 **What do we do with STEM majors?**
 -
-everyone and their mom has been decrying the death of the humanities 
+everyone and their mom has been decrying the death of the humanities since the 80s and that in its
 
 **80,000 hours and altruistic**
 - 
@@ -28,7 +28,7 @@ everyone and their mom has been decrying the death of the humanities
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDMzMTgzNCwtMzY5NDQ2ODUwLDIwOD
+eyJoaXN0b3J5IjpbMTExNTM4NjYxMywtMzY5NDQ2ODUwLDIwOD
 UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
 XX0=
 -->
