@@ -12,12 +12,12 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 **What do we do with STEM majors?**
 -
-everyone has been decrying the death of the humanities since the 80s, and that in itself is an essay post all on its own. the point is that as a result of this decline of humanistic thinking on every level of schooling, more and more very smart people funneled into elite institutions---universities, companies, etc.---
+everyone has been decrying the death of the humanities since the 80s, and that in itself is an essay post all on its own. the point is that as a result of this decline of humanistic thinking on every level of schooling, more and more people funneled into elite institutions---universities, companies, etc.---
 
 1) enter university (or even high school!!) with the specific goal of breaking into prestigious, lucrative money-moving careers (ie. quant, IB) that don't do much but passively harm the world
 2) lack and are not given a humanities foundation, which (hot take) teaches important things like ethics, moral philosophy, historical contextualization for current society, etc.
 
-given this, 
+i think this is very bad---we shouldn't want a plura
 
 **80,000 hours and altruistic career options**
 
@@ -33,7 +33,7 @@ given this,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDM1NTQyMiwtMzY5NDQ2ODUwLDIwOD
-UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
-XX0=
+eyJoaXN0b3J5IjpbNDcyNjM2NjIwLC0zNjk0NDY4NTAsMjA4NT
+AzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRd
+fQ==
 -->
