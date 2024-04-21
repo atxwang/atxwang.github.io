@@ -18,13 +18,13 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 2) lack and are not given a humanities foundation, which (hot take) teaches important things like ethics, moral philosophy, historical contextualization for current society, etc.
 3) think far more quantitatively than qualitatively.
 
-given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel immature to well-read humanist outsiders. EA is founded on impartial utilitarianism, statistics, coldly weighing expected values---the same factors drawing its adherents 
+given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel immature to well-read humanist outsiders. EA is founded on impartial utilitarianism, statistics, weighing expected values---the same factors drawing its adherents are what 
 
 i think this is very bad---we shouldn't want a plurality of society's smartest young people to be striving for lives as consultants or weapons engineers.
 
-**80,000 hours and altruistic career options**
+**EA at its best is altruistic networking**
 -
-
+"shell game"
 
 **Veganism--- "ethical consumption"**
 -
@@ -38,7 +38,7 @@ i think this is very bad---we shouldn't want a plurality of society's smartest y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDgyMzk2MzYsLTM2OTQ0Njg1MCwyMD
-g1MDMzNzIxLC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2
-NF19
+eyJoaXN0b3J5IjpbLTQ4NjA1MjA3MiwtMzY5NDQ2ODUwLDIwOD
+UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
+XX0=
 -->
