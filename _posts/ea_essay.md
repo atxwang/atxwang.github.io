@@ -30,7 +30,10 @@ everyone agrees that a plurality of society's smartest young people should not b
 -
 
 **Longtermism actually matters**
-- 
+-
+**A note on EA philosophers**
+-
+
 
 
 
@@ -38,7 +41,7 @@ everyone agrees that a plurality of society's smartest young people should not b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY0OTY5NDksLTQ4NjA1MjA3MiwtMz
-Y5NDQ2ODUwLDIwODUwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQw
-ODUsOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbMTIxNzc3ODQzNCwtNDg2MDUyMDcyLC0zNj
+k0NDY4NTAsMjA4NTAzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4
+NSw5NjA5ODM3NjRdfQ==
 -->
