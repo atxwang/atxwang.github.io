@@ -17,9 +17,9 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 1) enter university (or even high school!!) with the specific goal of breaking into prestigious, lucrative money-moving careers (ie. quant, IB) that don't do much but passively harm the world
 2) lack and are not given 
 
-**80,000 hours and altruistic c**
+**80,000 hours and altruistic career options**
 
-**Veganism and "ethical consumption"**
+**Veganism--- "ethical consumption"**
 -
 
 **Longtermism actually matters**
@@ -31,7 +31,7 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTgwMzQ1NzksLTM2OTQ0Njg1MCwyMD
-g1MDMzNzIxLC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2
-NF19
+eyJoaXN0b3J5IjpbLTYxOTk4NTc2MCwtMzY5NDQ2ODUwLDIwOD
+UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
+XX0=
 -->
