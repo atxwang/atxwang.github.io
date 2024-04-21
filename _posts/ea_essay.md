@@ -16,8 +16,9 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 
 1) enter university (or even high school!!) with the specific goal of breaking into prestigious, lucrative money-moving careers (ie. quant, IB) that don't do much but passively harm the world
 2) lack and are not given a humanities foundation, which (hot take) teaches important things like ethics, moral philosophy, historical contextualization for current society, etc.
+3) 
 
-i think this is very bad---we shouldn't want a plurality of society's smartest young people to be striving for lives as consultants or weapons enginers. 
+i think this is very bad---we shouldn't want a plurality of society's smartest young people to be striving for lives as consultants or weapons engineers.
 
 **80,000 hours and altruistic career options**
 
@@ -33,7 +34,7 @@ i think this is very bad---we shouldn't want a plurality of society's smartest y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2ODEwMjA0LC0zNjk0NDY4NTAsMjA4NT
-AzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRd
-fQ==
+eyJoaXN0b3J5IjpbLTgyNTEyNzE1MywtMzY5NDQ2ODUwLDIwOD
+UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
+XX0=
 -->
