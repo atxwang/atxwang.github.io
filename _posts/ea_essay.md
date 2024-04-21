@@ -8,7 +8,7 @@ tags: [effective altruism, essay]
 
 yet i continue to find myself reading EA blogs, doing EA fellowships, and participating in EA causes. i recently attended an EA "retreat", which i found rewarding, although exhausting---EA people are usually stubborn and single minded, very often autistic/neurodivergent, or somehow socially off-putting to most of the population. there's certainly truth to the idea that EA has somewhat of a r/iamverysmart superiority complex and a harmful fixation on quantifying moral realities. of course, many (but not most!) EAs care little for political action, relying on the inherently fallible system of private charity as a primary means to "do good". in some ways, the attendees of the retreat (myself included) represented these impulses, but they were also highly curious and passionate people whose dedication to the movement stemmed from rarely high levels of genuine empathy. i feel that these characteristics, representative of every EA i've personally met, are rarely mentioned in non EAs' critiques.
 
-my post here is intended to reconcile these perspectives: i argue that **although EA is a flawed movement and in many ways a flawed ideology, there is a significant number o whose greatest potential benefit to society is unleashed through EA**---hence, EA's instrumental value is hugely underrated by non EAs. by sharing aspects of EA i believe to be underdiscussed outside the movement, i hope to provide both EAs and non EAs a better idea of how best to move forward.
+my post here is intended to reconcile these perspectives: i argue that **although EA is a flawed movement and in many ways a flawed ideology, there is a significant number of people whose greatest potential benefits to society are unleashed through EA**---hence, EA's instrumental value is hugely underrated by non EAs. by sharing aspects of EA i believe to be underdiscussed outside the movement, i hope to provide both EAs and non EAs a better idea of how best to move forward with their altruism---"effective" or not.
 
 **What do we do with STEM majors?**
 -
@@ -28,7 +28,7 @@ my post here is intended to reconcile these perspectives: i argue that **althoug
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA0NjUyODksLTM2OTQ0Njg1MCwyMD
-g1MDMzNzIxLC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2
-NF19
+eyJoaXN0b3J5IjpbMjE2MzgxMTM4LC0zNjk0NDY4NTAsMjA4NT
+AzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRd
+fQ==
 -->
