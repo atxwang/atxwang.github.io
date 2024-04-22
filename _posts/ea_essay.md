@@ -26,7 +26,7 @@ everyone agrees that a plurality of society's smartest young people should not b
 -
 a common criticism of EA is its status as a ["shell game"](https://freddiedeboer.substack.com/p/the-effective-altruism-shell-game)---EA is a vacuous rebranding of utilitarianism, and thus has nothing new to offer but fanciful nerd debates. i won't pretend that this isn't a large portion of EA's novelty, but i think an important refutation to this criticism is EA's emphasis on effective careers and mentorship/resources.
 
-the primary example of this would be the non-profit 80,000 hours, which (afaik) has no real analogue in other movements. you can criticize 80k for many things, but there's no denying that it's [redirected countless people to dedicate their careers towards altruism](https://80000hours.org/about/impact/). i think many people are fundamentally put off by the premise of making life decisions primarily based on coldly quantified measures of "impact", rather than love or passion, which, hey---fair enough. but for the people willing to sign up for 80k consulting---many considering jobs already motivated far more by salary than love or impact---this type of guidance is really useful. i will take 
+the primary example of this would be the non-profit 80,000 hours, which (afaik) has no real analogue in other movements. you can criticize 80k for many things, but there's no denying that it's [redirected countless people to dedicate their careers towards altruism](https://80000hours.org/about/impact/). i think many people are fundamentally put off by the premise of making life decisions primarily based on coldly quantified measures of "impact", rather than love or passion, which, hey---fair enough. but for the people willing to sign up for 80k consulting---many considering jobs already motivated far more by salary than love or impact---this type of guidance is really useful. personally, i would take one earn-to-giver or AI polic
 
 even beyond organized efforts like 80k, i think 
 
@@ -45,9 +45,9 @@ even beyond organized efforts like 80k, i think
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1NTY2MzQzLC02OTcxNTA2MzIsMTY5Nj
-YyMDI0NiwtNTQ1MzY2NTY4LC0xMDExMTE0MDQ5LDQwODU2Mzkx
-NCw4NzAwMjYwODQsLTQ4NjA1MjA3MiwtMzY5NDQ2ODUwLDIwOD
-UwMzM3MjEsLTg1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0
-XX0=
+eyJoaXN0b3J5IjpbLTEyNzkxODI1NTUsLTY5NzE1MDYzMiwxNj
+k2NjIwMjQ2LC01NDUzNjY1NjgsLTEwMTExMTQwNDksNDA4NTYz
+OTE0LDg3MDAyNjA4NCwtNDg2MDUyMDcyLC0zNjk0NDY4NTAsMj
+A4NTAzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3
+NjRdfQ==
 -->
