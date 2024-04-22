@@ -26,7 +26,7 @@ everyone agrees that a plurality of society's smartest young people should not b
 -
 a common criticism of EA is its status as a ["shell game"](https://freddiedeboer.substack.com/p/the-effective-altruism-shell-game)---EA is a vacuous rebranding of utilitarianism, and thus has nothing new to offer but fanciful nerd debates. i won't pretend that this isn't a large portion of EA's novelty, but i think an important refutation to this criticism is EA's emphasis on effective careers and mentorship/resources.
 
-the primary example of this would be the non-profit 80,000 hours, which (afaik) has no real analogue in other movements. 
+the primary example of this would be the non-profit 80,000 hours, which (afaik) has no real analogue in other movements. there are certainly flaws to 80k's approach, like the emphasis on earn to give (
 
 **Veganism--- "ethical consumption"**
 -
@@ -43,8 +43,8 @@ the primary example of this would be the non-profit 80,000 hours, which (afaik) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI5MDYyNjYsMTY5NjYyMDI0NiwtNT
-Q1MzY2NTY4LC0xMDExMTE0MDQ5LDQwODU2MzkxNCw4NzAwMjYw
-ODQsLTQ4NjA1MjA3MiwtMzY5NDQ2ODUwLDIwODUwMzM3MjEsLT
-g1MTg1MTg1MiwyNzkzMjQwODUsOTYwOTgzNzY0XX0=
+eyJoaXN0b3J5IjpbLTMxMTU0OTEwMywxNjk2NjIwMjQ2LC01ND
+UzNjY1NjgsLTEwMTExMTQwNDksNDA4NTYzOTE0LDg3MDAyNjA4
+NCwtNDg2MDUyMDcyLC0zNjk0NDY4NTAsMjA4NTAzMzcyMSwtOD
+UxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3NjRdfQ==
 -->
