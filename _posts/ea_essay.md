@@ -28,7 +28,7 @@ a common criticism of EA is its status as a ["shell game"](https://freddiedeboer
 
 the primary example of this would be the non-profit 80,000 hours, which (afaik) has no real analogue in other movements. you can criticize 80k for many things, but there's no denying that it's [redirected countless people to dedicate their careers towards altruism](https://80000hours.org/about/impact/). i think many people are fundamentally put off by the premise of making life decisions primarily based on coldly quantified measures of "impact", rather than love or passion, which, hey---fair enough. but for the people willing to sign up for 80k consulting---many considering jobs already motivated far more by salary than love or impact---this type of guidance is really useful. personally, i would take one earn-to-giver or AI alignment researcher over any number of finance bros or web developers.
 
-even beyond organized efforts like 80k, i think EA as a conglomerate offers quite a lot of value in mentorship, learning resources, networking, etc. if you're considering a career in say, biorisk, 
+even beyond organized efforts like 80k, i think EA as a conglomerate offers quite a lot of value in mentorship, learning resources, networking, etc. if you're considering a career in say, biorisk or emerging technology, all you have to do is put it out there and some EA in that field will have a comprehensive collection of resources and connections to share 
 
 **Veganism--- "ethical consumption"**
 -
@@ -45,7 +45,7 @@ even beyond organized efforts like 80k, i think EA as a conglomerate offers quit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDQ4NTczNSwtNjk3MTUwNjMyLDE2OT
+eyJoaXN0b3J5IjpbLTMyMjM2MjM3MCwtNjk3MTUwNjMyLDE2OT
 Y2MjAyNDYsLTU0NTM2NjU2OCwtMTAxMTExNDA0OSw0MDg1NjM5
 MTQsODcwMDI2MDg0LC00ODYwNTIwNzIsLTM2OTQ0Njg1MCwyMD
 g1MDMzNzIxLC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2
