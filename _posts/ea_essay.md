@@ -28,7 +28,7 @@ a common criticism of EA is its status as a ["shell game"](https://freddiedeboer
 
 the primary example of this would be the non-profit 80,000 hours, which (afaik) has no real analogue in other movements. you can criticize 80k for many things, but there's no denying that it's [redirected countless people to dedicate their careers towards altruism](https://80000hours.org/about/impact/). i think many people are fundamentally put off by the premise of making life decisions primarily based on coldly quantified measures of "impact", rather than love or passion, which, hey---fair enough. but for the people willing to sign up for 80k consulting---many considering jobs already motivated far more by salary than love or impact---this type of guidance is really useful. personally, i would take one earn-to-giver or AI alignment researcher over any number of disposable finance bros or web developers.
 
-even beyond not-for-everyone organized efforts like 80k, i think EA as a conglomerate offers quite a lot of value in mentorship, learning resources, networking, etc. if you're considering a career in say, biorisk or emerging technology, all you have to do is put yourself out there and multiple EAs in that field will have a comprehensive collection of adjacent resources and connections to share to you. maybe this kind of thing doesn't need the "effective altruism" label, but i'm honestly unsure if it would exist in the capacity it does without the big tent EA movement behind it.
+even beyond organized efforts like 80k, which can be rather polarizing, i think EA as a conglomerate offers quite a lot of value in mentorship, learning resources, networking, etc. if you're considering a career in say, biorisk or emerging technology, all you have to do is put yourself out there and multiple EAs in that field will have a comprehensive collection of adjacent resources and connections to share to you. maybe this kind of thing doesn't need the "effective altruism" label, but i'm honestly unsure if it would exist in the capacity it does without the big tent EA movement behind it.
 
 **Veganism--- "ethical consumption"**
 -
@@ -45,7 +45,7 @@ even beyond not-for-everyone organized efforts like 80k, i think EA as a conglom
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgwMzY5MzIsLTY5NzE1MDYzMiwxNj
+eyJoaXN0b3J5IjpbLTE5ODM5OTU5MzIsLTY5NzE1MDYzMiwxNj
 k2NjIwMjQ2LC01NDUzNjY1NjgsLTEwMTExMTQwNDksNDA4NTYz
 OTE0LDg3MDAyNjA4NCwtNDg2MDUyMDcyLC0zNjk0NDY4NTAsMj
 A4NTAzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3
