@@ -33,6 +33,7 @@ even beyond organized efforts like 80k, which can be rather polarizing, i think 
 **Veganism--- "ethical consumption"**
 -
 
+
 **Longtermism actually does matter**
 -
 **A word on EA philosophers**
@@ -45,9 +46,9 @@ even beyond organized efforts like 80k, which can be rather polarizing, i think 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM5OTU5MzIsLTY5NzE1MDYzMiwxNj
-k2NjIwMjQ2LC01NDUzNjY1NjgsLTEwMTExMTQwNDksNDA4NTYz
-OTE0LDg3MDAyNjA4NCwtNDg2MDUyMDcyLC0zNjk0NDY4NTAsMj
-A4NTAzMzcyMSwtODUxODUxODUyLDI3OTMyNDA4NSw5NjA5ODM3
-NjRdfQ==
+eyJoaXN0b3J5IjpbLTg5MDI3MTYyNiwtNjk3MTUwNjMyLDE2OT
+Y2MjAyNDYsLTU0NTM2NjU2OCwtMTAxMTExNDA0OSw0MDg1NjM5
+MTQsODcwMDI2MDg0LC00ODYwNTIwNzIsLTM2OTQ0Njg1MCwyMD
+g1MDMzNzIxLC04NTE4NTE4NTIsMjc5MzI0MDg1LDk2MDk4Mzc2
+NF19
 -->
