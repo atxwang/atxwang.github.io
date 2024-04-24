@@ -7,7 +7,7 @@ title: my recs
 
 my current seasonal playlist: [spring 2024](https://open.spotify.com/playlist/0OFtDN3NGdug377KSPLSDr?si=dcefb2cf505b47a9)
 
-what's next: more Jane Remover, Sun Kil Moon, Neil Young
+what's next: more Jane Remover, Sun Kil Moon, Neil Young, COLD VISIONS
 
 my all times: The Smiths, Sufjan Stevens, Bladee
 
