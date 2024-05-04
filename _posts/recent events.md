@@ -21,7 +21,8 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
-
+"Remember the stranger among you, for you were strangers in the land of Egypt"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbMTEzNjE1NDc2LDI3MTUwNzI2NCwxNDExMT
+czOTUzXX0=
 -->
