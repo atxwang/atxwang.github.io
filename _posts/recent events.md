@@ -20,7 +20,7 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
-i didn't want this to be my first post. i had a well-argued essay on effective altruism in the backburner. i was writing a reflection about crime and empathy, another post on a funny find at a hole-in-the-wall chicago ethnic museum.
+i didn't want this to be my first post. i had a well-argued essay on effective altruism in the backburner. i was writing a reflection about crime and empathy, another post on a funny find at a hole-in-the-wall chicago ethnic museum. 
 
 i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months. angry unformed thoughts coalesce. 
 
@@ -76,7 +76,7 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY5NDQ1NzcsMTI0OTYxMDcwMyw4Nz
+eyJoaXN0b3J5IjpbLTE1NjUwMDIwNzEsMTI0OTYxMDcwMyw4Nz
 QxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAs
 LTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MD
 cyNjQsMTQxMTE3Mzk1M119
