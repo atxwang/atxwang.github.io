@@ -9,7 +9,7 @@ tags: [rant, politics]
 
 be swift resolute proud let immovable strides carry you
 past poppy fields past fig trees past clear skies where in lieu of soaring kites there is terrifying rain
-past border walls past stones and slings past the cages in which human animals are detained
+past border walls past stones and slingshots past the cages wherein human animals are detained
 
 past gilded gates guarding them from a child, that terrible paradox,
 
@@ -23,5 +23,5 @@ and as you stride the ones who stay trip on bones jutting out from the soil---
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzQ4ODgsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbLTU4NTU4NTgxNCwxNDExMTczOTUzXX0=
 -->
