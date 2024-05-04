@@ -50,7 +50,9 @@ There but for fortune, go you or go I -- you and I."
 > "Better one single holocaust on our conscience than the unlimited ethical demand to protect the life and wellbeing of every fruit fly on the planet. Better that than having to think about every conscious being who ended up smeared into a dot of brown paste across the palm of your hand."
 
 --Sam Kriss, [Bread, figs, phosphorous](https://samkriss.substack.com/p/bread-figs-phosphorus), an elegy for the former "intellectual centre of the world"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk0MTczOTYsMjc3MzE0OTg5LDExNT
+eyJoaXN0b3J5IjpbLTEyNzEyMzI4NTYsMjc3MzE0OTg5LDExNT
 k0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
 -->
