@@ -24,7 +24,7 @@ i didn't want this to be my first post. i had a well-argued essay on effective a
 
 i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months. angry unformed thoughts coalesce. 
 
-everyone believes they are 
+everyone believes they are empathetic, altruistic on some fundamental level. yet statistics 
 
 ---
 **selected quotes**
@@ -78,8 +78,8 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDE0MDY2NSwxMjQ5NjEwNzAzLDg3ND
-E5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MDk3LDExNzU5ODkwMCwt
-NDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNz
-I2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbNDEwODA0MzkyLDEyNDk2MTA3MDMsODc0MT
+kzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00
+NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3Mj
+Y0LDE0MTExNzM5NTNdfQ==
 -->
