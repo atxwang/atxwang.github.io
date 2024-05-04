@@ -54,13 +54,14 @@ There but for fortune, go you or go I -- you and I."
 > "Anyone who gave the slightest hint of getting excited or anxious was tossed to the ground and handcuffed there—I saw four or five students doing civil disobedience thrown to the ground, and I've seen videos on social media of other students arrested that way...
 > "Public higher education has been increasingly corporatized for decades. There are those who think that it is more about parochial education to prepare students to be in the workforce than it is about the intellectual development of wonderful people to be part of our society."
 
--- [an interview with Josh Dubnau](https://hellgatenyc.com/state-troopers-stony-brook-university-protester-crackdown), SBU professor arrested in recent protests, on censorship in higher education and police brutality against civil disobedience
+-- [an interview with Josh Dubnau](https://hellgatenyc.com/state-troopers-stony-brook-university-protester-crackdown), S professor arrested in recent protests, on censorship in higher education and police brutality against civil disobedience
 
 > "When you shoot an arrow at a target, first it goes halfway, then three fourths of the way, the seven eighths, etc. and because there is infinite distance between zero and one, it’s strange that the arrow ever hits the target. I’m saying there that McWhorter is doing a similar exercise for moral commitment, there will always be some moral ambiguity or complexity between him and the condemnation of Israel, and so the arrow never has to hit the target."
 
 -- [The Protest Derangement Class: A Response to John McWhorter](https://www.youtube.com/watch?v=CmY8NsWxf38)
 
-
+> "Nor is it acceptable to argue that slogans such as “from the river to the sea” imply violence. After all, the same language is in the founding charter of Israel’s ruling Likud party, whose express policy is that Palestinians will never have a state, and which actually has implemented this single-state vision in the present...
+> "The secular sainthood of such individuals is always a retrospective phenomenon, arising after their challenges have passed and they can be safely canonized. In their own time, they were more [widely hated than loved](https://www.pewresearch.org/short-reads/2023/08/10/how-public-attitudes-toward-martin-luther-king-jr-have-changed-since-the-1960s/), and it was common for opponents to represent them as apostles of violence and intimidation. 'The old violence parades today in a new uniform,' said Richard Nixon in a 1968 campaign speech critical of the civil rights movement."
 
 ---
 2 degrees removed
@@ -68,7 +69,8 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4Mj
-kwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OTg5LDEx
-NTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbLTE1NTU2NTQxNDksODc0MTkzMjA3LDUzNT
+g0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIs
+Mjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNz
+M5NTNdfQ==
 -->
