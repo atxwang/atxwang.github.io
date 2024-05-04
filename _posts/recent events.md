@@ -20,6 +20,9 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
+
+
+---
 **selected quotes**
 
 > "Remember the stranger among you, for you were strangers in the land of Egypt." 
@@ -63,7 +66,7 @@ There but for fortune, go you or go I -- you and I."
 > "Nor is it acceptable to argue that slogans such as “from the river to the sea” imply violence. After all, the same language is in the founding charter of Israel’s ruling Likud party, whose express policy is that Palestinians will never have a state, and which actually has implemented this single-state vision in the present...
 > "The secular sainthood of such individuals is always a retrospective phenomenon, arising after their challenges have passed and they can be safely canonized. In their own time, they were more [widely hated than loved](https://www.pewresearch.org/short-reads/2023/08/10/how-public-attitudes-toward-martin-luther-king-jr-have-changed-since-the-1960s/), and it was common for opponents to represent them as apostles of violence and intimidation. 'The old violence parades today in a new uniform,' said Richard Nixon in a 1968 campaign speech critical of the civil rights movement."
 
--- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts 
+-- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed "Kalven Report"
 
 ---
 2 degrees removed
@@ -71,8 +74,8 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MzQ5NjIsMTI0OTYxMDcwMyw4NzQxOT
-MyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAsLTQ2
-NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNj
-QsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbLTEyNTEyMjUwOTgsMTI0OTYxMDcwMyw4Nz
+QxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAs
+LTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MD
+cyNjQsMTQxMTE3Mzk1M119
 -->
