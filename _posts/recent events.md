@@ -24,7 +24,7 @@ i didn't want this to be my first post. i had a well-argued essay on effective a
 
 i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months. angry unformed thoughts coalesce. 
 
-everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when 
+everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs 
 
 ---
 **selected quotes**
@@ -51,7 +51,7 @@ There but for fortune, go you or go I -- you and I."
 > "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets...
 > "Generation after generation of children, throwing themselves into the path of one of the most brutal military machines in human history, smashing their skulls against its steel hull, mangling their limbs in its treads, thousands of them, for seventy-five years, destroying themselves as they try to face down an engine that simply rolls on over the dying and the dead."
 
---Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the destruction and futility of martyrdom
+--Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the destruction and futility of martyrdom and victimhood
 
 > "The city with the good fruit and the good bread has been turned into a stateless cyberpunk horrorscape, the bad dream of modernity, a zone of continually expanding human biomass...
 > "Better one single holocaust on our conscience than the unlimited ethical demand to protect the life and wellbeing of every fruit fly on the planet. Better that than having to think about every conscious being who ended up smeared into a dot of brown paste across the palm of your hand."
@@ -78,7 +78,7 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ4NDI3OTUsMTI0OTYxMDcwMyw4Nz
+eyJoaXN0b3J5IjpbLTE0MTIxNjIwNDksMTI0OTYxMDcwMyw4Nz
 QxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAs
 LTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MD
 cyNjQsMTQxMTE3Mzk1M119
