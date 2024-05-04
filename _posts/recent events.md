@@ -41,8 +41,9 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 **selected commentaries**
-
+> "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets...
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYxNjA3MzQsMTE1OTQ5NTcwNywyNz
-E1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbODU3Mjk0NDEwLDExNTk0OTU3MDcsMjcxNT
+A3MjY0LDE0MTExNzM5NTNdfQ==
 -->
