@@ -46,8 +46,9 @@ There but for fortune, go you or go I -- you and I."
 
 --Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the destruction and futility of martyrdom
 
-
+> 
+> "Better one single holocaust on our conscience than the unlimited ethical demand to protect the life and wellbeing of every fruit fly on the planet. Better that than having to think about every conscious being who ended up smeared into a dot of brown paste across the palm of your hand."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNT
-A3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbNzM2MDM4MDM2LDI3NzMxNDk4OSwxMTU5ND
+k1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
 -->
