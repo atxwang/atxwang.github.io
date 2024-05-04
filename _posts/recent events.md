@@ -56,10 +56,12 @@ There but for fortune, go you or go I -- you and I."
 
 -- [an interview with Josh Dubnau](https://hellgatenyc.com/state-troopers-stony-brook-university-protester-crackdown), SBU professor arrested in recent protests, on censorship in higher education and police brutality against civil disobedience
 
+> "When you shoot an arrow at a target, first it goes halfway, then three fourths of the way, the seven eighths, etc. and because there is infinite distance between zero and one, it’s strange that the arrow ever hits the target. I’m saying there that McWhorter is doing a similar exercise for moral commitment, there will always be some moral ambiguity or complexity between him and the condemnation of Israel, and so the arrow never has to hit the target."
 
+-- [The Protest Derangement Class: A Response to John McWhorter](https://www.youtube.com/watch?v=CmY8NsWxf38)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODgzOTczNTQsLTQ2NDQxNTgzMiwyNz
-czMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1
-M119
+eyJoaXN0b3J5IjpbMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3Mz
+E0OTg5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNd
+fQ==
 -->
