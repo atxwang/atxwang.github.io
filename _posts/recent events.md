@@ -20,7 +20,9 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
-i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months.
+i didn't want this to be my first post. i had a well-argued essay on effective altruism in the backburner. 
+
+i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months. angry unformed thoughts coalesce. 
 
 ---
 **selected quotes**
@@ -74,7 +76,7 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTk0MTM2MSwxMjQ5NjEwNzAzLDg3ND
+eyJoaXN0b3J5IjpbMTg2NDA5Mzg3NSwxMjQ5NjEwNzAzLDg3ND
 E5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MDk3LDExNzU5ODkwMCwt
 NDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNz
 I2NCwxNDExMTczOTUzXX0=
