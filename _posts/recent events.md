@@ -23,14 +23,21 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---
 **selected quotes**
 
-> "Remember the stranger among you, for you were strangers in the land of Egypt" 
+> "Remember the stranger among you, for you were strangers in the land of Egypt." 
 
 -- Exodus 22:21
 
-> 
+> "Show me the country where bombs had to fall,
+Show me the ruins of buildings once so tall,
+And I'll show you a young land with so many reasons why
+There but for fortune, go you or go I -- you and I.
+You and I,
+There but for fortune, go you or go I -- you and I."
+
+--Phil Ochs, "There But for Fortune"
 
 "I couldn’t see making them sit and listen to this as if it were background music." - John McWhorter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzc2MzU0NiwyNzE1MDcyNjQsMTQxMT
+eyJoaXN0b3J5IjpbMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMT
 E3Mzk1M119
 -->
