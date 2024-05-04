@@ -21,8 +21,9 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
-"Remember the stranger among you, for you were strangers in the land of Egypt"
+"Remember the stranger among you, for you were strangers in the land of Egypt" - Exodus 22:21
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjE1NDc2LDI3MTUwNzI2NCwxNDExMT
-czOTUzXX0=
+eyJoaXN0b3J5IjpbMTYyMzk0MzQyMCwyNzE1MDcyNjQsMTQxMT
+E3Mzk1M119
 -->
