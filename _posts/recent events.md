@@ -4,7 +4,6 @@ title: Scattered thoughts on recent events
 subtitle: 
 tags: [rant, politics]
 ---
-
 **to the ones who walk away**
 
 be swift resolute proud let immovable strides carry you
@@ -42,7 +41,8 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 **selected commentaries**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNzIwMzU0LDExNTk0OTU3MDcsMjcxNT
-A3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzYxNjA3MzQsMTE1OTQ5NTcwNywyNz
+E1MDcyNjQsMTQxMTE3Mzk1M119
 -->
