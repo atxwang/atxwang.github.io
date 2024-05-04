@@ -36,8 +36,13 @@ There but for fortune, go you or go I -- you and I."
 
 --Phil Ochs, "There But for Fortune"
 
-"I couldn’t see making them sit and listen to this as if it were background music." - John McWhorter
+> "I couldn’t see making them sit and listen to this as if it were background music." 
+
+-- John McWhorter, missing the point of John Cage's 4'33"
+
+--
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMT
-E3Mzk1M119
+eyJoaXN0b3J5IjpbOTE2Mjk2NzAyLDExNTk0OTU3MDcsMjcxNT
+A3MjY0LDE0MTExNzM5NTNdfQ==
 -->
