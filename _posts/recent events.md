@@ -54,8 +54,10 @@ There but for fortune, go you or go I -- you and I."
 > "Anyone who gave the slightest hint of getting excited or anxious was tossed to the ground and handcuffed there—I saw four or five students doing civil disobedience thrown to the ground, and I've seen videos on social media of other students arrested that way...
 > "Public higher education has been increasingly corporatized for decades. There are those who think that it is more about parochial education to prepare students to be in the workforce than it is about the intellectual development of wonderful people to be part of our society."
 
--- [an interview with Josh Dubnau](https://hellgatenyc.com/state-troopers-stony-brook-university-protester-crackdown), SBU professor res
+-- [an interview with Josh Dubnau](https://hellgatenyc.com/state-troopers-stony-brook-university-protester-crackdown), SBU professor arrested in recent protests, on censorship in higher education and police brutality against civil disobedience
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDM1NTc2LDI3NzMxNDk4OSwxMTU5ND
-k1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OT
+Q5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
 -->
