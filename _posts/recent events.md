@@ -10,7 +10,7 @@ be swift resolute proud let immovable strides carry you
 past poppy fields past fig trees past clear skies where in lieu of soaring kites there is terrifying rain
 past border walls past stones and slingshots past cages in which human animals are detained
 
-past glorious gates stood valiantly in defense against that terrible paradox, a child
+past glorious gates standing valiantly in defense against that terrible paradox, a child
 
 suffering
 
@@ -61,7 +61,7 @@ There but for fortune, go you or go I -- you and I."
 -- [The Protest Derangement Class: A Response to John McWhorter](https://www.youtube.com/watch?v=CmY8NsWxf38)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3Mz
-E0OTg5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNd
-fQ==
+eyJoaXN0b3J5IjpbNzgwMzkxMTQ1LDExNzU5ODkwMCwtNDY0ND
+E1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NCwx
+NDExMTczOTUzXX0=
 -->
