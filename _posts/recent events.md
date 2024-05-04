@@ -41,7 +41,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 **selected commentaries**
-> "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets...
+> "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets..."
 > "Generation after generation of children, throwing themselves into the path of one of the most brutal military machines in human history, smashing their skulls against its steel hull, mangling their limbs in its treads, thousands of them, for seventy-five years, destroying themselves as they try to face down an engine that simply rolls on over the dying and the dead."
 
 --Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the destruction and futility of martyrdom
@@ -51,8 +51,8 @@ There but for fortune, go you or go I -- you and I."
 
 --Sam Kriss, [Bread, figs, phosphorous](https://samkriss.substack.com/p/bread-figs-phosphorus), an elegy for the former "intellectual centre of the world"
 
-
+> "Anyone who gave the slightest hint of getting excited or anxious was tossed to the ground and handcuffed there—I saw four or five students doing civil disobedience thrown to the ground, and I've seen videos on social media of other students arrested that way.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyMzI4NTYsMjc3MzE0OTg5LDExNT
-k0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbODYzOTE5MTU4LDI3NzMxNDk4OSwxMTU5ND
+k1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
 -->
