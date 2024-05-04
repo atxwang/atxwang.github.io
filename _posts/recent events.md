@@ -9,8 +9,8 @@ tags: [ramble, rant, politics]
 **to the ones who walk away**
 
 be swift resolute proud let immovable strides carry you
-past poppy fields past fig trees past skies which once were kite-filled but now the terrifying rain falls
-
+past poppy fields past fig trees past clear skies where in lieu of soaring kites there is terrifying rain
+past border walls past 
 
 past gilded gates guarding them from a child
 
@@ -21,5 +21,5 @@ screaming
 and as you stride the ones left behind trip on bones jutting out from the soil---
 ---grasping limbs they refuse to see
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Nzk4OTM1OCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbLTMyMzU2Mzg0NCwxNDExMTczOTUzXX0=
 -->
