@@ -44,8 +44,10 @@ There but for fortune, go you or go I -- you and I."
 > "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets...
 > "Generation after generation of children, throwing themselves into the path of one of the most brutal military machines in human history, smashing their skulls against its steel hull, mangling their limbs in its treads, thousands of them, for seventy-five years, destroying themselves as they try to face down an engine that simply rolls on over the dying and the dead."
 
---Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the des
+--Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the destruction and futility of martyrdom
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU0MjgwNCwxMTU5NDk1NzA3LDI3MT
-UwNzI2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNT
+A3MjY0LDE0MTExNzM5NTNdfQ==
 -->
