@@ -53,7 +53,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from university events, from mailing lists because we are students, about the same age, at the same school--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to 
+i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from university events, from mailing lists because we are students, about the same age, at the same school--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail."
 
 ---
 **selected commentaries**
@@ -92,7 +92,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYwNjQ1NCwtMjgxNjY1NjYwLDM1NT
+eyJoaXN0b3J5IjpbMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NT
 UwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEs
 NTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxND
 k4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
