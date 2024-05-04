@@ -53,7 +53,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---w
+i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized 
 
 ---
 **selected commentaries**
@@ -91,10 +91,11 @@ a word on frat fascism-they will never like you
 
 amongst the crowd a baby
 wrapped in a keffiyeh
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMDM0OTA3LC0yODE2NjU2NjAsMzU1NT
-AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1
-ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OT
-g5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQzNjkwNTAsLTI4MTY2NTY2MCwzNT
+U1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0Mzcx
+LDU4OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMT
+Q5ODksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
 
 -->
