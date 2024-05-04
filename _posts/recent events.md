@@ -63,7 +63,7 @@ There but for fortune, go you or go I -- you and I."
 > "Nor is it acceptable to argue that slogans such as “from the river to the sea” imply violence. After all, the same language is in the founding charter of Israel’s ruling Likud party, whose express policy is that Palestinians will never have a state, and which actually has implemented this single-state vision in the present...
 > "The secular sainthood of such individuals is always a retrospective phenomenon, arising after their challenges have passed and they can be safely canonized. In their own time, they were more [widely hated than loved](https://www.pewresearch.org/short-reads/2023/08/10/how-public-attitudes-toward-martin-luther-king-jr-have-changed-since-the-1960s/), and it was common for opponents to represent them as apostles of violence and intimidation. 'The old violence parades today in a new uniform,' said Richard Nixon in a 1968 campaign speech critical of the civil rights movement."
 
---
+-- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts 
 
 ---
 2 degrees removed
@@ -71,8 +71,8 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDE3NTMxNSwxMjQ5NjEwNzAzLDg3ND
-E5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MDk3LDExNzU5ODkwMCwt
-NDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNz
-I2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbMjg5MzQ5NjIsMTI0OTYxMDcwMyw4NzQxOT
+MyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAsLTQ2
+NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNj
+QsMTQxMTE3Mzk1M119
 -->
