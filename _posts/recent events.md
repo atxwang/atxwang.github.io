@@ -20,7 +20,7 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
-
+i didn't want this to be my first post. it's not well-organized---it is scattered
 
 ---
 **selected quotes**
@@ -74,7 +74,7 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEyMjUwOTgsMTI0OTYxMDcwMyw4Nz
+eyJoaXN0b3J5IjpbLTE2MzMyMTQxNzYsMTI0OTYxMDcwMyw4Nz
 QxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAs
 LTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MD
 cyNjQsMTQxMTE3Mzk1M119
