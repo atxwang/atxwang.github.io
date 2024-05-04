@@ -26,7 +26,7 @@ i didn't want this to be my first post. it's not well-organized---it is scattere
 
 everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming, the explosions are just a *tad teensy bit too uncomfortably loud*--so you clutch your pearls and finally say something to the effect of "hey folx, maybe bombing is *bad*." here, i cleverly reveal my hand and confess that i, too, am one of these self-centered, impotent, pearl-clutchers bravely volunteering myself into a chorus that has begun to sing 75 years too late. my writing is selfish too--- i'm aware that it may as well not be read by anyone but me. yet over months over weeks over days all i can keep thinking is
 
-three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed
+three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the violently arrested someone's brother someone's friend someone shot and paralyzed one degree removed one degree removed one degree removed one degree one degree removed 
 
 i didn't want this to be my first post.
 
@@ -82,7 +82,7 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxMjYzOTA0LDEyNDk2MTA3MDMsODc0MT
+eyJoaXN0b3J5IjpbNDM2OTUwOTk5LDEyNDk2MTA3MDMsODc0MT
 kzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00
 NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3Mj
 Y0LDE0MTExNzM5NTNdfQ==
