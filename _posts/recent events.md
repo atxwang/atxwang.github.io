@@ -64,9 +64,9 @@ There but for fortune, go you or go I -- you and I."
 2 degrees removed
 "self-defense is not genocide"
 a juvenile idea of protest
-frat fascism-they will never like you
+a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0ND
-E1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NCwx
-NDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OT
+g5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywy
+NzE1MDcyNjQsMTQxMTE3Mzk1M119
 -->
