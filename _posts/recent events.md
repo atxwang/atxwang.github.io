@@ -24,6 +24,8 @@ i didn't want this to be my first post. i had a well-argued essay on effective a
 
 i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months. angry unformed thoughts coalesce. 
 
+
+
 ---
 **selected quotes**
 
@@ -68,7 +70,7 @@ There but for fortune, go you or go I -- you and I."
 > "Nor is it acceptable to argue that slogans such as “from the river to the sea” imply violence. After all, the same language is in the founding charter of Israel’s ruling Likud party, whose express policy is that Palestinians will never have a state, and which actually has implemented this single-state vision in the present...
 > "The secular sainthood of such individuals is always a retrospective phenomenon, arising after their challenges have passed and they can be safely canonized. In their own time, they were more [widely hated than loved](https://www.pewresearch.org/short-reads/2023/08/10/how-public-attitudes-toward-martin-luther-king-jr-have-changed-since-the-1960s/), and it was common for opponents to represent them as apostles of violence and intimidation. 'The old violence parades today in a new uniform,' said Richard Nixon in a 1968 campaign speech critical of the civil rights movement."
 
--- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed "Kalven Report"
+-- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed Kalven Report
 
 ---
 2 degrees removed
@@ -76,8 +78,8 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUwMDIwNzEsMTI0OTYxMDcwMyw4Nz
-QxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAs
-LTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MD
-cyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbLTY3NzM5NDQzLDEyNDk2MTA3MDMsODc0MT
+kzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00
+NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3Mj
+Y0LDE0MTExNzM5NTNdfQ==
 -->
