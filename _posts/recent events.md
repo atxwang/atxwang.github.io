@@ -24,7 +24,7 @@ i didn't want this to be my first post. i had a well-argued essay on effective a
 
 i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months. angry unformed thoughts coalesce. 
 
-everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming is a just a tad too uncomfortably loud
+everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming, the explosions are just a *tad teensy bit too uncomfortably loud*--so you clutch your pearls and finally say something to the effect of "hey folx, umm actually maybe violence is bad". 
 
 ---
 **selected quotes**
@@ -78,7 +78,7 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxODcyMzQ1LDEyNDk2MTA3MDMsODc0MT
+eyJoaXN0b3J5IjpbMzc4NDcwMDgyLDEyNDk2MTA3MDMsODc0MT
 kzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00
 NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3Mj
 Y0LDE0MTExNzM5NTNdfQ==
