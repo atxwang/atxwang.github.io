@@ -46,9 +46,11 @@ There but for fortune, go you or go I -- you and I."
 
 --Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the destruction and futility of martyrdom
 
-> 
+> "The city with the good fruit and the good bread has been turned into a stateless cyberpunk horrorscape, the bad dream of modernity, a zone of continually expanding human biomass..."
 > "Better one single holocaust on our conscience than the unlimited ethical demand to protect the life and wellbeing of every fruit fly on the planet. Better that than having to think about every conscious being who ended up smeared into a dot of brown paste across the palm of your hand."
+
+--Sam Kriss, [Bread, figs, phosphorous](https://samkriss.substack.com/p/bread-figs-phosphorus), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MDM4MDM2LDI3NzMxNDk4OSwxMTU5ND
-k1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbLTExMzY0NTgxMTUsMjc3MzE0OTg5LDExNT
+k0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
 -->
