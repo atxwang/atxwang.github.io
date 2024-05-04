@@ -22,17 +22,13 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---
 i didn't want this to be my first post. i had a well-argued essay on effective altruism in the backburner. i was writing a reflection about crime and empathy, another post on a funny find at a hole-in-the-wall chicago ethnic museum. 
 
-i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, songs i keep listening to over the past several months. angry unformed thoughts coalesce. 
+i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, memories i have on replay constantly. angry unformed thoughts coalesce. 
 
 everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming, the explosions are just a *tad teensy bit too uncomfortably loud*--so you clutch your pearls and finally say something to the snide effect of "hey folx, maybe bombing is *bad*." here, i cleverly reveal my hand and confess that i, too, am one of these self-centered, impotent, pearl-clutchers bravely volunteering myself into a chorus that has begun to sing 75 years too late. my writing is selfish too--- i'm aware that it may as well not be read by anyone but me, it is simply a way for me alone to "process things", and so i might as well write about something funny or something that makes me happy, yet over months over weeks over days all i can keep thinking is
 
 three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the violently arrested someone's brother someone's friend someone shot and paralyzed one degree removed one degree removed one degree removed one degree one degree removed 
 
 i didn't want this to be my first post.
-
----
-
-
 
 ---
 
@@ -54,6 +50,10 @@ There but for fortune, go you or go I -- you and I."
 > "I couldn’t see making them sit and listen to this as if it were background music." 
 
 -- John McWhorter, butchering John Cage's 4'33"
+
+---
+
+scenes from 
 
 ---
 **selected commentaries**
@@ -86,8 +86,8 @@ There but for fortune, go you or go I -- you and I."
 a juvenile idea of protest
 a word on frat fascism-they will never like you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4Nzc4MTYwLDM1NTUwMzg4NSwxMjQ5Nj
-EwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MDk3LDEx
-NzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5NDk1Nz
-A3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbLTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OT
+YxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5Nywx
+MTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NT
+cwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
 -->
