@@ -21,10 +21,12 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
+**selected quotes**
+
 "Remember the stranger among you, for you were strangers in the land of Egypt" - Exodus 22:21
 
 "I couldn’t see making them sit and listen to this as if it were background music." - John McWhorter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjI4OTkyMywyNzE1MDcyNjQsMTQxMT
-E3Mzk1M119
+eyJoaXN0b3J5IjpbNTA3ODY2MDk1LDI3MTUwNzI2NCwxNDExMT
+czOTUzXX0=
 -->
