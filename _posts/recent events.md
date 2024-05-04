@@ -17,11 +17,11 @@ suffering
 
 screaming
 
-and as you stride the ones who stay trip on bones jutting out from the soil---
+and as you stride the ones who stay behind trip on bones jutting out from the soil---
 ---grasping limbs they refuse to see
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTU4NTgxNCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbMjEzOTg5Mjc2NiwxNDExMTczOTUzXX0=
 -->
