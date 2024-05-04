@@ -38,11 +38,11 @@ There but for fortune, go you or go I -- you and I."
 
 > "I couldn’t see making them sit and listen to this as if it were background music." 
 
--- John McWhorter, missing the point of John Cage's 4'33"
+-- John McWhorter, butchering John Cage's 4'33"
 
---
-
+---
+**selected commentaries**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2Mjk2NzAyLDExNTk0OTU3MDcsMjcxNT
+eyJoaXN0b3J5IjpbNjEwNzIwMzU0LDExNTk0OTU3MDcsMjcxNT
 A3MjY0LDE0MTExNzM5NTNdfQ==
 -->
