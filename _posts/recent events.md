@@ -85,9 +85,14 @@ scenes from
 "self-defense is not genocide"
 a juvenile idea of protest
 a word on frat fascism-they will never like you
+
+
+
+amongst the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OT
-YxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5Nywx
-MTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NT
-cwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbLTI1NTk1MjUwMiwtMjgxNjY1NjYwLDM1NT
+UwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEs
+NTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxND
+k4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
+
 -->
