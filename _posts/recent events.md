@@ -57,7 +57,9 @@ There but for fortune, go you or go I -- you and I."
 -- [an interview with Josh Dubnau](https://hellgatenyc.com/state-troopers-stony-brook-university-protester-crackdown), SBU professor arrested in recent protests, on censorship in higher education and police brutality against civil disobedience
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OT
-Q5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbLTE4ODgzOTczNTQsLTQ2NDQxNTgzMiwyNz
+czMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1
+M119
 -->
