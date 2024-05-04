@@ -20,7 +20,7 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---grasping limbs they refuse to see
 
 ---
-i didn't want this to be my first post. i had a well-argued essay on effective altruism in the backburner. i was writing a reflection about crime and empathy, another post on a funny find at a hole-in-the-wall chicago ethnic museum. 
+**i didn't want this to be my first post. i had a well-argued essay on effective altruism in the backburner. i was writing a reflection about crime and empathy, another post on a funny find at a hole-in-the-wall chicago ethnic museum. 
 
 i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, memories i have on replay constantly. angry unformed thoughts coalesce. 
 
@@ -53,7 +53,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-scenes from 
+i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". 
 
 ---
 **selected commentaries**
@@ -88,10 +88,12 @@ a word on frat fascism-they will never like you
 
 
 ---
+**scenes **
+
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTM0NjAwMywtMjgxNjY1NjYwLDM1NT
+eyJoaXN0b3J5IjpbLTY5NTA3MjExMCwtMjgxNjY1NjYwLDM1NT
 UwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEs
 NTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxND
 k4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
