@@ -60,8 +60,12 @@ There but for fortune, go you or go I -- you and I."
 
 -- [The Protest Derangement Class: A Response to John McWhorter](https://www.youtube.com/watch?v=CmY8NsWxf38)
 
+---
+2 degrees removed
+"self-defense is not genocide"
+a juvenile idea of protest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTU1Nzc1MSwxMTc1OTg5MDAsLTQ2ND
-QxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNjQs
-MTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbMzMyODE1MDQ3LDExNzU5ODkwMCwtNDY0ND
+E1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NCwx
+NDExMTczOTUzXX0=
 -->
