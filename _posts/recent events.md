@@ -11,7 +11,7 @@ be swift resolute proud let immovable strides carry you
 past poppy fields past fig trees past clear skies where in lieu of soaring kites there is terrifying rain
 past border walls past stones and slingshots past cages in which human animals are detained
 
-past gilded gates guarding them from a childthat terrible paradox,
+past glorious gates valiantly defending them against that terrible paradox, a child
 
 suffering
 
@@ -23,5 +23,5 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTU4MDYxMywxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbMTI3NDMxMDk5MCwxNDExMTczOTUzXX0=
 -->
