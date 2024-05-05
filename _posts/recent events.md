@@ -55,7 +55,7 @@ There but for fortune, go you or go I -- you and I."
 
 i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from university events, from mailing lists because we are both students, about the same age, at the same school--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." 
 
-definitionally, self-defense is not genocide. 
+indeed, self-defense, definitionally, is not genocide
 
 ---
 **selected commentaries**
@@ -94,7 +94,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzOTI5NTI4LDEzOTE1NjkwODQsLTI4MT
+eyJoaXN0b3J5IjpbNDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MT
 Y2NTY2MCwzNTU1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcs
 NTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNT
 gzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQx
