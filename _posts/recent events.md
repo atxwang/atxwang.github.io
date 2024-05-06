@@ -69,6 +69,8 @@ the human brain can only hold so much weight. i confess that these four are the 
 
 40,000 dead, 80,000 wounded. all of them civilians, most of them children. can this ever be "self-defense"? "you are trying to destroy me and i will happily prevail," says the girl i know in her self-satisfied stare. who is trying to destroy whom?
 
+self-defense is not genocide. and genocide is not---and never will be---self-defense.
+
 ---
 **scattered commentaries**
 > "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets...
@@ -108,11 +110,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAyMTc3MjksMTU5NTA0NjkxMyw2Mj
-kzODY2LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwtMTE0MTQ4OTgw
-NCwtMTk0MDAyODI3OSwxOTE5MzM3NzUzLDExNDkyNjU3MjgsLT
-Y1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQx
-MSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyND
-k2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTdd
-fQ==
+eyJoaXN0b3J5IjpbLTkwMTAxNzkyNiwxNTk1MDQ2OTEzLDYyOT
+M4NjYsNTM2OTMyMDYzLC0xODY3Mzc3NTQ1LC0xMTQxNDg5ODA0
+LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMTE0OTI2NTcyOCwtNj
+UxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDEx
+LDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OT
+YxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5N119
+
 -->
