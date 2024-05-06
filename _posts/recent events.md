@@ -61,7 +61,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as **Abu Shabdi**--"father of the poor"--was murdered in an israeli airstrike. famous across gaza for his cheap, often-free and always delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his knafeh truck during the first intifada. 
 
-"self-defense is not genocide." **Elham Farah**, Gaza'
+"self-defense is not genocide." **Elham Farah**, a multi-instrumental musician, gaza's first music teacher, a ginger-haired old woman known to her neighbors as 
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
@@ -106,11 +106,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTM5NTEwMCwtMTE0MTQ4OTgwNCwtMT
-k0MDAyODI3OSwxOTE5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1
-NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMz
-kxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3
-MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NT
-k4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDdd
-fQ==
+eyJoaXN0b3J5IjpbLTEyNDIxMjQ0NTAsLTExNDE0ODk4MDQsLT
+E5NDAwMjgyNzksMTkxOTMzNzc1MywxMTQ5MjY1NzI4LC02NTE4
+NTYxNzIsOTcxNzY2OTU4LDgzOTQxOTM4NSw0Mzk1MjM0MTEsMT
+M5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NTUwMzg4NSwxMjQ5NjEw
+NzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MDk3LDExNz
+U5ODkwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3
+XX0=
 -->
