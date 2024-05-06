@@ -57,7 +57,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." i've seen these words before, plastered on op-eds, on acquaintances' social media profiles, for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself into the surface of my brain and does not leave.
 
-"self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a scholar of Shakespeare, a poet, a father, was murdered by an israeli airstrike 
+"self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a scholar of Shakespeare, a poet, a father, was murdered by an israeli airstrike that also murdered his siblings and young nephews. 
 
 "self-defense is not genocide." **Masoud al-Qutati**,
 
@@ -105,10 +105,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NDAxNDY3LDE5MTkzMzc3NTMsMTE0OT
-I2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUs
-NDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MD
-M4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4
-OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5OD
-ksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbMjY5ODIzODMsMTkxOTMzNzc1MywxMTQ5Mj
+Y1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4LDgzOTQxOTM4NSw0
+Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NTUwMz
+g4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5
+ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OS
+wxMTU5NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
 -->
