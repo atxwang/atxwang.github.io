@@ -59,7 +59,9 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a scholar of Shakespeare, a poet, a father, was murdered by an israeli airstrike--targeted with "surgical" precision--that also murdered his siblings and young nephews, in a horrifying echo of israeli bombings that murdered more than 30 members of his family since 2014. "i am an academic. probably the toughest thing I have at home is an expo marker," he said over the sound of explosions in his last interview.
 
-"self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as **Abu Shabdi**--"father of the poor"--was murdered in an israeli airstrike, the final suppression of his unfettered generosity after his knafeh truck was destroyed by israeli forces. before his execution, he 
+"self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as **Abu Shabdi**--"father of the poor"--was murdered in an israeli airstrike. famed for h
+
+his brutal execution was the final suppression of his unfettered generosity after his knafeh truck was destroyed by israeli forces during the first intifada. 
 
 "self-defense is not genocide." **Elham Farah**,
 
@@ -106,7 +108,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTA5NTE2NywtMTk0MDAyODI3OSwxOT
+eyJoaXN0b3J5IjpbMTIxNTg0NDcwOCwtMTk0MDAyODI3OSwxOT
 E5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5
 NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yOD
 E2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3
