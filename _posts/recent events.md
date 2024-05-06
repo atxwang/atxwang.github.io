@@ -2,7 +2,7 @@
 layout: post
 title: Scattered thoughts on recent events
 subtitle: 
-tags: [rant, politics]
+tags: [rant, politics, poetry]
 ---
 **to the ones who walk away**
 
@@ -96,8 +96,9 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 ---
 a juvenile idea of protest
-a word on frat fascism and why they will never like you
 
+---
+a word on frat fascism and why they will never like you
 
 ---
 **live from the hate march**
@@ -105,11 +106,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTM4OTk5OCwtMTk0MDAyODI3OSwxOT
-E5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5
-NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yOD
-E2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3
-LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MT
-U4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3MjY0XX0=
-
+eyJoaXN0b3J5IjpbNTkwOTUzMTAsLTE5NDAwMjgyNzksMTkxOT
+MzNzc1MywxMTQ5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4
+LDgzOTQxOTM4NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMjgxNj
+Y1NjYwLDM1NTUwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1
+MzU4NDQzNzEsNTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1OD
+MyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NF19
 -->
