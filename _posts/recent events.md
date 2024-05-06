@@ -101,6 +101,9 @@ self-defense is not genocide. and genocide is not---and never will be---self-def
 ---
 a juvenile idea of protest
 
+
+
+
 ---
 a word on frat fascism---and why they will never like you
 
@@ -110,11 +113,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDkyNjMyMywxNTk1MDQ2OTEzLDYyOT
-M4NjYsNTM2OTMyMDYzLC0xODY3Mzc3NTQ1LC0xMTQxNDg5ODA0
-LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMTE0OTI2NTcyOCwtNj
-UxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDEx
-LDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OT
-YxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5N119
+eyJoaXN0b3J5IjpbMTE1MjY1OTE3LDEyNTQ5MjYzMjMsMTU5NT
+A0NjkxMyw2MjkzODY2LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwt
+MTE0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOTE5MzM3NzUzLDExND
+kyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1
+LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NT
+AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MV19
 
 -->
