@@ -99,7 +99,7 @@ yes, self-defense is not genocide. and genocide is not---and never will be---sel
 -- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed Kalven Report
 
 ---
-it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**. to be clear, i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades the recent wave of campus civil disobedience. the idealistic insistence on additional demands to divestment, such as the disbanding of universities' private police forces and the cessation of construction in gentrified neighborhoods, are perhaps useful as a negotiating tactic, but are fundamentally unwinnable concessions simply because their immediate consequences would almost certainly be disastrous. the reiteration of phrases like "global intifada" have some very unfortunate implications, which, even if unintended, are optically horrendous. on a lighter note, the v
+it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**. to be clear, i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades the recent wave of campus civil disobedience. the idealistic insistence on additional demands to divestment, such as the disbanding of universities' private police forces and the cessation of construction in gentrified neighborhoods, are perhaps useful as a negotiating tactic, but are fundamentally unwinnable concessions simply because their immediate consequences would almost certainly be disastrous. the reiteration of phrases like "global intifada" have some very unfortunate implications, which, even if unintended, are optically horrendous. on a lighter note, the general "vibe" of these protests is often very "cringe", in an endearing, young principled leftist kind of way. 
 
 ---
 a word on frat fascism---and why they will never like you
@@ -110,11 +110,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzExODY4LDEyNTQ5MjYzMjMsMTU5NT
-A0NjkxMyw2MjkzODY2LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwt
-MTE0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOTE5MzM3NzUzLDExND
-kyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1
-LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NT
-AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MV19
-
+eyJoaXN0b3J5IjpbLTEwNDQ3NTUyNDIsMTI1NDkyNjMyMywxNT
+k1MDQ2OTEzLDYyOTM4NjYsNTM2OTMyMDYzLC0xODY3Mzc3NTQ1
+LC0xMTQxNDg5ODA0LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMT
+E0OTI2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkz
+ODUsNDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNT
+U1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0Mzcx
+XX0=
 -->
