@@ -32,7 +32,7 @@ i didn't want this to be my first post. i yell into the void undeterred, hearing
 
 ---
 
-**selected quotes**
+**scattered quotes**
 
 > "Remember the stranger among you, for you were strangers in the land of Egypt." 
 
@@ -63,12 +63,12 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Elham Farah**,
 
-"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered mercilessly by gunfire from israeli tanks along with the rest of her family while escaping gaza city. her final words were spoken during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
+"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered mercilessly by gunfire from israeli tanks along with the rest of her family while escaping gaza city. her final words were spoken during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. is this closer to 
 
 
 
 ---
-**selected commentaries**
+**scattered commentaries**
 > "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets...
 > "More famine! More disease! More stillborn children! They think they’re being brave too. The arctic glint of righteousness in their eyes...
 > "Generation after generation of children, throwing themselves into the path of one of the most brutal military machines in human history, smashing their skulls against its steel hull, mangling their limbs in its treads, thousands of them, for seventy-five years, destroying themselves as they try to face down an engine that simply rolls on over the dying and the dead."
@@ -105,10 +105,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxOTgzMTQsMTkxOTMzNzc1MywxMTQ5Mj
-Y1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4LDgzOTQxOTM4NSw0
-Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NTUwMz
-g4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5
-ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OS
-wxMTU5NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbMTcwMTI1ODA1LDE5MTkzMzc3NTMsMTE0OT
+I2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUs
+NDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MD
+M4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4
+OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5OD
+ksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
 -->
