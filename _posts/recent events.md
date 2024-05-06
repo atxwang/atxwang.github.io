@@ -65,7 +65,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
-the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered by the israeli state. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied from each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever*, a fair fight to begin with. the horrifying, brutal truth is that Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, undignified deaths. they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity, one of the worst in modern history**.
+the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered by the israeli state. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied from each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever*, a fair fight to begin with. let us not mince words. Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, undignified deaths. they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity, one of the worst in modern history**.
 
 40,000 dead, 80,000 wounded. all of them civilians, most of them children. can this ever be "self-defense"? "you are trying to destroy me and i will happily prevail," says the girl i know, in her self-satisfied stare. who is trying to destroy whom?
 
@@ -102,7 +102,7 @@ self-defense is not genocide. and genocide is not---and never will be---self-def
 a juvenile idea of protest
 
 
-it is no surprise to me that the protest
+it is no surprise to me that the protests run by juveniles 
 
 ---
 a word on frat fascism---and why they will never like you
@@ -113,11 +113,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODk0Mjc0MiwxMjU0OTI2MzIzLDE1OT
-UwNDY5MTMsNjI5Mzg2Niw1MzY5MzIwNjMsLTE4NjczNzc1NDUs
-LTExNDE0ODk4MDQsLTE5NDAwMjgyNzksMTkxOTMzNzc1MywxMT
-Q5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4LDgzOTQxOTM4
-NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NT
-UwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzFd
-fQ==
+eyJoaXN0b3J5IjpbODQyMzU1NTU5LDEyNTQ5MjYzMjMsMTU5NT
+A0NjkxMyw2MjkzODY2LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwt
+MTE0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOTE5MzM3NzUzLDExND
+kyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1
+LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NT
+AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MV19
+
 -->
