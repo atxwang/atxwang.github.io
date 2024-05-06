@@ -61,7 +61,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide."
 
-"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered mercilessly by gunfire from israeli tanks along with the rest of her family while escaping gaza city
+"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered mercilessly by gunfire from israeli tanks along with the rest of her family while escaping gaza city. 
 
 
 
@@ -103,10 +103,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY5ODM4NzQsMTE0OTI2NTcyOCwtNj
-UxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDEx
-LDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OT
-YxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5Nywx
-MTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NT
-cwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbNDcxMTk3NzQ0LDExNDkyNjU3MjgsLTY1MT
+g1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwx
+MzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MT
+A3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3
+NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MD
+csMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
 -->
