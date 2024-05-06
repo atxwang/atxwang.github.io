@@ -65,7 +65,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
-the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered by the israeli state. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied from each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever*, a fair fight to begin with. let us not mince words. Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, helpless, undignified deaths. although honorable people, they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity, one of the worst in modern history**.
+the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered by the israeli state. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied from each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever* even a fair fight to begin with. let us not mince words. Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, helpless, undignified deaths. although honorable people, they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity, one of the worst in modern history**.
 
 40,000 dead, 80,000 wounded. all of them civilians, most of them children. can this ever be "self-defense"? can it really be a war when the enemy has expo markers and we have bullets, missiles, and tanks? "you are trying to destroy me and i will happily prevail," says the girl i know, in her self-satisfied stare. who is trying to destroy whom?
 
@@ -99,7 +99,7 @@ yes, i think, self-defense is not genocide. and genocide is not---and never will
 -- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed Kalven Report
 
 ---
-it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**. to be clear, i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades the recent wave of campus civil disobedience. the idealistic insistence on additional demands to divestment, such as the disbanding of universities' private police forces and the cessation of construction in gentrified neighborhoods, are perhaps useful as a negotiating tactic, but are fundamentally unwinnable concessions simply because their immediate consequences would almost certainly be disastrous. the reiteration of phrases like "global intifada" have some very unfortunate implications, which, even if unintended, are optically horrendous. on a lighter note, the general "vibe" of these protests is often very "cringe", seemingly untargeted in an endearing, young, insufferably principled leftist kind of way. here at uchicago, we've had events like "djs for palestine" and "acupuncture"--mere microns away from singing kumbayah, hand in hand, as smores roast on a bonfire. yuck!
+it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**.  i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades the recent wave of campus civil disobedience. the idealistic insistence on additional demands to divestment, such as the disbanding of universities' private police forces and the cessation of construction in gentrified neighborhoods, are perhaps useful as a negotiating tactic, but are fundamentally unwinnable concessions simply because their immediate consequences would almost certainly be disastrous. the reiteration of phrases like "global intifada" have some very unfortunate implications, which, even if unintended, are optically horrendous. on a lighter note, the general "vibe" of these protests is often very "cringe", seemingly untargeted in an endearing, young, insufferably principled leftist kind of way. here at uchicago, we've had events like "djs for palestine" and "acupuncture"--mere microns away from singing kumbayah, hand in hand, as smores roast on a bonfire. yuck!
 
 these 
 
@@ -112,11 +112,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4ODEwMDM3LC0xODU0ODY0MjUzLDEyNT
-Q5MjYzMjMsMTU5NTA0NjkxMyw2MjkzODY2LDUzNjkzMjA2Mywt
-MTg2NzM3NzU0NSwtMTE0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOT
-E5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5
-NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yOD
-E2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3
-XX0=
+eyJoaXN0b3J5IjpbMjA2NTQyNDIwOCwtMTg1NDg2NDI1MywxMj
+U0OTI2MzIzLDE1OTUwNDY5MTMsNjI5Mzg2Niw1MzY5MzIwNjMs
+LTE4NjczNzc1NDUsLTExNDE0ODk4MDQsLTE5NDAwMjgyNzksMT
+kxOTMzNzc1MywxMTQ5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2
+OTU4LDgzOTQxOTM4NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMj
+gxNjY1NjYwLDM1NTUwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIw
+N119
 -->
