@@ -59,7 +59,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a globally-recognized scholar of shakespeare, a poet, a father, was murdered by an israeli airstrike--targeted with "surgical" precision--that also murdered his siblings and young nephews, in a horrifying echo of israeli bombings that murdered more than 30 members of his family in 2014. "i am an academic. probably the toughest thing I have at home is an expo marker," he said, over the sound of explosions in his last ever interview.
 
-"self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as **Abu Shabdi**--"father of the poor"--was murdered in an israeli airstrike. famed across gaza for his cheap, often-free and always delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his knafeh truck during the first intifada. 
+"self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as **Abu Shabdi**--"father of the poor"--was murdered in an israeli airstrike. famous across gaza for his cheap, often-free and always delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his knafeh truck during the first intifada. 
 
 "self-defense is not genocide." **Elham Farah**,
 
@@ -106,11 +106,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE0ODk4MDQsLTE5NDAwMjgyNzksMT
-kxOTMzNzc1MywxMTQ5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2
-OTU4LDgzOTQxOTM4NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMj
-gxNjY1NjYwLDM1NTUwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIw
-Nyw1MzU4NDQzNzEsNTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0ND
-E1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NF19
-
+eyJoaXN0b3J5IjpbMTk3NjEzMTU1NCwtMTE0MTQ4OTgwNCwtMT
+k0MDAyODI3OSwxOTE5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1
+NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMz
+kxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3
+MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NT
+k4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDdd
+fQ==
 -->
