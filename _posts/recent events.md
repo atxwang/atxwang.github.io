@@ -63,7 +63,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Elham Farah**,
 
-"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered mercilessly by gunfire from israeli tanks along with the rest of her family while escaping gaza city. her final words were spoken during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. is this closer to 
+"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered mercilessly by gunfire from israeli tanks along with the rest of her family while escaping gaza city. her final words were spoken during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. is this closer to self-defense? or is this closer to genocide?
 
 
 
@@ -105,10 +105,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTI1ODA1LDE5MTkzMzc3NTMsMTE0OT
-I2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUs
-NDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MD
-M4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4
-OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5OD
-ksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbMTk3NzI5MTkzMiwxOTE5MzM3NzUzLDExND
+kyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1
+LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NT
+AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1
+ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OT
+g5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+
 -->
