@@ -53,7 +53,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct on a definitional level: indeed, self-defense, definitionally, is not genocide, indeed, there is some ambiguity 
+i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct on a definitional level: indeed, self-defense, definitionally, is not genocide;definitionally, there is some ambiguity on whether or not what is happening in gaza currently is a genocide. 
 
 ---
 **selected commentaries**
@@ -92,9 +92,9 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY5ODAzNTUsODM5NDE5Mzg1LDQzOT
-UyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1
-LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4Mj
-kwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OTg5LDEx
-NTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbNjEzNjc4ODE5LDgzOTQxOTM4NSw0Mzk1Mj
+M0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NTUwMzg4NSwx
+MjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MD
+k3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5
+NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
 -->
