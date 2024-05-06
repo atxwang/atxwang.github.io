@@ -26,7 +26,7 @@ i didn't want this to be my first post. it's not well-organized---it is scattere
 
 everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming, the explosions are just a *tad teensy bit too uncomfortably loud*--so you clutch your pearls and finally say something to the snide effect of "hey folx, maybe bombing is *bad*." here, i cleverly reveal my hand and confess that i, too, am one of these self-centered, impotent, pearl-clutchers bravely volunteering myself into a chorus that has begun to sing 75 years too late. my writing is selfish too--- i'm aware that it may as well not be read by anyone but me, it is simply a way for me alone to "process things", and so i might as well write about something funny or something that makes me happy, yet over months over weeks over days all i can keep thinking is
 
-three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the violently arrested someone's brother someone's friend someone shot and paralyzed a toddler murdered one degree removed one degree removed one degree removed one degree one degree removed 
+three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed a toddler murdered one degree removed one degree removed one degree removed one degree one degree removed 
 
 i didn't want this to be my first post.
 
@@ -53,9 +53,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from university events, from mailing lists because we are both students, about the same age, at the same school--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." 
-
-indeed, self-defense, definitionally, is not genocide
+i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from university events, from mailing lists because we are both students, about the same age, at the same school--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." indeed, self-defense, definitionally, is not genocide
 
 ---
 **selected commentaries**
@@ -94,9 +92,9 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MT
-Y2NTY2MCwzNTU1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcs
-NTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNT
-gzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQx
-MTE3Mzk1M119
+eyJoaXN0b3J5IjpbLTE5ODA3NjAwMCw0Mzk1MjM0MTEsMTM5MT
+U2OTA4NCwtMjgxNjY1NjYwLDM1NTUwMzg4NSwxMjQ5NjEwNzAz
+LDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MDk3LDExNzU5OD
+kwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5NDk1NzA3LDI3
+MTUwNzI2NCwxNDExMTczOTUzXX0=
 -->
