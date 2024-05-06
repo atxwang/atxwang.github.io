@@ -57,7 +57,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." i've seen these words before, plastered on op-eds, on acquaintances' social media profiles, for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself into the surface of my brain and does not leave.
 
-"self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a globally-recognized scholar of shakespeare, a poet, a father, was murdered by an israeli airstrike--targeted with "surgical" precision--that also murdered his siblings and young nephews, in a horrifying echo of israeli bombings that murdered more than 30 members of his family since 2014. "i am an academic. probably the toughest thing I have at home is an expo marker," he said over the sound of explosions in his last interview.
+"self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a globally-recognized scholar of shakespeare, a poet, a father, was murdered by an israeli airstrike--targeted with "surgical" precision--that also murdered his siblings and young nephews, in a horrifying echo of israeli bombings that murdered more than 30 members of his family in 2014. "i am an academic. probably the toughest thing I have at home is an expo marker," he said over the sound of explosions in his last interview.
 
 "self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as **Abu Shabdi**--"father of the poor"--was murdered in an israeli airstrike. famed across gaza for his cheap, often-free, delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his knafeh truck during the first intifada. 
 
@@ -106,7 +106,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI0MDk0MzksLTE5NDAwMjgyNzksMT
+eyJoaXN0b3J5IjpbLTE3OTk3MTUxMTQsLTE5NDAwMjgyNzksMT
 kxOTMzNzc1MywxMTQ5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2
 OTU4LDgzOTQxOTM4NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMj
 gxNjY1NjYwLDM1NTUwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIw
