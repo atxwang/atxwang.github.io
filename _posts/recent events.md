@@ -53,7 +53,9 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read **"self-defense is not genocide"**. the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct on a definitional level: indeed, definitionally, self-defense is not genocide, definitionally, what is happening in gaza currently may or may not be a genocide, and definitionally, we can run around in circles before every reaching any semblance of a point. 
+i saw a sign at yesterday's counterprotest that read **"self-defense is not genocide"**. the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct, of course, on a definitional level: indeed, definitionally, self-defense is not genocide, definitionally, what is happening in gaza currently may or may not be a genocide, and definitionally, we can run around in circles before every reaching any semblance of a point. 
+
+"self-defense is not genocide." the words linger in my 
 
 ---
 **selected commentaries**
@@ -93,9 +95,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNzY2OTU4LDgzOTQxOTM4NSw0Mzk1Mj
-M0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NTUwMzg4NSwx
-MjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MD
-k3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5
-NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
+eyJoaXN0b3J5IjpbLTIzNjEzOTE1OCw5NzE3NjY5NTgsODM5ND
+E5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAs
+MzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0ND
+M3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3
+MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NT
+NdfQ==
 -->
