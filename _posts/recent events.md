@@ -59,7 +59,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a globally-recognized scholar of shakespeare, a poet, a father, was murdered by an israeli airstrike--targeted with "surgical" precision--that also murdered his siblings and young nephews, in a horrifying echo of israeli bombings that murdered more than 30 members of his family in 2014. "i am an academic. probably the toughest thing I have at home is an expo marker," he said, over the sound of explosions in his last ever interview.
 
-"self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as Abu Shabdi--"father of the poor"--was murdered in an israeli airstrike. famous across gaza for his cheap, often-free and always delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his knafeh truck during the first intifada. 
+"self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as Abu Shabdi--"father of the poor"--was murdered in an israeli airstrike. famous across gaza for his cheap, often-free and always delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his food truck during the first intifada. 
 
 "self-defense is not genocide." **Elham Farah**, a musician--violinist, pianist, organist, accordionist--gaza's first music teacher, a ginger-haired old woman known to her neighbors as Mrs Umm al-Orange--"mother orange"--was murdered in the street by an israeli sniper after leaving the church she sheltered in--as she was part of one of gaza's oldest christian families--only to retrieve some warmer clothes. as she bled out, dying, israeli bullets rained down ruthlessly on anyone who attempted to help her. a former student recalls a common mantra of hers: "play with love because you are strong."
 
@@ -112,11 +112,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ4NjQyNTMsMTI1NDkyNjMyMywxNT
-k1MDQ2OTEzLDYyOTM4NjYsNTM2OTMyMDYzLC0xODY3Mzc3NTQ1
-LC0xMTQxNDg5ODA0LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMT
-E0OTI2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkz
-ODUsNDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNT
-U1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0Mzcx
+eyJoaXN0b3J5IjpbMzg2MDk2OTUwLC0xODU0ODY0MjUzLDEyNT
+Q5MjYzMjMsMTU5NTA0NjkxMyw2MjkzODY2LDUzNjkzMjA2Mywt
+MTg2NzM3NzU0NSwtMTE0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOT
+E5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5
+NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yOD
+E2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3
 XX0=
 -->
