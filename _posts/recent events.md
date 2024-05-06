@@ -65,7 +65,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
-the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mix of grief and rage. the horrifying truth is that there are (as of the time of writing) 40,000 and counting palestinians who have been murdered in this conflict, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds. 
+the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds. i reject the notion that any one of these people are "martyrs". 
 
 ---
 **scattered commentaries**
@@ -106,11 +106,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTI0MjU5LDYyOTM4NjYsNTM2OTMyMD
-YzLC0xODY3Mzc3NTQ1LC0xMTQxNDg5ODA0LC0xOTQwMDI4Mjc5
-LDE5MTkzMzc3NTMsMTE0OTI2NTcyOCwtNjUxODU2MTcyLDk3MT
-c2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDExLDEzOTE1NjkwODQs
-LTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOT
-MyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDBdfQ==
+eyJoaXN0b3J5IjpbMTEyODE0ODUzNyw2MjkzODY2LDUzNjkzMj
+A2MywtMTg2NzM3NzU0NSwtMTE0MTQ4OTgwNCwtMTk0MDAyODI3
+OSwxOTE5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1NjE3Miw5Nz
+E3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0
+LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MT
+kzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwXX0=
 
 -->
