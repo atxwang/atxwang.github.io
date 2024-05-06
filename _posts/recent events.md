@@ -63,7 +63,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Elham Farah**,
 
-"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. is this closer to self-defense? or is this closer to genocide?
+"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
 
 
@@ -105,11 +105,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM1NTgyNDgsMTkxOTMzNzc1MywxMT
-Q5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4LDgzOTQxOTM4
-NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NT
-UwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEs
-NTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxND
-k4OSwxMTU5NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
-
+eyJoaXN0b3J5IjpbOTkxOTEyMzU0LDE5MTkzMzc3NTMsMTE0OT
+I2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUs
+NDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MD
+M4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4
+OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5OD
+ksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
 -->
