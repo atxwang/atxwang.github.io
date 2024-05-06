@@ -99,7 +99,7 @@ yes, self-defense is not genocide. and genocide is not---and never will be---sel
 -- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed Kalven Report
 
 ---
-it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**. just to be clear, i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of 
+it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**. just to be clear, i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity and stubbornness that pervades the recent wave of campus civil disobedience. 
 
 ---
 a word on frat fascism---and why they will never like you
@@ -110,11 +110,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM2NzIzMzksMTI1NDkyNjMyMywxNT
-k1MDQ2OTEzLDYyOTM4NjYsNTM2OTMyMDYzLC0xODY3Mzc3NTQ1
-LC0xMTQxNDg5ODA0LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMT
-E0OTI2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkz
-ODUsNDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNT
-U1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0Mzcx
-XX0=
+eyJoaXN0b3J5IjpbMzYxNzUwMjk1LDEyNTQ5MjYzMjMsMTU5NT
+A0NjkxMyw2MjkzODY2LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwt
+MTE0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOTE5MzM3NzUzLDExND
+kyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1
+LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NT
+AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MV19
+
 -->
