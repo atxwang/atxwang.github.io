@@ -61,7 +61,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide."
 
-"self-defense is not genocide." Hind Rajab, whose name is now most associated with some nebulously defined 
+"self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, 
 
 
 
@@ -103,10 +103,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDIyODIwMDcsLTY1MTg1NjE3Miw5Nz
-E3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0
-LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MT
-kzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00
-NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3Mj
-Y0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbMjEzNTIzODAzMCwtNjUxODU2MTcyLDk3MT
+c2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDExLDEzOTE1NjkwODQs
+LTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOT
+MyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAsLTQ2
+NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNj
+QsMTQxMTE3Mzk1M119
 -->
