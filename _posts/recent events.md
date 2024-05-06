@@ -28,7 +28,7 @@ everyone believes they are empathetic, altruistic on some fundamental level. yet
 
 three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the tackled violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed a toddler murdered only an american one this time one degree removed one degree removed one degree removed one degree one degree removed 
 
-i didn't want this to be my first post. i yell into the void undeterred, hearing only an echo.
+i didn't want this to be my first post. undeterred, i yell into the void, hearing only an echo.
 
 ---
 
@@ -105,10 +105,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxOTEyMzU0LDE5MTkzMzc3NTMsMTE0OT
-I2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUs
-NDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MD
-M4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4
-OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5OD
-ksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbMTM5NzgwOTIxMCwxOTE5MzM3NzUzLDExND
+kyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1
+LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NT
+AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1
+ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OT
+g5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+
 -->
