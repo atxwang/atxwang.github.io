@@ -65,7 +65,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
-
+the human brain can only hold so much weight. i confess that these four are the individuals i think of most 
 
 ---
 **scattered commentaries**
@@ -106,7 +106,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5NjY2NDg0LDYyOTM4NjYsNTM2OTMyMD
+eyJoaXN0b3J5IjpbMzAxNTA2MzE0LDYyOTM4NjYsNTM2OTMyMD
 YzLC0xODY3Mzc3NTQ1LC0xMTQxNDg5ODA0LC0xOTQwMDI4Mjc5
 LDE5MTkzMzc3NTMsMTE0OTI2NTcyOCwtNjUxODU2MTcyLDk3MT
 c2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDExLDEzOTE1NjkwODQs
