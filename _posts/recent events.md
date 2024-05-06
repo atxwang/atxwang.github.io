@@ -26,7 +26,7 @@ i didn't want this to be my first post. it's not well-organized---it is scattere
 
 everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming, the explosions are just a *tad teensy bit too uncomfortably loud*--so you clutch your pearls and finally say something to the snide effect of "hey folx, maybe bombing is *bad*." here, i cleverly reveal my hand and confess that i, too, am one of these self-centered, impotent, pearl-clutchers bravely volunteering myself into a chorus that has begun to sing 75 years too late. my writing is selfish too--- i'm aware that it may as well not be read by anyone but me, it is simply a way for me alone to "process things", and so i might as well write about something funny or something that makes me happy, yet over months over weeks over days all i can keep thinking is
 
-three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed a toddler murdered one degree removed one degree removed one degree removed one degree one degree removed 
+three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the tackled violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed a toddler murdered only an american one this time one degree removed one degree removed one degree removed one degree one degree removed 
 
 i didn't want this to be my first post. i yell into the void anyway and hear only an echo.
 
@@ -53,7 +53,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct on a definitional level: indeed, definitionally, self-defense is not genocide. definitionally, what is happening in gaza currently may or may not be a genocide indeed, we can argue about 
+i saw a sign at yesterday's counterprotest that read **"self-defense is not genocide"**. the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct on a definitional level: indeed, definitionally, self-defense is not genocide, definitionally, what is happening in gaza currently may or may not be a genocide, and definitionally, we can 
 
 ---
 **selected commentaries**
@@ -92,9 +92,9 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ5NDQ2MTAsODM5NDE5Mzg1LDQzOT
-UyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1
-LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4Mj
-kwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OTg5LDEx
-NTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbLTUxMTc0Nzg4NCw4Mzk0MTkzODUsNDM5NT
+IzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4ODUs
+MTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOT
+A5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1
+OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
 -->
