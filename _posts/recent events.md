@@ -53,9 +53,9 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read **"self-defense is not genocide"**. the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct, of course, that on some theoretical definitional level, indeed, definitionally, self-defense is not genocide, definitionally, what is happening in gaza currently may or may not be a genocide, and definitionally, we can run around in circles before every reaching any semblance of a point. 
+i saw a sign at yesterday's counterprotest that read **"self-defense is not genocide"**. the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct, of course, that on some theoretical hypothetical definitional level, indeed, definitionally, self-defense is not genocide, definitionally, what is happening in gaza currently may or may not be a genocide, and definitionally, we can run around in circles before every reaching any semblance of a point. 
 
-"self-defense is not genocide." the words linger in my head like a terrible, thick miasma of thought. it's not like i haven't heard them before: i've seen them plastered on op-eds, on acquaintances' social media profiles for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself onto the surface of my brain 
+"self-defense is not genocide." the words linger in my head like a terrible, thick miasma of thought. it's not like i haven't heard them before: i've seen them plastered on op-eds, on acquaintances' social media profiles for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself onto the surface of my brain and does not leave.
 
 "self-defense is not genocide." 
 
@@ -103,10 +103,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU2NzYxNzAsLTY1MTg1NjE3Miw5Nz
-E3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0
-LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MT
-kzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00
-NjQ0MTU4MzIsMjc3MzE0OTg5LDExNTk0OTU3MDcsMjcxNTA3Mj
-Y0LDE0MTExNzM5NTNdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTAzNzk0MiwtNjUxODU2MTcyLDk3MT
+c2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDExLDEzOTE1NjkwODQs
+LTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOT
+MyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5NywxMTc1OTg5MDAsLTQ2
+NDQxNTgzMiwyNzczMTQ5ODksMTE1OTQ5NTcwNywyNzE1MDcyNj
+QsMTQxMTE3Mzk1M119
 -->
