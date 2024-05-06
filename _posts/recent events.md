@@ -67,7 +67,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered by the israeli state. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied from each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever*, a fair fight to begin with. let us not mince words. Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, helpless, undignified deaths. although honorable people, they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity, one of the worst in modern history**.
 
-40,000 dead, 80,000 wounded. all of them civilians, most of them children. can this ever be "self-defense"? 
+40,000 dead, 80,000 wounded. all of them civilians, most of them children. can this ever be "self-defense"? can it really be a war when one side has expo markers and the other has bullets, missiles, and tanks?
 "you are trying to destroy me and i will happily prevail," says the girl i know, in her self-satisfied stare. who is trying to destroy whom?
 
 self-defense is not genocide. and genocide is not---and never will be---self-defense.
@@ -114,11 +114,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDkxNjU0OTAsMTI1NDkyNjMyMywxNT
-k1MDQ2OTEzLDYyOTM4NjYsNTM2OTMyMDYzLC0xODY3Mzc3NTQ1
-LC0xMTQxNDg5ODA0LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMT
-E0OTI2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkz
-ODUsNDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNT
-U1MDM4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0Mzcx
-XX0=
+eyJoaXN0b3J5IjpbLTYzNDg1NTAxNSwxMjU0OTI2MzIzLDE1OT
+UwNDY5MTMsNjI5Mzg2Niw1MzY5MzIwNjMsLTE4NjczNzc1NDUs
+LTExNDE0ODk4MDQsLTE5NDAwMjgyNzksMTkxOTMzNzc1MywxMT
+Q5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4LDgzOTQxOTM4
+NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NT
+UwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzFd
+fQ==
 -->
