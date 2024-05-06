@@ -65,7 +65,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
-the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied to each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, a fair fight to begin with. the horrifying, brutal truth is that Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, undignified deaths. they are not martyrs. they are **murder victims, victims of a 75-year-
+the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered ruthlessly by the israeli state. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied to each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever*, a fair fight to begin with. the horrifying, brutal truth is that Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, undignified deaths. they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity**.
 
 ---
 **scattered commentaries**
@@ -106,11 +106,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNDc4OTAsMTU5NTA0NjkxMyw2MjkzOD
-Y2LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwtMTE0MTQ4OTgwNCwt
-MTk0MDAyODI3OSwxOTE5MzM3NzUzLDExNDkyNjU3MjgsLTY1MT
-g1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwx
-MzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MT
-A3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4MjkwOTddfQ==
+eyJoaXN0b3J5IjpbLTczNTYxNzk1MiwxNTk1MDQ2OTEzLDYyOT
+M4NjYsNTM2OTMyMDYzLC0xODY3Mzc3NTQ1LC0xMTQxNDg5ODA0
+LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMTE0OTI2NTcyOCwtNj
+UxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDEx
+LDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OT
+YxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOTA5N119
 
 -->
