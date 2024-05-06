@@ -61,7 +61,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as Abu Shabdi--"father of the poor"--was murdered in an israeli airstrike. famous across gaza for his cheap, often-free and always delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his knafeh truck during the first intifada. 
 
-"self-defense is not genocide." **Elham Farah**, a multi-instrumental musician--violin, piano, organ, accordion--gaza's first music teacher, a ginger-haired old woman known to her neighbors as Mrs Umm al-Orange--"mother orange"--
+"self-defense is not genocide." **Elham Farah**, a multi-instrumental musician--violin, piano, organ, accordion--gaza's first music teacher, a ginger-haired old woman known to her neighbors as Mrs Umm al-Orange--"mother orange"--was ruthlessly shot in the street by an israeli sniper. 
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
@@ -106,11 +106,11 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2OTMyMDYzLC0xODY3Mzc3NTQ1LC0xMT
-QxNDg5ODA0LC0xOTQwMDI4Mjc5LDE5MTkzMzc3NTMsMTE0OTI2
-NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUsND
-M5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4
-ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OT
-gyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5ODld
-fQ==
+eyJoaXN0b3J5IjpbLTExNzAyNDcyMCw1MzY5MzIwNjMsLTE4Nj
+czNzc1NDUsLTExNDE0ODk4MDQsLTE5NDAwMjgyNzksMTkxOTMz
+Nzc1MywxMTQ5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4LD
+gzOTQxOTM4NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMjgxNjY1
+NjYwLDM1NTUwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIwNyw1Mz
+U4NDQzNzEsNTg5ODI5MDk3LDExNzU5ODkwMCwtNDY0NDE1ODMy
+XX0=
 -->
