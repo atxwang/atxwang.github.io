@@ -55,9 +55,9 @@ There but for fortune, go you or go I -- you and I."
 
 i saw a sign at yesterday's counterprotest that read **"self-defense is not genocide"**. the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists, because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct, of course, that on some theoretical hypothetical definitional level, indeed, definitionally, self-defense is not genocide, definitionally, what is happening in gaza currently may or may not be a genocide, and definitionally, we can run around in circles before every reaching any semblance of a point. 
 
-"self-defense is not genocide." the words linger in my head like a terrible, thick miasma of thought.  i've seen them before, plastered on op-eds, on acquaintances' social media profiles, for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself into the surface of my brain and does not leave.
+"self-defense is not genocide." i've seen these words before, plastered on op-eds, on acquaintances' social media profiles, for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself into the surface of my brain and does not leave.
 
-"self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a scholar of Shakespeare, a poet, a father, was murdered 
+"self-defense is not genocide." **Dr. Refaat Alareer**, a professor, a scholar of Shakespeare, a poet, a father, was murdered by an israeli airstrike 
 
 "self-defense is not genocide." **Masoud al-Qutati**,
 
@@ -105,11 +105,10 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzgwOTIxMCwxOTE5MzM3NzUzLDExND
-kyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1
-LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NT
-AzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1
-ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OT
-g5LDExNTk0OTU3MDcsMjcxNTA3MjY0LDE0MTExNzM5NTNdfQ==
-
+eyJoaXN0b3J5IjpbNTI1NDAxNDY3LDE5MTkzMzc3NTMsMTE0OT
+I2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUs
+NDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MD
+M4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4
+OTgyOTA5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5OD
+ksMTE1OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
 -->
