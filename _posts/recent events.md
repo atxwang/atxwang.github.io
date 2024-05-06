@@ -65,7 +65,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
-the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered by the israeli state. i reject the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied from each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever* even a fair fight to begin with. let us not mince words. Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, helpless, undignified deaths. although honorable people, they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity, one of the worst in modern history**.
+the human brain can only hold so much weight. i confess that these four are the individuals i think of most when i think of the phrase "self-defense is not genocide", because they remind me of my own family--my parents, my teachers, my grandparents, my little cousins--and so their deaths fill me with this blinding mixture of grief and rage. the horrifying truth is that there are (as of the time of writing) **40,000 and counting palestinians who have been murdered in this conflict**, 40,000 and counting outspoken Refaats, generous Masouds, loving Elhams, little Hinds slaughtered by the israeli state. i reject soundly the notion that any one of these people are "martyrs". to be a martyr is to die somehow honorably, to die with a dignity denied from each of these individuals for the entirety of their abruptly-ended lives by the brutality of apartheid and state terrorism. to be a martyr is to die fighting for something--and maybe they were doing that--but that obfuscates the very clear fact that there was *never*, *ever*, *ever* even a fair fight to begin with. let us not mince words. Refaat, Masoud, Elham, Hind, and all the rest of the 40,000 died painful, humiliating, helpless, undignified deaths. although honorable people, they are not martyrs. they are **murder victims, victims of a 75-year-long atrocity, one of the worst in modern history**.
 
 40,000 dead, 80,000 wounded. all of them civilians, most of them children. can this ever be "self-defense"? can it really be a war when the enemy has expo markers and we have bullets, missiles, and tanks? "you are trying to destroy me and i will happily prevail," says the girl i know, in her self-satisfied stare. who is trying to destroy whom?
 
@@ -112,11 +112,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTQyNDIwOCwtMTg1NDg2NDI1MywxMj
-U0OTI2MzIzLDE1OTUwNDY5MTMsNjI5Mzg2Niw1MzY5MzIwNjMs
-LTE4NjczNzc1NDUsLTExNDE0ODk4MDQsLTE5NDAwMjgyNzksMT
-kxOTMzNzc1MywxMTQ5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2
-OTU4LDgzOTQxOTM4NSw0Mzk1MjM0MTEsMTM5MTU2OTA4NCwtMj
-gxNjY1NjYwLDM1NTUwMzg4NSwxMjQ5NjEwNzAzLDg3NDE5MzIw
-N119
+eyJoaXN0b3J5IjpbNTc4OTcxMTU2LDIwNjU0MjQyMDgsLTE4NT
+Q4NjQyNTMsMTI1NDkyNjMyMywxNTk1MDQ2OTEzLDYyOTM4NjYs
+NTM2OTMyMDYzLC0xODY3Mzc3NTQ1LC0xMTQxNDg5ODA0LC0xOT
+QwMDI4Mjc5LDE5MTkzMzc3NTMsMTE0OTI2NTcyOCwtNjUxODU2
+MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUsNDM5NTIzNDExLDEzOT
+E1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4ODUsMTI0OTYxMDcw
+M119
 -->
