@@ -57,7 +57,13 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." the words linger in my thoughts like a terrible, thick miasma. it's not like i haven't heard them before: i've seen them plastered on op-eds, on acquaintances' social media profiles for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications. 
 
-"self-defense
+"self-defense is not genocide." 
+
+"self-defense is not genocide."
+
+"self-defense is not genocide." Hind Rajab, whose 
+
+
 
 ---
 **selected commentaries**
@@ -97,7 +103,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjkxMjYxNiw5NzE3NjY5NTgsODM5ND
+eyJoaXN0b3J5IjpbMjA2NTk3MTQwMCw5NzE3NjY5NTgsODM5ND
 E5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAs
 MzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0ND
 M3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3
