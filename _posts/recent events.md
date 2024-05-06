@@ -99,7 +99,7 @@ yes, self-defense is not genocide. and genocide is not---and never will be---sel
 -- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed Kalven Report
 
 ---
-it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**. to be clear, i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades the recent wave of campus civil disobedience. the insistence on some additional demands to divestment, such as the disbanding of universities' private police forces, are perhaps useful as a negotiating tactic but fundamentally unwinnable concessions. the reiteration of phrases like "global intifada" have some very unfortunate implications
+it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**. to be clear, i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades the recent wave of campus civil disobedience. the insistence on some additional demands to divestment, such as the disbanding of universities' private police forces, are perhaps useful as a negotiating tactic but fundamentally unwinnable concessions. the reiteration of phrases like "global intifada" have some very unfortunate implications, which even if unintended are optically horrendous. 
 
 ---
 a word on frat fascism---and why they will never like you
@@ -110,7 +110,7 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQ3NzM5OCwxMjU0OTI2MzIzLDE1OT
+eyJoaXN0b3J5IjpbLTg0MTM2Njg3NCwxMjU0OTI2MzIzLDE1OT
 UwNDY5MTMsNjI5Mzg2Niw1MzY5MzIwNjMsLTE4NjczNzc1NDUs
 LTExNDE0ODk4MDQsLTE5NDAwMjgyNzksMTkxOTMzNzc1MywxMT
 Q5MjY1NzI4LC02NTE4NTYxNzIsOTcxNzY2OTU4LDgzOTQxOTM4
