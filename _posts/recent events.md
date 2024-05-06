@@ -58,6 +58,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 ---
 **selected commentaries**
 > "The five-month massacre in Gaza is not collateral damage, or an unfortunate side effect of the war against Hamas. There is no war against Hamas. Just this. The only military objective is to kill piano teachers and poets...
+> "More famine! More disease! More stillborn children! They think they’re being brave too. The arctic glint of righteousness in their eyes...
 > "Generation after generation of children, throwing themselves into the path of one of the most brutal military machines in human history, smashing their skulls against its steel hull, mangling their limbs in its treads, thousands of them, for seventy-five years, destroying themselves as they try to face down an engine that simply rolls on over the dying and the dead."
 
 --Sam Kriss, [Against the brave](https://samkriss.substack.com/p/against-the-brave), a meditation on the destruction and futility of martyrdom and victimhood
@@ -92,9 +93,9 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTYwMzQxMSw4Mzk0MTkzODUsNDM5NT
-IzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MDM4ODUs
-MTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4OTgyOT
-A5NywxMTc1OTg5MDAsLTQ2NDQxNTgzMiwyNzczMTQ5ODksMTE1
-OTQ5NTcwNywyNzE1MDcyNjQsMTQxMTE3Mzk1M119
+eyJoaXN0b3J5IjpbOTcxNzY2OTU4LDgzOTQxOTM4NSw0Mzk1Mj
+M0MTEsMTM5MTU2OTA4NCwtMjgxNjY1NjYwLDM1NTUwMzg4NSwx
+MjQ5NjEwNzAzLDg3NDE5MzIwNyw1MzU4NDQzNzEsNTg5ODI5MD
+k3LDExNzU5ODkwMCwtNDY0NDE1ODMyLDI3NzMxNDk4OSwxMTU5
+NDk1NzA3LDI3MTUwNzI2NCwxNDExMTczOTUzXX0=
 -->
