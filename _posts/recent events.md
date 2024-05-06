@@ -24,11 +24,11 @@ and as you stride the ones who stay behind trip on bones jutting out from the so
 
 i didn't want this to be my first post. it's not well-organized---it is scattered, vulnerable. it is a barely curated collection of my own shitty writing, articles and essays i keep rereading and reading, memories i have on replay constantly. angry unformed thoughts coalesce. 
 
-everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming, the explosions are just a *tad teensy bit too uncomfortably loud*--so you clutch your pearls and finally say something to the snide effect of "hey folx, maybe bombing is *bad*." here, i cleverly reveal my hand and confess that i, too, am one of these self-centered, impotent, pearl-clutchers bravely volunteering myself into a chorus that has begun to sing 75 years too late. my writing is selfish too--- i'm aware that it may as well not be read by anyone but me, it is simply a way for me alone to "process things", and so i might as well write about something funny or something that makes me happy, yet over months over weeks over days all i can keep thinking is
+everyone believes they are empathetic, altruistic on some fundamental level. yet statistics, history, headlines---the pure *mass* of things---blind us. it is human nature to only start caring when you hear the bombs fall--not *on* you, because they never will, because you are not a victim and you will always be a few degrees removed from the people who really are--but near you, just a bit too close, the screaming, the explosions are just a *tad teensy bit too uncomfortably loud*--so you clutch your pearls and finally say something to the snide effect of "hey folx, maybe bombing is *bad*." here, i cleverly reveal my hand and confess that i, too, am one of these self-centered, impotent, pearl-clutchers bravely volunteering myself into a chorus that has begun to sing 75 years too late. my writing is selfish too--- i'm aware that it may as well not be read by anyone but me, it is simply a way for me alone to "make sense of things", and so i might as well write about something funny or something that makes me happy, yet over months over weeks over days all i can keep thinking is
 
 three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the tackled violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed a toddler murdered only an american one this time one degree removed one degree removed one degree removed one degree one degree removed 
 
-i didn't want this to be my first post. i yell into the void anyway, and hear only an echo.
+i didn't want this to be my first post. i yell into the void undeterred, hearing only an echo.
 
 ---
 
@@ -58,6 +58,8 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 "self-defense is not genocide." the words linger in my head like a terrible, thick miasma of thought.  i've seen them before, plastered on op-eds, on acquaintances' social media profiles, for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself into the surface of my brain and does not leave.
 
 "self-defense is not genocide." **Dr. Refaat Alareer**, 
+
+"self-defense is not genocide." **Masoud al-Qutati**
 
 "self-defense is not genocide."
 
@@ -103,7 +105,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTg1NTgyLDE5MTkzMzc3NTMsMTE0OT
+eyJoaXN0b3J5IjpbLTI4NzczODIzLDE5MTkzMzc3NTMsMTE0OT
 I2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OCw4Mzk0MTkzODUs
 NDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2NTY2MCwzNTU1MD
 M4ODUsMTI0OTYxMDcwMyw4NzQxOTMyMDcsNTM1ODQ0MzcxLDU4
