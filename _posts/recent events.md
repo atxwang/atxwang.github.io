@@ -69,7 +69,7 @@ the human brain can only hold so much weight. i confess that these four are the 
 
 40,000 dead, 80,000 wounded. all of them civilians, most of them children. can this ever be "self-defense"? can it really be a war when the enemy has expo markers and we have bullets, missiles, and tanks? "you are trying to destroy me and i will happily prevail," says the girl i know, in her self-satisfied stare. who is trying to destroy whom?
 
-yes, self-defense is not genocide. and genocide is not---and never will be---self-defense.
+yes, i think, self-defense is not genocide. and genocide is not---and never will be---self-defense.
 
 ---
 **scattered commentaries**
@@ -112,7 +112,7 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MDk2OTUwLC0xODU0ODY0MjUzLDEyNT
+eyJoaXN0b3J5IjpbMzU4ODEwMDM3LC0xODU0ODY0MjUzLDEyNT
 Q5MjYzMjMsMTU5NTA0NjkxMyw2MjkzODY2LDUzNjkzMjA2Mywt
 MTg2NzM3NzU0NSwtMTE0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOT
 E5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5
