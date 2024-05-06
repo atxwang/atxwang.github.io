@@ -61,7 +61,7 @@ i saw a sign at yesterday's counterprotest that read **"self-defense is not geno
 
 "self-defense is not genocide." **Masoud al-Qutati**, known by the people of gaza as Abu Shabdi--"father of the poor"--was murdered in an israeli airstrike. famous across gaza for his cheap, often-free and always delicious knafeh, he told an interviewer: "i just love to please god and the poor. everything i sell is for the sake of god." his brutal execution was the final suppression of his unfettered generosity by the israeli "defense" force, after they had destroyed his knafeh truck during the first intifada. 
 
-"self-defense is not genocide." **Elham Farah**, a multi-instrumental musician--violin, piano, organ, accordion--gaza's first music teacher, a ginger-haired old woman known to her neighbors as Mrs Umm al-Orange--"mother orange"--was ruthlessly shot in the street by an israeli sniper after leaving the church she sheltered in only to 
+"self-defense is not genocide." **Elham Farah**, a multi-instrumental musician--violin, piano, organ, accordion--gaza's first music teacher, a ginger-haired old woman known to her neighbors as Mrs Umm al-Orange--"mother orange"--was ruthlessly shot in the street by an israeli sniper after leaving the church she sheltered in only to retrieve some warmer clothes. as she bled out, dying, israeli bullets rained down on any who attempted to help her.
 
 "self-defense is not genocide." **Hind Rajab**, whose name is now most associated with some ill-defined idea of misguided teenage rebellion instead of the six-year-old girl it actually belonged to, was murdered by merciless gunfire from israeli tanks, along with the rest of her family, while escaping gaza city. her final words were spoken alone, trapped, shaking, during a call with the red cross--"i'm so scared, please come. come take me. please, will you come?"--before israeli missiles destroyed the very ambulance bringing her aid. 
 
@@ -106,7 +106,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDEzNTQ1MjgsNTM2OTMyMDYzLC0xOD
+eyJoaXN0b3J5IjpbLTEwMDk1NDQyNDMsNTM2OTMyMDYzLC0xOD
 Y3Mzc3NTQ1LC0xMTQxNDg5ODA0LC0xOTQwMDI4Mjc5LDE5MTkz
 Mzc3NTMsMTE0OTI2NTcyOCwtNjUxODU2MTcyLDk3MTc2Njk1OC
 w4Mzk0MTkzODUsNDM5NTIzNDExLDEzOTE1NjkwODQsLTI4MTY2
