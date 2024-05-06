@@ -55,13 +55,13 @@ There but for fortune, go you or go I -- you and I."
 
 i saw a sign at yesterday's counterprotest that read **"self-defense is not genocide"**. the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct, of course, on a definitional level: indeed, definitionally, self-defense is not genocide, definitionally, what is happening in gaza currently may or may not be a genocide, and definitionally, we can run around in circles before every reaching any semblance of a point. 
 
-"self-defense is not genocide." the words linger in my thoughts like a terrible, thick miasma. it's not like i haven't heard them before: i've seen them plastered on op-eds, on acquaintances' social media profiles for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications. 
+"self-defense is not genocide." the words linger in my thoughts like a terrible, thick miasma. it's not like i haven't heard them before: i've seen them plastered on op-eds, on acquaintances' social media profiles for months. but something about the smugness, the shit-eating condescension, the seeming joy and *blatant lack of shame* taken in projecting such an innocuous phrase with all its underhanded implications, scorches itself onto the surface of my brain 
 
 "self-defense is not genocide." 
 
 "self-defense is not genocide."
 
-"self-defense is not genocide." Hind Rajab, whose 
+"self-defense is not genocide." Hind Rajab, whose name is now most associated with 
 
 
 
@@ -103,7 +103,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTk3MTQwMCw5NzE3NjY5NTgsODM5ND
+eyJoaXN0b3J5IjpbLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5ND
 E5Mzg1LDQzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAs
 MzU1NTAzODg1LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0ND
 M3MSw1ODk4MjkwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3
