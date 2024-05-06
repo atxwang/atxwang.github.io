@@ -28,7 +28,7 @@ everyone believes they are empathetic, altruistic on some fundamental level. yet
 
 three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed a toddler murdered one degree removed one degree removed one degree removed one degree one degree removed 
 
-i didn't want this to be my first post. i yell into the void anyway.
+i didn't want this to be my first post. i yell into the void anyway and hear only an echo.
 
 ---
 
@@ -53,7 +53,7 @@ There but for fortune, go you or go I -- you and I."
 
 ---
 
-i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from university events, from mailing lists because we are both students, about the same age, at the same school--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct on a definitional level. indeed, self-defense, definitionally, is not genocide, indeed, there is 
+i saw a sign at yesterday's counterprotest that read "self-defense is not genocide". the girl who brandished it---whose face i recognized from club meetings, from campus-wide events, from mailing lists because we are both students, about the same age, at the same university--was putting on a show, dancing, clapping, smiling, as if to say "you are trying to destroy me and i will happily prevail." she is correct on a definitional level: indeed, self-defense, definitionally, is not genocide, indeed, there is some ambiguity 
 
 ---
 **selected commentaries**
@@ -92,7 +92,7 @@ a word on frat fascism and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkyNjY2ODgsODM5NDE5Mzg1LDQzOT
+eyJoaXN0b3J5IjpbLTE5MjY5ODAzNTUsODM5NDE5Mzg1LDQzOT
 UyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1
 LDEyNDk2MTA3MDMsODc0MTkzMjA3LDUzNTg0NDM3MSw1ODk4Mj
 kwOTcsMTE3NTk4OTAwLC00NjQ0MTU4MzIsMjc3MzE0OTg5LDEx
