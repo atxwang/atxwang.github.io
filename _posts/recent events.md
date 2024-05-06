@@ -28,7 +28,7 @@ everyone believes they are empathetic, altruistic on some fundamental level. yet
 
 three degrees removed from families displaced from people killed probably i don't know but probably and if they were it was probably brutal two degrees removed from the tackled violently arrested someone's mother someone's brother someone's friend someone shot and paralyzed a toddler murdered only an american one this time one degree removed one degree removed one degree removed one degree one degree removed 
 
-i didn't want this to be my first post. undeterred, i yell into the void, hearing only an echo.
+i didn't want this to be my first post. i yell into the void undeterred, hearing only an echo in return.
 
 ---
 
@@ -99,7 +99,7 @@ yes, i think, self-defense is not genocide. and genocide is not---and never will
 -- Gabriel Winant, [On Expression and Disruption](https://chicagomaroon.com/42441/viewpoints/op-ed/on-expression-and-disruption/), a UChicago professor's thoughts on the university's application of its famed Kalven Report
 
 ---
-it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**.  i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades campus civil disobedience. the idealistic insistence on additional demands to divestment, such as the disbanding of universities' private police forces and the cessation of construction in gentrified neighborhoods, are perhaps useful as a negotiating tactic, but are fundamentally unwinnable concessions simply because their immediate consequences would almost certainly be disastrous. the reiteration of phrases like "global intifada" have some very unfortunate implications, which, even if unintended, are optically horrendous. on a lighter note, the fundamental "vibe" of these protests is often very "cringe", seemingly untargeted in an endearing, young, insufferably principled leftist kind of way. here at uchicago, we've had events like "djs for palestine" and "acupuncture"--mere microns away from singing kumbayah, hand in hand, as smores roast on a bonfire. yuck!
+it is no surprise to me that the protests run by juveniles represent **a juvenile idea of protest**.  i have no right to be talking shit--i have never even attempted to organize anything substantively--but i believe that there is a kind of ideological insularity, stubbornness, and unseriousness that pervades campus civil disobedience. the idealistic insistence on additional demands to divestment, such as the disbanding of universities' private police forces and the cessation of construction in gentrified neighborhoods, are perhaps useful as a negotiating tactic, but are fundamentally unwinnable concessions simply because their immediate consequences would almost certainly be disastrous. the reiteration of phrases like "global intifada" have some very unfortunate implications, which, even if unintended, are optically horrendous. on a lighter note, the fundamental "vibe" of these protests is often very "cringe", seemingly untargeted in a young, insufferably-principled leftist kind of way. here at uchicago, we've had events like "djs for palestine" and "acupuncture"--events mere microns away from singing kumbayah, hand in hand, as smores roast on a bonfire. 
 
 these 
 
@@ -112,11 +112,11 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzA5NDg4NCwyMDY1NDI0MjA4LC0xOD
-U0ODY0MjUzLDEyNTQ5MjYzMjMsMTU5NTA0NjkxMyw2MjkzODY2
-LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwtMTE0MTQ4OTgwNCwtMT
-k0MDAyODI3OSwxOTE5MzM3NzUzLDExNDkyNjU3MjgsLTY1MTg1
-NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1LDQzOTUyMzQxMSwxMz
-kxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAzODg1LDEyNDk2MTA3
-MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NTI4MjU5MzksMTc0MzA5NDg4NCwyMD
+Y1NDI0MjA4LC0xODU0ODY0MjUzLDEyNTQ5MjYzMjMsMTU5NTA0
+NjkxMyw2MjkzODY2LDUzNjkzMjA2MywtMTg2NzM3NzU0NSwtMT
+E0MTQ4OTgwNCwtMTk0MDAyODI3OSwxOTE5MzM3NzUzLDExNDky
+NjU3MjgsLTY1MTg1NjE3Miw5NzE3NjY5NTgsODM5NDE5Mzg1LD
+QzOTUyMzQxMSwxMzkxNTY5MDg0LC0yODE2NjU2NjAsMzU1NTAz
+ODg1XX0=
 -->
