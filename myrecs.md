@@ -5,17 +5,17 @@ title: my recs
 
 **music**: 
 
-my current seasonal playlist: [spring 2024](https://open.spotify.com/playlist/0OFtDN3NGdug377KSPLSDr?si=dcefb2cf505b47a9)
+my current seasonal playlist: [summer 2024](https://open.spotify.com/playlist/01iELH2QPvppIwuO66EJ4C?si=ba20326511ed4389)
 
-what's next: more Jane Remover, Sun Kil Moon, Neil Young, COLD VISIONS
+what's next: more Jane Remover, Sun Kil Moon, Neil Young, Snow Strippers
 
 my all times: The Smiths, Sufjan Stevens, Bladee
 
 **books**:
 
-currently reading: *Portnoy's Complaint* by Philip Roth
+currently reading: *The Artificial Kingdom: On the Kitsch Experience* by Celeste Olalquiaga
 
-what's next: *The Signal and the Noise* by Nate Silver, *The Name of the Rose* by Umberto Eco, *The Invisibility Cloak* by Ge Fei
+what's next: *The Name of the Rose* by Umberto Eco
 
 my all times: *Slouching Towards Bethlehem* by Joan Didion, *One Hundred Years of Solitude* by Gabriel Garcia Marquez, *The Three-Body Problem* by Cixin Liu
 
