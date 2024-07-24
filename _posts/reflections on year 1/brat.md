@@ -6,7 +6,7 @@ tags: [essay, music, pop culture]
 ---
 [obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
 
-is there a recent cultural phenomenon more memefied, pervasive, and celebrated than Charli xcx's "BRAT"? Charli 
+has there ever been a cultural phenomenon more memefied, pervasive, and celebrated than Charli xcx's *BRAT*?  Charli's greatest critical and commercial success yet has not only launche
 "brat" has become a meaningless, superficial signaling word for some archetypal cool girl or gay identity. "brat summer" means parties and poppers. it has become a catch all icon in advertising[bratwurst], tiktok trends[apple dance], and overton window american politics[kamala harris campaign]. how the fuck did we end up here?
 
 charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
@@ -21,7 +21,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDM1NzQ3NSwtMjA1Mzc5MDY4OCwtMT
-czMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4
-NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbLTE2MzU3MTYwMzMsLTIwNTM3OTA2ODgsLT
+E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
+ODU1LDY2MDI5NTYzMl19
 -->
