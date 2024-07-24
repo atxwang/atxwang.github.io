@@ -35,10 +35,28 @@ the primary example of this would be the non-profit 80,000 hours, which (afaik) 
 
 even beyond organized efforts like 80k, which can be rather polarizing, i think EA as a conglomerate offers quite a lot of value in mentorship, learning resources, networking, etc. if you're considering a career in say, biorisk or emerging technology, all you have to do is put yourself out there and multiple EAs in that field will have a comprehensive collection of adjacent resources and connections to share to you. maybe this kind of thing doesn't need the "effective altruism" label, but i'm honestly unsure if it would exist in the capacity it does without the big tent EA movement behind it.
 
+---
+***Scattered thoughts on recent events***
+---
+**to the ones who walk away**
+
+be swift resolute proud let immovable strides carry you
+past poppy fields past fig trees past clear skies where in lieu of soaring kites there is terrifying rain
+past border walls past stones and slingshots past the cages in which human animals are detained
+
+past glorious gates standing valiantly in defense against that terrible paradox: a child
+
+suffering
+
+screaming
+
+and as you stride the ones who stay behind trip on bones jutting out from the soil---
+---grasping limbs they refuse to see
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTUwNzQ3OSw1NzAzNjk0ODIsLTEyMj
-E4NzQ5MDddfQ==
+eyJoaXN0b3J5IjpbMzE2ODQ1MjAxLDE3NzE1MDc0NzksNTcwMz
+Y5NDgyLC0xMjIxODc0OTA3XX0=
 -->
