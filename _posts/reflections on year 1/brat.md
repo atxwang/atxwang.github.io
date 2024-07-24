@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Impact is what you make of it
-subtitle: EA is indeed a form of effective altruism
-tags: [effective altruism, essay]
+title: Who the fuck is "brat"?
+subtitle: Girl, so confusing
+tags: [essay, music, pop culture]
 ---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbNDA0NDE5MTYyLDY2MDI5NTYzMl19
 -->
