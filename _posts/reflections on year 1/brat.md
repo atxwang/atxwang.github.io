@@ -12,10 +12,12 @@ enter pc music. personal computer music, not the pop music of the future but the
 
 brat is an ode to that era and to the remnants of xcxworld. so i, spring breakers, club classics all harken back to that era and sound. brat is so online, so focused on random online pop girl drama like von dutch and girl, so confusing. so focused on random online figures like with mean girls and 360, everything in pinterest boards like everything is romantic. 
 
-but this is not a positive thing. the brat character is so online, so self obsessive and self destructive, this is a continuation of charli's mentally ill party girl. i might say something stupid, sympathy is a knife, and b2b are so pathetic. von dutch is mean spirited, apple is juvenile. she so desperately wants to mature (i think about it all the time) but falls back into destruction, hedonism, hard drugs (365). this is why no political controversy involving charli matters
+but this is not a positive thing. the brat character is so online, so self obsessive and self destructive, this is a continuation of charli's mentally ill party girl. i might say something stupid, sympathy is a knife, and b2b are so pathetic. von dutch is mean spirited, apple is juvenile. she so desperately wants to mature (i think about it all the time) but falls back into destruction, hedonism, hard drugs (365). this is why no political controversy involving charli matters, her connections with red scare or dasha don't matter bc she's not even attempting to portray an admirable character. mean girls is tongue in cheek, she's so intelligent isn't she...
+
+and yet the bops go so hard, the songs are so danceable, they're all club classics, so people don't
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzUzNDIwOCwxMTgwNjAxNzksNjY2OT
-IzNjA2LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbLTE3NDkwOTk5ODEsMTE4MDYwMTc5LDY2Nj
+kyMzYwNiwtMjczNDkzODU1LDY2MDI5NTYzMl19
 -->
