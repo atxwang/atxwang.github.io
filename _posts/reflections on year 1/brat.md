@@ -12,10 +12,10 @@ enter pc music. personal computer music, not the pop music of the future but the
 
 brat is an ode to that era and to the remnants of xcxworld. so i, spring breakers, club classics all harken back to that era and sound. brat is so online, so focused on random online pop girl drama like von dutch and girl, so confusing. so focused on random online figures like with mean girls and 360, everything in pinterest boards like everything is romantic. 
 
-but this is not a positive thing. the brat character is so online, so self obsessive and self destructive, this is a continuation of charli's mentally ill party girl. i might say something stupid, sympathy is a knife, and b2b are so pathetic. von dutch is mean spirited, apple is juvenile. she so desparately wants to mature
+but this is not a positive thing. the brat character is so online, so self obsessive and self destructive, this is a continuation of charli's mentally ill party girl. i might say something stupid, sympathy is a knife, and b2b are so pathetic. von dutch is mean spirited, apple is juvenile. she so desperately wants to mature (i think about it all the time) but falls back into destruction, hedonism, hard drugs (365). this is why no political controversy involving charli matters
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyODA2NjgyLDExODA2MDE3OSw2NjY5Mj
-M2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbLTUxNzUzNDIwOCwxMTgwNjAxNzksNjY2OT
+IzNjA2LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
 -->
