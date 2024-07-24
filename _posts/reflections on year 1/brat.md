@@ -4,7 +4,7 @@ title: Who the fuck is "brat"?
 subtitle: Girl, so confusing
 tags: [essay, music, pop culture]
 ---
-
+brat has become an almost meaningless
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0NDE5MTYyLDY2MDI5NTYzMl19
+eyJoaXN0b3J5IjpbLTM3NzcxMTk0Myw2NjAyOTU2MzJdfQ==
 -->
