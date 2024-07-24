@@ -6,16 +6,16 @@ tags: [essay, music, pop culture]
 ---
 brat has become an almost meaningless, superficial signaling word for parties, poppers, hedonism. it has become a catch all icon in advertising[bratwurst], tiktok trends[apple dance], and overton window american politics[kamala harris campaign]. how the fuck did this happen?
 
-charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn.
+charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
 
 enter pc music. personal computer music, not the pop music of the future but the music of the present. irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". the ultimate goal of pc music was to get their dark and cynical lyrics into consumer culture and mass advertising. hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... this is the genre which was supposed to but never did manifest in xcxworld.
 
 brat is an ode to that era and to the remnants of xcxworld. so i, spring breakers, club classics all harken back to that era and sound. brat is so online, so focused on random online pop girl drama like von dutch and girl, so confusing. so focused on random online figures like with mean girls and 360, everything in pinterest boards like everything is romantic. 
 
-but this is not a positive thing. the brat character is so online, so self obsessive and self destructive. i might say something stupid, sympathy is a knife are so pathetic. von dutch is mean spiri
+but this is not a positive thing. the brat character is so online, so self obsessive and self destructive, this is a continuation of charli's mentally ill party girl. i might say something stupid, sympathy is a knife, and b2b are so pathetic. von dutch is mean spirited, apple is juvenile. she so desparately wants to mature
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MjgwMDEwLDExODA2MDE3OSw2NjY5Mj
+eyJoaXN0b3J5IjpbODIyODA2NjgyLDExODA2MDE3OSw2NjY5Mj
 M2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2MzJdfQ==
 -->
