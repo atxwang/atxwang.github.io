@@ -4,9 +4,9 @@ title: Who the fuck is "brat"?
 subtitle: Girl, so confusing
 tags: [essay, music, pop culture]
 ---
-obligatory s
+[obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
 
-brat has become an almost meaningless, superficial signaling word for parties, poppers, hedonism. it has become a catch all icon in advertising[bratwurst], tiktok trends[apple dance], and overton window american politics[kamala harris campaign]. how the fuck did this happen?
+"brat" has become an almost meaningless, superficial signaling word for parties, poppers, hedonism. it has become a catch all icon in advertising[bratwurst], tiktok trends[apple dance], and overton window american politics[kamala harris campaign]. how the fuck did this happen?
 
 charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
 
@@ -20,7 +20,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODM4OTczMSwtMjA1Mzc5MDY4OCwtMT
-czMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4
-NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbLTIwNDMwMzIzNTYsLTIwNTM3OTA2ODgsLT
+E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
+ODU1LDY2MDI5NTYzMl19
 -->
