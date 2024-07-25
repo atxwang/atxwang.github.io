@@ -12,6 +12,10 @@ has there ever been a cultural phenomenon more memefied, pervasive, and celebrat
 ---
 charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
 
+
+
+
+
 **cult classic but i still pop**
 ---
 enter pc music. personal computer music, not the pop music of the future but the music of the present. irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". the ultimate goal of pc music was to get their dark and cynical lyrics into consumer culture and mass advertising. hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... this is the genre which was supposed to but never did manifest in xcxworld.
@@ -26,7 +30,8 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE3MDY2NzcsMzkyNzUwMzg5LC05Nz
-I3NjYwOSwtMjA1Mzc5MDY4OCwtMTczMDU5NzAwNywxMTgwNjAx
-NzksNjY2OTIzNjA2LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbLTE0MDI5ODE4NjksLTExNTE3MDY2NzcsMz
+kyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMTczMDU5
+NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4NTUsNj
+YwMjk1NjMyXX0=
 -->
