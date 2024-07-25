@@ -14,7 +14,7 @@ has there ever been a cultural phenomenon more memefied, pervasive, and celebrat
 
 even before the brat explosion, Charli xcx had become memeified as a (not quite) "main pop girl", a revered herald of a new kind of future pop unlistenable to all but a select group of rabid twink fans. this image of her is not false but instead incomplete. Charli's music is of course sassy and experimental, a mix of danceably ecstatic energy and metallic clanging, but also raw, confessional, bitter, self-loathing. at heart, Charli is as much of a sad girl as Phoebe Bridgers, she just cries in the club instead of at the funeral. 
 
-unfiltered nature of the disavowed debut album *14* aside, Charli's earliest influences were punk, post punk, and new wave--Siouxsie Sioux, The Cure, etc.--the ur-examples of depression and angst with a driving groove. *True Romance* delivers something like 80's New Order's take on 90's cybergoth with driving synths 
+unfiltered nature of the disavowed debut album *14* aside, Charli's earliest influences were punk, post punk, and new wave--Siouxsie Sioux, The Cure, etc.--the ur-examples of depression and angst with a driving groove. *True Romance* delivers something like 80's New Order's take on 90's cybergoth with driving synths and sawtooth bass, and lyrics throughout 
 
 
 **cult classic but i still pop**
@@ -31,8 +31,8 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzAwNzY3MiwtMTk1MzMzNDQyOSwtMT
-E1MTcwNjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkw
-Njg4LC0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLT
-I3MzQ5Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbNzk5NTM5NjQzLC0xOTUzMzM0NDI5LC0xMT
+UxNzA2Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2
+ODgsLTE3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMj
+czNDkzODU1LDY2MDI5NTYzMl19
 -->
