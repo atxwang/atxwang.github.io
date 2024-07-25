@@ -12,7 +12,7 @@ has there ever been a cultural phenomenon more memefied, pervasive, and celebrat
 ---
 charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
 
-even before the brat explosion, Charli xcx had become memeified as a (not-quite) "main pop girl", a revered herald of a new kind of future pop unlistenable to all but a select group of rabid twinks. 
+even before the brat explosion, Charli xcx had become memeified as a (not-quite) "main pop girl", a revered herald of a new kind of future pop unlistenable to all but a select group of rabid twinks. this image of her is not false but rather incomplete. 
 
 **cult classic but i still pop**
 ---
@@ -28,7 +28,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMjAwMTg3LC0xOTUzMzM0NDI5LC0xMT
+eyJoaXN0b3J5IjpbNzkwNjg4MDA5LC0xOTUzMzM0NDI5LC0xMT
 UxNzA2Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2
 ODgsLTE3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMj
 czNDkzODU1LDY2MDI5NTYzMl19
