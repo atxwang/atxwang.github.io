@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who the fuck is "brat"?
-subtitle: cult classic 
+subtitle: Girl, so confusing
 tags: [essay, music, pop culture]
 ---
 [obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
@@ -12,6 +12,7 @@ has there ever been a cultural phenomenon more memefied, pervasive, and celebrat
 ---
 charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
 
+**
 enter pc music. personal computer music, not the pop music of the future but the music of the present. irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". the ultimate goal of pc music was to get their dark and cynical lyrics into consumer culture and mass advertising. hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... this is the genre which was supposed to but never did manifest in xcxworld.
 
 brat is an ode to that era and to the remnants of xcxworld. so i, spring breakers, club classics all harken back to that era and sound. brat is so online, so focused on random online pop girl drama like von dutch and girl, so confusing. so focused on random online figures like with mean girls and 360, everything in pinterest boards like everything is romantic. 
@@ -22,7 +23,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDI5OTU2NCwzOTI3NTAzODksLTk3Mj
-c2NjA5LC0yMDUzNzkwNjg4LC0xNzMwNTk3MDA3LDExODA2MDE3
-OSw2NjY5MjM2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzM5MjUzODQsMzkyNzUwMzg5LC05Nz
+I3NjYwOSwtMjA1Mzc5MDY4OCwtMTczMDU5NzAwNywxMTgwNjAx
+NzksNjY2OTIzNjA2LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
 -->
