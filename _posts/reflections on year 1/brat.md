@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who the fuck is "brat"?
-subtitle: Girl, so confusing
+subtitle: cult classic 
 tags: [essay, music, pop culture]
 ---
 [obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
@@ -22,7 +22,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDQzNzc5OCwzOTI3NTAzODksLTk3Mj
+eyJoaXN0b3J5IjpbMTU5MDI5OTU2NCwzOTI3NTAzODksLTk3Mj
 c2NjA5LC0yMDUzNzkwNjg4LC0xNzMwNTk3MDA3LDExODA2MDE3
 OSw2NjY5MjM2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2MzJdfQ==
 -->
