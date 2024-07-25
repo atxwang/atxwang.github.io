@@ -10,11 +10,11 @@ has there ever been a cultural phenomenon more memefied, pervasive, and celebrat
 
 **666 with a princess streak**
 ---
-charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
+*charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now*
 
 even before the brat explosion, Charli xcx had become memeified as a (not quite) "main pop girl", a revered herald of a new kind of future pop unlistenable to all but a select group of rabid twink fans. this image of her is not false but instead incomplete. Charli's music is of course sassy and experimental, a mix of danceably ecstatic energy and metallic clanging, but also raw, confessional, bitter, self-loathing. at heart, Charli is as much of a sad girl as Phoebe Bridgers, she just cries in the club instead of at the funeral. 
 
-unfiltered nature of the disavowed debut album *14* aside, Charli xcx's earliest influences were punk, post punk, and new wave--Siouxsie Sioux, The Cure, etc.--the ur-examples of depression and angst with a driving groove. 
+unfiltered nature of the disavowed debut album *14* aside, Charli's earliest influences were punk, post punk, and new wave--Siouxsie Sioux, The Cure, etc.--the ur-examples of depression and angst with a driving groove. *True Romance* delivers 
 
 
 **cult classic but i still pop**
@@ -31,8 +31,8 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg4NDgxNjcsLTE5NTMzMzQ0MjksLT
-ExNTE3MDY2NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mzc5
-MDY4OCwtMTczMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC
-0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbMTIyNzU5MzY1MSwtMTk1MzMzNDQyOSwtMT
+E1MTcwNjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkw
+Njg4LC0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLT
+I3MzQ5Mzg1NSw2NjAyOTU2MzJdfQ==
 -->
