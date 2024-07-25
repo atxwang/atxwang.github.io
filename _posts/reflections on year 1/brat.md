@@ -8,6 +8,8 @@ tags: [essay, music, pop culture]
 
 has there ever been a cultural phenomenon more memefied, pervasive, and celebrated than Charli xcx's *BRAT*?  Charli's greatest critical and commercial success yet has not only launched her from underground icon to mainstream recognition but also metastasized its way into every information highway of our consumption-obsessed culture. "brat" has become a meaningless, superficial signaling word for some archetypal cool girl/gay. "brat summer" means parties and poppers, "brat green" means matcha and margaritas. "brat" is a catch all icon, an [advertising catchphrase](https://www.delish.com/food-news/a61500647/field-roast-brat-wurst-charli-xcx/), [tiktok trend](https://www.youtube.com/watch?v=nLe0YHj6HCI), and the [democratic party's 2024 presidential campaign anthem](https://www.cbsnews.com/video/how-vice-president-kamala-harris-became-brat/). how the fuck did we get here?
 
+---
+
 charlixcx as an artist makes sad girl bops. club anthems about hating yourself and wanting to leave. of course she was influenced by punk and post punk ie. the cure's kiss me kiss me kiss me as well as artists like robyn. examples: gone, the near entirety of how i'm feeling now
 
 enter pc music. personal computer music, not the pop music of the future but the music of the present. irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". the ultimate goal of pc music was to get their dark and cynical lyrics into consumer culture and mass advertising. hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... this is the genre which was supposed to but never did manifest in xcxworld.
@@ -20,7 +22,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mz
-c5MDY4OCwtMTczMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2
-LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbLTE0NTU4NjI3MzYsMzkyNzUwMzg5LC05Nz
+I3NjYwOSwtMjA1Mzc5MDY4OCwtMTczMDU5NzAwNywxMTgwNjAx
+NzksNjY2OTIzNjA2LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
 -->
