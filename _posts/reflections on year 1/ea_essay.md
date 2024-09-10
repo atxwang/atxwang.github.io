@@ -36,9 +36,9 @@ of course, this "networking with a cause" isn't the only major value of EA.
 
 **Veganism--- "ethical consumption"**
 -
-unsure if this is a nuclear take, but i think one of the greatest failures of the modern left (especially the environmental left) is the complete ignorance on veganism.
+possible nuclear take ah, but i think one of the greatest failures of the modern left (especially the environmental left) is the complete ignorance on veganism.
 
-a lot of idiotic online politics discourse is dominated by conservatives 
+a lot of idiotic online politics discourse is dominated by conservatives accusing leftists of hypocrisy for simply living in a society: "if child labor bad, why use iPhone (product of child labor)? if 
 
 **Longtermism, philosophy, and more opaque benefits**
 -
@@ -50,6 +50,6 @@ a lot of idiotic online politics discourse is dominated by conservatives
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzUxNzg1MiwtMTM3NTA4NzAsMTA3MT
-YxNzEwNSwtODkwMjcxNjI2XX0=
+eyJoaXN0b3J5IjpbLTIwNDEzNjI1ODcsLTEzNzUwODcwLDEwNz
+E2MTcxMDUsLTg5MDI3MTYyNl19
 -->
