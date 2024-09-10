@@ -10,7 +10,7 @@ has there ever been a cultural phenomenon more memefied, pervasive, and celebrat
 
 **666 with a princess streak**
 ---
-even before the brat explosion, Charli xcx had become memeified as a (not quite) "main pop girl", a revered herald of a new kind of future pop unlistenable to all but a select group of rabid twink fans. this image of her is not false but instead incomplete. Charli's music is of course sassy and experimental, a mix of danceably ecstatic energy and metallic clanging, but also raw, confessional, bitter, self-loathing. at heart, Charli is as much of a sad, self-obsessed girl as Phoebe Bridgers, she just cries in the club instead of at the funeral. 
+even before the brat explosion, Charli xcx had become memeified as a (not quite) "main pop girl", a revered herald of a new kind of future pop unlistenable to all but a select group of rabid twink fans. this image of her is not false but instead incomplete. Charli's music is of course sassy and experimental, a mix of danceably ecstatic energy and metallic clanging, but also raw, confessional, bitter, self-loathing. at heart, Charli is as much of a self-obsessed sad girl as Phoebe Bridgers, she just cries in the club instead of at the funeral. 
 
 unfiltered nature of the disavowed debut album *14* aside, Charli's earliest influences were post punk and new wave--Siouxsie Sioux, The Cure, etc.--the ur-examples of depression and angst with a driving groove. *True Romance* delivers something like 80's New Order's take on 90's cybergoth raves with driving synths and sawtooth bass. the lyrics throughout depict the desperate cling to a tumultuous relationship in which Charli seems to keep fucking up or falling victim to manipulation, Bizarre Love Triangle-style. she cheats,  he cheats, she lies, he lies, she can't resist crawling back and the cycle repeats.
 
@@ -57,9 +57,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcwMjAyMTQsMTUwMTE3MDIzNywyMD
-I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
-NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
-0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
-Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbMTI2MDkwNjg3MiwxNTAxMTcwMjM3LDIwMj
+Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
+Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
+E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
+ODU1LDY2MDI5NTYzMl19
 -->
