@@ -33,6 +33,8 @@ https://www.youtube.com/embed/HoruBmqzT1s?si=NQi0WEwUN0hKJ3nl" frameborder="0" a
 
 accordingly, i feel that a major goal of PC Music was to get their weird, off-putting, surrealist, often dark and cynical music into consumer culture and mass advertising. SOPHIE's Lemonade---a song with nonsense repetitive lyrics with a tinge of darkness---made its way into McDonald's ads, and she later produced for Madonna in a song widely declared to be a last sad, desperate cling to fading youth.
 
+the ur-example of this is Hey QT, a collaboration between AG and SOPHIE as faceless producers, 
+
 hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... 
 
 this is the genre which was supposed to but never did manifest in xcxworld.
@@ -52,7 +54,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjczNDY2OSwxNTAxMTcwMjM3LDIwMj
+eyJoaXN0b3J5IjpbLTcxNTgyNDM3MiwxNTAxMTcwMjM3LDIwMj
 Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
 Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
 E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
