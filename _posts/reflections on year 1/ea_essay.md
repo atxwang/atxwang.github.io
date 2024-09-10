@@ -36,7 +36,9 @@ of course, this "networking with a cause" isn't the only major value of EA.
 
 **Veganism--- "ethical consumption"**
 -
-this might be a nuclear take, but i think one of the greatest failures of the modern left (especially the environmental left) is the lack of attention on veganism.
+unsure if this is a nuclear take, but i think one of the greatest failures of the modern left (especially the environmental left) is the complete ignorance on veganism.
+
+a lot of idiotic online politics discourse is dominated by conservatives 
 
 **Longtermism, philosophy, and more opaque benefits**
 -
@@ -48,6 +50,6 @@ this might be a nuclear take, but i think one of the greatest failures of the mo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTY3MDkwMywtMTM3NTA4NzAsMTA3MT
+eyJoaXN0b3J5IjpbMTMyNzUxNzg1MiwtMTM3NTA4NzAsMTA3MT
 YxNzEwNSwtODkwMjcxNjI2XX0=
 -->
