@@ -54,7 +54,7 @@ but bring this up to many leftists, and you'll be met with this myopic, defensiv
 - "what about indigenous peoples, who traditionally hunt for meat?"
 - "what about poor people in food deserts?"
 
-in addition to the aforementioned rallying cry of 
+when these points are quickly refuted, they'll return to the aforementioned rallying cries 
 
 **Longtermism, philosophy, and more opaque benefits**
 -
@@ -66,8 +66,8 @@ in addition to the aforementioned rallying cry of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTQ1OTA4OSwtNDA3NzkyMzgwLDExMT
-A5NjczODQsMTk4MzM3MjIxMSw3NDY5NzcxODYsMTk3NTQ3MDQ4
-MiwzMjIzODAwNDEsLTEzNzUwODcwLDEwNzE2MTcxMDUsLTg5MD
-I3MTYyNl19
+eyJoaXN0b3J5IjpbLTI5MDc5NTIyNSwtNDQ5NDU5MDg5LC00MD
+c3OTIzODAsMTExMDk2NzM4NCwxOTgzMzcyMjExLDc0Njk3NzE4
+NiwxOTc1NDcwNDgyLDMyMjM4MDA0MSwtMTM3NTA4NzAsMTA3MT
+YxNzEwNSwtODkwMjcxNjI2XX0=
 -->
