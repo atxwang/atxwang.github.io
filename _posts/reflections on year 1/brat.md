@@ -4,8 +4,6 @@ title: Everyone's getting "brat" wrong
 subtitle: and i'm really mad at about it
 tags: [essay, music, pop culture]
 ---
-as a
-
 [obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
 
 has there ever been a cultural phenomenon more memefied, pervasive, and celebrated than Charli xcx's *BRAT*?  Charli's greatest critical and commercial success yet has not only launched her from underground idol to mainstream star but also metastasized its way into every information highway of our consumption-obsessed culture. "brat" has become a meaningless, superficial signaling word for some archetypal cool girl/gay. "brat summer" means parties and poppers, "brat green" means matcha and margaritas. "brat" is a catch all icon, an [advertising catchphrase](https://www.delish.com/food-news/a61500647/field-roast-brat-wurst-charli-xcx/), [tiktok trend](https://www.youtube.com/watch?v=nLe0YHj6HCI), and the [democratic party's 2024 presidential campaign anthem](https://www.cbsnews.com/video/how-vice-president-kamala-harris-became-brat/). how the fuck did we get here?
@@ -23,7 +21,7 @@ https://www.youtube.com/embed/KBxC5bRbruQ?si=fMRFaD2_gV0lg15S" frameborder="0" a
 ---
 following the punk-influenced yet heavily commercial *Sucker*, Charli began the most pivotal (but unrecognized) phase of her career.
 
-enter PC Music, the art-school-famous label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. 
+enter PC Music, the art-school-famous label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. PC Music  irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. 
 
 a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". 
 
@@ -42,9 +40,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMzI1NzE0LDIwMjY4MTM0OTQsNzAxNz
-kwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2Njc3LDM5Mjc1MDM4
-OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLTE3MzA1OTcwMDcsMT
-E4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkzODU1LDY2MDI5NTYz
-Ml19
+eyJoaXN0b3J5IjpbMTQ1MzU2MDM1MywyMDI2ODEzNDk0LDcwMT
+c5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcwNjY3NywzOTI3NTAz
+ODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC0xNzMwNTk3MDA3LD
+ExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2
+MzJdfQ==
 -->
