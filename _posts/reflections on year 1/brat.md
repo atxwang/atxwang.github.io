@@ -35,17 +35,14 @@ accordingly, i feel that a major goal of PC Music was to get their weird, off-pu
 
 the ur-example of this is Hey QT, a collaboration between AG and SOPHIE as faceless producers, Harriet Pittard as uncredited vocalist, and Hayden Dunham/"Quinn Thomas" as plastic face. 
 
-hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... 
-
 this is the genre which was supposed to but never did manifest in xcxworld.
-
-a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". 
 
 **dial 999 it's a good time**
 -
 - since the beginnign of her work with PC, charli's lyrics were more introspective and less irony-poisoned
 - her more straightforward PC sounds were heavily collab based
-- hifn is the protobrat because it's her first completely solo proje
+- hifn is the protobrat because it's her first completely solo project with more abrasive sounds (following 2020s late hyperpop trends) and introspective focused
+- this kind of naturally faded with sophie's death and the death of "hyperpop" into the crash era
 
 **i guess the apple don't fall far from the tree**
 ---
@@ -57,9 +54,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTE3NTQyMiwxNTAxMTcwMjM3LDIwMj
-Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
-Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
-E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
-ODU1LDY2MDI5NTYzMl19
+eyJoaXN0b3J5IjpbNjkxNTYxNjg5LDE1MDExNzAyMzcsMjAyNj
+gxMzQ5NCw3MDE3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2
+NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMT
+czMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4
+NTUsNjYwMjk1NjMyXX0=
 -->
