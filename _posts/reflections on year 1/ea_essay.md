@@ -45,7 +45,10 @@ this isn't bad in itself, after all, the refuted argument is pretty stupid. howe
 
 the EA case for veganism is pretty clear-cut and also (to me) horrifyingly layered:
 - depending on to what extent we've misjudged animal sentience, there are currently 
-- 
+- sheer inefficiency and environmental failure of meat
+- related stuff (biorisk, climate, etc)
+
+i th
 
 
 
@@ -59,7 +62,7 @@ the EA case for veganism is pretty clear-cut and also (to me) horrifyingly layer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY0MzU0NTYsNzQ2OTc3MTg2LDE5Nz
-U0NzA0ODIsMzIyMzgwMDQxLC0xMzc1MDg3MCwxMDcxNjE3MTA1
-LC04OTAyNzE2MjZdfQ==
+eyJoaXN0b3J5IjpbMjA1MzYwMTA4NCw3NDY5NzcxODYsMTk3NT
+Q3MDQ4MiwzMjIzODAwNDEsLTEzNzUwODcwLDEwNzE2MTcxMDUs
+LTg5MDI3MTYyNl19
 -->
