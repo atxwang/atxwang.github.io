@@ -21,11 +21,12 @@ https://www.youtube.com/embed/KBxC5bRbruQ?si=fMRFaD2_gV0lg15S" frameborder="0" a
 ---
 following the punk-influenced yet heavily commercial *Sucker*, Charli began the most pivotal (but unrecognized) phase of her career.
 
-enter PC Music, the art-school-famous label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. PC Music thrived in a perpetual state of contradiction---depending on who was asked, PC Music was either an irony tinged and cynical critique of 2010s-era technocapitalism or a genuine, love-borne attempt at emulating "recession pop" and mass consumerist culture. really, it was both.
+enter PC Music, the art-school-famous British label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. PC Music thrived in a perpetual state of contradiction---depending on who was asked, PC Music was either an irony tinged and cynical critique of 2010s-era technocapitalism or a genuine, love-borne attempt at emulating "recession pop" and mass consumerist culture. really, it was both.
 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/JWPvj1ENuN4?si=pUzI63H_64vOMnoT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+of course, PC Music 
 
 a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". 
 
@@ -44,9 +45,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTE3MDIzNywyMDI2ODEzNDk0LDcwMT
-c5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcwNjY3NywzOTI3NTAz
-ODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC0xNzMwNTk3MDA3LD
-ExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2
-MzJdfQ==
+eyJoaXN0b3J5IjpbLTg4MjU3NzY0LDE1MDExNzAyMzcsMjAyNj
+gxMzQ5NCw3MDE3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2
+NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMT
+czMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4
+NTUsNjYwMjk1NjMyXX0=
 -->
