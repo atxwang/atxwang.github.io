@@ -4,6 +4,8 @@ title: Everyone's getting "brat" wrong
 subtitle: and i'm really mad at about it
 tags: [essay, music, pop culture]
 ---
+as a
+
 [obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
 
 has there ever been a cultural phenomenon more memefied, pervasive, and celebrated than Charli xcx's *BRAT*?  Charli's greatest critical and commercial success yet has not only launched her from underground idol to mainstream star but also metastasized its way into every information highway of our consumption-obsessed culture. "brat" has become a meaningless, superficial signaling word for some archetypal cool girl/gay. "brat summer" means parties and poppers, "brat green" means matcha and margaritas. "brat" is a catch all icon, an [advertising catchphrase](https://www.delish.com/food-news/a61500647/field-roast-brat-wurst-charli-xcx/), [tiktok trend](https://www.youtube.com/watch?v=nLe0YHj6HCI), and the [democratic party's 2024 presidential campaign anthem](https://www.cbsnews.com/video/how-vice-president-kamala-harris-became-brat/). how the fuck did we get here?
@@ -17,7 +19,7 @@ unfiltered nature of the disavowed debut album *14* aside, Charli's earliest inf
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/KBxC5bRbruQ?si=fMRFaD2_gV0lg15S" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-i won't discuss Charli's sophomore album *Sucker* in depth (i haven't really listened to it and i'm not a big fan), but safe to say 
+i won't discuss Charli's sophomore album *Sucker* in depth (i haven't really listened to it and i'm not a big fan), but it further contributes to this 
 
 **cult classic but i still pop**
 ---
@@ -36,9 +38,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE1MDg2MDQsMjAyNjgxMzQ5NCw3MD
-E3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2NzcsMzkyNzUw
-Mzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMTczMDU5NzAwNy
-wxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4NTUsNjYwMjk1
-NjMyXX0=
+eyJoaXN0b3J5IjpbMTg0MTU3ODQwMiwyMDI2ODEzNDk0LDcwMT
+c5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcwNjY3NywzOTI3NTAz
+ODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC0xNzMwNTk3MDA3LD
+ExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2
+MzJdfQ==
 -->
