@@ -51,7 +51,9 @@ the EA case for veganism is pretty clear-cut and also (to me) horrifyingly layer
 it is empirically true that for the average urban/suburban American---who doesn't make an effort to hunt or forage, or even simply "eat local" for most of their food---a vegan diet is 1000x more "alturistic" than an omnivore one. in my experience, the vast majority of EAs recognize this, and have accordingly chose to become vegan themselves. this is good! even when systemic change doesn't yet occur,  *number* of animals and acres of land are still affected by a singular individual! and clearly, "voting with ones dollar" isn't totally ineffective, as judged by the rise of alternative milks and proteins.
 
 but bring this up to many leftists, and you'll be met with this myopic, defensive focus on edge cases: 
-- "what about indigenous peoples, who traditionally hunt/gather
+- "what about indigenous peoples, who traditionally hunt for meat?"
+- "what about poor people in food deserts?"
+
 
 **Longtermism, philosophy, and more opaque benefits**
 -
@@ -63,7 +65,7 @@ but bring this up to many leftists, and you'll be met with this myopic, defensiv
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjQyMDY5MSwtNDA3NzkyMzgwLDExMT
+eyJoaXN0b3J5IjpbMTA1MzE2MTUzOSwtNDA3NzkyMzgwLDExMT
 A5NjczODQsMTk4MzM3MjIxMSw3NDY5NzcxODYsMTk3NTQ3MDQ4
 MiwzMjIzODAwNDEsLTEzNzUwODcwLDEwNzE2MTcxMDUsLTg5MD
 I3MTYyNl19
