@@ -32,6 +32,10 @@ the primary example of this would be the non-profit 80,000 hours, which (afaik) 
 
 even beyond organized efforts like 80k, which can be rather polarizing, i think EA as a conglomerate offers quite a lot of value in mentorship, learning resources, networking, etc. if you're considering a career in say, biorisk or emerging technology, all you have to do is put yourself out there and multiple EAs in that field will have a comprehensive collection of adjacent resources and connections to share to you. maybe this kind of thing doesn't need the "effective altruism" label, but i'm honestly unsure if it would exist in the capacity it does without the big tent EA movement behind it.
 
+**Issues seemingly best argued/championed by EA**
+-
+
+
 **Veganism--- "ethical consumption"**
 -
 
@@ -48,6 +52,6 @@ even beyond organized efforts like 80k, which can be rather polarizing, i think 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDQxMjIwNCwxMDcxNjE3MTA1LC04OT
-AyNzE2MjZdfQ==
+eyJoaXN0b3J5IjpbLTEzNzUwODcwLDEwNzE2MTcxMDUsLTg5MD
+I3MTYyNl19
 -->
