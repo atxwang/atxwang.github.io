@@ -38,7 +38,7 @@ the ur-example of this is QT, a collaboration between AG and SOPHIE as faceless 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/1MQUleX1PeA?si=65Hlk5Wq3cSBzVXt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Charli, SOPHIE, and AG would experiment with a more mainstream version of this weird, off-putting style 
+Charli, SOPHIE, and AG would experiment with a more mainstream version of this weird, off-putting style, putting out some controversially-received EPs in anticipation of her third album, XCXWorld.
 
 this is the genre which was supposed to but never did manifest in xcxworld.
 
@@ -59,9 +59,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUwMTI3NjAsMTUwMTE3MDIzNywyMD
-I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
-NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
-0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
-Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbLTM5MTEzMDQ3MCwxNTAxMTcwMjM3LDIwMj
+Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
+Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
+E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
+ODU1LDY2MDI5NTYzMl19
 -->
