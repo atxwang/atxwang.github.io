@@ -31,14 +31,14 @@ of course, PC Music reveled in this confusion, and in classic internet fashion, 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/HoruBmqzT1s?si=NQi0WEwUN0hKJ3nl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-accordingly, i feel that a major goal of PC Music was to get their weird, off-putting, surrealist, often dark and cynical music into consumer culture and mass advertising. SOPHIE's Lemonade---a song with nonsense repetitive lyrics with a tinge of darkness---made its way into McDonald's ads, and she later produced for Madonna in a song widely declared to be a last sad, desperate cling to fading youth.
+accordingly, i feel that a major goal of PC Music was to get their surrealist, often dark and cynical music into consumer culture and mass advertising. SOPHIE's Lemonade---a song with nonsense repetitive lyrics with a tinge of darkness---made its way into McDonald's ads, and she later produced for Madonna in a song widely declared to be a last sad, desperate cling to fading youth.
 
 the ur-example of this is QT, a collaboration between AG and SOPHIE as faceless producers, Harriet Pittard as uncredited vocalist, and Hayden Dunham/"Quinn Thomas" as plastic face. QT was the fake popstar whose only single Hey QT had the sole purpose of advertising the fake energy drink DrinkQT and took over the world with a bouncy beat obscuring some honest-to-god scary lyrics---the chorus is "i feel your hands on my body/every time you think of me".
 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/1MQUleX1PeA?si=65Hlk5Wq3cSBzVXt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Charli, SOPHIE, and AG would 
+Charli, SOPHIE, and AG would experiment with a more mainstream version of this weird, off-putting style 
 
 this is the genre which was supposed to but never did manifest in xcxworld.
 
@@ -59,9 +59,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMDg1NTU2LDE1MDExNzAyMzcsMjAyNj
-gxMzQ5NCw3MDE3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2
-NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMT
-czMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4
-NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbLTE4MDUwMTI3NjAsMTUwMTE3MDIzNywyMD
+I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
+NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
+0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
+Mzg1NSw2NjAyOTU2MzJdfQ==
 -->
