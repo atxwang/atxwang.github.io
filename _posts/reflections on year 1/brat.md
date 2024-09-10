@@ -35,11 +35,14 @@ accordingly, i feel that a major goal of PC Music was to get their weird, off-pu
 
 the ur-example of this is QT, a collaboration between AG and SOPHIE as faceless producers, Harriet Pittard as uncredited vocalist, and Hayden Dunham/"Quinn Thomas" as plastic face. QT was the fake popstar whose only single Hey QT had the sole purpose of advertising the fake energy drink DrinkQT and took over the world with a bouncy beat obscuring some honest-to-god scary lyrics---the chorus is "i feel your hands on my body/every time you think of me".
 
+<iframe width="560" height="315" src="
+https://www.youtube.com/embed/1MQUleX1PeA?si=65Hlk5Wq3cSBzVXt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 this is the genre which was supposed to but never did manifest in xcxworld.
 
 **dial 999 it's a good time**
 -
-- since the beginnign of her work with PC, charli's lyrics were more introspective and less irony-poisoned
+- since the beginnign of her work with PC, charli's lyrics were more introspective and less irony-poisoned (ie. track 10, blame it on u, def more esamples lol)
 - her more straightforward PC sounds were heavily collab based
 - hifn is the protobrat because it's her first completely solo project with more abrasive sounds (following 2020s late hyperpop trends) and introspective focused
 - this kind of naturally faded with sophie's death and the death of "hyperpop" into the crash era
@@ -54,7 +57,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDE1ODI4MCwxNTAxMTcwMjM3LDIwMj
+eyJoaXN0b3J5IjpbMTEzMjcxMTAyOCwxNTAxMTcwMjM3LDIwMj
 Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
 Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
 E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
