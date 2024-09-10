@@ -38,6 +38,8 @@ the ur-example of this is QT, a collaboration between AG and SOPHIE as faceless 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/1MQUleX1PeA?si=65Hlk5Wq3cSBzVXt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Charli, SOPHIE, and AG would 
+
 this is the genre which was supposed to but never did manifest in xcxworld.
 
 **dial 999 it's a good time**
@@ -57,9 +59,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcxNzQwMDcsMTUwMTE3MDIzNywyMD
-I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
-NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
-0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
-Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbNjEzMDg1NTU2LDE1MDExNzAyMzcsMjAyNj
+gxMzQ5NCw3MDE3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2
+NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMT
+czMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4
+NTUsNjYwMjk1NjMyXX0=
 -->
