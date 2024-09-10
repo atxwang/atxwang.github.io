@@ -31,7 +31,7 @@ of course, PC Music reveled in this confusion, and in classic internet fashion, 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/HoruBmqzT1s?si=NQi0WEwUN0hKJ3nl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-accordingly, i feel that a major goal of PC Music was to get their surrealist, often dark and cynical music into consumer culture and mass advertising. SOPHIE's Lemonade---a song with nonsense repetitive lyrics with a tinge of darkness---made its way into McDonald's ads, and she later produced for Madonna in a song widely declared to be a last sad, desperate cling to fading youth.
+accordingly, i feel that a major goal of PC Music was to get their surrealist, often dark and cynical music into consumer culture and mass advertising. SOPHIE's Lemonade---a song with nonsense repetitive lyrics and a tinge of darkness---made its way into McDonald's ads, and she later produced for Madonna in a song widely declared to be a last sad, desperate cling to fading youth.
 
 the ur-example of this is QT, a collaboration between AG and SOPHIE as faceless producers, Harriet Pittard as uncredited vocalist, and Hayden Dunham/"Quinn Thomas" as plastic face. QT was the fake popstar whose only single Hey QT had the sole purpose of advertising the fake energy drink DrinkQT and took over the world with a bouncy beat barely obscuring some honest-to-god scary lyrics---the chorus is "i feel your hands on my body/every time you think of me".
 
@@ -57,9 +57,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU5MDM3MDgsLTk5ODAyNTQ1MywxNT
-AxMTcwMjM3LDIwMjY4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0
-NDI5LC0xMTUxNzA2Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLT
-IwNTM3OTA2ODgsLTE3MzA1OTcwMDcsMTE4MDYwMTc5LDY2Njky
-MzYwNiwtMjczNDkzODU1LDY2MDI5NTYzMl19
+eyJoaXN0b3J5IjpbMTM5MTM5NjM5MSwtOTk4MDI1NDUzLDE1MD
+ExNzAyMzcsMjAyNjgxMzQ5NCw3MDE3OTAyNTUsLTE5NTMzMzQ0
+MjksLTExNTE3MDY2NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMj
+A1Mzc5MDY4OCwtMTczMDU5NzAwNywxMTgwNjAxNzksNjY2OTIz
+NjA2LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
 -->
