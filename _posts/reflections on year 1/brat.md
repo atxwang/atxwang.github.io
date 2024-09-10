@@ -33,7 +33,7 @@ https://www.youtube.com/embed/HoruBmqzT1s?si=NQi0WEwUN0hKJ3nl" frameborder="0" a
 
 accordingly, i feel that a major goal of PC Music was to get their weird, off-putting, surrealist, often dark and cynical music into consumer culture and mass advertising. SOPHIE's Lemonade---a song with nonsense repetitive lyrics with a tinge of darkness---made its way into McDonald's ads, and she later produced for Madonna in a song widely declared to be a last sad, desperate cling to fading youth.
 
-the ur-example of this is QT, a collaboration between AG and SOPHIE as faceless producers, Harriet Pittard as uncredited vocalist, and Hayden Dunham/"Quinn Thomas" as plastic face. QT was the fake popstar whose only single Hey QT 
+the ur-example of this is QT, a collaboration between AG and SOPHIE as faceless producers, Harriet Pittard as uncredited vocalist, and Hayden Dunham/"Quinn Thomas" as plastic face. QT was the fake popstar whose only single Hey QT had the sole purpose of advertising the fake energy drink DrinkQT and took over the world with a bouncy beat obscuring some honest-to-god scary lyrics---the chorus is "i feel your hands on my body/every time you think of me".
 
 this is the genre which was supposed to but never did manifest in xcxworld.
 
@@ -54,9 +54,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0NzkwMzksMTUwMTE3MDIzNywyMD
-I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
-NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
-0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
-Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbMTY5NDE1ODI4MCwxNTAxMTcwMjM3LDIwMj
+Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
+Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
+E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
+ODU1LDY2MDI5NTYzMl19
 -->
