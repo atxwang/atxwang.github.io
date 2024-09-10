@@ -26,7 +26,10 @@ enter PC Music, the art-school-famous British label helmed by AG Cook (who would
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/JWPvj1ENuN4?si=pUzI63H_64vOMnoT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-of course, PC Music 
+of course, PC Music reveled in this confusion, and in classic internet fashion, trolling was a big aspect of their early output:
+
+<iframe width="560" height="315" src="
+https://www.youtube.com/embed/HoruBmqzT1s?si=NQi0WEwUN0hKJ3nl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". 
 
@@ -45,9 +48,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjU3NzY0LDE1MDExNzAyMzcsMjAyNj
-gxMzQ5NCw3MDE3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2
-NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMT
-czMDU5NzAwNywxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4
-NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbLTEzNjU1ODc0MTEsMTUwMTE3MDIzNywyMD
+I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
+NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
+0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
+Mzg1NSw2NjAyOTU2MzJdfQ==
 -->
