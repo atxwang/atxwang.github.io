@@ -21,7 +21,8 @@ https://www.youtube.com/embed/KBxC5bRbruQ?si=fMRFaD2_gV0lg15S" frameborder="0" a
 ---
 following the punk-influenced yet heavily commercial *Sucker*, Charli began the most pivotal (but unrecognized) phase of her career.
 
-enter PC Music, the art-school-famous label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. PC Music  irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. 
+enter PC Music, the art-school-famous label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. PC Music existed in a perpetual state of contradiction,
+irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. 
 
 a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". 
 
@@ -40,7 +41,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzU2MDM1MywyMDI2ODEzNDk0LDcwMT
+eyJoaXN0b3J5IjpbMTQ1NjAxODgxOCwyMDI2ODEzNDk0LDcwMT
 c5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcwNjY3NywzOTI3NTAz
 ODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC0xNzMwNTk3MDA3LD
 ExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2
