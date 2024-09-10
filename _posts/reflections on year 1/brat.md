@@ -42,7 +42,7 @@ this is the genre which was supposed to but never did manifest in xcxworld.
 
 **dial 999 it's a good time**
 -
-- since the beginnign of her work with PC, charli's lyrics were more introspective and less irony-poisoned (ie. track 10, blame it on u, def more esamples lol)
+- since the beginnign of her work with PC, charli's lyrics were more introspective, self-blaming, and less irony-poisoned (ie. track 10, no angel, def more esamples lol)
 - her more straightforward PC sounds were heavily collab based
 - hifn is the protobrat because it's her first completely solo project with more abrasive sounds (following 2020s late hyperpop trends) and introspective focused
 - this kind of naturally faded with sophie's death and the death of "hyperpop" into the crash era
@@ -57,9 +57,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjcxMTAyOCwxNTAxMTcwMjM3LDIwMj
-Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
-Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
-E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
-ODU1LDY2MDI5NTYzMl19
+eyJoaXN0b3J5IjpbLTIxMzcxNzQwMDcsMTUwMTE3MDIzNywyMD
+I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
+NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
+0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
+Mzg1NSw2NjAyOTU2MzJdfQ==
 -->
