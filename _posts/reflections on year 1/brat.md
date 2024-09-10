@@ -20,7 +20,7 @@ unfiltered nature of the disavowed debut album *14* aside, Charli's earliest inf
 https://www.youtube.com/embed/KBxC5bRbruQ?si=fMRFaD2_gV0lg15S" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 i won't discuss Charli's sophomore album *Sucker* in depth (i haven't really listened to it and i'm not a big fan), but it further contributes to this "high-voltage, self-destructive" image of her as an artist:
-- Charli continues to embody an interesting tension between mainstream and subcultural--
+- Charli continues to embody an interesting tension between mainstream and subcultural--the *Sucker* era's aesthetics and sounds are heavily punk-influenced, but 
 
 **cult classic but i still pop**
 ---
@@ -39,7 +39,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY2MDYzNTMsMjAyNjgxMzQ5NCw3MD
+eyJoaXN0b3J5IjpbLTE3OTIxNDgwNDYsMjAyNjgxMzQ5NCw3MD
 E3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2NzcsMzkyNzUw
 Mzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMTczMDU5NzAwNy
 wxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4NTUsNjYwMjk1
