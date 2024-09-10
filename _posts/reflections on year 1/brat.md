@@ -14,7 +14,7 @@ even before the brat explosion, Charli xcx had become memeified as a (not quite)
 
 unfiltered nature of the disavowed debut album *14* aside, Charli's earliest influences were post punk and new wave--Siouxsie Sioux, The Cure, etc.--the ur-examples of depression and angst with a driving groove. *True Romance* delivers something like 80's New Order's take on 90's cybergoth raves with driving synths and sawtooth bass. the lyrics throughout depict the desperate cling to a tumultuous relationship in which Charli seems to keep fucking up or falling victim to manipulation, Bizarre Love Triangle-style. she cheats,  he cheats, she lies, he lies, she can't resist crawling back and the cycle repeats.
 
-<https://youtu.be/KBxC5bRbruQ?si=6LWryjaomSuiB7rm
+<Video url="https://youtu.be/KBxC5bRbruQ?si=6LWryjaomSuiB7rm" />
 
 **cult classic but i still pop**
 ---
@@ -30,7 +30,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjA2ODU1NCwyMDI2ODEzNDk0LDcwMT
+eyJoaXN0b3J5IjpbLTgyMjU3NjkzNCwyMDI2ODEzNDk0LDcwMT
 c5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcwNjY3NywzOTI3NTAz
 ODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC0xNzMwNTk3MDA3LD
 ExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2
