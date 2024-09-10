@@ -43,6 +43,9 @@ a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop"
 
 **dial 999 it's a good time**
 -
+- since the beginnign of her work with PC, charli's lyrics were more introspective and less irony-poisoned
+- her more straightforward PC sounds were heavily collab based
+- hifn is the protobrat because it's her first completely solo proje
 
 **i guess the apple don't fall far from the tree**
 ---
@@ -54,9 +57,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM4ODA2OTksMTUwMTE3MDIzNywyMD
-I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
-NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
-0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
-Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbMTM1MTE3NTQyMiwxNTAxMTcwMjM3LDIwMj
+Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
+Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
+E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
+ODU1LDY2MDI5NTYzMl19
 -->
