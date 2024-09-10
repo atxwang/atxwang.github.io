@@ -48,7 +48,7 @@ the EA case for veganism is pretty clear-cut and also (to me) horrifyingly layer
 - sheer inefficiency and environmental failure of meat
 - related stuff (biorisk, climate, etc)
 
-it is empirically true that for the average urban/suburban American---who doesn't make an effort to hunt or forage, or even simply "eat local" for most of their food---a vegan diet is 1000x more "alturistic" than an omnivore one. in my experience, the vast majority of EAs recognize this, and have accordingly chose to become vegan themselves. this is good! even when systemic change doesn't yet occur,  *number* of animals and acres of land are still affected by a singular individual! and clearly, "voting with ones dollar" isn't totally ineffective 
+it is empirically true that for the average urban/suburban American---who doesn't make an effort to hunt or forage, or even simply "eat local" for most of their food---a vegan diet is 1000x more "alturistic" than an omnivore one. in my experience, the vast majority of EAs recognize this, and have accordingly chose to become vegan themselves. this is good! even when systemic change doesn't yet occur,  *number* of animals and acres of land are still affected by a singular individual! and clearly, "voting with ones dollar" isn't totally ineffective, as judged by the rise of alternative milks and proteins.
 
 **Longtermism, philosophy, and more opaque benefits**
 -
@@ -60,7 +60,7 @@ it is empirically true that for the average urban/suburban American---who doesn'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNjkzNTg3LDExMTA5NjczODQsMTk4Mz
-M3MjIxMSw3NDY5NzcxODYsMTk3NTQ3MDQ4MiwzMjIzODAwNDEs
-LTEzNzUwODcwLDEwNzE2MTcxMDUsLTg5MDI3MTYyNl19
+eyJoaXN0b3J5IjpbLTY2NzI1OTcyMCwxMTEwOTY3Mzg0LDE5OD
+MzNzIyMTEsNzQ2OTc3MTg2LDE5NzU0NzA0ODIsMzIyMzgwMDQx
+LC0xMzc1MDg3MCwxMDcxNjE3MTA1LC04OTAyNzE2MjZdfQ==
 -->
