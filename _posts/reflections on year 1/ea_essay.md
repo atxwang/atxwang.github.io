@@ -20,7 +20,7 @@ everyone has been decrying the death of the humanities since the 80s, and that i
 2) lack and are not given a humanities foundation, which (hot take) teaches important things like ethics, moral philosophy, historical contextualization for current society, etc.
 3) think far more quantitatively than qualitatively.
 
-given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel immature to well-read humanist outsiders. EA is founded on impartial utilitarianism, statistics, expected values---the same factors drawing its adherents are what makes it seem [cold, ghoulishly detached](https://thespinoff.co.nz/politics/08-04-2019/in-search-of-a-way-to-do-good-that-amounts-to-more-than-feeling-good), [hypercapitalist](https://jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism). these are of course valid criticisms, but the non-EA should remember that not everyone---especially not the types of STEM majors i'm describing---is willing to dedicate themselves to principled socialist activism or whatever. rather, they want high salaries and tractable data---more achievable under an EA-lens than a conventionally left-wing one. pushing these people away from their innate conceptions of the world will only make them want to do altruism less. it sucks that so many people carry this rather reductive view of the world, but the bar is on the floor /hj. plus, let's be honest---this kind of quantitative analysis is sorely missing from the leftist variants of altruism, like mutual aid.
+given this, it's no surprise that the philosophy of EA---a movement populated in large part by STEM students and graduates---can feel immature to well-read humanist outsiders. EA is founded on impartial utilitarianism, statistics, expected values---the same factors drawing its adherents are what makes it seem [cold, ghoulishly detached](https://thespinoff.co.nz/politics/08-04-2019/in-search-of-a-way-to-do-good-that-amounts-to-more-than-feeling-good), [hypercapitalist](https://jacobin.com/2023/01/effective-altruism-longtermism-nick-bostrom-racism). these are of course valid criticisms, but the non-EA should remember that not everyone---especially not the types of STEM majors i'm describing---is willing to dedicate themselves to principled socialist activism or whatever. rather, they want high salaries and tractable data---more achievable under an EA-lens than a conventionally left-wing one. pushing these people away from their innate conceptions of the world will only make them want to do altruism less. it sucks that so many people carry this rather reductive view of the world, but the bar is on the floor /hj. plus, let's be honest---this kind of "triage" analysis is sorely missing from the leftist variants of altruism, like mutual aid.
 
 everyone agrees that a plurality of society's smartest young people should not be striving for lives as consultants or weapons engineers, and until something better comes along (to name one aspect, a total restructuring of higher education), EA seems like the best way to achieve that.
 
@@ -57,7 +57,7 @@ the EA case for veganism is pretty clear-cut and also (to me) horrifyingly layer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTQxMzA5MSwxOTc1NDcwNDgyLDMyMj
+eyJoaXN0b3J5IjpbLTc4NTkyNTYyNiwxOTc1NDcwNDgyLDMyMj
 M4MDA0MSwtMTM3NTA4NzAsMTA3MTYxNzEwNSwtODkwMjcxNjI2
 XX0=
 -->
