@@ -4,7 +4,7 @@ title: Impact is what you make of it
 subtitle: EA is indeed a form of effective altruism
 tags: [effective altruism, essay]
 ---
-*this essay was started in march 2024 following the midwest EA retreat. unfortunately,  i am both very lazy and v*
+*this essay was started in march 2024 following the midwest EA retreat. unfortunately,  i am both very lazy and very busy which means i did not finish this up until now! :p*
 
 **i  feel that i have a very unique vantage point on effective altruism**. as a teenager i was one of those really annoying socialists---i had first heard of EA through the FTX/Sam Bankman-Fried debacle, a cascade of disasters that i observed with digital popcorn in hand, and i saw it as just another turn to private charity meant to justify the inherent inequalities of capitalism ala Carnegie's *Gospel of Wealth*. i saw the movement as populated by libertarian, race realist weirdos like Caroline Ellison, whose unsurprisingly-defunct [Tumblr blog](https://caroline.milkyeggs.com/worldoptimization) is worth a baffledly-amused read. 
 
@@ -48,6 +48,6 @@ even beyond organized efforts like 80k, which can be rather polarizing, i think 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODEzODU2MiwxMDcxNjE3MTA1LC04OT
+eyJoaXN0b3J5IjpbMTU3MDQxMjIwNCwxMDcxNjE3MTA1LC04OT
 AyNzE2MjZdfQ==
 -->
