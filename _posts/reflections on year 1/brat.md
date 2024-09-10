@@ -23,7 +23,11 @@ https://www.youtube.com/embed/KBxC5bRbruQ?si=fMRFaD2_gV0lg15S" frameborder="0" a
 ---
 following the punk-influenced yet heavily commercial *Sucker*, Charli began the most pivotal (but unrecognized) phase of her career.
 
-enter PC Music, the art-school-famous label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future but the music of the present. irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". the ultimate goal of pc music was to get their dark and cynical lyrics into consumer culture and mass advertising. hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... this is the genre which was supposed to but never did manifest in xcxworld.
+enter PC Music, the art-school-famous label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. irony tinged and cynical, critique of technocapitalism is central, but also filled with genuine love for mass consumerist culture, just look at gfoty. everything dialed up, exaggerated by a thousand times. 
+
+a genre dormant with sophie's death and the rise of shallow emo spoof "hyperpop". 
+
+the ultimate goal of pc music was to get their dark and cynical lyrics into consumer culture and mass advertising. hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... this is the genre which was supposed to but never did manifest in xcxworld.
 
 **dial 999 it's a good time**
 -
@@ -38,7 +42,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MTIwNjMwLDIwMjY4MTM0OTQsNzAxNz
+eyJoaXN0b3J5IjpbMzMyMzI1NzE0LDIwMjY4MTM0OTQsNzAxNz
 kwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2Njc3LDM5Mjc1MDM4
 OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLTE3MzA1OTcwMDcsMT
 E4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkzODU1LDY2MDI5NTYz
