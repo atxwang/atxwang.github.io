@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everyone's getting "brat" wrong
-subtitle: Girl, so confusing
+subtitle: and i'm really mad at about it
 tags: [essay, music, pop culture]
 ---
 [obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
@@ -31,7 +31,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE4NjM5ODgsMjAyNjgxMzQ5NCw3MD
+eyJoaXN0b3J5IjpbLTIwMjY0NjYwMjQsMjAyNjgxMzQ5NCw3MD
 E3OTAyNTUsLTE5NTMzMzQ0MjksLTExNTE3MDY2NzcsMzkyNzUw
 Mzg5LC05NzI3NjYwOSwtMjA1Mzc5MDY4OCwtMTczMDU5NzAwNy
 wxMTgwNjAxNzksNjY2OTIzNjA2LC0yNzM0OTM4NTUsNjYwMjk1
