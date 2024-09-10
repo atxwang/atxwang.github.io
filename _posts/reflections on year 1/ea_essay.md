@@ -48,7 +48,7 @@ the EA case for veganism is pretty clear-cut and also (to me) horrifyingly layer
 - sheer inefficiency and environmental failure of meat
 - related stuff (biorisk, climate, etc)
 
-in my experience, the vast majority of EAs 
+in my experience, the vast majority of EAs this massive impact of even 
 
 
 
@@ -62,7 +62,7 @@ in my experience, the vast majority of EAs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMjM3OTA0LDc0Njk3NzE4NiwxOTc1ND
+eyJoaXN0b3J5IjpbMjU5ODA5Njg3LDc0Njk3NzE4NiwxOTc1ND
 cwNDgyLDMyMjM4MDA0MSwtMTM3NTA4NzAsMTA3MTYxNzEwNSwt
 ODkwMjcxNjI2XX0=
 -->
