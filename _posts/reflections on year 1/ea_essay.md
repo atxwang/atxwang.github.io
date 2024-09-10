@@ -36,8 +36,9 @@ of course, this "networking with a cause" isn't the only major value of EA.
 
 **Veganism--- "ethical consumption"**
 -
+this might be a nuclear take, but i think the greatest failure
 
-**Longtermism actually does matter**
+**Longtermism, philosophy, and more opaque benefits**
 -
 
 
@@ -47,6 +48,6 @@ of course, this "networking with a cause" isn't the only major value of EA.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NzQ3NzMwLC0xMzc1MDg3MCwxMDcxNj
+eyJoaXN0b3J5IjpbNTE4MjAzNjcxLC0xMzc1MDg3MCwxMDcxNj
 E3MTA1LC04OTAyNzE2MjZdfQ==
 -->
