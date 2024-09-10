@@ -21,7 +21,7 @@ https://www.youtube.com/embed/KBxC5bRbruQ?si=fMRFaD2_gV0lg15S" frameborder="0" a
 ---
 following the punk-influenced yet heavily commercial *Sucker*, Charli began the most pivotal (but unrecognized) phase of her career.
 
-enter PC Music, the art-school-famous British label helmed by AG Cook (who would become Charli's creative director). "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. PC Music thrived in a perpetual state of contradiction---depending on who was asked, PC Music was either an irony tinged and cynical critique of 2010s-era technocapitalism or a genuine, love-borne attempt at emulating "recession pop" and mass consumerist culture. really, it was both.
+enter PC Music, the art-school-famous British label helmed by AG Cook (who would become Charli's creative director) and closely tied to the late Sophie Xeon. "personal computer music" was not the pop music of the future, as the media so often dubbed it, but instead the music of the present. PC Music thrived in a perpetual state of contradiction---depending on who was asked, PC Music was either an irony tinged and cynical critique of 2010s-era technocapitalism or a genuine, love-borne attempt at emulating "recession pop" and mass consumerist culture. really, it was both.
 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/JWPvj1ENuN4?si=pUzI63H_64vOMnoT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,9 +48,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU1ODc0MTEsMTUwMTE3MDIzNywyMD
-I2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQyOSwtMTE1MTcw
-NjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMDUzNzkwNjg4LC
-0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2MDYsLTI3MzQ5
-Mzg1NSw2NjAyOTU2MzJdfQ==
+eyJoaXN0b3J5IjpbMjEwNDQwMjE3MywxNTAxMTcwMjM3LDIwMj
+Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
+Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
+E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
+ODU1LDY2MDI5NTYzMl19
 -->
