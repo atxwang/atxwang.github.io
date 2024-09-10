@@ -41,7 +41,7 @@ possible nuclear take ahead: i think one of the greatest failures of the modern 
 a lot of idiotic online politics discourse is dominated by conservatives accusing leftists of hypocrisy for simply living in a society: "if child labor bad, why use iPhone (product of child labor)? if capitalism bad, why live in America (capitalist nation)?" the default leftist response to which is something like "there is no ethical consumption under capitalism", or this one matt bors comic: 
 ![Society](https://atxwang.github.io/assets/img/mister-gotcha-4-9faefa-1.jpg)
 
-this isn't bad in itself, after all, the refuted argument is pretty stupid. however, these slogans too often become copouts for "leftists" in the first world---the concentrate of 
+this isn't bad in itself, after all, the refuted argument is pretty stupid. however, these slogans too often become copouts for "leftists" in the first world---the concentrate of the entire earth's consumption---to refuse to interrogate capitalistic systems in place. 
 
 
 **Longtermism, philosophy, and more opaque benefits**
@@ -54,7 +54,7 @@ this isn't bad in itself, after all, the refuted argument is pretty stupid. howe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM1OTM3ODYsMTk3NTQ3MDQ4MiwzMj
-IzODAwNDEsLTEzNzUwODcwLDEwNzE2MTcxMDUsLTg5MDI3MTYy
-Nl19
+eyJoaXN0b3J5IjpbMTA2OTgzNjIwMiwxOTc1NDcwNDgyLDMyMj
+M4MDA0MSwtMTM3NTA4NzAsMTA3MTYxNzEwNSwtODkwMjcxNjI2
+XX0=
 -->
