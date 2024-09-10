@@ -31,7 +31,7 @@ of course, PC Music reveled in this confusion, and in classic internet fashion, 
 <iframe width="560" height="315" src="
 https://www.youtube.com/embed/HoruBmqzT1s?si=NQi0WEwUN0hKJ3nl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-accordingly, i feel that a major goal of PC Music was to get their weird, off-putting, surrealist, often dark and cynical lyrics into consumer culture and mass advertising. Sophie 
+accordingly, i feel that a major goal of PC Music was to get their weird, off-putting, surrealist, often dark and cynical music into consumer culture and mass advertising. SOPHIE's Lemonade---a song with nonsense lyrics about inadvertently hurting someone while cra
 
 
 hey qt is the ur example, just listen to the lyrics. but also lemonade in mcdonalds ads, bitch im madonna, etc... this is the genre which was supposed to but never did manifest in xcxworld.
@@ -51,7 +51,7 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzE0MzIyMiwxNTAxMTcwMjM3LDIwMj
+eyJoaXN0b3J5IjpbLTI5MzQ2NTcxMCwxNTAxMTcwMjM3LDIwMj
 Y4MTM0OTQsNzAxNzkwMjU1LC0xOTUzMzM0NDI5LC0xMTUxNzA2
 Njc3LDM5Mjc1MDM4OSwtOTcyNzY2MDksLTIwNTM3OTA2ODgsLT
 E3MzA1OTcwMDcsMTE4MDYwMTc5LDY2NjkyMzYwNiwtMjczNDkz
