@@ -43,6 +43,9 @@ a lot of idiotic online politics discourse is dominated by conservatives accusin
 
 this isn't bad in itself, after all, the refuted argument is pretty stupid. however, these slogans too often become copouts for "leftists" in the first world---the concentrate of the entire earth's consumption---to refuse to interrogate capitalistic systems in place. 
 
+the EA case for veganism is pretty clear-cut and also (to me) horrifyingly layered:
+
+
 
 **Longtermism, philosophy, and more opaque benefits**
 -
@@ -54,7 +57,7 @@ this isn't bad in itself, after all, the refuted argument is pretty stupid. howe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTgzNjIwMiwxOTc1NDcwNDgyLDMyMj
+eyJoaXN0b3J5IjpbMTUyMTI4MDA5OCwxOTc1NDcwNDgyLDMyMj
 M4MDA0MSwtMTM3NTA4NzAsMTA3MTYxNzEwNSwtODkwMjcxNjI2
 XX0=
 -->
