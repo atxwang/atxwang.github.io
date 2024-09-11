@@ -14,7 +14,10 @@ much hoopla has already been made about trump's [many lies and fumbles](https://
 ![crooked hilary](https://atxwang.github.io/assets/img/crookedh.png)
 ![north korea](https://atxwang.github.io/assets/img/northkorea.png)
 ![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
+then
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzkxNTI2OCwxNDY0NjY0MTIzLC04Nj
+eyJoaXN0b3J5IjpbMTU2MDAwMjY5NywxNDY0NjY0MTIzLC04Nj
 AyNTMwMzhdfQ==
 -->
