@@ -18,8 +18,11 @@ then
 
 ![charlimit](https://atxwang.github.io/assets/img/charlimit.png)
 ![comrade kamala](https://atxwang.github.io/assets/img/comradek.png)
-![
+![tampon tim](https://atxwang.github.io/assets/img/tampont.png)
+now
+
+am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDc1MDAzMSwxNTYwMDAyNjk3LDE0Nj
-Q2NjQxMjMsLTg2MDI1MzAzOF19
+eyJoaXN0b3J5IjpbMjU5NjQ2ODcxLDE1NjAwMDI2OTcsMTQ2ND
+Y2NDEyMywtODYwMjUzMDM4XX0=
 -->
