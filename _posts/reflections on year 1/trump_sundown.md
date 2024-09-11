@@ -21,8 +21,8 @@ then
 ![tampon tim](https://atxwang.github.io/assets/img/tampont.png)
 now
 
-am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! 
+am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! trump's older tweets were terse,  with the naive air of a conspiratorial uncle "just asking questions"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NjQ2ODcxLDE1NjAwMDI2OTcsMTQ2ND
-Y2NDEyMywtODYwMjUzMDM4XX0=
+eyJoaXN0b3J5IjpbMTA0NzQ0MDg3MCwyNTk2NDY4NzEsMTU2MD
+AwMjY5NywxNDY0NjY0MTIzLC04NjAyNTMwMzhdfQ==
 -->
