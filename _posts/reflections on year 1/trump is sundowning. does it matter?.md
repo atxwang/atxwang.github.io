@@ -8,8 +8,8 @@ no shock here: kamala won the debate, partly to do with a good (better than expe
 
 ![polymarket](https://atxwang.github.io/assets/img/polymarket.png)
 
-much hoopla has already been made about trump's [many lies and fumbles](https://www.npr.org/2024/09/11/g-s1-21932/fact-check-trump-harris-presidential-debate-2024) throughout the debate. bringing up the "Haitian immigrants eating Springfielder's pet cats" was insane, 
+much hoopla has already been made about trump's [many lies and fumbles](https://www.npr.org/2024/09/11/g-s1-21932/fact-check-trump-harris-presidential-debate-2024) throughout the debate. it is clear that he lost on substance, but trump was never liked for substance. he was liked for *style*, for *swagger*, for catchy witticisms. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTk1NTcxMiwxNTQ1NTc5MzA1LC01OD
-U5ODIwMjFdfQ==
+eyJoaXN0b3J5IjpbMTQzNDgyMzczNCwtNzM5OTU1NzEyLDE1ND
+U1NzkzMDUsLTU4NTk4MjAyMV19
 -->
