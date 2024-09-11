@@ -5,6 +5,8 @@ subtitle: thoughts on the trump/harris debate
 tags: [short, politics]
 ---
 
+![polymarket](https://atxwang.github.io/assets/img/polymarket.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTU3OTMwNSwtNTg1OTgyMDIxXX0=
+eyJoaXN0b3J5IjpbLTE3MzgyMzg1MTksMTU0NTU3OTMwNSwtNT
+g1OTgyMDIxXX0=
 -->
