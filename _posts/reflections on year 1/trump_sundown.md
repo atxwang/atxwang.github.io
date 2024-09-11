@@ -16,8 +16,10 @@ much hoopla has already been made about trump's [many lies and fumbles](https://
 ![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
 then
 
-
+![charlimit](https://atxwang.github.io/assets/img/charlimit.png)
+![comrade kamala](https://atxwang.github.io/assets/img/comradek.png)
+![
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDAwMjY5NywxNDY0NjY0MTIzLC04Nj
-AyNTMwMzhdfQ==
+eyJoaXN0b3J5IjpbLTY3MDc1MDAzMSwxNTYwMDAyNjk3LDE0Nj
+Q2NjQxMjMsLTg2MDI1MzAzOF19
 -->
