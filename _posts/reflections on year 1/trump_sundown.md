@@ -21,8 +21,9 @@ then
 ![tampon tim](https://atxwang.github.io/assets/img/tampont.png)
 now
 
-am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! trump's older tweets were terse,   funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. 
+am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! trump's older tweets were terse,   funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. "crooked Hillary", "
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDEwNTk4NSwyNTk2NDY4NzEsMTU2MD
-AwMjY5NywxNDY0NjY0MTIzLC04NjAyNTMwMzhdfQ==
+eyJoaXN0b3J5IjpbMTAwNzg2MTIwOSwtNjQwMTA1OTg1LDI1OT
+Y0Njg3MSwxNTYwMDAyNjk3LDE0NjQ2NjQxMjMsLTg2MDI1MzAz
+OF19
 -->
