@@ -23,9 +23,9 @@ now
 
 am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. "crooked Hillary" and "very very disrespectful" are catchy and memorable, whereas no one left of Trump himself cares about "comrade Kamala" or "tampon Tim". 
 
-this decline in rhetorical snappiness wa
+this decline in rhetorical snappiness was evident on the debate stage last night. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgxMDQ0NywtNjQwMTA1OTg1LDI1OT
+eyJoaXN0b3J5IjpbLTI1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OT
 Y0Njg3MSwxNTYwMDAyNjk3LDE0NjQ2NjQxMjMsLTg2MDI1MzAz
 OF19
 -->
