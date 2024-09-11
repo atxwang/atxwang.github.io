@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Trump is sundowning. Does it matter?
-subtitle: thoughts on the trump/harris debate
+subtitle: thoughts on the Trump/Harris debate
 tags: [short, politics]
 ---
-no shock here: kamala won the debate, partly to do with a good (better than expected) showing on her part, but mostly overshadowed by trump's insanely horrific performance.
+no shock here: Kamala won the debate, partly to do with a good (better than expected) showing on her part, but mostly overshadowed by Trump's insanely horrific performance.
 
 ![polymarket](https://atxwang.github.io/assets/img/polymarket.png)
 
-much hoopla has already been made about trump's [many lies and fumbles](https://www.npr.org/2024/09/11/g-s1-21932/fact-check-trump-harris-presidential-debate-2024) throughout the debate. it is clear that he lost on substance, but trump was never liked for substance. he was liked for *style*, for catchy witticisms that can be parroted by 4chan edgelords and z-list rappers. and he lost on that! he's losing his swagger, and has been for a long time. take a look at his tweets, compared between the onset/duration of his previous candidacy/presidency and now:
+much hoopla has already been made about Trump's [many lies and fumbles](https://www.npr.org/2024/09/11/g-s1-21932/fact-check-trump-harris-presidential-debate-2024) throughout the debate. it is clear that he lost on substance, but Trump was never liked for substance. he was liked for *style*, for catchy witticisms that can be parroted by 4chan edgelords and z-list rappers. and he lost on that! he's losing his swagger, and has been for a long time. take a look at his tweets, compared between the onset/duration of his previous candidacy/presidency and now:
 
 ![manysuchcases](https://atxwang.github.io/assets/img/manysuchcases.png)
 ![crooked hilary](https://atxwang.github.io/assets/img/crookedh.png)
@@ -21,9 +21,9 @@ then
 ![tampon tim](https://atxwang.github.io/assets/img/tampont.png)
 now
 
-am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! trump's older tweets were terse,   funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. "crooked Hillary" and "very very disrespectful" are catchy and memorable, whereas no one lef
+am i cherrypicking? sure. but having observed his twitter feed for a while, i fear he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. "crooked Hillary" and "very very disrespectful" are catchy and memorable, whereas no one left of Trump himself cares about "comrade Kamala" or "tampon Tim". 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM3NjIzNzMsLTY0MDEwNTk4NSwyNT
-k2NDY4NzEsMTU2MDAwMjY5NywxNDY0NjY0MTIzLC04NjAyNTMw
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTMyMDczMTcxMSwtNjQwMTA1OTg1LDI1OT
+Y0Njg3MSwxNTYwMDAyNjk3LDE0NjQ2NjQxMjMsLTg2MDI1MzAz
+OF19
 -->
