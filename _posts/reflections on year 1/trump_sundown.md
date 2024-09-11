@@ -21,11 +21,11 @@ then
 ![tampon tim](https://atxwang.github.io/assets/img/tampont.png)
 now
 
-am i cherrypicking? sure. but having observed his twitter feed for a while,  he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. "crooked Hillary" and "very very disrespectful" are catchy and memorable, whereas no one left of Trump himself cares about "comrade Kamala" or "tampon Tim". 
+am i cherrypicking? sure. but having observed his twitter feed for a while, he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. "crooked Hillary" and "very very disrespectful" are catchy and memorable, whereas no one left of Trump himself cares about the half-hearted insults of "comrade Kamala" or "tampon Tim". 
 
-this decline in rhetorical snappiness was evident on the debate stage last night. 
+Trump's most outspoken supporters in his 2016 victory were 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwODExODQ5LC0yNTg5NzE4MDYsLTY0MD
-EwNTk4NSwyNTk2NDY4NzEsMTU2MDAwMjY5NywxNDY0NjY0MTIz
-LC04NjAyNTMwMzhdfQ==
+eyJoaXN0b3J5IjpbLTE3MTAxNjE5NjQsLTI1ODk3MTgwNiwtNj
+QwMTA1OTg1LDI1OTY0Njg3MSwxNTYwMDAyNjk3LDE0NjQ2NjQx
+MjMsLTg2MDI1MzAzOF19
 -->
