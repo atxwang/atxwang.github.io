@@ -10,8 +10,9 @@ no shock here: kamala won the debate, partly to do with a good (better than expe
 
 much hoopla has already been made about trump's [many lies and fumbles](https://www.npr.org/2024/09/11/g-s1-21932/fact-check-trump-harris-presidential-debate-2024) throughout the debate. it is clear that he lost on substance, but trump was never liked for substance. he was liked for *style*, for catchy witticisms that can be parroted by 4chan edgelords and z-list rappers. and he lost on that! he's losing his swagger, and has been for a long time. take a look at his tweets, compared between the onset/duration of his previous candidacy/presidency and now:
 
-![manysuchcases](
+![manysuchcases](https://atxwang.github.io/assets/img/manysuchcases.png)
+!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUwMzQ1MTMsMTQ2NDY2NDEyMywtOD
-YwMjUzMDM4XX0=
+eyJoaXN0b3J5IjpbNzk4MDU0MzI2LDE0NjQ2NjQxMjMsLTg2MD
+I1MzAzOF19
 -->
