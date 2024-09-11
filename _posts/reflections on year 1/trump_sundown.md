@@ -25,12 +25,12 @@ am i cherrypicking? sure. but having observed his twitter feed for a while, he j
 
 Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be the young, smooth-talking internetlords---Nick Fuentes, Richard Spencer---who helped "unite the right" at Charlottesville (the neo-Nazi rally that he struggled to disavow during the debate). they were the ones who truly appreciated how his old style of brash simplicity got the moderate left seething in a way they could get people to laugh at. they used the charming absurdity of his words to meme him into office, all under an icky film of detached irony. this bloc, and the alluring energy it provided, no longer exists, or has turned against him. [the right has fractured, much in the same way the left did](https://damagemag.com/2024/08/21/how-the-online-right-fell-apart/). the remaining faces of MAGA are the petite bourgeois baby boomers railing at facebook comments sections, and the few young commentators that exist [ape the style of the left](https://www.youtube.com/watch?v=m2QgVhRMyWk). in short, the right---and Trump---has lost its "cool". everyone's a sensitive snowflake now.
 
-the brainrotification of Donald Trump was nowhere clearer than in last night's debate.  Trump floundered, directionless, like some schizo boomer's social media algorithm. he accused Kamala of being a Marxist and a MAGA in the same breath, said something about "transgender operations on illegal aliens in jail", made repeated mentions of "post-birth abortions". 
+the brainrotification of Donald Trump was nowhere clearer than in last night's debate. Trump floundered, directionless, like some schizo boomer's social media algorithm. he accused Kamala of being a Marxist and a MAGA in the same breath, said something about "transgender operations on illegal aliens in jail", made repeated mentions of "post-birth abortions". he appealed to the infinite wisdom of Sean Hannity and Laura Ingraham---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjAwMTE3NjgsLTgxMTE2NzYxNywxNz
-E5MzU5OTM3LC00NzMzMzE4OTcsLTI1ODk3MTgwNiwtNjQwMTA1
-OTg1LDI1OTY0Njg3MSwxNTYwMDAyNjk3LDE0NjQ2NjQxMjMsLT
-g2MDI1MzAzOF19
+eyJoaXN0b3J5IjpbLTkzMjU2MjYzLC04MTExNjc2MTcsMTcxOT
+M1OTkzNywtNDczMzMxODk3LC0yNTg5NzE4MDYsLTY0MDEwNTk4
+NSwyNTk2NDY4NzEsMTU2MDAwMjY5NywxNDY0NjY0MTIzLC04Nj
+AyNTMwMzhdfQ==
 -->
