@@ -23,9 +23,9 @@ now
 
 am i cherrypicking? sure. but having observed his twitter feed for a while, he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable---"many such cases" is still a meme tagline today. his newer ones, with no aid from the longer character limit, read like meandering screeds. "crooked Hillary" and "very very disrespectful" are catchy and memorable, whereas no one left of Trump himself cares about the half-hearted insults of "comrade Kamala" or "tampon Tim". 
 
-Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be the white gamers who "united the right" at Charlottesville, the same that he struggled to disavow last night. they were the ones who memed him into office, the ones who truly appreciate
+Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be the white gamers who "united the right" at Charlottesville, the same that he struggled to disavow last night. they were the ones who memed him into office, the ones who truly appreciated how his brashly simple comments got the moderate left seething. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTYwNjEzOSwtMjU4OTcxODA2LC02ND
+eyJoaXN0b3J5IjpbLTgzMDI2NTQ1MiwtMjU4OTcxODA2LC02ND
 AxMDU5ODUsMjU5NjQ2ODcxLDE1NjAwMDI2OTcsMTQ2NDY2NDEy
 MywtODYwMjUzMDM4XX0=
 -->
