@@ -13,7 +13,7 @@ much has already been said about Trump's [many lies and fumbles](https://www.npr
 ![manysuchcases](https://atxwang.github.io/assets/img/manysuchcases.png)
 ![crooked hilary](https://atxwang.github.io/assets/img/crookedh.png)
 ![north korea](https://atxwang.github.io/assets/img/northkorea.png)
-![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
+
 then
 
 ![charlimit](https://atxwang.github.io/assets/img/charlimit.png)
@@ -21,7 +21,7 @@ then
 ![tampon tim](https://atxwang.github.io/assets/img/tampont.png)
 now
 
-am i cherrypicking? sure. but having observed his twitter feed for a while, he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable. his newer ones, suffering from the longer character limit, read like meandering screeds. "crooked Hillary" and "nipples protruding" are iconic and memorable, whereas no one left of Trump himself cares about the half-hearted insults of "comrade Kamala" or "tampon Tim". 
+am i cherrypicking? sure. but having observed his twitter feed for a while, he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable. his newer ones, suffering from the longer character limit, read like meandering screeds. "crooked Hillary" was iconic and memorable, whereas no one left of Trump himself cares about the half-hearted insults of "comrade Kamala" or "tampon Tim". 
 
 Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be young, smooth-talking internet-lords (i.e. Nick Fuentes and Richard Spencer) who helped "unite the right" at Charlottesville (the neo-Nazi rally he struggled to disavow during the debate). they were the ones who appreciated how his style of brash simplicity got the moderate left seething in a way they could get other people to laugh at. they used the charming absurdity of his words to meme him into office, all under an icky veneer of detached irony. this base, and the seduction of normies into its alluring energy, no longer exists. it has either [turned against him](https://www.thedailybeast.com/trump-dinner-guest-nick-fuentes-declares-war-on-the-ex-prez) or [become embarassed by him](https://www.newsweek.com/richard-spencer-joe-biden-trump-maga-1527141). [the right has fractured, much in the same way the left did](https://damagemag.com/2024/08/21/how-the-online-right-fell-apart/). the remaining faces of MAGA are the petite bourgeois baby boomers raging at facebook comments sections, and the few young commentators that exist [ape the style of the left](https://www.youtube.com/watch?v=m2QgVhRMyWk). in short, the right---and Trump---has lost its "cool". *everyone's* a sensitive snowflake now.
 
@@ -35,7 +35,7 @@ i think this is ultimately why trump's obvious senescence doesn't really matter.
 
 the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will probably decide the election. in the long run, however, i think political movement has ceased (as much as it can be said to have existed to begin with). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjc3MDI1NCwtMjEyNTY2OTM4NiwtOT
+eyJoaXN0b3J5IjpbMTQzOTQ5ODA1MywtMjEyNTY2OTM4NiwtOT
 g2MDY5Njg5LDI2NDc3NjE5NCwtOTI2ODMwODM1LDE1OTE1OTkx
 OTksMTU3Nzg3NzUxMiwxNjQ2NzUzODM2LDE0MzA5NTE2MjEsLT
 IwNDE3NjU5NDIsMzMzNjM0Mzc2LC0xNjA4MTU4NDY3LDMzNDM0
