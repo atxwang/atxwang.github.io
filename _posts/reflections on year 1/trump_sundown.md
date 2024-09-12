@@ -29,15 +29,17 @@ the Facebook-brainrotification of Donald Trump was evident in last night's debat
 
 the most illustrative example of this, i think, was the whole "Haitian immigrants eating pet dogs" fiasco. an absurd lie sourced from very online corners of right-wing social media (probably learned secondhand from the [very online JD Vance](https://x.com/DrewPavlou/status/1813346372252504397)), this allegation from Trump was met with immediate fact-checking. the 2016-era Trump could have gotten away with it, screamed something about fake news, created a memeable moment. but 2024-era Trump can't---instead, he sheepishly insists that he "saw it on TV"! this is the spitting image of your once-politically-disengaged grand uncle who became radicalized during the pandemic, and now spends his time making comments on your cousins' Facebook posts explaining that the vaccine was a globalist plot to inject tracker chips into their bloodstreams. this type of behavior is fundamentally detached from reality! you only get this way by sequestering yourself in personalized online echo chambers, wherein words (never spoken, only typed) cease to convey meaning for anyone on the outside. wherein obsessing over teenagers' genitals and racial physiognomy is a very normal pastime, not a deeply strange and off-putting one. 
 
-i think this is ultimately why trump's obvious senescence doesn't really matter. the race is already so close that whatever benefit Kamala has from the debate will be marginal (although the margins will probably decide the election). we've known since 2016 (at the latest) that 
+i think this is ultimately why trump's obvious senescence doesn't really matter. we've known since 2016 (at the latest) that [meme magic](https://ia801508.us.archive.org/18/items/MemeticMagic/Packwood%2C%20K.Mimetic%20Magick_text.pdf), stupid charisma, and shitposting 
 
 
+
+the race is already so close that whatever benefit Kamala has from the debate will be marginal (although the margins will probably decide the election)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjczODUyNiwtOTI2ODMwODM1LDE1OT
-E1OTkxOTksMTU3Nzg3NzUxMiwxNjQ2NzUzODM2LDE0MzA5NTE2
-MjEsLTIwNDE3NjU5NDIsMzMzNjM0Mzc2LC0xNjA4MTU4NDY3LD
-MzNDM0NjIwNiwxNDYxNjg1NTAyLC04MTExNjc2MTcsMTcxOTM1
-OTkzNywtNDczMzMxODk3LC0yNTg5NzE4MDYsLTY0MDEwNTk4NS
-wyNTk2NDY4NzEsMTU2MDAwMjY5NywxNDY0NjY0MTIzLC04NjAy
-NTMwMzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NzY1NjA5ODQsLTkyNjgzMDgzNSwxNT
+kxNTk5MTk5LDE1Nzc4Nzc1MTIsMTY0Njc1MzgzNiwxNDMwOTUx
+NjIxLC0yMDQxNzY1OTQyLDMzMzYzNDM3NiwtMTYwODE1ODQ2Ny
+wzMzQzNDYyMDYsMTQ2MTY4NTUwMiwtODExMTY3NjE3LDE3MTkz
+NTk5MzcsLTQ3MzMzMTg5NywtMjU4OTcxODA2LC02NDAxMDU5OD
+UsMjU5NjQ2ODcxLDE1NjAwMDI2OTcsMTQ2NDY2NDEyMywtODYw
+MjUzMDM4XX0=
 -->
