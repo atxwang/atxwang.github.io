@@ -2,7 +2,7 @@
 layout: post
 title: Trump is sundowning. Does it matter?
 subtitle: thoughts on the Trump/Harris debate
-tags: [short, rant, politics]
+tags: [rant, politics]
 ---
 **so, Kamala won the debate, partly to do with a good (better than expected) showing on her part, but mostly due to Trump's horrific performance.**
 
@@ -36,7 +36,7 @@ the race is already so close that whatever benefit Kamala has from the debate wi
 
 ![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTUyMDkwNywtMjEyNTY2OTM4NiwtOT
+eyJoaXN0b3J5IjpbMTUyNTU3MTg5OSwtMjEyNTY2OTM4NiwtOT
 g2MDY5Njg5LDI2NDc3NjE5NCwtOTI2ODMwODM1LDE1OTE1OTkx
 OTksMTU3Nzg3NzUxMiwxNjQ2NzUzODM2LDE0MzA5NTE2MjEsLT
 IwNDE3NjU5NDIsMzMzNjM0Mzc2LC0xNjA4MTU4NDY3LDMzNDM0
