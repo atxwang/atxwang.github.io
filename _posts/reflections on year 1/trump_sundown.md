@@ -33,13 +33,13 @@ i think this is ultimately why trump's obvious senescence doesn't really matter.
 
 ![newsmaxxing](https://atxwang.github.io/assets/img/newsmaxxing.png)
 
-the race is already so close that whatever benefit Kamala has from the debate will be marginal (though the margins will probably decide the election). 
+the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will probably decide the election. in the long run, however, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODczNDQxNjcsLTIxMjU2NjkzODYsLT
-k4NjA2OTY4OSwyNjQ3NzYxOTQsLTkyNjgzMDgzNSwxNTkxNTk5
-MTk5LDE1Nzc4Nzc1MTIsMTY0Njc1MzgzNiwxNDMwOTUxNjIxLC
-0yMDQxNzY1OTQyLDMzMzYzNDM3NiwtMTYwODE1ODQ2NywzMzQz
-NDYyMDYsMTQ2MTY4NTUwMiwtODExMTY3NjE3LDE3MTkzNTk5Mz
-csLTQ3MzMzMTg5NywtMjU4OTcxODA2LC02NDAxMDU5ODUsMjU5
-NjQ2ODcxXX0=
+eyJoaXN0b3J5IjpbODcwNTY0ODEyLC0yMTI1NjY5Mzg2LC05OD
+YwNjk2ODksMjY0Nzc2MTk0LC05MjY4MzA4MzUsMTU5MTU5OTE5
+OSwxNTc3ODc3NTEyLDE2NDY3NTM4MzYsMTQzMDk1MTYyMSwtMj
+A0MTc2NTk0MiwzMzM2MzQzNzYsLTE2MDgxNTg0NjcsMzM0MzQ2
+MjA2LDE0NjE2ODU1MDIsLTgxMTE2NzYxNywxNzE5MzU5OTM3LC
+00NzMzMzE4OTcsLTI1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OTY0
+Njg3MV19
 -->
