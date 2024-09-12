@@ -29,17 +29,17 @@ the Facebook-brainrotification of Donald Trump was evident in last night's debat
 
 the most illustrative example of this, i think, was the whole "Haitian immigrants eating pet dogs" fiasco. an absurd lie sourced from very online corners of right-wing social media (probably learned secondhand from the [very online JD Vance](https://x.com/DrewPavlou/status/1813346372252504397)), this allegation from Trump was met with immediate fact-checking. the 2016-era Trump could have gotten away with it, screamed something about fake news, created a memeable moment. but 2024-era Trump can't---instead, he sheepishly insists that he "saw it on TV"! this is the spitting image of your once-politically-disengaged grand uncle who became radicalized during the pandemic, and now spends his time making comments on your cousins' Facebook posts explaining that the vaccine was a globalist plot to inject tracker chips into their bloodstreams. this type of behavior is fundamentally detached from reality! you only get this way by sequestering yourself in personalized online echo chambers, wherein words (never spoken, only typed) cease to convey meaning for anyone on the outside. wherein obsessing over teenagers' genitals and racial physiognomy is a very normal pastime, not a deeply strange and off-putting one. 
 
-i think this is ultimately why trump's obvious senescence doesn't really matter. we've known since 2016 (at the latest) that [meme magic](https://ia801508.us.archive.org/18/items/MemeticMagic/Packwood%2C%20K.Mimetic%20Magick_text.pdf), stupid charisma, and shitposting can effectively sway the masses via a seductive mix of late millennial irony and societal frustration. now there's not even a need to try. it doesn't matter if Trump loses his showmanship or charm or even his  ability for human speech---he's simply preaching to the choir of sundowning old folk that maintains his base. roughly half of Americans will still be dedicated rah-rah Trumpists, digging their heads into their screens to cultivate a version of reality in which Actually, Trump obliterated the debate, mopping the floor with the blood of K
+i think this is ultimately why trump's obvious senescence doesn't really matter. we've known since 2016 (at the latest) that [meme magic](https://ia801508.us.archive.org/18/items/MemeticMagic/Packwood%2C%20K.Mimetic%20Magick_text.pdf), stupid charisma, and shitposting can effectively sway the masses via a seductive mix of late millennial irony and societal frustration. now there's not even a need to try. it doesn't matter if Trump loses his showmanship or charm or even his  ability for human speech---he's simply preaching to the choir of sundowning old folk that maintains his base. roughly half of Americans will still be dedicated rah-rah Trumpists, digging their heads into their screens to cultivate a version of reality in which Actually, Trump obliterated the debate, mopping the floor with the blood of Chairman Kamaola as well as the unbiased moderators conspiring against him. 
 
 
 
 the race is already so close that whatever benefit Kamala has from the debate will be marginal (although the margins will probably decide the election)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzYzMTk4MTAsMjY0Nzc2MTk0LC05Mj
-Y4MzA4MzUsMTU5MTU5OTE5OSwxNTc3ODc3NTEyLDE2NDY3NTM4
-MzYsMTQzMDk1MTYyMSwtMjA0MTc2NTk0MiwzMzM2MzQzNzYsLT
-E2MDgxNTg0NjcsMzM0MzQ2MjA2LDE0NjE2ODU1MDIsLTgxMTE2
-NzYxNywxNzE5MzU5OTM3LC00NzMzMzE4OTcsLTI1ODk3MTgwNi
-wtNjQwMTA1OTg1LDI1OTY0Njg3MSwxNTYwMDAyNjk3LDE0NjQ2
-NjQxMjNdfQ==
+eyJoaXN0b3J5IjpbLTk4NjA2OTY4OSwyNjQ3NzYxOTQsLTkyNj
+gzMDgzNSwxNTkxNTk5MTk5LDE1Nzc4Nzc1MTIsMTY0Njc1Mzgz
+NiwxNDMwOTUxNjIxLC0yMDQxNzY1OTQyLDMzMzYzNDM3NiwtMT
+YwODE1ODQ2NywzMzQzNDYyMDYsMTQ2MTY4NTUwMiwtODExMTY3
+NjE3LDE3MTkzNTk5MzcsLTQ3MzMzMTg5NywtMjU4OTcxODA2LC
+02NDAxMDU5ODUsMjU5NjQ2ODcxLDE1NjAwMDI2OTcsMTQ2NDY2
+NDEyM119
 -->
