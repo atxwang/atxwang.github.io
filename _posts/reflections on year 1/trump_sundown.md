@@ -29,14 +29,14 @@ the Facebook-brainrotification of Donald Trump was evident in last night's debat
 
 the most illustrative example of this, i think, was the whole "Haitian immigrants eating pet dogs" fiasco. an absurd lie sourced from very online corners of right-wing social media (probably learned secondhand from the [very online JD Vance](https://x.com/DrewPavlou/status/1813346372252504397)), this allegation from Trump was met with immediate fact-checking. the 2016-era Trump could have gotten away with it, screamed something about fake news, created a memeable moment. but 2024-era Trump can't---instead, he sheepishly insists that he "saw it on TV"! this is the spitting image of your once-politically-disengaged grand uncle who became radicalized during the pandemic, and now spends his time making comments on your cousins' Facebook posts explaining that the vaccine was a globalist plot to inject tracker chips into their bloodstreams. this type of behavior is fundamentally detached from reality! you only get this way by sequestering yourself in personalized online echo chambers, wherein words (never spoken, only typed) cease to convey meaning for anyone on the outside. wherein obsessing over teenagers' genitals and racial physiognomy is a very normal pastime, not a deeply strange and off-putting one. 
 
-i think this is why trump's obvious senescence does not really matter. 
+i think this is ultimately why trump's obvious senescence doesn't really matter. the race is already so close that whatever benefit Kamala has from the debate will be marginal. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMwOTI0NjIsMTU5MTU5OTE5OSwxNT
-c3ODc3NTEyLDE2NDY3NTM4MzYsMTQzMDk1MTYyMSwtMjA0MTc2
-NTk0MiwzMzM2MzQzNzYsLTE2MDgxNTg0NjcsMzM0MzQ2MjA2LD
-E0NjE2ODU1MDIsLTgxMTE2NzYxNywxNzE5MzU5OTM3LC00NzMz
-MzE4OTcsLTI1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OTY0Njg3MS
-wxNTYwMDAyNjk3LDE0NjQ2NjQxMjMsLTg2MDI1MzAzOF19
+eyJoaXN0b3J5IjpbLTkyNjgzMDgzNSwxNTkxNTk5MTk5LDE1Nz
+c4Nzc1MTIsMTY0Njc1MzgzNiwxNDMwOTUxNjIxLC0yMDQxNzY1
+OTQyLDMzMzYzNDM3NiwtMTYwODE1ODQ2NywzMzQzNDYyMDYsMT
+Q2MTY4NTUwMiwtODExMTY3NjE3LDE3MTkzNTk5MzcsLTQ3MzMz
+MTg5NywtMjU4OTcxODA2LC02NDAxMDU5ODUsMjU5NjQ2ODcxLD
+E1NjAwMDI2OTcsMTQ2NDY2NDEyMywtODYwMjUzMDM4XX0=
 -->
