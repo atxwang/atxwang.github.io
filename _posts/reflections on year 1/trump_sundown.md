@@ -27,11 +27,13 @@ Trump's most outspoken supporters, the ones who propelled him to his 2016 victor
 
 the brainrotification of Donald Trump was clear in last night's debate. Trump floundered, directionless, like some schizo boomer's social media algorithm. he accused Kamala of being a Marxist and a MAGA in the same breath, said something about "transgender operations on illegal aliens in jail", made repeated mentions of "post-birth abortions". he appealed to the infinite wisdom of Sean Hannity, Laura Ingraham, and big-boy Hungarian strongman Viktor Orban. this is nonsense to regular people! does the undecided voter care about what hyper-partisan Fox News talking heads have to say? does the average American know who Viktor Orban *is*? Trump was not speaking to semi-mythical working-class American everyman (as Kamala did), he was speaking to the old people at his rallies.  Trump was never a good debater, but even his comedic wit left much to be desired. his insults were lifeless. his classic Trumpisms ("millions and millions", everything being the "greatest" or the "worst" in history, etc.) were tired out. 
 
+i think the most illustrative example of this was the whole "Haitian immigrants eating dogs" fiasco. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA1NTQ4MzcsLTIwNDE3NjU5NDIsMz
-MzNjM0Mzc2LC0xNjA4MTU4NDY3LDMzNDM0NjIwNiwxNDYxNjg1
-NTAyLC04MTExNjc2MTcsMTcxOTM1OTkzNywtNDczMzMxODk3LC
-0yNTg5NzE4MDYsLTY0MDEwNTk4NSwyNTk2NDY4NzEsMTU2MDAw
-MjY5NywxNDY0NjY0MTIzLC04NjAyNTMwMzhdfQ==
+eyJoaXN0b3J5IjpbMTQzMDk1MTYyMSwtMjA0MTc2NTk0MiwzMz
+M2MzQzNzYsLTE2MDgxNTg0NjcsMzM0MzQ2MjA2LDE0NjE2ODU1
+MDIsLTgxMTE2NzYxNywxNzE5MzU5OTM3LC00NzMzMzE4OTcsLT
+I1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OTY0Njg3MSwxNTYwMDAy
+Njk3LDE0NjQ2NjQxMjMsLTg2MDI1MzAzOF19
 -->
