@@ -23,14 +23,14 @@ now
 
 am i cherrypicking? sure. but having observed his twitter feed for a while, he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable. his newer ones, suffering from the longer character limit, read like meandering screeds. "crooked Hillary" and "very very disrespectful" are catchy and memorable, whereas no one left of Trump himself cares about the half-hearted insults of "comrade Kamala" or "tampon Tim". 
 
-Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be young, smooth-talking internet-lords (i.e. Nick Fuentes and Richard Spencer) who helped "unite the right" at Charlottesville (the neo-Nazi rally that he struggled to disavow during the debate). they were the ones who truly appreciated how his style of brash simplicity got the moderate left seething in a way they could get people to laugh at. they used the charming absurdity of his words to meme him into office, all under an icky film of detached irony. this base, and the alluring energy it provided, no longer exists, or has turned against him. [the right has fractured, much in the same way the left did](https://damagemag.com/2024/08/21/how-the-online-right-fell-apart/). the remaining faces of MAGA are the petite bourgeois baby boomers raging at facebook comments sections, and the few young commentators that exist [ape the style of the left](https://www.youtube.com/watch?v=m2QgVhRMyWk). in short, the right---and Trump---has lost its "cool". everyone's a sensitive snowflake now.
+Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be young, smooth-talking internet-lords (i.e. Nick Fuentes and Richard Spencer) who helped "unite the right" at Charlottesville (the neo-Nazi rally that he struggled to disavow during the debate). they were the ones who truly appreciated how his style of brash simplicity got the moderate left seething in a way they could get people to laugh at. they used the charming absurdity of his words to meme him into office, all under an icky film of detached irony. this base, and the seduction of normies into its alluring energy, either no longer exists, or has turned against him. [the right has fractured, much in the same way the left did](https://damagemag.com/2024/08/21/how-the-online-right-fell-apart/). the remaining faces of MAGA are the petite bourgeois baby boomers raging at facebook comments sections, and the few young commentators that exist [ape the style of the left](https://www.youtube.com/watch?v=m2QgVhRMyWk). in short, the right---and Trump---has lost its "cool". *everyone's* a sensitive snowflake now.
 
 the brainrotification of Donald Trump was nowhere clearer than in last night's debate. Trump floundered, directionless, like some schizo boomer's social media algorithm. he accused Kamala of being a Marxist and a MAGA in the same breath, said something about "transgender operations on illegal aliens in jail", made repeated mentions of "post-birth abortions". he appealed to the infinite wisdom of Sean Hannity, Laura Ingraham, and big-boy strongman Viktor Orban. this is nonsense to regular people
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDE5MDg3MiwxNDYxNjg1NTAyLC04MT
-ExNjc2MTcsMTcxOTM1OTkzNywtNDczMzMxODk3LC0yNTg5NzE4
-MDYsLTY0MDEwNTk4NSwyNTk2NDY4NzEsMTU2MDAwMjY5NywxND
-Y0NjY0MTIzLC04NjAyNTMwMzhdfQ==
+eyJoaXN0b3J5IjpbLTE4ODg3NjgwMjcsMTQ2MTY4NTUwMiwtOD
+ExMTY3NjE3LDE3MTkzNTk5MzcsLTQ3MzMzMTg5NywtMjU4OTcx
+ODA2LC02NDAxMDU5ODUsMjU5NjQ2ODcxLDE1NjAwMDI2OTcsMT
+Q2NDY2NDEyMywtODYwMjUzMDM4XX0=
 -->
