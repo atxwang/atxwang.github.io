@@ -32,15 +32,15 @@ i think this is ultimately why trump's obvious senescence doesn't really matter.
 
 ![newsmaxxing](https://atxwang.github.io/assets/img/newsmaxxing.png)
 
-the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will probably decide the election. but the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as the Dems move further right
+the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will probably decide the election. but the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as the Dems move further right geopolitically (i.e. immigration, climate, China). 
 
 ![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxOTkxMjI3LC0yMTI1NjY5Mzg2LC05OD
-YwNjk2ODksMjY0Nzc2MTk0LC05MjY4MzA4MzUsMTU5MTU5OTE5
-OSwxNTc3ODc3NTEyLDE2NDY3NTM4MzYsMTQzMDk1MTYyMSwtMj
-A0MTc2NTk0MiwzMzM2MzQzNzYsLTE2MDgxNTg0NjcsMzM0MzQ2
-MjA2LDE0NjE2ODU1MDIsLTgxMTE2NzYxNywxNzE5MzU5OTM3LC
-00NzMzMzE4OTcsLTI1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OTY0
-Njg3MV19
+eyJoaXN0b3J5IjpbMTI3MjUxMTY1OSwtMjEyNTY2OTM4NiwtOT
+g2MDY5Njg5LDI2NDc3NjE5NCwtOTI2ODMwODM1LDE1OTE1OTkx
+OTksMTU3Nzg3NzUxMiwxNjQ2NzUzODM2LDE0MzA5NTE2MjEsLT
+IwNDE3NjU5NDIsMzMzNjM0Mzc2LC0xNjA4MTU4NDY3LDMzNDM0
+NjIwNiwxNDYxNjg1NTAyLC04MTExNjc2MTcsMTcxOTM1OTkzNy
+wtNDczMzMxODk3LC0yNTg5NzE4MDYsLTY0MDEwNTk4NSwyNTk2
+NDY4NzFdfQ==
 -->
