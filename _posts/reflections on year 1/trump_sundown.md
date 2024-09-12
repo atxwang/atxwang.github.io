@@ -21,9 +21,9 @@ then
 ![tampon tim](https://atxwang.github.io/assets/img/tampont.png)
 now
 
-am i cherrypicking? sure. but having observed his twitter feed for a while, he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable. his newer ones, suffering from the longer character limit, read like meandering screeds. "crooked Hillary" and "nipples " are catchy and memorable, whereas no one left of Trump himself cares about the half-hearted insults of "comrade Kamala" or "tampon Tim". 
+am i cherrypicking? sure. but having observed his twitter feed for a while, he just doesn't write bangers anymore! Trump's older tweets were terse, funny, and immensely quotable. his newer ones, suffering from the longer character limit, read like meandering screeds. "crooked Hillary" and "nipples protruding" are iconic and memorable, whereas no one left of Trump himself cares about the half-hearted insults of "comrade Kamala" or "tampon Tim". 
 
-Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be young, smooth-talking internet-lords (i.e. Nick Fuentes and Richard Spencer) who helped "unite the right" at Charlottesville (the neo-Nazi rally that he struggled to disavow during the debate). they were the ones who truly appreciated how his style of brash simplicity got the moderate left seething in a way they could get other people to laugh at. they used the charming absurdity of his words to meme him into office, all under an icky film of detached irony. this base, and the seduction of normies into its alluring energy, no longer exists. it has [turned against him](https://www.thedailybeast.com/trump-dinner-guest-nick-fuentes-declares-war-on-the-ex-prez) or [become embarassed by him](https://www.newsweek.com/richard-spencer-joe-biden-trump-maga-1527141). [the right has fractured, much in the same way the left did](https://damagemag.com/2024/08/21/how-the-online-right-fell-apart/). the remaining faces of MAGA are the petite bourgeois baby boomers raging at facebook comments sections, and the few young commentators that exist [ape the style of the left](https://www.youtube.com/watch?v=m2QgVhRMyWk). in short, the right---and Trump---has lost its "cool". *everyone's* a sensitive snowflake now.
+Trump's most outspoken supporters, the ones who propelled him to his 2016 victory, used to be young, smooth-talking internet-lords (i.e. Nick Fuentes and Richard Spencer) who helped "unite the right" at Charlottesville (the neo-Nazi rally he struggled to disavow during the debate). they were the ones who appreciated how his style of brash simplicity got the moderate left seething in a way they could get other people to laugh at. they used the charming absurdity of his words to meme him into office, all under an icky veneer of detached irony. this base, and the seduction of normies into its alluring energy, no longer exists. it has either [turned against him](https://www.thedailybeast.com/trump-dinner-guest-nick-fuentes-declares-war-on-the-ex-prez) or [become embarassed by him](https://www.newsweek.com/richard-spencer-joe-biden-trump-maga-1527141). [the right has fractured, much in the same way the left did](https://damagemag.com/2024/08/21/how-the-online-right-fell-apart/). the remaining faces of MAGA are the petite bourgeois baby boomers raging at facebook comments sections, and the few young commentators that exist [ape the style of the left](https://www.youtube.com/watch?v=m2QgVhRMyWk). in short, the right---and Trump---has lost its "cool". *everyone's* a sensitive snowflake now.
 
 the Facebook-brainrotification of Donald Trump was evident in last night's debate. Trump floundered, directionless, like some schizo boomer's social media algorithm. he accused Kamala of being a Marxist and a MAGA in the same breath, said something about "transgender operations on illegal aliens in jail", made repeated mentions to "executions of babies". he appealed to the infinite wisdom of Sean Hannity, Laura Ingraham, big-boy Hungarian strongman Viktor Orban. this is nonsense to regular people! does the undecided voter care about what hyper-partisan Fox News talking heads have to say? does the average American know who Viktor Orban *is*? Trump was not addressing the semi-mythical working-class American everyman (as Kamala did)---he was speaking to the old people at his rallies.  Trump was never a good debater, but even his comedic wit left much to be desired. his insults were lifeless. his classic Trumpisms ("millions and millions", everything being the "greatest" or the "worst" in history, etc.) were tired out. 
 
@@ -33,10 +33,10 @@ i think this is why trump's obvious senescence does not really matter.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk0MDkwOCwxNTkxNTk5MTk5LDE1Nz
-c4Nzc1MTIsMTY0Njc1MzgzNiwxNDMwOTUxNjIxLC0yMDQxNzY1
-OTQyLDMzMzYzNDM3NiwtMTYwODE1ODQ2NywzMzQzNDYyMDYsMT
-Q2MTY4NTUwMiwtODExMTY3NjE3LDE3MTkzNTk5MzcsLTQ3MzMz
-MTg5NywtMjU4OTcxODA2LC02NDAxMDU5ODUsMjU5NjQ2ODcxLD
-E1NjAwMDI2OTcsMTQ2NDY2NDEyMywtODYwMjUzMDM4XX0=
+eyJoaXN0b3J5IjpbLTE5MDMwOTI0NjIsMTU5MTU5OTE5OSwxNT
+c3ODc3NTEyLDE2NDY3NTM4MzYsMTQzMDk1MTYyMSwtMjA0MTc2
+NTk0MiwzMzM2MzQzNzYsLTE2MDgxNTg0NjcsMzM0MzQ2MjA2LD
+E0NjE2ODU1MDIsLTgxMTE2NzYxNywxNzE5MzU5OTM3LC00NzMz
+MzE4OTcsLTI1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OTY0Njg3MS
+wxNTYwMDAyNjk3LDE0NjQ2NjQxMjMsLTg2MDI1MzAzOF19
 -->
