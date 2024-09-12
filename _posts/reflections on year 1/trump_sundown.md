@@ -2,13 +2,13 @@
 layout: post
 title: Trump is sundowning. Does it matter?
 subtitle: thoughts on the Trump/Harris debate
-tags: [short, politics]
+tags: [short, rant, politics]
 ---
 so Kamala won the debate, partly to do with a good (better than expected) showing on her part, but mostly overshadowed by Trump's insanely horrific performance.
 
 ![polymarket](https://atxwang.github.io/assets/img/polymarket.png)
 
-much has already been said about Trump's [many lies and fumbles](https://www.npr.org/2024/09/11/g-s1-21932/fact-check-trump-harris-presidential-debate-2024) throughout the debate. it is clear that he lost on substance, but Trump was never liked for substance. he was liked for *style*, for catchy witticisms that can be parroted by 4chan edgelords and z-list rappers. and he lost on that! he's losing his swagger, and has been for a long time. take a look at his tweets, compared between the onset/duration of his previous candidacy/presidency and now:
+much has already been said about Trump's [many lies and fumbles](https://www.npr.org/2024/09/11/g-s1-21932/fact-check-trump-harris-presidential-debate-2024) throughout the debate. it is clear that he lost on substance, but Trump was never liked for substance. he was liked for *style*, for catchy witticisms that can be parroted by 4chan edgelords and z-list rappers. and he lost on that! he's losing his swagger, and has been for a long time. take a look at his Tweets, compared between the onset/duration of his previous candidacy/presidency and now:
 
 ![manysuchcases](https://atxwang.github.io/assets/img/manysuchcases.png)
 ![crooked hilary](https://atxwang.github.io/assets/img/crookedh.png)
@@ -32,15 +32,15 @@ i think this is ultimately why trump's obvious senescence doesn't really matter.
 
 ![newsmaxxing](https://atxwang.github.io/assets/img/newsmaxxing.png)
 
-the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will probably decide the election. but the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as the Dems move further right geopolitically (i.e. immigration, climate, China). 
+the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will probably decide the election. but the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as the Dems move further right geopolitically (i.e. immigration, climate, China). everything will get a little bit worse very gradually. really, what i'm most sad about is that we'll never get a tweet this good again:
 
 ![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjUxMTY1OSwtMjEyNTY2OTM4NiwtOT
-g2MDY5Njg5LDI2NDc3NjE5NCwtOTI2ODMwODM1LDE1OTE1OTkx
-OTksMTU3Nzg3NzUxMiwxNjQ2NzUzODM2LDE0MzA5NTE2MjEsLT
-IwNDE3NjU5NDIsMzMzNjM0Mzc2LC0xNjA4MTU4NDY3LDMzNDM0
-NjIwNiwxNDYxNjg1NTAyLC04MTExNjc2MTcsMTcxOTM1OTkzNy
-wtNDczMzMxODk3LC0yNTg5NzE4MDYsLTY0MDEwNTk4NSwyNTk2
-NDY4NzFdfQ==
+eyJoaXN0b3J5IjpbMjk2NjcxNTM1LC0yMTI1NjY5Mzg2LC05OD
+YwNjk2ODksMjY0Nzc2MTk0LC05MjY4MzA4MzUsMTU5MTU5OTE5
+OSwxNTc3ODc3NTEyLDE2NDY3NTM4MzYsMTQzMDk1MTYyMSwtMj
+A0MTc2NTk0MiwzMzM2MzQzNzYsLTE2MDgxNTg0NjcsMzM0MzQ2
+MjA2LDE0NjE2ODU1MDIsLTgxMTE2NzYxNywxNzE5MzU5OTM3LC
+00NzMzMzE4OTcsLTI1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OTY0
+Njg3MV19
 -->
