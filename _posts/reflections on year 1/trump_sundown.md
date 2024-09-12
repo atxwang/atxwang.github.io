@@ -32,15 +32,15 @@ i think this is ultimately why trump's obvious senescence doesn't really matter.
 
 ![newsmaxxing](https://atxwang.github.io/assets/img/newsmaxxing.png)
 
-the race is already so close that whatever benefit Kamala has from the debate will be marginal---*though the margins will decide the election*. the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as the Dems move further right geopolitically (i.e. immigration, climate, China), backstabbing progressives along the way. ignore your escapist fantasies of revolution or civil war---everything will just get a little bit worse very gradually. really, what i'm most sad about is that we'll never get a Tweet this good again:
+the race is already so close that whatever benefit Kamala has from the debate will be marginal---*though the margins will decide the election*. the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as blue moves further right geopolitically (i.e. immigration, climate, China), backstabbing progressives along the way. ignore your escapist fantasies of revolution or civil war---everything will just get a little bit worse very gradually. **really, what i'm most sad about is that we will never get a Tweet this good again:**
 
 ![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk3OTgxMzUsLTIxMjU2NjkzODYsLT
-k4NjA2OTY4OSwyNjQ3NzYxOTQsLTkyNjgzMDgzNSwxNTkxNTk5
-MTk5LDE1Nzc4Nzc1MTIsMTY0Njc1MzgzNiwxNDMwOTUxNjIxLC
-0yMDQxNzY1OTQyLDMzMzYzNDM3NiwtMTYwODE1ODQ2NywzMzQz
-NDYyMDYsMTQ2MTY4NTUwMiwtODExMTY3NjE3LDE3MTkzNTk5Mz
-csLTQ3MzMzMTg5NywtMjU4OTcxODA2LC02NDAxMDU5ODUsMjU5
-NjQ2ODcxXX0=
+eyJoaXN0b3J5IjpbMTM0MTUyMDkwNywtMjEyNTY2OTM4NiwtOT
+g2MDY5Njg5LDI2NDc3NjE5NCwtOTI2ODMwODM1LDE1OTE1OTkx
+OTksMTU3Nzg3NzUxMiwxNjQ2NzUzODM2LDE0MzA5NTE2MjEsLT
+IwNDE3NjU5NDIsMzMzNjM0Mzc2LC0xNjA4MTU4NDY3LDMzNDM0
+NjIwNiwxNDYxNjg1NTAyLC04MTExNjc2MTcsMTcxOTM1OTkzNy
+wtNDczMzMxODk3LC0yNTg5NzE4MDYsLTY0MDEwNTk4NSwyNTk2
+NDY4NzFdfQ==
 -->
