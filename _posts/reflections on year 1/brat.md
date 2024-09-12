@@ -6,7 +6,7 @@ tags: [essay, music, pop culture]
 ---
 [obligatory spotify playlist plug](https://open.spotify.com/playlist/3kFRsZcpe16fD0itKeCSvi?si=8b16f3a6bab24f16)
 
-has there ever been a cultural phenomenon more memefied, pervasive, and celebrated than Charli xcx's *BRAT*?  Charli's greatest critical and commercial success yet has not only launched her from underground idol to mainstream star but also metastasized its way into every information highway of our consumption-obsessed culture. "brat" has become a meaningless, superficial signaling word for some archetypal cool girl/gay. "brat summer" means parties and poppers, "brat green" means matcha and margaritas. "brat" is a catch all icon, an [advertising catchphrase](https://www.delish.com/food-news/a61500647/field-roast-brat-wurst-charli-xcx/), [tiktok trend](https://www.youtube.com/watch?v=nLe0YHj6HCI), and the [democratic party's 2024 presidential campaign anthem](https://www.cbsnews.com/video/how-vice-president-kamala-harris-became-brat/). how the fuck did we get here?
+**has there ever been a cultural phenomenon more memefied, pervasive, and celebrated than Charli xcx's *BRAT*?**  Charli's greatest critical and commercial success yet has not only launched her from underground idol to mainstream star but also metastasized its way into every information highway of our consumption-obsessed culture. "brat" has become a meaningless, superficial signaling word for some archetypal cool girl/gay. "brat summer" means parties and poppers, "brat green" means matcha and margaritas. "brat" is a catch all icon, an [advertising catchphrase](https://www.delish.com/food-news/a61500647/field-roast-brat-wurst-charli-xcx/), [tiktok trend](https://www.youtube.com/watch?v=nLe0YHj6HCI), and the [democratic party's 2024 presidential campaign anthem](https://www.cbsnews.com/video/how-vice-president-kamala-harris-became-brat/). how the fuck did we get here?
 
 **666 with a princess streak**
 ---
@@ -57,9 +57,9 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTM5NjM5MSwtOTk4MDI1NDUzLDE1MD
-ExNzAyMzcsMjAyNjgxMzQ5NCw3MDE3OTAyNTUsLTE5NTMzMzQ0
-MjksLTExNTE3MDY2NzcsMzkyNzUwMzg5LC05NzI3NjYwOSwtMj
-A1Mzc5MDY4OCwtMTczMDU5NzAwNywxMTgwNjAxNzksNjY2OTIz
-NjA2LC0yNzM0OTM4NTUsNjYwMjk1NjMyXX0=
+eyJoaXN0b3J5IjpbMjQ4NTIxMDYzLC05OTgwMjU0NTMsMTUwMT
+E3MDIzNywyMDI2ODEzNDk0LDcwMTc5MDI1NSwtMTk1MzMzNDQy
+OSwtMTE1MTcwNjY3NywzOTI3NTAzODksLTk3Mjc2NjA5LC0yMD
+UzNzkwNjg4LC0xNzMwNTk3MDA3LDExODA2MDE3OSw2NjY5MjM2
+MDYsLTI3MzQ5Mzg1NSw2NjAyOTU2MzJdfQ==
 -->
