@@ -32,15 +32,15 @@ i think this is ultimately why trump's obvious senescence doesn't really matter.
 
 ![newsmaxxing](https://atxwang.github.io/assets/img/newsmaxxing.png)
 
-the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will probably decide the election. but the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as the Dems move further right geopolitically (i.e. immigration, climate, China). everything will get a little bit worse very gradually. really, what i'm most sad about is that we'll never get a tweet this good again:
+the race is already so close that whatever benefit Kamala has from the debate will be marginal---though the margins will decide the election. but the bigger picture, i think, is that inter-party popular movement has ceased. genuine independents don't exist anymore. now that Trumpism is the face of the GOP, those who vote red will always vote red, fueled by their perfectly curated alternate realities. those who vote blue will be unified only in stopping red as the Dems move further right geopolitically (i.e. immigration, climate, China), backstabbing progressives. everything will get a little bit worse very gradually. really, what i'm most sad about is that we'll never get a tweet this good again:
 
 ![Very, very disrespectful](https://atxwang.github.io/assets/img/nipplesprotruding.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg1NjQ5MDEsLTIxMjU2NjkzODYsLT
-k4NjA2OTY4OSwyNjQ3NzYxOTQsLTkyNjgzMDgzNSwxNTkxNTk5
-MTk5LDE1Nzc4Nzc1MTIsMTY0Njc1MzgzNiwxNDMwOTUxNjIxLC
-0yMDQxNzY1OTQyLDMzMzYzNDM3NiwtMTYwODE1ODQ2NywzMzQz
-NDYyMDYsMTQ2MTY4NTUwMiwtODExMTY3NjE3LDE3MTkzNTk5Mz
-csLTQ3MzMzMTg5NywtMjU4OTcxODA2LC02NDAxMDU5ODUsMjU5
-NjQ2ODcxXX0=
+eyJoaXN0b3J5IjpbODgyMTkwNTk5LC0yMTI1NjY5Mzg2LC05OD
+YwNjk2ODksMjY0Nzc2MTk0LC05MjY4MzA4MzUsMTU5MTU5OTE5
+OSwxNTc3ODc3NTEyLDE2NDY3NTM4MzYsMTQzMDk1MTYyMSwtMj
+A0MTc2NTk0MiwzMzM2MzQzNzYsLTE2MDgxNTg0NjcsMzM0MzQ2
+MjA2LDE0NjE2ODU1MDIsLTgxMTE2NzYxNywxNzE5MzU5OTM3LC
+00NzMzMzE4OTcsLTI1ODk3MTgwNiwtNjQwMTA1OTg1LDI1OTY0
+Njg3MV19
 -->
