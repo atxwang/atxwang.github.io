@@ -13,4 +13,3 @@ hello! i'm alice, currently a 2nd year @ uchicago studying physics, math, and pr
 if needed, my cv can be found [here](https://www.overleaf.com/read/vxkxvmtxsczf#c705a0).
 
 ![Me](https://atxwang.github.io/assets/img/profile2.jpg)
-me and oppy
