@@ -9,4 +9,4 @@ the conlang club i cofounded: [UChiConlangs](https://sites.google.com/view/uchic
 ![UChiConlangs](https://atxwang.github.io/assets/img/uchiconlangs.png)
 the logo i designed ^
 
-my math reu paper: 
+my math reu paper: [The toric code](https://atxwang.github.io/assets/Wang,Alice.pdf)
