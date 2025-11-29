@@ -19,8 +19,7 @@ Still, I think it is important to put whatever you make out there (even if it is
 -
 *Subtitle: EA is indeed a form of effective altruism*
 *Tags:* #effective altruism, #essay
-*Date of first edit:* June 9, 2024
-*Date of last edit:* September 10, 2024
+*Date:* June 9, 2024
 
 ---
 
@@ -77,12 +76,11 @@ but bring this up to many leftists, and you'll be met with this myopic, defensiv
 when these points are quickly refuted, they'll return to the aforementioned rallying cries 
 
 **Longtermism, philosophy, and more opaque benefits**
--
+---
 **Fragment #2: Scattered thoughts on recent events**
 -
 *Tags:* #rant, #politics, #poetry
-*Date of first edit:*
-*Date of last edit:*
+*Date:* June 1, 2024
 
 ---
 **to the ones who walk away**
@@ -192,6 +190,8 @@ a word on frat fascism---and why they will never like you
 
 amongst the crowd a baby
 wrapped in a keffiyeh
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MDQzMTk4XX0=
+eyJoaXN0b3J5IjpbNjQxMzE3NDc4XX0=
 -->
