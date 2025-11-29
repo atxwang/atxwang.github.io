@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hello! I'm Alice, currently a 3rd year @ UChicago studying primarily physics and math, but also a whole host of other things. This website serves as my personal soapbox to talk about my interests and projects in a highly non-professional capacity (*though you are welcome to peek at my* [cv](https://drive.google.com/file/d/1GQM3_jS__rvJLFYy0rVT3XggnP8L82L6/view?usp=sharing) :p). 
+Hello! I'm Alice, currently a 3rd year @ UChicago studying primarily physics and math, but also a whole host of other things. This website serves as my personal soapbox to talk about my interests and projects in a highly non-professional capacity (*though you are welcome to peek at my [cv](https://drive.google.com/file/d/1GQM3_jS__rvJLFYy0rVT3XggnP8L82L6/view?usp=sharing)* :p). 
 
 I am a very slow writer and also a simultaneously busy and procrastinatory person, so please do not begrudge me for my very slow rate of posts...
 
