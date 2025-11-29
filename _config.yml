@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My digital dumping ground
+title: `Alice's digital dumping ground`
 
 # Your name to show in the footer
-author: alice wang
+author: Alice Wang
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,6 @@ author: alice wang
 
 navbar-links:
   about me: "aboutme"
-  #my recs: "myrecs"
   my projects: "myprojects"
 
 ################
