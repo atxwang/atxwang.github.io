@@ -8,7 +8,7 @@ Hi gang!- so it should be obvious that I have not updated this website in a long
 
 - The cringe induced by my un-updated blog was becoming overwhelming. I care about my internet presence being somewhat cool, so I had to remedy this.
 - My therapist thinks I dedicate too much time to "doing work" at little for anything else (this is true).
-- I am happiest when I am creating, 
+- I am happiest when I am creating, but unfortunately creative hobbies are not sustained unless you hold yourself accountable in some way. I am not under any illusion that I have more than one reader (myself), but at the very least this 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjUyNTg1MV19
+eyJoaXN0b3J5IjpbMTc0MDg0NDM3N119
 -->
