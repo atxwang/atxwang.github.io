@@ -17,6 +17,5 @@ For the past few years, I've participated in UChicago's Math REU program, throug
 
 **UChiConlangs**
 
-the conlang club i cofounded: [UChiConlangs](https://sites.google.com/view/uchiconlangs)
+Upon reaching college it was a shock to me that UChicago had no club for constructed languages, and in fact no official linguistics student organization at all! I founded the [UChicago Conlang Society](https://sites.google.com/view/uchiconlangs) with a few friends based on this need, alongside starting our very own conlang based on UChicago culture itself. I also designed the logo (shown below):
 ![UChiConlangs](https://atxwang.github.io/assets/img/uchiconlangs.png)
-the logo i designed ^
