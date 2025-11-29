@@ -24,4 +24,4 @@ Upon reaching college it was a shock to me that UChicago had no club for constru
 
 In Fall 2024 I took a creative writing workshop on Ecopoetics. Though of course it oftentimes felt like any other gen ed requirement, I am deeply proud of the final project I produced, and still treasure the class as one of the few opportunites I've had to actually develop a work of writing to completion... Moreover, it is by far the most personal piece I've ever created, focusing largely on my family, and I only grow fonder to it with time.
 
-You should read it!: *[Holy Rot: An Anatomy of Fallen Leaves]()*
+You should read it!: *[Holy Rot: An Anatomy of Fallen Leaves](https://atxwang.github.io/assets/CRWR final project.pdf)*
