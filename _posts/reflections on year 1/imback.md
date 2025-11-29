@@ -17,6 +17,10 @@ Still, I think it is important to put whatever you make out there (even if it is
 ---
 **Impact is what you make of it**
 -
+***EA is indeed a form of effective altruism***
+*Date of last edit:* September 10, 2024
+
+---
 
 *this essay was started in march following the 2024 midwest EA retreat. unfortunately, i am both very lazy and very busy which means i did not finish this up until now! :p*
 
@@ -73,5 +77,5 @@ when these points are quickly refuted, they'll return to the aforementioned rall
 **Longtermism, philosophy, and more opaque benefits**
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTMxNTY0Ml19
+eyJoaXN0b3J5IjpbMTMzODg5MDg3M119
 -->
