@@ -77,6 +77,8 @@ when these points are quickly refuted, they'll return to the aforementioned rall
 
 **Longtermism, philosophy, and more opaque benefits**
 -
+**Fragment #2: **
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjM3NDIxOV19
+eyJoaXN0b3J5IjpbLTIwOTY4NTU0NDNdfQ==
 -->
