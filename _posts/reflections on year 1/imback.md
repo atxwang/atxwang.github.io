@@ -2,7 +2,7 @@
 layout: post
 title: Fragments of 2024
 subtitle: and why I'm back to blogging
-tags: [fragments, personal]
+tags: [fragments, dispatches]
 ---
 Hi gang!---so it should be obvious that I have not updated this website in a long while. Part of this is just life getting hectic, part of it is just me being lazy. Life is still hectic, and I am still lazy, but I wanted to get back to blogging for the following reasons:
 
@@ -254,7 +254,8 @@ and yet the bops go so hard, the songs are so danceable, they're all club classi
 And that's the end! Unfortunately, I probably won't be returning to these topics given their dated nature. But you should (hopefully!) expect more posts in these styles and exploring similar themes :) 
 
 Logging off,
+
 Alice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTIzNDMwMV19
+eyJoaXN0b3J5IjpbLTkwODc1MDU0N119
 -->
