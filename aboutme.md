@@ -9,6 +9,9 @@ I am a very slow writer and also a simultaneously busy and procrastinatory perso
 
 **Stuff I like:**
 [my spotify](https://open.spotify.com/user/90bgp97wyg40mxbdpl5ws1q70?si=gbtFSmfQSGG3eXqjRnPIyg)
+
 [my lastfm](https://www.last.fm/user/tianxinw05)
+
 [my goodreads](https://www.goodreads.com/user/show/181579613)
+
 [my letterboxd](https://boxd.it/7YvgD)
