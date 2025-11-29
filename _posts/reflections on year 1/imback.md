@@ -251,7 +251,10 @@ but this is not a positive thing. the brat character is so online, so self obses
 and yet the bops go so hard, the songs are so danceable, they're all club classics, so people don't notice. this is why the brat marketing and memes are so effective. they so aggressively appeal to the superficial visual layer and none of the underneath. and that's why they've become the anthem of the democratic party and the kamala harris campaign. and also why charli tweeting "kamala is brat" has layers of imperceptible irony behind it. the pipeline from genuine appreciation to ironic memeification back to genuine again but with a corporate machine face. this is the ultimate victory of personal computer music.
 
 ---
-And that's the end! Unfortunately, 
+And that's the end! Unfortunately, I probably won't be returning to these topics given their dated nature. But you should (hopefully!) expect more posts in these styles and exploring similar themes :) 
+
+Logging off,
+Alice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTQ0OTY4OF19
+eyJoaXN0b3J5IjpbLTk2NTIzNDMwMV19
 -->
