@@ -192,6 +192,10 @@ amongst the crowd a baby
 wrapped in a keffiyeh
 
 ---
+**Fragment #3: Everyone's getting "brat" wrong**
+-
+***Subtitle: and i'm really mad about it***
+*Tags:* #essay, #music, #pop culture
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMzE3NDc4XX0=
+eyJoaXN0b3J5IjpbLTIwOTQ2MjEzNDZdfQ==
 -->
