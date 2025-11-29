@@ -80,7 +80,9 @@ when these points are quickly refuted, they'll return to the aforementioned rall
 -
 **Fragment #2: Scattered thoughts on recent events**
 -
-*Tag*
+*Tags:* #rant, #politics, #poetry
+*Date of first edit:*
+*Date of last edit:*
 
 ---
 **to the ones who walk away**
@@ -191,5 +193,5 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzE5NjIxN119
+eyJoaXN0b3J5IjpbODI4MDQzMTk4XX0=
 -->
