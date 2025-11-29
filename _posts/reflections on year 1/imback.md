@@ -12,7 +12,7 @@ Hi gang!---so it should be obvious that I have not updated this website in a lon
 
 On that note, one of the reasons why I found consistent blogging so challenging is that I write in really aggressive spurts---I spend hours developing something as soon as I get the idea for it, then quickly lose motivation and refuse to continue it any further. Problematically, I am also a perfectionist, which means I am intensely uncomfortable with attributing to my name anything that is imperfectly worded or incomplete. Hence, by the end of 2024, I ended up with a fuck ton of half-finished blog posts that never saw the light of day, and this back catalog intimidated me sufficiently to not even attempt writing anything in 2025. 
 
-Still, I think it is important to make things and put them out there (even if they are shit). 
+Still, I think it is important to make things and put them out there (even if it is shit). Following this principle (and also to punish my lack of industry), I have decided to post all my outdated ramblings 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3Mzc3NTEwXX0=
+eyJoaXN0b3J5IjpbLTI2NTg1MTM5NV19
 -->
