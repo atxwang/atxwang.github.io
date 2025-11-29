@@ -15,13 +15,13 @@ For the past few years, I've participated in UChicago's Math REU program, throug
 
 [*The wandering exponent in first passage percolation* (2025)](https://atxwang.github.io/assets/Wang,Alice.pdf)
 
-**UChiConlangs:**
-
-Upon reaching college it was a shock to me that UChicago had no club for constructed languages, and in fact no official linguistics student organization at all! I founded the [UChicago Conlang Society](https://sites.google.com/view/uchiconlangs) with a few friends based on this need, alongside starting our very own conlang based on UChicago culture itself. I also designed the logo (shown below):
-![UChiConlangs](https://atxwang.github.io/assets/img/uchiconlangs.png)
-
 **My poetry anthology:**
 
 In Fall 2024 I took a creative writing workshop on Ecopoetics. Though of course it oftentimes felt like any other gen ed requirement, I am deeply proud of the final project I produced, and still treasure the class as one of the few opportunites I've had to actually develop a work of writing to completion... Moreover, it is by far the most personal piece I've ever created, focusing largely on my family, and I only grow fonder to it with time.
 
-You should read it!: *[Holy Rot: An Anatomy of Fallen Leaves](https://atxwang.github.io/assets/CRWR final project.pdf)*
+You should read it!: *[Holy Rot: An Anatomy of Fallen Leaves](https://atxwang.github.io/assets/CRWR_final_project.pdf)*
+
+**UChiConlangs:**
+
+Upon reaching college it was a shock to me that UChicago had no club for constructed languages, and in fact no official linguistics student organization at all! I founded the [UChicago Conlang Society](https://sites.google.com/view/uchiconlangs) with a few friends based on this need, alongside starting our very own conlang based on UChicago culture itself. I also designed the logo (shown below):
+![UChiConlangs](https://atxwang.github.io/assets/img/uchiconlangs.png)
