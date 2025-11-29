@@ -15,9 +15,10 @@ On that note, one of the reasons why I found consistent blogging so challenging 
 Still, I think it is important to put whatever you make out there (even if it is shit). Following this principle (and also to punish my lack of industry), I have decided to post all my outdated ramblings here. Enjoy!
 
 ---
-**Impact is what you make of it**
+**Fragment #1: Impact is what you make of it**
 -
 ***EA is indeed a form of effective altruism***
+*Date of first edit:* June 9, 2024
 *Date of last edit:* September 10, 2024
 
 ---
@@ -77,5 +78,5 @@ when these points are quickly refuted, they'll return to the aforementioned rall
 **Longtermism, philosophy, and more opaque benefits**
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODg5MDg3M119
+eyJoaXN0b3J5IjpbLTgyMjM3NDIxOV19
 -->
