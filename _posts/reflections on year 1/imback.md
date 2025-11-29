@@ -17,8 +17,8 @@ Still, I think it is important to put whatever you make out there (even if it is
 ---
 **Fragment #1: Impact is what you make of it**
 -
-***Subtitle: EA is indeed a form of effective altruism***
-*T
+*Subtitle: EA is indeed a form of effective altruism*
+*Tags:* #effective altruism, #essay
 *Date of first edit:* June 9, 2024
 *Date of last edit:* September 10, 2024
 
@@ -80,6 +80,9 @@ when these points are quickly refuted, they'll return to the aforementioned rall
 -
 **Fragment #2: Scattered thoughts on recent events**
 -
+*Tag*
+
+---
 **to the ones who walk away**
 
 be swift resolute proud let immovable strides carry you
@@ -188,5 +191,5 @@ a word on frat fascism---and why they will never like you
 amongst the crowd a baby
 wrapped in a keffiyeh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTgzODIxNF19
+eyJoaXN0b3J5IjpbMTI2NzE5NjIxN119
 -->
