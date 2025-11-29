@@ -8,6 +8,7 @@ Hello! I'm Alice, currently a 3rd year @ UChicago studying primarily physics and
 I am a very slow writer and also a simultaneously busy and procrastinatory person, so please do not begrudge me for my very slow rate of posts...
 
 **Stuff I like:**
+
 [my spotify](https://open.spotify.com/user/90bgp97wyg40mxbdpl5ws1q70?si=gbtFSmfQSGG3eXqjRnPIyg)
 
 [my lastfm](https://www.last.fm/user/tianxinw05)
