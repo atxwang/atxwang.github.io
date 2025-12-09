@@ -15,3 +15,5 @@ For the past few years, I've participated in UChicago's Math REU program, throug
 **QFT Notes:**
 
 These notes are based on UChicago's course PHYS 44300: Quantum Field Theory taught by Clay Cordova. I hope they can be a helpful resource to anyone learning (or reviewing) QFT.
+
+[*QFT I (Autumn Quarter)*](https://atxwang.github.io/assets/QFT_I__Complete_Notes (1).pdf)
