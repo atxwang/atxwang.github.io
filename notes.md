@@ -1,4 +1,7 @@
-lay
+---
+layout: page
+title: Notes/writeups/papers
+---
 
 **My Math REU papers:**
 
