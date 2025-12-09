@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes/writeups/papers
+title: Notes, writeups, and papers
 ---
 
 **My Math REU papers:**
