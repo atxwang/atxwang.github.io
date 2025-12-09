@@ -7,14 +7,6 @@ title: My projects
 
 I have been drawing for as long as I remember, but stopped seriously pursuing it as a potential career when I got to high school. Still, I really enjoy it and have tried to keep time for it in my life. I've typically done rather ambitious digital paintings on my iPad (since it's the most convenient medium for me), as seen on my Instagram account [@al0tx0w](https://www.instagram.com/al0tx0w?igsh=YXM3ZG50a2Vidzdw). Recently, with the pace of life growing quicker, I've been doing more casual fountain pen sketches, cartoons, and caricatures.
 
-**My Math REU papers:**
-
-For the past few years, I've participated in UChicago's Math REU program, through which undergraduates get the rare opportunity to produce an expository math paper. Mine (of dubious quality) are listed below:
-
-[*The toric code* (2024)](https://atxwang.github.io/assets/Wang,Alice2024.pdf)
-
-[*The wandering exponent in first passage percolation* (2025)](https://atxwang.github.io/assets/Wang,Alice.pdf)
-
 **My poetry anthology:**
 
 In Fall 2024 I took a creative writing workshop on Ecopoetics. Though of course it oftentimes felt like any other gen ed requirement, I am deeply proud of the final project I produced, and still treasure the class as one of the few opportunites I've had to actually develop a work of writing to completion... Moreover, it is by far the most personal piece I've ever created, focusing largely on my family, and I only grow fonder of it with time.
