@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My projects
+title: Creative projects
 ---
 
 **My art:** 
