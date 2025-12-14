@@ -20,12 +20,12 @@ But wait, there's more!
 - 
 - The Bop House and the Cookieverse promise the same thing.
 
-**Everyone is beautiful and no one is sexy**
+**Everyone is beautiful and no one is horny**
 -
-- fatalism in postmodern capitalism; false promises; lack of consciousness
+- fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTM2Mzk3NywtOTgwNjY0NTY3LC0xMz
-kxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0yMDQ4MjUw
-Mjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxNDA2MDU5LC
-00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFdfQ==
+eyJoaXN0b3J5IjpbNzI2MDU5MjM2LC05ODA2NjQ1NjcsLTEzOT
+E1MDk1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNzIsLTIwNDgyNTAy
+OTksLTE5MzE2MDc1NzUsOTYxMTI2ODksLTExMzE0MDYwNTksLT
+Q3MzQ1MTY1MiwtNDM5NDk0MjgsMTQ5Mzg4MjQ5MV19
 -->
