@@ -26,10 +26,10 @@ But wait, there's more!
 - Blood Knife essay
 - The Bop House and the Cookieverse promise the same thing.
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
-- Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to a self-destructive male gaze; male fantasies; male standards
+- Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzM4NjM1NywtOTgwNjY0NTY3LC0xMz
-kxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0yMDQ4MjUw
-Mjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxNDA2MDU5LC
-00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFdfQ==
+eyJoaXN0b3J5IjpbLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMT
+M5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3MiwtMjA0ODI1
+MDI5OSwtMTkzMTYwNzU3NSw5NjExMjY4OSwtMTEzMTQwNjA1OS
+wtNDczNDUxNjUyLC00Mzk0OTQyOCwxNDkzODgyNDkxXX0=
 -->
