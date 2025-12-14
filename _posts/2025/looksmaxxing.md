@@ -18,9 +18,13 @@ But wait, there's more!
 
 **Cutemaxxing case study: the Bop House**
 - 
-**Everyone is sexy 
+- The Bop House and the Cookieverse promise the same thing.
+
+**Everyone is beautiful and no one is sexy**
+-
+- fatalism in postmodern capitalism; false promises; lack of consciousness
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTE3OTI3MCwtOTgwNjY0NTY3LC0xMz
+eyJoaXN0b3J5IjpbMTYwOTM2Mzk3NywtOTgwNjY0NTY3LC0xMz
 kxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0yMDQ4MjUw
 Mjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxNDA2MDU5LC
 00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFdfQ==
