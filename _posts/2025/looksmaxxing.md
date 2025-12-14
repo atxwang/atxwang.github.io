@@ -19,15 +19,16 @@ But wait, there's more!
 **Cutemaxxing case study: the Bop House**
 - 
 - Magdalene J Taylor Playboy coverage
+- Gooning as perfect encapsulation of Thanatos and Eros in modern man
 
 **Everyone is beautiful and no one is horny**
 -
 - Blood Knife essay
 - The Bop House and the Cookieverse promise the same thing.
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
-- Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the male gaze; male fantasies. 
+- Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to a self-destructive male gaze; male fantasies; male standards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTQ4NjkwNCwtOTgwNjY0NTY3LC0xMz
+eyJoaXN0b3J5IjpbLTkwMzM4NjM1NywtOTgwNjY0NTY3LC0xMz
 kxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0yMDQ4MjUw
 Mjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxNDA2MDU5LC
 00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFdfQ==
