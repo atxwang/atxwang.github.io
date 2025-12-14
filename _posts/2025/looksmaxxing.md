@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Live from the front line 
-subtitle: 
+title: Tik Tok's schizophrenic gender wars
+subtitle: Live from the front line
 tags: [pop culture, politics, short]
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE0MDYwNTksLTQ3MzQ1MTY1MiwtND
-M5NDk0MjgsMTQ5Mzg4MjQ5MV19
+eyJoaXN0b3J5IjpbMzc0NDU2Mjg4LC0xMTMxNDA2MDU5LC00Nz
+M0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFdfQ==
 -->
