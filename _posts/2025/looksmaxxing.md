@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 
-subtitle: the state of the TikTok gender war
+title: Live from the front line 
+subtitle: 
 tags: [pop culture, politics, short]
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzQ1MTY1MiwtNDM5NDk0MjgsMTQ5Mz
-g4MjQ5MV19
+eyJoaXN0b3J5IjpbLTExMzE0MDYwNTksLTQ3MzQ1MTY1MiwtND
+M5NDk0MjgsMTQ5Mzg4MjQ5MV19
 -->
