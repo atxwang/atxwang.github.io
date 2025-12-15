@@ -8,7 +8,7 @@ One of the best ways to waste time on the internet is to make a Tik Tok account,
 
 You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the most accessible incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere
 
-[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incels, 
+[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incels, Elliot Rodger and Alek Minassian 
 
 **The blackpill:  a primer**
 -
@@ -33,11 +33,11 @@ But wait, there's more!
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE3NTY5NTUsLTE3ODY4NTQzMjgsLT
-EyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYw
-ODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2Nj
-Q1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNzIs
-LTIwNDgyNTAyOTksLTE5MzE2MDc1NzUsOTYxMTI2ODksLTExMz
-E0MDYwNTksLTQ3MzQ1MTY1MiwtNDM5NDk0MjgsMTQ5Mzg4MjQ5
-MV19
+eyJoaXN0b3J5IjpbLTQwODc4MjQ3OCwtMTc4Njg1NDMyOCwtMT
+IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
+ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
+U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
+MjA0ODI1MDI5OSwtMTkzMTYwNzU3NSw5NjExMjY4OSwtMTEzMT
+QwNjA1OSwtNDczNDUxNjUyLC00Mzk0OTQyOCwxNDkzODgyNDkx
+XX0=
 -->
