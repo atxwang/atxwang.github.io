@@ -4,7 +4,7 @@ title: Lions, tigers, and bonesmashers, oh my!
 subtitle: Live from the front line of Tik Tok's schizophrenic gender wars
 tags: [pop culture, politics, essay]
 ---
-One of the best ways to waste time on the internet is to make a T
+One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large subcultures 
 
 **The blackpill:  a primer**
 -
@@ -28,9 +28,9 @@ But wait, there's more!
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ3MDcyMiwtMTQ2OTcxMTg3OSwtOT
-gwNjY0NTY3LC0xMzkxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0
-MTcyLC0yMDQ4MjUwMjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC
-0xMTMxNDA2MDU5LC00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4
-ODI0OTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLT
+k4MDY2NDU2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYw
+NDE3MiwtMjA0ODI1MDI5OSwtMTkzMTYwNzU3NSw5NjExMjY4OS
+wtMTEzMTQwNjA1OSwtNDczNDUxNjUyLC00Mzk0OTQyOCwxNDkz
+ODgyNDkxXX0=
 -->
