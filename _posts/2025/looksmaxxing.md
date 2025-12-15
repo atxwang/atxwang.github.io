@@ -4,11 +4,11 @@ title: Lions, tigers, and bonesmashers, oh my!
 subtitle: Live from the front line of Tik Tok's schizophrenic gender wars
 tags: [pop culture, politics, essay]
 ---
-One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths--- all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until it finally reaches the festering 99th-percentile slop pool that is Tik Tok.
+One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large and terribly absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths--- all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until it finally reaches the festering 99th-percentile slop pool that is Tik Tok.
 
 You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the most accessible incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, including those who fuck. Incel terminology--- "sigma", "mewing", "chad" ---has become standard, if passe, slang among both Very Online teenagers and their six year old nephews. 
 
-Th
+That doesn't mean the incels have disappeared. 
 
 
 
@@ -39,11 +39,11 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDg2ODI5LC0xNzg2ODU0MzI4LC0xMj
-M3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4
-MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NT
-Y3LC0xMzkxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0y
-MDQ4MjUwMjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxND
-A2MDU5LC00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFd
-fQ==
+eyJoaXN0b3J5IjpbMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMT
+IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
+ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
+U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
+MjA0ODI1MDI5OSwtMTkzMTYwNzU3NSw5NjExMjY4OSwtMTEzMT
+QwNjA1OSwtNDczNDUxNjUyLC00Mzk0OTQyOCwxNDkzODgyNDkx
+XX0=
 -->
