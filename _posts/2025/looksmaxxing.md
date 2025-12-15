@@ -8,7 +8,7 @@ One of the best ways to waste time on the internet is to make a Tik Tok account,
 
 You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the most accessible incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, including those who fuck. Incel terminology--- "sigma", "mewing", "chad" ---has become standard, if passe, slang among both Very Online teenagers and their six year old nephews. 
 
-That doesn't mean the incels have disappeared. As the "gender wars" have become increasingly juvenile, 
+That doesn't mean the incels have disappeared. 
 
 
 
@@ -39,11 +39,11 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI5MTAyMzIsMTY3NzExNjY0NiwtMT
-c4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2
-MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MT
-E4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODks
-LTM3NjYwNDE3MiwtMjA0ODI1MDI5OSwtMTkzMTYwNzU3NSw5Nj
-ExMjY4OSwtMTEzMTQwNjA1OSwtNDczNDUxNjUyLC00Mzk0OTQy
-OCwxNDkzODgyNDkxXX0=
+eyJoaXN0b3J5IjpbMTY3NzExNjY0NiwxNjc3MTE2NjQ2LC0xNz
+g2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYz
+NjU1MSwtMTk2MDg4MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMT
+g3OSwtOTgwNjY0NTY3LC0xMzkxNTA5NTcyLDM3NzI1MDc4OSwt
+Mzc2NjA0MTcyLC0yMDQ4MjUwMjk5LC0xOTMxNjA3NTc1LDk2MT
+EyNjg5LC0xMTMxNDA2MDU5LC00NzM0NTE2NTIsLTQzOTQ5NDI4
+LDE0OTM4ODI0OTFdfQ==
 -->
