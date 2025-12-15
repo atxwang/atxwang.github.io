@@ -10,7 +10,7 @@ You've heard of incels before. The "involuntary celibates" came to public consci
 
 
 
-[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incel murderers, Elliot Rodger and Alek Minassian, were half-Asian and Armenian respectively. The misanthropic worldview of non-white incels is definitely informed 
+[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incel murderers, Elliot Rodger and Alek Minassian, were half-Asian and Armenian respectively. The misanthropic worldview of non-white incels is definitely informed by the angst of unattainable whiteness. 
 
 **The blackpill:  a primer**
 -
@@ -36,11 +36,11 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTAxNTcwMSwtMTc4Njg1NDMyOCwtMT
-IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
-ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
-U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
-MjA0ODI1MDI5OSwtMTkzMTYwNzU3NSw5NjExMjY4OSwtMTEzMT
-QwNjA1OSwtNDczNDUxNjUyLC00Mzk0OTQyOCwxNDkzODgyNDkx
-XX0=
+eyJoaXN0b3J5IjpbLTkwODIzMDM5LC0xNzg2ODU0MzI4LC0xMj
+M3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4
+MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NT
+Y3LC0xMzkxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0y
+MDQ4MjUwMjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxND
+A2MDU5LC00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFd
+fQ==
 -->
