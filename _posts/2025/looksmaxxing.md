@@ -6,9 +6,11 @@ tags: [pop culture, politics, essay]
 ---
 One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths--- all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until it finally reaches the festering 99th-percentile slop pool that is Tik Tok.
 
-You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the most accessible incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, inc
+You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the most accessible incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere.
 
-[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incel murderers, Elliot Rodger and Alek Minassian, were half-Asian and Armenian respectively. 
+
+
+[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incel murderers, Elliot Rodger and Alek Minassian, were half-Asian and Armenian respectively. At least in Rodger's case, 
 
 **The blackpill:  a primer**
 -
@@ -33,7 +35,7 @@ But wait, there's more!
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTkxMjEyMiwtMTc4Njg1NDMyOCwtMT
+eyJoaXN0b3J5IjpbMTYzMTk0OTAzMCwtMTc4Njg1NDMyOCwtMT
 IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
 ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
 U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
