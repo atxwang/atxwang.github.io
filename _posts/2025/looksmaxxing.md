@@ -10,7 +10,7 @@ You've heard of incels before. The "involuntary celibates" came to public consci
 
 
 
-[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incel murderers, Elliot Rodger and Alek Minassian, were half-Asian and Armenian respectively. At least in Rodger's case, 
+[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incel murderers, Elliot Rodger and Alek Minassian, were half-Asian and Armenian respectively. The misanthropic worldview of non-white incels is definitely informed 
 
 **The blackpill:  a primer**
 -
@@ -34,8 +34,9 @@ But wait, there's more!
 - The Bop House and the Cookieverse promise the same thing.
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
+- Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTk0OTAzMCwtMTc4Njg1NDMyOCwtMT
+eyJoaXN0b3J5IjpbLTgwMTAxNTcwMSwtMTc4Njg1NDMyOCwtMT
 IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
 ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
 U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
