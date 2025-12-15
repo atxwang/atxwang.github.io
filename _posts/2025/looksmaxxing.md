@@ -4,7 +4,7 @@ title: Lions, tigers, and bonesmashers, oh my!
 subtitle: Live from the front line of Tik Tok's schizophrenic gender wars
 tags: [pop culture, politics, essay]
 ---
-One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large absurd subcultures. Through this method, I have discovered countless 
+One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large absurd subcultures. Through this method, I have discovered countless--- white furries 
 
 You've likely heard of incels before. 
 
@@ -30,7 +30,7 @@ But wait, there's more!
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODE0MjQ5OSwtMTk2MDg4MzQyOSwtMT
+eyJoaXN0b3J5IjpbLTUxMDY4MzMxNSwtMTk2MDg4MzQyOSwtMT
 U0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3LC0xMzkx
 NTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0yMDQ4MjUwMj
 k5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxNDA2MDU5LC00
