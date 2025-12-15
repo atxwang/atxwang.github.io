@@ -23,10 +23,11 @@ The BP community is made up of mostly pubescent boys and led by a string of rece
 
 The basic tenet of the BP community is that attractiveness is objective and supreme. 
 
-True incel scholars will notice that this is highly divergent from 
+- The Tik Tok blackpiller is distinct from the classic incel blackpiller. While both view themselves as low on the scale of human attractiveness, the incel blackpiller believes himself generally non-human and irredeemable in appearance. He can do nothing at all to improve his inceldom except for like, participate in a mass revolution to instate mandatory girlfriends. The Tik Tok blackpiller is more of a sequel to the classic redpill than a rejection of it; he believes that self-improvement--- not of his Game, but his appearance --- will grant him access to everything he wants. So within the Tik Tok blackpill, there is technically a shift to a systemic ideology, but it kind of ends up being the same as a promise of individual "ascension" for pubescent (sometimes prepubescent) men.
+
+True incel scholars will notice that this is highly divergent from original blackpill theory. 
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis. There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
-- The Tik Tok blackpiller is distinct from the classic incel blackpiller. While both view themselves as low on the scale of human attractiveness, the incel blackpiller believes himself generally non-human and irredeemable in appearance. He can do nothing at all to improve his inceldom except for like, participate in a mass revolution to instate mandatory girlfriends. The Tik Tok blackpiller is more of a sequel to the classic redpill than a rejection of it; he believes that self-improvement--- not of his Game, but his appearance --- will grant him access to everything he wants. So within the Tik Tok blackpill, there is technically a shift to a systemic ideology, but it kind of ends up being the same as a promise of individual "ascension" for pubescent (sometimes prepubescent) men.
 
 **The female looksmaxxer**
 -
@@ -46,11 +47,11 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NT
-Q5NDc4OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMy
-OCwtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLT
-E5NjA4ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4
-MDY2NDU2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwND
-E3MiwtMjA0ODI1MDI5OSwtMTkzMTYwNzU3NSw5NjExMjY4OSwt
-MTEzMTQwNjA1OV19
+eyJoaXN0b3J5IjpbLTEwMTczNjQyNTQsLTg1MDU5NjQyMCw5MD
+M3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMTY3NzExNjY0
+NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC
+0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MDM4OTQsLTE0
+Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3MiwzNzcyNT
+A3ODksLTM3NjYwNDE3MiwtMjA0ODI1MDI5OSwtMTkzMTYwNzU3
+NSw5NjExMjY4OV19
 -->
