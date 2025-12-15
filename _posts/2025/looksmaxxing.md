@@ -6,10 +6,9 @@ tags: [pop culture, politics, essay]
 ---
 One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths--- all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until it finally reaches the festering 99th-percentile slop pool that is Tik Tok.
 
-You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the most accessible incel forums 
-"Incel" has become a generic insult for anyone in the manosphere
+You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the most accessible incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere
 
-[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white.
+[^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incels, 
 
 **The blackpill:  a primer**
 -
@@ -34,10 +33,11 @@ But wait, there's more!
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMT
-ExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1
-NDAzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1NjcsLTEzOTE1MD
-k1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNzIsLTIwNDgyNTAyOTks
-LTE5MzE2MDc1NzUsOTYxMTI2ODksLTExMzE0MDYwNTksLTQ3Mz
-Q1MTY1MiwtNDM5NDk0MjgsMTQ5Mzg4MjQ5MV19
+eyJoaXN0b3J5IjpbLTE1NjE3NTY5NTUsLTE3ODY4NTQzMjgsLT
+EyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYw
+ODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2Nj
+Q1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNzIs
+LTIwNDgyNTAyOTksLTE5MzE2MDc1NzUsOTYxMTI2ODksLTExMz
+E0MDYwNTksLTQ3MzQ1MTY1MiwtNDM5NDk0MjgsMTQ5Mzg4MjQ5
+MV19
 -->
