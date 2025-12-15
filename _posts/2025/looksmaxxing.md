@@ -6,7 +6,7 @@ tags: [pop culture, politics, essay]
 ---
 One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large and terribly absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths--- all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until it finally reaches the festering 99th-percentile slop pool that is Tik Tok.
 
-You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the largest incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, including those who fuck. Incel terminology--- "sigma", "mewing", "chad" ---has become standard, if passe, slang among both Very Online teenagers and their six year old nephews. 
+You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the largest incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, including those who fuck. Incel terminology--- "sigma", "mewing", "chad" ---has become standard, if passe, slang among both Very Online teenagers and their six year-old nephews. 
 
 A few traditional forums still exist, but as the "gender wars" have become increasingly juvenile, the incels have met the demands of battle. Their legacy today is the **blackpill**, pulverized into digestible mush by and for a post-COVID generation living their lives on Tik Tok. 
 
@@ -19,7 +19,7 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 
 The wonderful thing about the Tik Tok algorithm is that each user is only a few swipes away from the same crazy shit. If a weird subculture gains gradual popularity from within, in a few weeks it will have breached to more and more people from other sides of the app. The fame will snowball as larger creators add their own (confused, gawking) commentary, and soon all of Tik Tok will be engulfed in a hyperspecific discourse. This is what happened to the **blackpill (BP) community**.
 
-The BP community is made up of mostly high schoolers and led by a string of 19-24 year-old influencers 
+The BP community is made up of mostly high schoolers and led by a string of 19-20 year-old college 
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis. There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 - The Tik Tok blackpiller is distinct from the classic incel blackpiller. While both view themselves as low on the scale of human attractiveness, the incel blackpiller believes himself generally non-human and irredeemable in appearance. He can do nothing at all to improve his inceldom except for like, participate in a mass revolution to instate mandatory girlfriends. The Tik Tok blackpiller is more of a sequel to the classic redpill than a rejection of it; he believes that self-improvement--- not of his Game, but his appearance --- will grant him access to everything he wants. So within the Tik Tok blackpill, there is technically a shift to a systemic ideology, but it kind of ends up being the same as a promise of individual "ascension" for pubescent (sometimes prepubescent) men.
@@ -42,7 +42,7 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNDU5NDE4LDE2NzcxMTY2NDYsLTE3OD
+eyJoaXN0b3J5IjpbODg3NzY1MDk2LDE2NzcxMTY2NDYsLTE3OD
 Y4NTQzMjgsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2
 NTUxLC0xOTYwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExOD
 c5LC05ODA2NjQ1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5LC0z
