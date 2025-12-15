@@ -6,7 +6,7 @@ tags: [pop culture, politics, essay]
 ---
 One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths, all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (yes, not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until one finally reaches the festering 99th-percentile slop pool that is Tik Tok.
 
-You've likely heard of incels before. 
+You've likely heard of incels before. The "involuntary celibate" community came to public consciousness through the 2014 Isla Vista shooting 
 
 **The blackpill:  a primer**
 -
@@ -30,9 +30,10 @@ But wait, there's more!
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYzNjU1MSwtMTk2MDg4MzQyOSwtMT
-U0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3LC0xMzkx
-NTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0yMDQ4MjUwMj
-k5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0xMTMxNDA2MDU5LC00
-NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4ODI0OTFdfQ==
+eyJoaXN0b3J5IjpbMTAzMDMzMzY4MCwtMTY2NjM2NTUxLC0xOT
+YwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2
+NjQ1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNz
+IsLTIwNDgyNTAyOTksLTE5MzE2MDc1NzUsOTYxMTI2ODksLTEx
+MzE0MDYwNTksLTQ3MzQ1MTY1MiwtNDM5NDk0MjgsMTQ5Mzg4Mj
+Q5MV19
 -->
