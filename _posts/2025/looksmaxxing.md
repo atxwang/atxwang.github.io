@@ -8,9 +8,7 @@ One of the best ways to waste time on the internet is to make a Tik Tok account,
 
 You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the largest incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, including those who fuck. Incel terminology--- "sigma", "mewing", "chad" ---has become standard, if passe, slang among both Very Online teenagers and their six year old nephews. 
 
-That doesn't mean the incels have disappeared. A few traditional  forums still exist, but as the "gender wars" have become increasingly juvenile, the incels have met the demands of battle. The incels' modern legacy is the **blackpill**, transformed and 
-
-
+That doesn't mean the incels have disappeared. A few traditional  forums still exist, but as the "gender wars" have become increasingly juvenile, the incels have met the demands of battle. The incels' modern legacy is the **blackpill (BP)**, transformed and TikTokified into digestible mush by and for a post-COVID generation. 
 
 [^1]: There was always an element of racial hatred in incel rhetoric. But this perception obfuscates the fact that a good portion of inceldom is non-white. The two most high-profile incel murderers, Elliot Rodger and Alek Minassian, were half-Asian and Armenian respectively. The misanthropic worldview of non-white incels is definitely informed by the angst of unattainable whiteness. 
 
@@ -39,7 +37,7 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTAzNDY1MSwxNjc3MTE2NjQ2LC0xNz
+eyJoaXN0b3J5IjpbLTYzNjU3MDE4OCwxNjc3MTE2NjQ2LC0xNz
 g2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYz
 NjU1MSwtMTk2MDg4MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMT
 g3OSwtOTgwNjY0NTY3LC0xMzkxNTA5NTcyLDM3NzI1MDc4OSwt
