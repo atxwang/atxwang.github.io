@@ -6,7 +6,7 @@ tags: [pop culture, politics, essay]
 ---
 One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths--- all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until it finally reaches the festering 99th-percentile slop pool that is Tik Tok.
 
-You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, "incel" has become a generic insu
+You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, "incel" has become a generic insult for 
 
 [^1]: There was always an element of racial hatred in incel rhetoric. 
 
@@ -33,10 +33,10 @@ But wait, there's more!
 - fatalism in postmodern capitalism; false promises; lack of consciousness- these are all the driving forces of the modern digital gender wars
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE4NjQ1OTksLTE2NjYzNjU1MSwtMT
-k2MDg4MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgw
-NjY0NTY3LC0xMzkxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MT
-cyLC0yMDQ4MjUwMjk5LC0xOTMxNjA3NTc1LDk2MTEyNjg5LC0x
-MTMxNDA2MDU5LC00NzM0NTE2NTIsLTQzOTQ5NDI4LDE0OTM4OD
-I0OTFdfQ==
+eyJoaXN0b3J5IjpbMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOT
+YwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2
+NjQ1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNz
+IsLTIwNDgyNTAyOTksLTE5MzE2MDc1NzUsOTYxMTI2ODksLTEx
+MzE0MDYwNTksLTQ3MzQ1MTY1MiwtNDM5NDk0MjgsMTQ5Mzg4Mj
+Q5MV19
 -->
