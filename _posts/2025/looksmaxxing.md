@@ -15,7 +15,6 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 **The blackpill:  a primer**
 -
 - Looksmaxxers are unhinged. Basic introduction to looksmaxxing and blackpill (notably, this is now the predominant form of inceldom on Tik Tok) through influencers like Clavicular, Cookie King, Syrian Psycho. All are deeply juvenile and perhaps mentally challenged- illustrated by deep substance abuse, Fuentesian racial brainrot (e.g. veneer of plausible deniability), inability to understand social mores (they all think they're Patrick Bateman and are incapable of pulling anyone but the truly desperate). Complete dedication to high risk dubious results methods like fucking bonesmashing.
-- ideology: traditional BP, general "lookism", crunchy health stuff
 - This is where I struggle most with Etymology Nerd's thesis. The spread of BP ideology relies on irony and humor for plausible deniability and normalization.
 
 The **blackpill (BP) community**  is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
@@ -31,7 +30,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Dying your hair and wearing colored contacts
 - Excessive dieting and weight loss
 - Performing daily exercises to reshape the face, such as **mewing** and **facepulling/thumbpulling**
-- **Bonesmashing**: 
+- **Bonesmashing**: supposedly, 
 - DIYing orthodontic headgear
 - DIYing injections of peptides and fat dissolvers like Aqualyx
 - Steroid abuse for attaining a muscular physique without exercise
@@ -67,11 +66,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzA2OTg4OCwtMTQyOTYzMzIzNSwtMT
-QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
-NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
-Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
-NDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MD
-M4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3
-MiwzNzcyNTA3ODldfQ==
+eyJoaXN0b3J5IjpbLTE4NzY1OTE5MTgsLTE0Mjk2MzMyMzUsLT
+E0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1
+OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLD
+E2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTEx
+MjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1ND
+AzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1
+NzIsMzc3MjUwNzg5XX0=
 -->
