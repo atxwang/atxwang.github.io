@@ -26,6 +26,9 @@ What's more is that your appearance matters far beyond the realm of sex and roma
 
 But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of things looksmaxxers have actually done or recommended on Tik Tok, ranging from normal and benign to completely disordered:
 
+- Wearing height insoles
+- Wearing makeup to conceal blemishes and enhance certain features
+- Dying your hair and wearing colored contacts
 - 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
@@ -57,11 +60,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI1OTgxNjUsLTE0Mjk2MzMyMzUsLT
-E0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1
-OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLD
-E2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTEx
-MjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1ND
-AzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1
-NzIsMzc3MjUwNzg5XX0=
+eyJoaXN0b3J5IjpbMTk0MDI0MjIyMCwtMTQyOTYzMzIzNSwtMT
+QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
+NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
+Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
+NDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MD
+M4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3
+MiwzNzcyNTA3ODldfQ==
 -->
