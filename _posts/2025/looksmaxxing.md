@@ -29,7 +29,7 @@ True incel scholars will notice that this is highly divergent from original blac
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis. There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
-[^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a 
+[^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage b
 
 **The female looksmaxxer**
 -
@@ -49,11 +49,11 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY5MDQwODIsODM1MTkzODE4LC0xMD
-E3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3
-ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLT
-EyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYw
-ODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2Nj
-Q1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNzIs
-LTIwNDgyNTAyOTldfQ==
+eyJoaXN0b3J5IjpbMTMwMjI4NzY0MSw4MzUxOTM4MTgsLTEwMT
+czNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4
+OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMT
+IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
+ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
+U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
+MjA0ODI1MDI5OV19
 -->
