@@ -30,7 +30,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Dying your hair and wearing colored contacts
 - Excessive dieting and weight loss
 - Performing daily exercises to reshape the face, such as **mewing** and **facepulling/thumbpulling**
-- **Bonesmashing**: supposedly, 
+- **Bonesmashing**: supposedly, a bone will grow back stronger and larger after experiencing repeated microfractures. Looksmaxxers "bonesmash" by punching themselves in the face for hours on end to induce swelling and 
 - DIYing orthodontic headgear
 - DIYing injections of peptides and fat dissolvers like Aqualyx
 - Steroid abuse for attaining a muscular physique without exercise
@@ -66,7 +66,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY1OTE5MTgsLTE0Mjk2MzMyMzUsLT
+eyJoaXN0b3J5IjpbLTIwNjYyNjUzNjAsLTE0Mjk2MzMyMzUsLT
 E0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1
 OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLD
 E2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTEx
