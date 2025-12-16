@@ -31,8 +31,11 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Dying your hair and wearing colored contacts
 - Excessive dieting and weight loss
 - Performing daily exercises to reshape the face, such as **mewing** and **facepulling/thumbpulling**
+- **Bonesmashing**: 
 - DIYing orthodontic headgear
-- DIYing injections of 
+- DIYing injections of peptides and fat dissolvers like Aqualyx
+- Steroid abuse for attaining a muscular physique without exercise
+- 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -63,7 +66,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTQ4MDA4MCwtMTQyOTYzMzIzNSwtMT
+eyJoaXN0b3J5IjpbMTM2NDcwNzUwMiwtMTQyOTYzMzIzNSwtMT
 QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
 NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
 Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
