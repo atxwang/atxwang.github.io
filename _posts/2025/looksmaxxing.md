@@ -35,7 +35,8 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - DIYing orthodontic headgear
 - DIYing injections of peptides and fat dissolvers like Aqualyx
 - Steroid abuse for attaining a muscular physique without exercise
-- Invasive medical procedures such as double jaw surgery, leg-lengthening, eye color laser depigmentation
+- Invasive medical procedures such as double jaw surgery, leg-lengthening, eye color laser depigmentation, orbital decompression surgery
+- Doing meth for leanness and "hollow cheeks"
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -66,11 +67,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUxNjkyMjgsLTE0Mjk2MzMyMzUsLT
-E0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1
-OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLD
-E2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTEx
-MjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1ND
-AzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1
-NzIsMzc3MjUwNzg5XX0=
+eyJoaXN0b3J5IjpbMTI3NzA2OTg4OCwtMTQyOTYzMzIzNSwtMT
+QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
+NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
+Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
+NDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MD
+M4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3
+MiwzNzcyNTA3ODldfQ==
 -->
