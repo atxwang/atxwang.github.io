@@ -22,11 +22,11 @@ The wonderful thing about the Tik Tok algorithm is that each user is only a few 
 
 The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
-The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
+The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", "get a better haircut", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
 
-What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your face aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
+What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your bone structures aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
 
-But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks
+But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -57,11 +57,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsOD
-M1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEw
-OTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLT
-E3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2
-NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5Nz
-ExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5
-LC0zNzY2MDQxNzJdfQ==
+eyJoaXN0b3J5IjpbLTUxMDIxOTM5NCwtMTQyOTYzMzIzNSwtMT
+QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
+NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
+Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
+NDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MD
+M4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3
+MiwzNzcyNTA3ODldfQ==
 -->
