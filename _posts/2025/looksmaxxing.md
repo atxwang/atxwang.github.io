@@ -6,7 +6,7 @@ tags: [pop culture, politics, essay]
 ---
 One of the best ways to waste time on the internet is to make a Tik Tok account, game your algorithm, and delve into a subterranean network of shockingly-large and terribly absurd subcultures. Through this method, I have discovered countless--- white furry converts to Salafist Islam, plus-size theme park enthusiasts, Juche goths--- all of whom take themselves 100% seriously. Another feature of Tik Tok that lends itself to deep anthropological study is its status on the internet hierarchy. Twitter is where the internet's most intelligent and cultured (not a high bar, I know) tastemakers start discourse. This trickles down via reposts to other social medias (Reddit, Instagram) until it finally reaches the festering 99th-percentile slop pool that is Tik Tok.
 
-You've heard of incels before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the largest incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, including those who fuck. Incel terminology--- "sigma", "mewing", "chad" ---has become standard, if passe, slang among both Very Online teenagers and their six year-old nephews. 
+You've heard of **incels** before. The "involuntary celibates" came to public consciousness through the 2014 Isla Vista shootings, and its mainstream discussion reached a fever pitch during the first Trump administration, as people directed attention to a new demographic of lonely, angry white boys as the source of the world's hatred[^1]. Since then, the largest incel forums have been deplatformed. "Incel" has become a generic insult for anyone in the manosphere, including those who fuck. Incel terminology--- "sigma", "mewing", "chad" ---has become standard, if passe, slang among both Very Online teenagers and their six year-old nephews. 
 
 A few traditional forums still exist, but as the "gender wars" have become increasingly juvenile, the incels have met the demands of battle. Their legacy today is the **blackpill**, pulverized into digestible mush by and for a post-COVID generation living their lives on Tik Tok. 
 
@@ -17,7 +17,7 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 - Looksmaxxers are unhinged. Basic introduction to looksmaxxing and blackpill (notably, this is now the predominant form of inceldom on Tik Tok) through influencers like Clavicular, Cookie King, Syrian Psycho. All are deeply juvenile and perhaps mentally challenged- illustrated by deep substance abuse, Fuentesian racial brainrot (e.g. veneer of plausible deniability), inability to understand social mores (they all think they're Patrick Bateman and are incapable of pulling anyone but the truly desperate). Complete dedication to high risk dubious results methods like fucking bonesmashing.
 - This is where I struggle most with Etymology Nerd's thesis. The spread of BP ideology relies on irony and humor for plausible deniability and normalization.
 
-The **blackpill (BP) community**  is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
+The **blackpill (BP) community** on Tik Tok is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
 The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", "get a better haircut", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
 
@@ -27,7 +27,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 - Wearing height insoles
 - Wearing makeup to conceal blemishes and enhance certain features
-- Dying your hair and wearing colored contacts
+- Dyeing your hair and wearing colored contacts
 - Excessive dieting and weight loss
 - Performing daily exercises to reshape the face, such as **mewing** (keeping your tongue at the roof of your mouth) and **facepulling/thumbpulling** (using a tool or your fingers to tug parts of the face)
 - **Bonesmashing**: supposedly, a bone will grow back stronger and larger after experiencing repeated microfractures. Additionally, strategically-located inflammation may enhance facial features. Thus, this strategy consists of punching yourself in the face, sometimes with a hammer or an equivalently heavy object, for hours each day.
@@ -66,11 +66,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE0OTEzMDQsMzU2NTcxMTIwLC0xND
-I5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2
-NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LD
-Y5OTQ0OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3
-MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4Mz
-QyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3
-LC0xMzkxNTA5NTcyXX0=
+eyJoaXN0b3J5IjpbMTkzOTk3OTcwNCwzNTY1NzExMjAsLTE0Mj
+k2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0
+MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNj
+k5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcy
+MzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzND
+I5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1Njcs
+LTEzOTE1MDk1NzJdfQ==
 -->
