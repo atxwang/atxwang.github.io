@@ -26,7 +26,7 @@ The basic tenet of the BP community (i.e. what it means to "take the blackpill")
 
 What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your face aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
 
-But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. 
+But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -57,11 +57,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzY4MzIyMiwtMTQzMDkxODg0NCw4Mz
-UxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5
-MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMT
-c4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2
-MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MT
-E4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODks
-LTM3NjYwNDE3Ml19
+eyJoaXN0b3J5IjpbLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsOD
+M1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEw
+OTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLT
+E3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2
+NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5Nz
+ExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5
+LC0zNzY2MDQxNzJdfQ==
 -->
