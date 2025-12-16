@@ -14,7 +14,7 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 
 **The blackpill:  a primer**
 -
-- Looksmaxxers are unhinged. Basic introduction to looksmaxxing and blackpill (notably, this is now the predominant form of inceldom on Tik Tok) through influencers like Clavicular, Cookie King, Syrian Psycho. All are deeply juvenile and perhaps mentally challenged- illustrated by deep substance abuse, Fuentesian racial brainrot (e.g. veneer of plausible deniability), inability to understand social mores (they all think they're Patrick Bateman and are incapable of pulling anyone but the truly desperate). Complete dedication to high risk dubious results methods like fucking bonesmashing.
+- All are deeply juvenile and perhaps mentally challenged- illustrated by deep substance abuse, Fuentesian racial brainrot (e.g. veneer of plausible deniability), inability to understand social mores (they all think they're Patrick Bateman and are incapable of pulling anyone but the truly desperate).
 - This is where I struggle most with Etymology Nerd's thesis. The spread of BP ideology relies on irony and humor for plausible deniability and normalization.
 
 The **blackpill (BP) community** on Tik Tok is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
@@ -40,7 +40,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content. 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content. Two come from the influencers themselves: 
 
 There's also the health grifts, 
 
@@ -73,11 +73,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mj
-k2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0
-MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNj
-k5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcy
-MzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzND
-I5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1Njcs
-LTEzOTE1MDk1NzJdfQ==
+eyJoaXN0b3J5IjpbNjI5MTM1MjI3LDEzNDM1MzkwNDgsMzU2NT
+cxMTIwLC0xNDI5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5Mzgx
+OCwtMTAxNzM2NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkxMywtNj
+Y1NDk0Nzg5LDY5OTQ0OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0
+MzI4LC0xMjM3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MS
+wtMTk2MDg4MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwt
+OTgwNjY0NTY3XX0=
 -->
