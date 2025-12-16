@@ -66,6 +66,7 @@ But wait, there's more!
 
 ** The truthpill**
 -
+- What is correct about the BP thesis?
 
 **Everyone is beautiful and no one is horny**
 -
@@ -76,11 +77,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgyMjkxMjMsMTM0MzUzOTA0OCwzNT
-Y1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkz
-ODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC
-02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4
-NTQzMjgsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NT
-UxLC0xOTYwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5
-LC05ODA2NjQ1NjddfQ==
+eyJoaXN0b3J5IjpbMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1Nj
+U3MTEyMCwtMTQyOTYzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4
+MTgsLTEwMTczNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLT
+Y2NTQ5NDc4OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1
+NDMyOCwtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NT
+EsLTE5NjA4ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4Nzks
+LTk4MDY2NDU2N119
 -->
