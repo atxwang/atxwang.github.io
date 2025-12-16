@@ -18,13 +18,13 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 - ideology: traditional BP, general "lookism", crunchy health stuff
 - This is where I struggle most with Etymology Nerd's thesis. The spread of BP ideology relies on irony and humor for plausible deniability and normalization.
 
-The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
+The **blackpill (BP) community**  is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
 The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", "get a better haircut", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
 
 What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your bone structures aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
 
-But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of things looksmaxxers have actually done or recommended on Tik Tok
+But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of things looksmaxxers have actually done or recommended on Tik Tok. You'll notice that they range from fairly normal to 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -55,11 +55,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MjU0MjI4LC0xNDI5NjMzMjM1LC0xND
-MwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2
-NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNj
-c3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0
-MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4MzQyOSwtMTU0NTQwMz
-g5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3LC0xMzkxNTA5NTcy
-LDM3NzI1MDc4OV19
+eyJoaXN0b3J5IjpbLTE1MjEzNTUxMjYsLTE0Mjk2MzMyMzUsLT
+E0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1
+OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLD
+E2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTEx
+MjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1ND
+AzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1
+NzIsMzc3MjUwNzg5XX0=
 -->
