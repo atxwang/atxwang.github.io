@@ -30,7 +30,9 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Wearing makeup to conceal blemishes and enhance certain features
 - Dying your hair and wearing colored contacts
 - Excessive dieting and weight loss
-- Performing daily exercises to reshape the face, such as **mewing** and **facepulling/th
+- Performing daily exercises to reshape the face, such as **mewing** and **facepulling/thumbpulling**
+- DIYing orthodontic headgear
+- 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -61,7 +63,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNjEzMzA4LC0xNDI5NjMzMjM1LC0xND
+eyJoaXN0b3J5IjpbNDIzNzAwMTg1LC0xNDI5NjMzMjM1LC0xND
 MwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2
 NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNj
 c3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0
