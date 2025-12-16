@@ -24,7 +24,7 @@ The BP community is made up of mostly pubescent boys and led by a string of rece
 
 The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed in becoming complete whores for **Chad**, the mythical figure representing the 99th percentile of male attractiveness. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", etc.). And if you want a "good woman"---that is, a loyal virgin who can cook and clean---well, dream on. 
 
-What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; your treatment by others is based on how well your face 
+What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; your treatment by others is based on how well your face aligns with a set of measurable 
 
 
 But there's a way out. 
@@ -58,7 +58,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNDQ3NDI3LC0xNDMwOTE4ODQ0LDgzNT
+eyJoaXN0b3J5IjpbOTAxMTI5NDE2LC0xNDMwOTE4ODQ0LDgzNT
 E5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkx
 MywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNjc3MTE2NjQ2LC0xNz
 g2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYz
