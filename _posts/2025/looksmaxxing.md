@@ -21,15 +21,15 @@ The wonderful thing about the Tik Tok algorithm is that each user is only a few 
 
 The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
-The basic tenet of the BP community is that attractiveness is objective and supremely deterministic. 
+The basic tenet of the BP community is that attractiveness is objective and supremely deterministic, especially for modern men. 
+
+- Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis. There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
 - The Tik Tok blackpiller is distinct from the classic incel blackpiller. While both view themselves as low on the scale of human attractiveness, the incel blackpiller believes himself generally non-human and irredeemable in appearance. He can do nothing at all to improve his inceldom except for like, participate in a mass revolution to instate mandatory girlfriends. The Tik Tok blackpiller is more of a sequel to the classic redpill than a rejection of it; he believes that self-improvement--- not of his Game, but his appearance --- will grant him access to everything he wants. So within the Tik Tok blackpill, there is technically a shift to a systemic ideology, but it kind of ends up being the same as a promise of individual "ascension" for pubescent (sometimes prepubescent) men.
 
 True incel scholars will notice that this is highly divergent from original blackpill theory. 
 
-- Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis. There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
-
-[^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage b
+[^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage boy with both a precisely-engineered resemblance to Handsome Squidward and crippling self-esteem issues, I'm not sure he's on equal footing here.
 
 **The female looksmaxxer**
 -
@@ -49,7 +49,7 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjI4NzY0MSw4MzUxOTM4MTgsLTEwMT
+eyJoaXN0b3J5IjpbMTM0MTM4OTk1OCw4MzUxOTM4MTgsLTEwMT
 czNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4
 OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMT
 IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
