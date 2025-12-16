@@ -24,7 +24,7 @@ The BP community is made up of mostly pubescent boys and led by a string of rece
 
 The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
 
-What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your face aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; 
+What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your face aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. 
 
 But there's a way out. If you're at the bottom of the ladder now, 
 
@@ -57,11 +57,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE1NDg2NzcsLTE0MzA5MTg4NDQsOD
-M1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEw
-OTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLT
-E3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2
-NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5Nz
-ExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5
-LC0zNzY2MDQxNzJdfQ==
+eyJoaXN0b3J5IjpbLTU4NDEzNDM1NiwtMTQzMDkxODg0NCw4Mz
+UxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5
+MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMT
+c4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2
+MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MT
+E4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODks
+LTM3NjYwNDE3Ml19
 -->
