@@ -32,7 +32,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Excessive dieting and weight loss
 - Performing daily exercises to reshape the face, such as **mewing** and **facepulling/thumbpulling**
 - DIYing orthodontic headgear
-- 
+- DIYing injections of 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -63,11 +63,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzNzAwMTg1LC0xNDI5NjMzMjM1LC0xND
-MwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2
-NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNj
-c3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0
-MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4MzQyOSwtMTU0NTQwMz
-g5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3LC0xMzkxNTA5NTcy
-LDM3NzI1MDc4OV19
+eyJoaXN0b3J5IjpbLTI2OTQ4MDA4MCwtMTQyOTYzMzIzNSwtMT
+QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
+NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
+Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
+NDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MD
+M4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3
+MiwzNzcyNTA3ODldfQ==
 -->
