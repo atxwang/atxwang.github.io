@@ -24,8 +24,9 @@ The basic tenet of the BP community (i.e. what it means to "take the blackpill")
 
 What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your bone structures aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
 
-But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of things looksmaxxers have actually done or recommended on Tik Tok, ranging from fairly standard to completely disordered:
+But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of things looksmaxxers have actually done or recommended on Tik Tok, ranging from fairly standard (and legitimately to completely disordered:
 
+- 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -56,11 +57,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTI5OTgxOSwtMTQyOTYzMzIzNSwtMT
-QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
-NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
-Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
-NDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MD
-M4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3
-MiwzNzcyNTA3ODldfQ==
+eyJoaXN0b3J5IjpbLTIwNDY5OTYzMDEsLTE0Mjk2MzMyMzUsLT
+E0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1
+OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLD
+E2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTEx
+MjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1ND
+AzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1NjcsLTEzOTE1MDk1
+NzIsMzc3MjUwNzg5XX0=
 -->
