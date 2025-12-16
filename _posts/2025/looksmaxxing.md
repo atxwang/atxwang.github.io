@@ -18,8 +18,6 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 - ideology: traditional BP, general "lookism", crunchy health stuff
 - This is where I struggle most with Etymology Nerd's thesis. The spread of BP ideology relies on irony and humor for plausible deniability and normalization.
 
-The wonderful thing about the Tik Tok algorithm is that each user is only a few swipes away from the same crazy shit. If a weird subculture gains gradual popularity from within, in a few weeks it will have breached to more and more people from other sides of the app. The fame will snowball as larger creators add their own (confused, gawking) commentary, and soon all of Tik Tok will be engulfed in a hyperspecific discourse. This is what happened to the **blackpill (BP) community**.
-
 The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
 The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", "get a better haircut", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
@@ -36,7 +34,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 True incel scholars will notice that this is highly divergent from original blackpill theory. 
 
-[^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage boy with both a precisely-engineered resemblance to Handsome Squidward and crippling self-esteem issues, I'm not sure he's on equal footing here.
+[^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage boy with both a precisely-engineered resemblance to Handsome Squidward and crippling self-esteem issues, I'm not sure he's on equal footing there.
 
 **The female looksmaxxer**
 -
@@ -57,7 +55,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTcyNjgzLC0xNDI5NjMzMjM1LC0xND
+eyJoaXN0b3J5IjpbNDA1MjU0MjI4LC0xNDI5NjMzMjM1LC0xND
 MwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2
 NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNj
 c3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0
