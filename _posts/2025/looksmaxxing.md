@@ -21,7 +21,7 @@ The wonderful thing about the Tik Tok algorithm is that each user is only a few 
 
 The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
-The basic tenet of the BP community is that attractiveness is objective and supremely deterministic, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed in becoming complete whores for **Chad**, the mythical figure representing the 99th percentile of male attractiveness. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("
+The basic tenet of the BP community is that attractiveness is objective and supremely deterministic, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed in becoming complete whores for **Chad**, the mythical figure representing the 99th percentile of male attractiveness. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your 
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
@@ -50,11 +50,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQzMTg2ODAsODM1MTkzODE4LC0xMD
-E3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3
-ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLT
-EyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYw
-ODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2Nj
-Q1NjcsLTEzOTE1MDk1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNzIs
-LTIwNDgyNTAyOTldfQ==
+eyJoaXN0b3J5IjpbLTU2NTI5MzE4Niw4MzUxOTM4MTgsLTEwMT
+czNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4
+OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMT
+IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
+ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
+U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
+MjA0ODI1MDI5OV19
 -->
