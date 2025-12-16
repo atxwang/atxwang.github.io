@@ -30,7 +30,8 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Dyeing your hair and wearing colored contacts
 - Excessive dieting and weight loss
 - Performing daily exercises to reshape the face, such as **mewing** (keeping your tongue at the roof of your mouth) and **facepulling/thumbpulling** (using a tool or your fingers to tug parts of the face)
-- **Bonesmashing**: supposedly, a bone will grow back stronger and larger after experiencing repeated microfractures. Additionally, strategically-located inflammation may enhance facial features. Thus, this strategy consists of punching yourself in the face, sometimes with a hammer or an equivalently heavy object, for hours each day.
+- Pumping your dick
+- **Bonesmashing**: supposedly, a bone will grow back stronger and larger after experiencing repeated microfractures. Additionally, strategically-located inflammation may enhance facial features. This strategy consists of repeatedly punching yourself in the face, sometimes with a hammer or equivalently heavy object, for hours each day, in order to cause microfractures 
 - DIYing orthodontic headgear
 - DIYing injections of peptides and fat dissolvers like Aqualyx
 - Steroid abuse for attaining a muscular physique without exercise
@@ -66,11 +67,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTk3OTcwNCwzNTY1NzExMjAsLTE0Mj
-k2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0
-MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNj
-k5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcy
-MzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzND
-I5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1Njcs
-LTEzOTE1MDk1NzJdfQ==
+eyJoaXN0b3J5IjpbODUzMDk4MjY5LDM1NjU3MTEyMCwtMTQyOT
+YzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQy
+NTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OT
+k0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIz
+MDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0Mj
+ksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2Nywt
+MTM5MTUwOTU3Ml19
 -->
