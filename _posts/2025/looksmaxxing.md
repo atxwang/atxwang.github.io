@@ -21,8 +21,8 @@ The wonderful thing about the Tik Tok algorithm is that each user is only a few 
 
 The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
-The basic tenet of the BP community is that attractiveness is objective and supremely deterministic, especially for men. Modern women, it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, they somehow succeed 
-Hence
+The basic tenet of the BP community is that attractiveness is objective and supremely deterministic, especially for men. Modern women, it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, they somehow succeed in becoming utter whores for 
+Hence, if you're an average guy
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis. There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
@@ -50,11 +50,11 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyODkyMjQwLDgzNTE5MzgxOCwtMTAxNz
-M2NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5
-LDY5OTQ0OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMj
-M3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4
-MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NT
-Y3LC0xMzkxNTA5NTcyLDM3NzI1MDc4OSwtMzc2NjA0MTcyLC0y
-MDQ4MjUwMjk5XX0=
+eyJoaXN0b3J5IjpbLTUyNDQ0OTk1NSw4MzUxOTM4MTgsLTEwMT
+czNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4
+OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMT
+IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
+ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
+U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
+MjA0ODI1MDI5OV19
 -->
