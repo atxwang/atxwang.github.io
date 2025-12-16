@@ -26,7 +26,7 @@ The basic tenet of the BP community (i.e. what it means to "take the blackpill")
 
 What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your bone structures aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
 
-But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of 
+But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of things looksmaxxers have actually done or recommended on Tik Tok
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -57,11 +57,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDA1NzM5NCwtMTQyOTYzMzIzNSwtMT
-QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
-NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
-Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
-NDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0MjksLTE1NDU0MD
-M4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2NywtMTM5MTUwOTU3
-MiwzNzcyNTA3ODldfQ==
+eyJoaXN0b3J5IjpbMTMzNTcyNjgzLC0xNDI5NjMzMjM1LC0xND
+MwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2
+NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNj
+c3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0
+MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4MzQyOSwtMTU0NTQwMz
+g5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3LC0xMzkxNTA5NTcy
+LDM3NzI1MDc4OV19
 -->
