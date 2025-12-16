@@ -40,7 +40,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content. Two come from the influencers themselves: 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves: there's stream clips, because of course they're streamers. 
 
 There's also the health grifts, 
 
@@ -64,6 +64,9 @@ But wait, there's more!
 - Magdalene J Taylor Playboy coverage
 - Gooning as perfect encapsulation of Thanatos and Eros in modern man
 
+** The truthpill**
+-
+
 **Everyone is beautiful and no one is horny**
 -
 - Blood Knife essay
@@ -73,11 +76,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MTM1MjI3LDEzNDM1MzkwNDgsMzU2NT
-cxMTIwLC0xNDI5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5Mzgx
-OCwtMTAxNzM2NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkxMywtNj
-Y1NDk0Nzg5LDY5OTQ0OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0
-MzI4LC0xMjM3MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MS
-wtMTk2MDg4MzQyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwt
-OTgwNjY0NTY3XX0=
+eyJoaXN0b3J5IjpbLTEyNzgyMjkxMjMsMTM0MzUzOTA0OCwzNT
+Y1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkz
+ODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC
+02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4
+NTQzMjgsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NT
+UxLC0xOTYwODgzNDI5LC0xNTQ1NDAzODk0LC0xNDY5NzExODc5
+LC05ODA2NjQ1NjddfQ==
 -->
