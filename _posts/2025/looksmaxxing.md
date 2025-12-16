@@ -19,7 +19,7 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 
 The wonderful thing about the Tik Tok algorithm is that each user is only a few swipes away from the same crazy shit. If a weird subculture gains gradual popularity from within, in a few weeks it will have breached to more and more people from other sides of the app. The fame will snowball as larger creators add their own (confused, gawking) commentary, and soon all of Tik Tok will be engulfed in a hyperspecific discourse. This is what happened to the **blackpill (BP) community**.
 
-The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, 
+The BP community is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel
 
 The basic tenet of the BP community is that attractiveness is objective and supremely deterministic. 
 
@@ -47,11 +47,11 @@ But wait, there's more!
 - Every single one of these groups promises liberation in some sense unique to their gender or perhaps even from the opposite gender in a way. But all are working in the framework of appealing to the gaze of male narcissists. QED.
 - Quick comment on social media bans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NT
-A1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMy
-LDE2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMT
-ExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0xNTQ1
-NDAzODk0LC0xNDY5NzExODc5LC05ODA2NjQ1NjcsLTEzOTE1MD
-k1NzIsMzc3MjUwNzg5LC0zNzY2MDQxNzIsLTIwNDgyNTAyOTks
-LTE5MzE2MDc1NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzMzY0OTYxNCw4MzUxOTM4MTgsLTEwMT
+czNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4
+OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMT
+IzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4
+ODM0MjksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2ND
+U2NywtMTM5MTUwOTU3MiwzNzcyNTA3ODksLTM3NjYwNDE3Miwt
+MjA0ODI1MDI5OV19
 -->
