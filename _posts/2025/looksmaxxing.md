@@ -38,6 +38,10 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Invasive medical procedures such as double jaw surgery, leg-lengthening, eye color laser depigmentation, orbital decompression surgery
 - Doing meth for leanness and "hollow cheeks"
 
+It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
+
+There are a few 
+
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
@@ -67,11 +71,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ2NDgzMzUsMzU2NTcxMTIwLC0xND
-I5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2
-NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LD
-Y5OTQ0OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3
-MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4Mz
-QyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3
-LC0xMzkxNTA5NTcyXX0=
+eyJoaXN0b3J5IjpbMTI4MTc0NjMyLDM1NjU3MTEyMCwtMTQyOT
+YzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQy
+NTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OT
+k0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIz
+MDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5NjA4ODM0Mj
+ksLTE1NDU0MDM4OTQsLTE0Njk3MTE4NzksLTk4MDY2NDU2Nywt
+MTM5MTUwOTU3Ml19
 -->
