@@ -29,7 +29,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Wearing makeup to conceal blemishes and enhance certain features
 - Dying your hair and wearing colored contacts
 - Excessive dieting and weight loss
-- Performing daily exercises to reshape the face, such as **mewing** and **facepulling/thumbpulling**
+- Performing daily exercises to reshape the face, such as **mewing** (keeping your tongue at the roof of your mouth) and **facepulling/thumbpulling** (using a tool or your fingers to tug parts of the face)
 - **Bonesmashing**: supposedly, a bone will grow back stronger and larger after experiencing repeated microfractures. Additionally, strategically-located inflammation may enhance facial features. Thus, this strategy consists of punching yourself in the face, sometimes with a hammer or an equivalently heavy object, for hours each day.
 - DIYing orthodontic headgear
 - DIYing injections of peptides and fat dissolvers like Aqualyx
@@ -66,11 +66,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NTcxMTIwLC0xNDI5NjMzMjM1LC0xND
-MwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2
-NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNj
-c3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0
-MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4MzQyOSwtMTU0NTQwMz
-g5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3LC0xMzkxNTA5NTcy
-LDM3NzI1MDc4OV19
+eyJoaXN0b3J5IjpbLTEzOTE0OTEzMDQsMzU2NTcxMTIwLC0xND
+I5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2
+NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LD
+Y5OTQ0OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3
+MjMwMDA1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4Mz
+QyOSwtMTU0NTQwMzg5NCwtMTQ2OTcxMTg3OSwtOTgwNjY0NTY3
+LC0xMzkxNTA5NTcyXX0=
 -->
