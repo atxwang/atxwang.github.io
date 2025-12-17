@@ -37,6 +37,8 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
+**The blackpiller Narcissus**
+-
 There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants." This sense of plausibly-ironic racism, misogyny, and batshit levels of body fascism pervades all looksmaxxing content and seems to be the main factor for its viral spread[^3]. 
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
@@ -74,11 +76,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTM5MjE1MiwtMTY1MzkzMTIyNywxOD
-M2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LDI4NjEwNDQw
-OCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMxNjgsMT
-Y3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMCwtMTQyOTYz
-MzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNT
-QsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0
-NDk1MzJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjA0MDMzNTYsLTE2NTM5MzEyMjcsMT
+gzNjM3MTA5NiwtNjM2MDkzODI2LDQ0NzE2MzIxNiwyODYxMDQ0
+MDgsMTc5NDUxMDM2OSwtMTgxNzc5MDc0NiwtMTc3OTIzMTY4LD
+E2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2
+MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0Mj
+U0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5
+NDQ5NTMyXX0=
 -->
