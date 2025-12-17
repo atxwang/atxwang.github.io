@@ -31,7 +31,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 - Excessive dieting and weight loss
 - Performing daily exercises to reshape the face, such as **mewing** (keeping your tongue at the roof of your mouth) and **facepulling/thumbpulling** (using a tool or your fingers to tug parts of the face)
 - Pumping your dick
-- **Bonesmashing**: this strategy consists of repeatedly punching yourself in the face, sometimes with a hammer or equivalently heavy object, for hours each day, in order to cause microfractures that will make your bones grow back stronger.
+- **Bonesmashing**: this strategy consists of repeatedly punching yourself in the face, sometimes with a hammer or equivalently heavy object, for hours each day, in order to cause microfractures that will make your bones grow back stronger
 - DIYing orthodontic headgear
 - DIYing injections of peptides and fat dissolvers like Aqualyx
 - Steroid abuse for attaining a muscular physique without exercise
@@ -80,11 +80,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc3OTA3NDYsLTE3NzkyMzE2OCwxNj
-c3NjQ5OTg5LDEzNDM1MzkwNDgsMzU2NTcxMTIwLC0xNDI5NjMz
-MjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NC
-wtODUwNTk2NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0
-OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMD
-A1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4MzQyOSwt
-MTU0NTQwMzg5NF19
+eyJoaXN0b3J5IjpbMTI3OTEzOTAzNCwtMTgxNzc5MDc0NiwtMT
+c3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzEx
+MjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC
+0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0
+OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMj
+gsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0x
+OTYwODgzNDI5XX0=
 -->
