@@ -40,7 +40,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves: there's stream clips, which 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves: there's stream clips, which usually involve 
 
 There's also the health grifts, 
 
@@ -77,7 +77,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkzODgzNiwxNjc3NjQ5OTg5LDEzND
+eyJoaXN0b3J5IjpbLTE3NzkyMzE2OCwxNjc3NjQ5OTg5LDEzND
 M1MzkwNDgsMzU2NTcxMTIwLC0xNDI5NjMzMjM1LC0xNDMwOTE4
 ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2NDIwLD
 kwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNjc3MTE2
