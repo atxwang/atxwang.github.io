@@ -37,7 +37,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so repugnantly assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, anything 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the 
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which 
 
@@ -76,11 +76,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MTYzMjE2LDI4NjEwNDQwOCwxNzk0NT
-EwMzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMxNjgsMTY3NzY0OTk4
-OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMCwtMTQyOTYzMzIzNSwtMT
-QzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5
-NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMT
-Y3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEy
-NDM5MzcyXX0=
+eyJoaXN0b3J5IjpbLTEzNTgwMDE2MzgsNDQ3MTYzMjE2LDI4Nj
+EwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMx
+NjgsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMCwtMT
+QyOTYzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MTgsLTEwMTcz
+NjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5NDc4OS
+w2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOCwtMTIz
+NzIzMDAwNV19
 -->
