@@ -53,7 +53,7 @@ True incel scholars will notice that this is highly divergent from original blac
 
 [^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage boy with both a precisely-engineered resemblance to Handsome Squidward and crippling self-esteem issues, I'm not sure he's on equal footing there.
 
-[^3]: This is where I struggle with [Etymology Nerd's thesis](https://www.washingtonpost.com/opinions/2024/04/11/gen-z-slang-terms-incels/) that the dissemination of incel terms among broader Gen Z serves to delegitimize incel ideology. 
+[^3]: This is where I struggle with [Etymology Nerd's thesis](https://www.washingtonpost.com/opinions/2024/04/11/gen-z-slang-terms-incels/) that the ironic usage of incel terms among broader Gen Z serves to delegitimize incel ideology. I think this claim underestimates just how much incels, groypers etc. use self-mockery and viral ridicule to their own advantage in the dissemination of their views. 
 
 **The female looksmaxxer**
 -
@@ -74,7 +74,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDU2NDI0NCwtMTY1MzkzMTIyNywxOD
+eyJoaXN0b3J5IjpbMTQ1MTM5MjE1MiwtMTY1MzkzMTIyNywxOD
 M2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LDI4NjEwNDQw
 OCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMxNjgsMT
 Y3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMCwtMTQyOTYz
