@@ -43,7 +43,7 @@ There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik T
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
-Most interestingly, 
+The greatest 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -76,11 +76,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0MDMzNTYsLTE2NTM5MzEyMjcsMT
-gzNjM3MTA5NiwtNjM2MDkzODI2LDQ0NzE2MzIxNiwyODYxMDQ0
-MDgsMTc5NDUxMDM2OSwtMTgxNzc5MDc0NiwtMTc3OTIzMTY4LD
-E2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2
-MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0Mj
-U0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5
-NDQ5NTMyXX0=
+eyJoaXN0b3J5IjpbLTc2MzA2MzcyMCwtMTI2MDQwMzM1NiwtMT
+Y1MzkzMTIyNywxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYz
+MjE2LDI4NjEwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC
+0xNzc5MjMxNjgsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3
+MTEyMCwtMTQyOTYzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MT
+gsLTEwMTczNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2
+NTQ5NDc4OV19
 -->
