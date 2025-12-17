@@ -18,7 +18,8 @@ The **blackpill (BP) community** on Tik Tok is made up of mostly pubescent boys 
 
 The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", "get a better haircut", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
 
-What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your bone structures aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
+What's more is that your appearance matters far beyond the realm of sex and romance. Society in general is pervaded by **lookism**; man or woman, your treatment by others is subconsciously based on how well your bone structures aligns with a set of measurable evo-psych indicators of your fitness as a mate. By these standards, modern medicine has been mutilating us in the same way RFK and raw meat enthusiasts 
+. Processed foods make us bloated; orthodontists shrink our palates. Your tragic fate is the fault of your mother, for passing on her subpar genetics and forgetting to tell you not to mouthbreathe. 
 
 But there's a way out. It follows that, whatever your position on the ladder now, *you can always be thinner, look better*. If all that matters is looks, you'd better do everything in your power that has a whiff of scientific plausibility to improve yours. You'd better **looksmaxx**. The following is a list of things looksmaxxers have actually done or recommended on Tik Tok, ranging from normal and benign to completely disordered:
 
@@ -43,9 +44,7 @@ There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik T
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
-The greatest 
-
-- Forms of looksmaxxing content- strategic irony, health grifts, BP edits
+The greatest form of looksmaxxer art is the *BP edit*. 
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
@@ -76,11 +75,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzA2MzcyMCwtMTI2MDQwMzM1NiwtMT
-Y1MzkzMTIyNywxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYz
-MjE2LDI4NjEwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC
-0xNzc5MjMxNjgsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3
-MTEyMCwtMTQyOTYzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MT
-gsLTEwMTczNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2
-NTQ5NDc4OV19
+eyJoaXN0b3J5IjpbNjQwOTQ4MzQzLC0xMjYwNDAzMzU2LC0xNj
+UzOTMxMjI3LDE4MzYzNzEwOTYsLTYzNjA5MzgyNiw0NDcxNjMy
+MTYsMjg2MTA0NDA4LDE3OTQ1MTAzNjksLTE4MTc3OTA3NDYsLT
+E3NzkyMzE2OCwxNjc3NjQ5OTg5LDEzNDM1MzkwNDgsMzU2NTcx
+MTIwLC0xNDI5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOC
+wtMTAxNzM2NDI1NCwtODUwNTk2NDIwLDkwMzcxMDkxMywtNjY1
+NDk0Nzg5XX0=
 -->
