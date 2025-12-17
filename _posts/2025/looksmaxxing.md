@@ -53,7 +53,7 @@ True incel scholars will notice that this is highly divergent from original blac
 
 [^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage boy with both a precisely-engineered resemblance to Handsome Squidward and crippling self-esteem issues, I'm not sure he's on equal footing there.
 
-[^3]: This is where I struggle with 
+[^3]: This is where I struggle with [Etymology Nerd's thesis](https://www.washingtonpost.com/opinions/2024/04/11/gen-z-slang-terms-incels/) that the dissemination of incel terms 
 
 **The female looksmaxxer**
 -
@@ -78,7 +78,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIzMjcwMDgsMTgzNjM3MTA5NiwtNj
+eyJoaXN0b3J5IjpbLTE2NTM5MzEyMjcsMTgzNjM3MTA5NiwtNj
 M2MDkzODI2LDQ0NzE2MzIxNiwyODYxMDQ0MDgsMTc5NDUxMDM2
 OSwtMTgxNzc5MDc0NiwtMTc3OTIzMTY4LDE2Nzc2NDk5ODksMT
 M0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5
