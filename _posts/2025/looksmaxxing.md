@@ -40,7 +40,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves: there's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves: there's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist 
 
 There's also the more casual stream 
 this ties into the health grifts. 
@@ -80,11 +80,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTEzOTAzNCwtMTgxNzc5MDc0NiwtMT
-c3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzEx
-MjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC
-0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0
-OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMj
-gsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0x
-OTYwODgzNDI5XX0=
+eyJoaXN0b3J5IjpbODExMzA3ODAxLC0xODE3NzkwNzQ2LC0xNz
+c5MjMxNjgsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEy
+MCwtMTQyOTYzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MTgsLT
+EwMTczNjQyNTQsLTg1MDU5NjQyMCw5MDM3MTA5MTMsLTY2NTQ5
+NDc4OSw2OTk0NDk1MzIsMTY3NzExNjY0NiwtMTc4Njg1NDMyOC
+wtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC0xNjY2MzY1NTEsLTE5
+NjA4ODM0MjldfQ==
 -->
