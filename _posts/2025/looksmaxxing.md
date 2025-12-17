@@ -14,8 +14,6 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 
 **The blackpill:  a primer**
 -
-- This is where I struggle most with Etymology Nerd's thesis. The spread of BP ideology relies on irony and humor for plausible deniability and normalization.
-
 The **blackpill (BP) community** on Tik Tok is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
 
 The basic tenet of the BP community (i.e. what it means to "take the blackpill") is that **attractiveness is objective and supremely deterministic**, especially for men. Modern women (**foids**), it is claimed, are universally *hypergamous*, meaning they seek sex and relationships exclusively with men who are much more attractive than them. Empowered by feminism and enabled by makeup, plastic surgery, and Botox, most somehow succeed and won't settle for less. Hence, if you're an average guy--- a **normie**---you're fucked, even if you follow society's typical advice for lonely men ("personality matters more", "work on your charisma", "get a better haircut", etc.). And if you want a "good woman"---that is, a beautiful virgin who can cook, clean, and remain forever loyal---well, dream on. 
@@ -41,8 +39,7 @@ It should be repeated that no looksmaxxer is older than 25. The most extreme, in
 
 There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so repugnantly assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, anything 
 
-More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). 
-this ties into the health grifts. 
+More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts. 
 
 Most interestingly, 
 
@@ -79,11 +76,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTk1MDAxMiwxNzk0NTEwMzY5LC0xOD
-E3NzkwNzQ2LC0xNzc5MjMxNjgsMTY3NzY0OTk4OSwxMzQzNTM5
-MDQ4LDM1NjU3MTEyMCwtMTQyOTYzMzIzNSwtMTQzMDkxODg0NC
-w4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5NjQyMCw5MDM3
-MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMTY3NzExNjY0Ni
-wtMTc4Njg1NDMyOCwtMTIzNzIzMDAwNSwxMTEyNDM5MzcyLC0x
-NjY2MzY1NTFdfQ==
+eyJoaXN0b3J5IjpbMjg2MTA0NDA4LDE3OTQ1MTAzNjksLTE4MT
+c3OTA3NDYsLTE3NzkyMzE2OCwxNjc3NjQ5OTg5LDEzNDM1Mzkw
+NDgsMzU2NTcxMTIwLC0xNDI5NjMzMjM1LC0xNDMwOTE4ODQ0LD
+gzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2NDIwLDkwMzcx
+MDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNjc3MTE2NjQ2LC
+0xNzg2ODU0MzI4LC0xMjM3MjMwMDA1LDExMTI0MzkzNzIsLTE2
+NjYzNjU1MV19
 -->
