@@ -37,11 +37,12 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-**The blackpiller Narcissus**
--
 There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants." This sense of plausibly-ironic racism, misogyny, and batshit levels of body fascism pervades all looksmaxxing content and seems to be the main factor for its viral spread[^3]. 
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
+
+**The blackpiller Narcissus**
+-
 
 The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. 
 
@@ -77,7 +78,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTc2NTY0NywtMTE2ODcyNjQ2NSwxMz
+eyJoaXN0b3J5IjpbMjAzNzMzNTY0NywtMTE2ODcyNjQ2NSwxMz
 MwMTI4OTEsLTI3NjA0MTk5NCwtMTI2MDQwMzM1NiwtMTY1Mzkz
 MTIyNywxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LD
 I4NjEwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5
