@@ -14,7 +14,7 @@ A few traditional forums still exist, but as the "gender wars" have become incre
 
 **The blackpill:  a primer**
 -
-- All are deeply juvenile and perhaps mentally challenged- illustrated by deep substance abuse, Fuentesian racial brainrot (e.g. veneer of plausible deniability), inability to understand social mores (they all think they're Patrick Bateman and are incapable of pulling anyone but the truly desperate).
+- Fuentesian racial brainrot (e.g. veneer of plausible deniability), inability to understand social mores (they all think they're Patrick Bateman and are incapable of pulling anyone but the truly desperate).
 - This is where I struggle most with Etymology Nerd's thesis. The spread of BP ideology relies on irony and humor for plausible deniability and normalization.
 
 The **blackpill (BP) community** on Tik Tok is made up of mostly pubescent boys and led by a string of recent college/high-school-dropouts called the **Cookieverse**. The center of it all is **Cookie King**, who makes stupid absurdist Gen Alpha comedy shorts but has gotten super into BP through the influence of mentors/influencers/grifters like **Clavicular**, **Syrian Psycho**, and **Dillon Latham**. They are directly connected to New Right; in particular, Clavicular (or "Clav") has collaborated with Nick Fuentes and Peter Thiel[^2].
@@ -43,7 +43,9 @@ It should be repeated that no looksmaxxer is older than 25. The most extreme, in
 There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves: there's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because 
 
 There's also the more casual stream 
-this ties into the health gri
+this ties into the health grifts. 
+
+Most interestingly, 
 
 - Forms of looksmaxxing content- strategic irony, health grifts, BP edits
 
@@ -78,11 +80,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTA2MDM3NSwtMTc3OTIzMTY4LDE2Nz
-c2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2MzMy
-MzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC
-04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5
-NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMD
-UsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0xOTYwODgzNDI5LC0x
-NTQ1NDAzODk0XX0=
+eyJoaXN0b3J5IjpbLTE4MTc3OTA3NDYsLTE3NzkyMzE2OCwxNj
+c3NjQ5OTg5LDEzNDM1MzkwNDgsMzU2NTcxMTIwLC0xNDI5NjMz
+MjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NC
+wtODUwNTk2NDIwLDkwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0
+OTUzMiwxNjc3MTE2NjQ2LC0xNzg2ODU0MzI4LC0xMjM3MjMwMD
+A1LDExMTI0MzkzNzIsLTE2NjYzNjU1MSwtMTk2MDg4MzQyOSwt
+MTU0NTQwMzg5NF19
 -->
