@@ -45,8 +45,8 @@ More casual streams involve a BP influencer sitting at his desk, answering fan q
 
 The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. 
 
-BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski. (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with someone saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, because haha get mogged you 
-This is followed by a montage of the aforementioned models (and a few looksmaxxing influencers, including perhaps the BP editor himself) 
+BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a random Tik Toker saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, because haha get **mogged** you sub-5.  This is followed by a montage of the aforementioned models (and a few looksmaxxing influencers, including perhaps the BP editor himself) smirking, scowling, and smoldering to the camera, combing their 
+
 all overlayed by a 
 It is not an exaggeration to 
 
@@ -79,11 +79,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwODY1NTc4LC0xMTY4NzI2NDY1LDEzMz
-AxMjg5MSwtMjc2MDQxOTk0LC0xMjYwNDAzMzU2LC0xNjUzOTMx
-MjI3LDE4MzYzNzEwOTYsLTYzNjA5MzgyNiw0NDcxNjMyMTYsMj
-g2MTA0NDA4LDE3OTQ1MTAzNjksLTE4MTc3OTA3NDYsLTE3Nzky
-MzE2OCwxNjc3NjQ5OTg5LDEzNDM1MzkwNDgsMzU2NTcxMTIwLC
-0xNDI5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOCwtMTAx
-NzM2NDI1NF19
+eyJoaXN0b3J5IjpbMTYyMzA2MTEzMiwtMTE2ODcyNjQ2NSwxMz
+MwMTI4OTEsLTI3NjA0MTk5NCwtMTI2MDQwMzM1NiwtMTY1Mzkz
+MTIyNywxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LD
+I4NjEwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5
+MjMxNjgsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMC
+wtMTQyOTYzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MTgsLTEw
+MTczNjQyNTRdfQ==
 -->
