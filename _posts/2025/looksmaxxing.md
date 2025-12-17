@@ -53,7 +53,7 @@ True incel scholars will notice that this is highly divergent from original blac
 
 [^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage boy with both a precisely-engineered resemblance to Handsome Squidward and crippling self-esteem issues, I'm not sure he's on equal footing there.
 
-[^3]: This 
+[^3]: This is where I struggle with 
 
 **The female looksmaxxer**
 -
@@ -78,11 +78,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjMyNDY1LDE4MzYzNzEwOTYsLTYzNj
-A5MzgyNiw0NDcxNjMyMTYsMjg2MTA0NDA4LDE3OTQ1MTAzNjks
-LTE4MTc3OTA3NDYsLTE3NzkyMzE2OCwxNjc3NjQ5OTg5LDEzND
-M1MzkwNDgsMzU2NTcxMTIwLC0xNDI5NjMzMjM1LC0xNDMwOTE4
-ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2NDIwLD
-kwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNjc3MTE2
-NjQ2XX0=
+eyJoaXN0b3J5IjpbLTE0NDIzMjcwMDgsMTgzNjM3MTA5NiwtNj
+M2MDkzODI2LDQ0NzE2MzIxNiwyODYxMDQ0MDgsMTc5NDUxMDM2
+OSwtMTgxNzc5MDc0NiwtMTc3OTIzMTY4LDE2Nzc2NDk5ODksMT
+M0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5
+MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0Mj
+AsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2Nzcx
+MTY2NDZdfQ==
 -->
