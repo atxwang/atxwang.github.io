@@ -39,9 +39,9 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so repulsively assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so repugnantly assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of 
 
-More casual streams 
+More casual streams involve 
 this ties into the health grifts. 
 
 Most interestingly, 
@@ -79,7 +79,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDc0NTExOSwtMTgxNzc5MDc0NiwtMT
+eyJoaXN0b3J5IjpbMTc5NDUxMDM2OSwtMTgxNzc5MDc0NiwtMT
 c3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzEx
 MjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC
 0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0
