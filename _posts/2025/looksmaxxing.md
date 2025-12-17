@@ -43,9 +43,9 @@ There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik T
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
-The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cave-vagina. Or something like that. 
+The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. 
 
-BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski. (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a Normie/Becky, or even a sub-5, saying that looks don't matter, etc. Then a literal black pill will come flashing on screen, 
+BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski. (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a Normie/Becky, or even a sub-5, saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, 
 This is followed by a montage of these models (and a few looksmaxxing influencers) 
 It is not an exaggeration to 
 
@@ -78,7 +78,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDAxNzE4OSwtMTE2ODcyNjQ2NSwxMz
+eyJoaXN0b3J5IjpbMTYxMzc3NDM4NiwtMTE2ODcyNjQ2NSwxMz
 MwMTI4OTEsLTI3NjA0MTk5NCwtMTI2MDQwMzM1NiwtMTY1Mzkz
 MTIyNywxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LD
 I4NjEwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5
