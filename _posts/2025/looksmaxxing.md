@@ -45,7 +45,7 @@ More casual streams involve a BP influencer sitting at his desk, answering fan q
 
 The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. 
 
-BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski. (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a Normie/Becky, or even a sub-5, saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, 
+BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski. (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with someone saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen 
 This is followed by a montage of these models (and a few looksmaxxing influencers) 
 It is not an exaggeration to 
 
@@ -78,11 +78,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzc3NDM4NiwtMTE2ODcyNjQ2NSwxMz
-MwMTI4OTEsLTI3NjA0MTk5NCwtMTI2MDQwMzM1NiwtMTY1Mzkz
-MTIyNywxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LD
-I4NjEwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5
-MjMxNjgsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMC
-wtMTQyOTYzMzIzNSwtMTQzMDkxODg0NCw4MzUxOTM4MTgsLTEw
-MTczNjQyNTRdfQ==
+eyJoaXN0b3J5IjpbLTE0MTU4NjM3MDIsLTExNjg3MjY0NjUsMT
+MzMDEyODkxLC0yNzYwNDE5OTQsLTEyNjA0MDMzNTYsLTE2NTM5
+MzEyMjcsMTgzNjM3MTA5NiwtNjM2MDkzODI2LDQ0NzE2MzIxNi
+wyODYxMDQ0MDgsMTc5NDUxMDM2OSwtMTgxNzc5MDc0NiwtMTc3
+OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzExMj
+AsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0x
+MDE3MzY0MjU0XX0=
 -->
