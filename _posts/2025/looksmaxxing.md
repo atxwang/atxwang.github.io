@@ -45,9 +45,7 @@ More casual streams involve a BP influencer sitting at his desk, answering fan q
 
 The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cave-vagina. Or something like that. 
 
-BPers are obsessed with the faces of a select few male models whom they believe fit perfectly within the 
-
-You'll notice these names also overlap a lot with 2013 Wattpad fancasts: 
+BPers are obsessed with a select few male models whose faces they believe to fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski. (you'll notice these names overlap a lot with ). 
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
@@ -78,7 +76,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTIzMTY2MCwxMzMwMTI4OTEsLTI3Nj
+eyJoaXN0b3J5IjpbLTgwNDcyNTc0NCwxMzMwMTI4OTEsLTI3Nj
 A0MTk5NCwtMTI2MDQwMzM1NiwtMTY1MzkzMTIyNywxODM2Mzcx
 MDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LDI4NjEwNDQwOCwxNz
 k0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMxNjgsMTY3NzY0
