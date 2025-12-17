@@ -39,7 +39,7 @@ It should be repeated that no looksmaxxer is older than 25. The most extreme, in
 
 There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants". In general, 
 
-More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or pers
+More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
 Most interestingly, 
 
@@ -76,7 +76,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTI1MzU3MCw0NDcxNjMyMTYsMjg2MT
+eyJoaXN0b3J5IjpbLTYzNjA5MzgyNiw0NDcxNjMyMTYsMjg2MT
 A0NDA4LDE3OTQ1MTAzNjksLTE4MTc3OTA3NDYsLTE3NzkyMzE2
 OCwxNjc3NjQ5OTg5LDEzNDM1MzkwNDgsMzU2NTcxMTIwLC0xND
 I5NjMzMjM1LC0xNDMwOTE4ODQ0LDgzNTE5MzgxOCwtMTAxNzM2
