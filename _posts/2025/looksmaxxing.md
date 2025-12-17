@@ -39,7 +39,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so repugnantly assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so repugnantly assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or 
 
 More casual streams involve 
 this ties into the health grifts. 
@@ -79,11 +79,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDUxMDM2OSwtMTgxNzc5MDc0NiwtMT
-c3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzEx
-MjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC
-0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0
-OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2NDYsLTE3ODY4NTQzMj
-gsLTEyMzcyMzAwMDUsMTExMjQzOTM3MiwtMTY2NjM2NTUxLC0x
-OTYwODgzNDI5XX0=
+eyJoaXN0b3J5IjpbLTIwMTEwNDUyNzEsMTc5NDUxMDM2OSwtMT
+gxNzc5MDc0NiwtMTc3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUz
+OTA0OCwzNTY1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4ND
+QsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0MjAsOTAz
+NzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2NzcxMTY2ND
+YsLTE3ODY4NTQzMjgsLTEyMzcyMzAwMDUsMTExMjQzOTM3Miwt
+MTY2NjM2NTUxXX0=
 -->
