@@ -43,7 +43,9 @@ There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik T
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
-The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian 
+The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cave-vagina. Or something like that. 
+
+BPers are obsessed with the faces of 
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
@@ -74,7 +76,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MTY5MDEwLC0yNzYwNDE5OTQsLTEyNj
+eyJoaXN0b3J5IjpbMTMzMDEyODkxLC0yNzYwNDE5OTQsLTEyNj
 A0MDMzNTYsLTE2NTM5MzEyMjcsMTgzNjM3MTA5NiwtNjM2MDkz
 ODI2LDQ0NzE2MzIxNiwyODYxMDQ0MDgsMTc5NDUxMDM2OSwtMT
 gxNzc5MDc0NiwtMTc3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUz
