@@ -37,7 +37,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants." This sense of plausibly-ironic racism, misogyny, and batshit levels of body fascism pervades all looksmaxxing content and seems to be the main factor for its 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants." This sense of plausibly-ironic racism, misogyny, and batshit levels of body fascism pervades all looksmaxxing content and seems to be the main factor for its viral spread[^3]. 
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
@@ -52,6 +52,8 @@ Most interestingly,
 True incel scholars will notice that this is highly divergent from original blackpill theory. 
 
 [^2]: More specifically, Clavicular was invited to a Peter Thiel party. Considering he is a teenage boy with both a precisely-engineered resemblance to Handsome Squidward and crippling self-esteem issues, I'm not sure he's on equal footing there.
+
+[^3]: This 
 
 **The female looksmaxxer**
 -
@@ -76,11 +78,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzAxODA4NiwxODM2MzcxMDk2LC02Mz
-YwOTM4MjYsNDQ3MTYzMjE2LDI4NjEwNDQwOCwxNzk0NTEwMzY5
-LC0xODE3NzkwNzQ2LC0xNzc5MjMxNjgsMTY3NzY0OTk4OSwxMz
-QzNTM5MDQ4LDM1NjU3MTEyMCwtMTQyOTYzMzIzNSwtMTQzMDkx
-ODg0NCw4MzUxOTM4MTgsLTEwMTczNjQyNTQsLTg1MDU5NjQyMC
-w5MDM3MTA5MTMsLTY2NTQ5NDc4OSw2OTk0NDk1MzIsMTY3NzEx
-NjY0Nl19
+eyJoaXN0b3J5IjpbMTcyNjMyNDY1LDE4MzYzNzEwOTYsLTYzNj
+A5MzgyNiw0NDcxNjMyMTYsMjg2MTA0NDA4LDE3OTQ1MTAzNjks
+LTE4MTc3OTA3NDYsLTE3NzkyMzE2OCwxNjc3NjQ5OTg5LDEzND
+M1MzkwNDgsMzU2NTcxMTIwLC0xNDI5NjMzMjM1LC0xNDMwOTE4
+ODQ0LDgzNTE5MzgxOCwtMTAxNzM2NDI1NCwtODUwNTk2NDIwLD
+kwMzcxMDkxMywtNjY1NDk0Nzg5LDY5OTQ0OTUzMiwxNjc3MTE2
+NjQ2XX0=
 -->
