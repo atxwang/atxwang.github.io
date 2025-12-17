@@ -37,7 +37,7 @@ But there's a way out. It follows that, whatever your position on the ladder now
 
 It should be repeated that no looksmaxxer is older than 25. The most extreme, in fact, are all teenagers.
 
-There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants". This sense of plausibly-ironic 
+There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants". This sense of plausibly-ironic racism, misogyny, and batshit 
 
 More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
@@ -76,7 +76,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2MzcyMCwtNjM2MDkzODI2LDQ0Nz
+eyJoaXN0b3J5IjpbMTgzNjM3MTA5NiwtNjM2MDkzODI2LDQ0Nz
 E2MzIxNiwyODYxMDQ0MDgsMTc5NDUxMDM2OSwtMTgxNzc5MDc0
 NiwtMTc3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNT
 Y1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1MTkz
