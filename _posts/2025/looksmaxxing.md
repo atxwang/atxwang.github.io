@@ -43,7 +43,7 @@ More casual streams involve a BP influencer sitting at his desk, answering fan q
 
 **The blackpiller Narcissus**
 -
-The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a random Tik Toker saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, because haha get **mogged** you sub-5-- looks *do* matter. This is followed by a montage of the aforementioned models (and a few looksmaxxing influencers, including perhaps the BP editor himself) smirking, scowling, and smoldering to the camera, all overlayed by an oily white sheen of a filter and set to either 
+The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a random Tik Toker saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, because haha get **mogged** you sub-5-- looks *do* matter. This is followed by a montage of the aforementioned models (and a few looksmaxxing influencers, including perhaps the BP editor himself) smirking, scowling, and smoldering to the camera, all overlayed by an oily white sheen of a filter and set to either sped-up Europop or 2hollis.
 
 It is not an exaggeration to say that BP edits, and male looksmaxxers more generally, captivate the entirety of the BPer sexual imagination. 
 
@@ -76,7 +76,7 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjU4NDEwMywtMTE2ODcyNjQ2NSwxMz
+eyJoaXN0b3J5IjpbLTgyODQzNjAwMSwtMTE2ODcyNjQ2NSwxMz
 MwMTI4OTEsLTI3NjA0MTk5NCwtMTI2MDQwMzM1NiwtMTY1Mzkz
 MTIyNywxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LD
 I4NjEwNDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5
