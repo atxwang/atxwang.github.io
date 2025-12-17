@@ -65,10 +65,6 @@ But wait, there's more!
 - Magdalene J Taylor Playboy coverage
 - Gooning as perfect encapsulation of Thanatos and Eros in modern man
 
-** The truthpill**
--
-- What is correct about the BP thesis?
-
 **Everyone is beautiful and no one is horny**
 -
 - Blood Knife essay
@@ -78,11 +74,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM5MzEyMjcsMTgzNjM3MTA5NiwtNj
-M2MDkzODI2LDQ0NzE2MzIxNiwyODYxMDQ0MDgsMTc5NDUxMDM2
-OSwtMTgxNzc5MDc0NiwtMTc3OTIzMTY4LDE2Nzc2NDk5ODksMT
-M0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5
-MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC04NTA1OTY0Mj
-AsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5NTMyLDE2Nzcx
-MTY2NDZdfQ==
+eyJoaXN0b3J5IjpbNjY3MTAwMTMsLTE2NTM5MzEyMjcsMTgzNj
+M3MTA5NiwtNjM2MDkzODI2LDQ0NzE2MzIxNiwyODYxMDQ0MDgs
+MTc5NDUxMDM2OSwtMTgxNzc5MDc0NiwtMTc3OTIzMTY4LDE2Nz
+c2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2MzMy
+MzUsLTE0MzA5MTg4NDQsODM1MTkzODE4LC0xMDE3MzY0MjU0LC
+04NTA1OTY0MjAsOTAzNzEwOTEzLC02NjU0OTQ3ODksNjk5NDQ5
+NTMyXX0=
 -->
