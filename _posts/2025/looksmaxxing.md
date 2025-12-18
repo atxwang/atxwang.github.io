@@ -45,9 +45,9 @@ More casual streams involve a BP influencer sitting at his desk, answering fan q
 -
 The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a random Tik Toker saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, because haha get **mogged** you sub-5-- looks *do* matter. This is followed by a montage of the aforementioned models (and a few looksmaxxing influencers, including perhaps the BP editor himself) smirking, scowling, and smoldering to the camera, all overlayed by an oily white sheen of a filter and set to either sped-up Europop or 2hollis.
 
-It is not an exaggeration to say that BP edits, and male looksmaxxers more generally, captivate the entirety of the BPer sexual imagination. For all their supposed "ideology", looksmaxxers do not appear to have any more than a statistics-obsessed, Don Quixote/PUA-esque interest in women. People like Clav will have sex with multiple women each night for maybe five minutes at a time
+It is not an exaggeration to say that BP edits, and male looksmaxxers more generally, captivate the entirety of the BPer sexual imagination. For all their supposed "ideology", looksmaxxers do not appear to have any more than a statistics-obsessed, Don Quixote/PUA-esque interest in women. People like Clav will have sex with multiple plastered women each night for maybe five minutes at a time, and it doesn't take a sex therapist with a bob to recognize that such 
 
-- Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
+- Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
 - The Tik Tok blackpiller is distinct from the classic incel blackpiller. While both view themselves as low on the scale of human attractiveness, the incel blackpiller believes himself generally non-human and irredeemable in appearance. He can do nothing at all to improve his inceldom except for like, participate in a mass revolution to instate mandatory girlfriends. The Tik Tok blackpiller is more of a sequel to the classic redpill than a rejection of it; he believes that self-improvement--- not of his Game, but his appearance --- will grant him access to everything he wants. So within the Tik Tok blackpill, there is technically a shift to a systemic ideology, but it kind of ends up being the same as a promise of individual "ascension" for pubescent (sometimes prepubescent) men.
 
@@ -76,11 +76,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc1MzA4MzEsNTA5NTgxNTYyLC04Mj
-g0MzYwMDEsLTExNjg3MjY0NjUsMTMzMDEyODkxLC0yNzYwNDE5
-OTQsLTEyNjA0MDMzNTYsLTE2NTM5MzEyMjcsMTgzNjM3MTA5Ni
-wtNjM2MDkzODI2LDQ0NzE2MzIxNiwyODYxMDQ0MDgsMTc5NDUx
-MDM2OSwtMTgxNzc5MDc0NiwtMTc3OTIzMTY4LDE2Nzc2NDk5OD
-ksMTM0MzUzOTA0OCwzNTY1NzExMjAsLTE0Mjk2MzMyMzUsLTE0
-MzA5MTg4NDRdfQ==
+eyJoaXN0b3J5IjpbMjQ3MTU1ODUzLC0xNDM3NTMwODMxLDUwOT
+U4MTU2MiwtODI4NDM2MDAxLC0xMTY4NzI2NDY1LDEzMzAxMjg5
+MSwtMjc2MDQxOTk0LC0xMjYwNDAzMzU2LC0xNjUzOTMxMjI3LD
+E4MzYzNzEwOTYsLTYzNjA5MzgyNiw0NDcxNjMyMTYsMjg2MTA0
+NDA4LDE3OTQ1MTAzNjksLTE4MTc3OTA3NDYsLTE3NzkyMzE2OC
+wxNjc3NjQ5OTg5LDEzNDM1MzkwNDgsMzU2NTcxMTIwLC0xNDI5
+NjMzMjM1XX0=
 -->
