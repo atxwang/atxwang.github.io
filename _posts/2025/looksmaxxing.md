@@ -39,7 +39,8 @@ It should be repeated that no looksmaxxer is older than 25. The most extreme, in
 
 There are a few distinctly-identifiable forms of looksmaxxer/BP content on Tik Tok. Two come from the influencers themselves. There's stream clips, which often involve following the looksmaxxers on a night out. You get to see them attempt to bag every woman in a Miami club, which they only do successfully between 33 and 50% of the time. This is usually because they end up saying something so assholeish, creepy, and/or racist that even their fanbase is forced to recognize it, though never as a legitimate failure of understanding of social mores or women on the looksmaxxers' part. Rather, any repugnancy will be attributed to them just trolling or intentionally testing the boundaries of acceptability for someone so handsome: "Chad does what Chad wants." This sense of plausibly-ironic racism, misogyny, and batshit levels of body fascism pervades all looksmaxxing content and seems to be the main factor for its viral spread[^3]. 
 
-More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk). This ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
+More casual streams involve a BP influencer sitting at his desk, answering fan questions about looksmaxxing (while maybe getting blown at his desk).
+This type of content ties into the health grifts, videos in which someone like Syrian Psycho will try to convince you to buy his debloating supplements or personal looksmaxxing coaching services. 
 
 **The blackpiller Narcissus**
 -
@@ -76,11 +77,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI5NjQ0NDEsLTE0Mzc1MzA4MzEsNT
-A5NTgxNTYyLC04Mjg0MzYwMDEsLTExNjg3MjY0NjUsMTMzMDEy
-ODkxLC0yNzYwNDE5OTQsLTEyNjA0MDMzNTYsLTE2NTM5MzEyMj
-csMTgzNjM3MTA5NiwtNjM2MDkzODI2LDQ0NzE2MzIxNiwyODYx
-MDQ0MDgsMTc5NDUxMDM2OSwtMTgxNzc5MDc0NiwtMTc3OTIzMT
-Y4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OCwzNTY1NzExMjAsLTE0
-Mjk2MzMyMzVdfQ==
+eyJoaXN0b3J5IjpbMTYxMzE0NTk3MywtMTQzNzUzMDgzMSw1MD
+k1ODE1NjIsLTgyODQzNjAwMSwtMTE2ODcyNjQ2NSwxMzMwMTI4
+OTEsLTI3NjA0MTk5NCwtMTI2MDQwMzM1NiwtMTY1MzkzMTIyNy
+wxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LDI4NjEw
+NDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMxNj
+gsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMCwtMTQy
+OTYzMzIzNV19
 -->
