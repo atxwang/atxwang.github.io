@@ -46,7 +46,7 @@ This type of content ties into the health grifts, videos in which someone like S
 -
 The greatest and most abundant form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a random Tik Toker saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, because haha get **mogged** you sub-5-- looks *do* matter. This is followed by a lovingly-edited montage of the aforementioned models (and a few looksmaxxing influencers, including perhaps the BP editor himself) smirking, scowling, and smoldering to the camera, smoothing their perfectly-gelled coiffs, all overlayed by an oily white sheen of a filter and set to either sped-up Europop or 2hollis.
 
-It is not an exaggeration to say that BP edits, and "Chads" more generally, captivate the entirety of the BPer sexual imagination. For all their supposed "ideology", looksmaxxers do not appear to have any more than a statistics-obsessed, Don Quixote/PUA-esque interest in women. Clav will have sex (while streaming) with multiple plastered women each night for maybe five minutes at a time, wracking up more than 150 "bodies" at age 19. It doesn't take a sex therapist with a bob to recognize that such a sexual life leaves very little room for genuine sensual pleasure. The women whom BPers *do* profess 
+It is not an exaggeration to say that BP edits, and "Chads" more generally, captivate the entirety of the BPer sexual imagination. For all their supposed "ideology", looksmaxxers do not appear to have any more than a statistics-obsessed, Don Quixote/PUA-esque interest in women. Clav will have sex (while streaming) with multiple plastered women each night for maybe five minutes at a time, wracking up more than 150 "bodies" at age 19. It doesn't take a sex therapist with a bob to recognize that such a sexual life leaves very little room for genuine sensual pleasure. The women whom BPers *do* profess interest in are lauded for the 
 
 - They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
@@ -77,11 +77,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzE0NTk3MywtMTQzNzUzMDgzMSw1MD
-k1ODE1NjIsLTgyODQzNjAwMSwtMTE2ODcyNjQ2NSwxMzMwMTI4
-OTEsLTI3NjA0MTk5NCwtMTI2MDQwMzM1NiwtMTY1MzkzMTIyNy
-wxODM2MzcxMDk2LC02MzYwOTM4MjYsNDQ3MTYzMjE2LDI4NjEw
-NDQwOCwxNzk0NTEwMzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMxNj
-gsMTY3NzY0OTk4OSwxMzQzNTM5MDQ4LDM1NjU3MTEyMCwtMTQy
-OTYzMzIzNV19
+eyJoaXN0b3J5IjpbMTY5MzcwNTU3OSwxNjEzMTQ1OTczLC0xND
+M3NTMwODMxLDUwOTU4MTU2MiwtODI4NDM2MDAxLC0xMTY4NzI2
+NDY1LDEzMzAxMjg5MSwtMjc2MDQxOTk0LC0xMjYwNDAzMzU2LC
+0xNjUzOTMxMjI3LDE4MzYzNzEwOTYsLTYzNjA5MzgyNiw0NDcx
+NjMyMTYsMjg2MTA0NDA4LDE3OTQ1MTAzNjksLTE4MTc3OTA3ND
+YsLTE3NzkyMzE2OCwxNjc3NjQ5OTg5LDEzNDM1MzkwNDgsMzU2
+NTcxMTIwXX0=
 -->
