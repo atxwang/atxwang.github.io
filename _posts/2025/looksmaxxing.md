@@ -45,7 +45,7 @@ More casual streams involve a BP influencer sitting at his desk, answering fan q
 -
 The greatest form of looksmaxxer art is the *BP edit*. Camille Paglia would probably say BP edits follow in the ancient Greek tradition, for their depiction of the glorious and shining Apollonian androgyne's victory over the aeternal Dionysian cavern-vagina. Or something like that. BPers are obsessed with a select few male models whose faces they believe fit perfectly within the objective and millimeter-precise standards of "Chad": Sean O'Pry, Jordan Barrett, Francisco Lachowski (you'll notice these names overlap a lot with 2013 Wattpad fancasts). The BP edit will typically begin with a random Tik Toker saying that looks don't matter, etc. Then a literal black pill or a skull emoji will come flashing on screen, because haha get **mogged** you sub-5-- looks *do* matter. This is followed by a montage of the aforementioned models (and a few looksmaxxing influencers, including perhaps the BP editor himself) smirking, scowling, and smoldering to the camera, all overlayed by an oily white sheen of a filter and set to either sped-up Europop or 2hollis.
 
-It is not an exaggeration to say that BP edits, and male looksmaxxers more generally, captivate the entirety of the BPer sexual imagination. For all their supposed "ideology", 
+It is not an exaggeration to say that BP edits, and male looksmaxxers more generally, captivate the entirety of the BPer sexual imagination. For all their supposed "ideology", loo
 
 - Looksmaxxers are self-destructive Narcissuses whose sexual fixation seems to be themselves--- and not women---in spite of their supposed ideological basis (consider "BP edits"). There is a very Don Quixote/PUA aspect to their methods in that they seemingly have no care at all in becoming hitched or even having enjoyable sex (i.e. more than five minutes with one plastered person at a time). It is literally all based on numbers. They have extremely strong preference for certain "strong" features, even those that are "unfeminine". Hence their ideal woman (the "true Eve") ends up resembling the looksmaxxer himself (rather than anyone else). (TANGENT: they lowkey fw the dolls??)
 
@@ -76,11 +76,11 @@ But wait, there's more!
 - Quick comment on social media bans
 - Similarity with "escape the matrix" rhetoric
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NTgxNTYyLC04Mjg0MzYwMDEsLTExNj
-g3MjY0NjUsMTMzMDEyODkxLC0yNzYwNDE5OTQsLTEyNjA0MDMz
-NTYsLTE2NTM5MzEyMjcsMTgzNjM3MTA5NiwtNjM2MDkzODI2LD
-Q0NzE2MzIxNiwyODYxMDQ0MDgsMTc5NDUxMDM2OSwtMTgxNzc5
-MDc0NiwtMTc3OTIzMTY4LDE2Nzc2NDk5ODksMTM0MzUzOTA0OC
-wzNTY1NzExMjAsLTE0Mjk2MzMyMzUsLTE0MzA5MTg4NDQsODM1
-MTkzODE4XX0=
+eyJoaXN0b3J5IjpbLTU3MTQ1Nzc0Miw1MDk1ODE1NjIsLTgyOD
+QzNjAwMSwtMTE2ODcyNjQ2NSwxMzMwMTI4OTEsLTI3NjA0MTk5
+NCwtMTI2MDQwMzM1NiwtMTY1MzkzMTIyNywxODM2MzcxMDk2LC
+02MzYwOTM4MjYsNDQ3MTYzMjE2LDI4NjEwNDQwOCwxNzk0NTEw
+MzY5LC0xODE3NzkwNzQ2LC0xNzc5MjMxNjgsMTY3NzY0OTk4OS
+wxMzQzNTM5MDQ4LDM1NjU3MTEyMCwtMTQyOTYzMzIzNSwtMTQz
+MDkxODg0NF19
 -->
