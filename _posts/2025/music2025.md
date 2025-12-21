@@ -27,7 +27,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine", which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**f5ve's *SEQUENCE 01***: ear candy by J-POP veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
+**f5ve's *SEQUENCE 01***: Ear candy by J-POP veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **haloplus+'s *Musicality***: This is up there with the aforementioned *Cherish* and *Untitled* as one of my top 5 finds of the year, and possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think it best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
@@ -40,7 +40,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 **Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album combined with their rhythmic, percussive style has a universal appeal**. Funnily enough, I think of all this year's politically-charged Windmill albums, *Cowards* succeeds the most via its indirect, literary-inspired lyrics.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Racing Mount Pleasant's *Racing Mount Pleasant***:
+**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that Racing Mount Pleasa
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Releases from artists I like**
@@ -52,7 +52,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTQ4Njg1NywxMDQ1NDkwODYsLTE2Mz
+eyJoaXN0b3J5IjpbLTk5MjQ1MzI5MCwxMDQ1NDkwODYsLTE2Mz
 Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
 MDQ5LDEwNTMwNjU0MTFdfQ==
 -->
