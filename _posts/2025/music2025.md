@@ -5,7 +5,10 @@ title: My favorite moments in music from 2025
 subtitle: 
 tags: [music, pop culture, short]
 ---
-As the year closes, I thought I'd make a list of songs, albums, concerts etc. that I especially enjoyed this year- in particular, to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like 
+As the year closes, I thought I'd make a list of songs, albums, concerts etc. that I especially enjoyed this year- in particular, to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like Geese Wednesday Cameron Winter MJ Lenderman This is Lorelei etc etc etc as much as everyone else, they won't be mentioned here. Without further 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzQ1MDA0OSwxMDUzMDY1NDExXX0=
+eyJoaXN0b3J5IjpbMTE4NjQ4OTYxNywxNzY3NDUwMDQ5LDEwNT
+MwNjU0MTFdfQ==
 -->
