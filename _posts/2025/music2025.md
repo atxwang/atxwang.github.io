@@ -9,10 +9,10 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 
 **Nina Protocol's Instagram presence**
 -
-[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. While it is definitely true that Spotify criminally underpays artists, I refuse to switch out of my own personal convenience. 
+[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feeli, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with artists like Yung Lean, Mac DeMarco, and Bassvictim. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDMyODI5NCwyMTM2MTYzOTA3LDE3Nj
+eyJoaXN0b3J5IjpbLTM0OTkzNjY5OSwyMTM2MTYzOTA3LDE3Nj
 c0NTAwNDksMTA1MzA2NTQxMV19
 -->
