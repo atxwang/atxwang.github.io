@@ -30,7 +30,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **f5ve's *SEQUENCE 01***: ear candy by J-POP veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**haloplus+'s *Musicality***: This is up there with the aforementioned *Cherish* and *Untitled* as one of my top 5 finds of the year, and possibly my favorite project to come out of the Copenhagen scene so far.  
+**haloplus+'s *Musicality***: This is up there with the aforementioned *Cherish* and *Untitled* as one of my top 5 finds of the year, and possibly my favorite project to come out of the Copenhagen scene so far. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
@@ -38,10 +38,12 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 -
 **Releases from artists I like**
 -
+**Miscellaneous moments**
+-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwODc5MDQ2LC0xNjM0OTczNDExLC0xMD
-gzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1
-NDExXX0=
+eyJoaXN0b3J5IjpbMTAzMDMyMzEyNiwtMTYzNDk3MzQxMSwtMT
+A4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2
+NTQxMV19
 -->
