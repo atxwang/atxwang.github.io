@@ -52,6 +52,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 **Releases from artists I like**
 -
+Many of my favorite artists dropped 
 
 **Miscellaneous moments**
 -
@@ -59,8 +60,8 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMj
-QxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMSwtMTA4MzEz
-MDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2NTQxMV
-19
+eyJoaXN0b3J5IjpbLTE0OTY4ODkyODMsMTMzMTIwODY2NywyMT
+A2MDk2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3
+MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwND
+ksMTA1MzA2NTQxMV19
 -->
