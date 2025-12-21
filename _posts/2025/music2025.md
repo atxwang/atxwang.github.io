@@ -19,7 +19,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 
 **Spotify's Discover Weekly feature**
 -
-Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. But does it actually lock in every once in a while? Yeah. 
+Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Doesn't it come from Spotify, which is generally an evil company? Yeah. But does it actually lock in on suggesting new, great music every once in a while? Yeah- at least, 
 
 **Windmill Scene (that isn't Geese)**
 -
@@ -28,7 +28,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTM4MTE1MiwtMTYzNDk3MzQxMSwtMT
+eyJoaXN0b3J5IjpbLTU1NzM4MzI0MywtMTYzNDk3MzQxMSwtMT
 A4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2
 NTQxMV19
 -->
