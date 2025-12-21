@@ -37,7 +37,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 -
 Obviously Geese and Cameron Winter blew up big this year, and already-popular bands like Wet Leg and Black Country, New Road dropped good albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
 
-**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album combined with their rhythmic, percussive style has a universal appeal**. In a funny way, I think *Cowards* succeeds the most out of all of this year's politically-charged Windmill albums through its indirect, literature-inspired lyrics.
+**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album combined with their rhythmic, percussive style has a universal appeal**. Funnily enough, I think of all this year's politically-charged Windmill albums, *Cowards* succeeds the most via its indirect, literary-inspired lyrics.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Racing Mount Pleasant's *Racing Mount Pleasant***:
@@ -52,7 +52,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzAzODg5MiwxMDQ1NDkwODYsLTE2Mz
+eyJoaXN0b3J5IjpbLTI4OTQ4Njg1NywxMDQ1NDkwODYsLTE2Mz
 Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
 MDQ5LDEwNTMwNjU0MTFdfQ==
 -->
