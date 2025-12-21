@@ -66,8 +66,9 @@ Many of my favorite artists dropped great projects this year which
 **Deafheaven's *Lonely People With Power***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bladee's *Ste The Beautiful Martyr 1st Attempt* 
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Miscellaneous moments**
 -
@@ -75,9 +76,8 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgzODE1NzYsLTk2NTExNjg1MCwtOT
-AwODMwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0
-MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1Mz
-YsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
-
+eyJoaXN0b3J5IjpbOTM4MjE5ODMsLTk2NTExNjg1MCwtOTAwOD
+MwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0Mzkw
+NCwxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMj
+EzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
 -->
