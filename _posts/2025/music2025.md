@@ -54,8 +54,14 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 -
 Many of my favorite artists dropped great projects this year which 
 
+**Ethel Cain's *Perverts***:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3kZk3M80kQTJus45lgRKyv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 **Dean Blunt and Elias Ronnenfelt's *lucre***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**venturing's *Ghostholding***:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Miscellaneous moments**
 -
@@ -63,8 +69,8 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA3MzY3MTMsLTkwMDgzMDI2MCwxMz
-MxMjA4NjY3LDIxMDYwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5
-MDg2LC0xNjM0OTczNDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MD
-csMTc2NzQ1MDA0OSwxMDUzMDY1NDExXX0=
+eyJoaXN0b3J5IjpbLTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMz
+EyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkw
+ODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNy
+wxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
 -->
