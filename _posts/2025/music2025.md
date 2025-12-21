@@ -30,8 +30,9 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **f5ve's *SEQUENCE 01***: ear candy by J-POP veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**haloplus+'s *Musicality***: 
+**haloplus+'s *Musicality***: This is 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 **Windmill Scene (that isn't Geese)**
 -
@@ -40,7 +41,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMDQ2NjYsLTE2MzQ5NzM0MTEsLTEwOD
-MxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNzAzODIzNzYsLTE2MzQ5NzM0MTEsLT
+EwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMw
+NjU0MTFdfQ==
 -->
