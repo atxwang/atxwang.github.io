@@ -70,14 +70,17 @@ Many of my favorite artists dropped great projects this year which
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+**yeule's *Evangelic Girl is a Gun***:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 **Miscellaneous moments**
 -
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MjE5ODMsLTk2NTExNjg1MCwtOTAwOD
-MwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0Mzkw
-NCwxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMj
-EzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MD
+A4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQz
+OTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMSwtMTA4MzEzMDUzNi
+wyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2NTQxMV19
 -->
