@@ -35,7 +35,9 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 **Windmill Scene; post-punk/post-rock stuff (that isn't Geese)**
 -
-Obviously Geese and Cameron Winter blew up big this year, and already-popular bands like Wet Leg and Black Country, New Road dropped good albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the ongoing
+Obviously Geese and Cameron Winter blew up big this year, and already-popular bands like Wet Leg and Black Country, New Road dropped good albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
+
+*Squid's 
 
 **Releases from artists I like**
 -
@@ -46,7 +48,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzQ4MDgyOSwxMDQ1NDkwODYsLTE2Mz
-Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
-MDQ5LDEwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbLTU2MTgwNjg1LDEwNDU0OTA4NiwtMTYzND
+k3MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAw
+NDksMTA1MzA2NTQxMV19
 -->
