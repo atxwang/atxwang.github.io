@@ -43,7 +43,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 **Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too much like the best parts of Arcade Fire and Isaac Wood-led Black Country, to be true. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**shame's *Cutthroat***: It's unfortunate that this album hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. 
+**shame's *Cutthroat***: It's unfortunate that this album hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. Just imagine if Wipers 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Releases from artists I like**
@@ -55,7 +55,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDkzMTA5NiwxMDQ1NDkwODYsLTE2Mz
+eyJoaXN0b3J5IjpbLTUzNzEyMzY1OSwxMDQ1NDkwODYsLTE2Mz
 Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
 MDQ5LDEwNTMwNjU0MTFdfQ==
 -->
