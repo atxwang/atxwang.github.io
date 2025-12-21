@@ -17,8 +17,12 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 **punxsutawney's *Untitled***: This is just a great, very restrained post-rock project. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+**New finds from this year**
+-
+Besides social media, I mostly find new music through Spotify's Discover Weekly feature. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNz
-Y3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNjgyMDMzMzIsLTEwODMxMzA1MzYsMj
+EzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
 -->
