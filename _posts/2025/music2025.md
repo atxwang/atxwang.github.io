@@ -24,10 +24,10 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific--- this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine", which contains some of the freshest songwriting I've heard all year
+**Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine", which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**f5ve's *SEQUENCE 01***: 
+**f5ve's *SEQUENCE 01***: sugary, professionally-executed hyperpop by J-POP veterans with production from 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Windmill Scene (that isn't Geese)**
@@ -37,7 +37,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzkwMTU5NCwtMTYzNDk3MzQxMSwtMT
-A4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2
-NTQxMV19
+eyJoaXN0b3J5IjpbNDY3NDI5MTAxLC0xNjM0OTczNDExLC0xMD
+gzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1
+NDExXX0=
 -->
