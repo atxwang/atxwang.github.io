@@ -9,7 +9,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 
 **Nina Protocol's Instagram presence**
 -
-[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feelings on Web3, streaming, or the independent music industry, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with surprisingly big artists like Yung Lean, Mac DeMarco, and Bassvictim. Nina's put me onto two of my favorite projects this year: screamo band Crochet and post-rock outfit punxsutawney. Both bands have less than 4000 monthly listeners on Spotify, which I find shocking, but it serves as a good reminder that there's always great music bubbling far beneath the surface. Maybe that's the beauty of Nina- reminding you to keep an open mind and telling you where to look.
+[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feelings on Web3, streaming, or the independent music industry, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with surprisingly big artists like Yung Lean, Mac DeMarco, and Bassvictim. Nina's put me onto two of my favorite projects this year, both of which have less than 4000 monthly listeners on Spotify, which serves as a good reminder that there's always great music bubbling far beneath the surface. Maybe that's the beauty of Nina- reminding you to keep an open mind and telling you where to look.
 
 **Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming on songs (complimentary) no longer than two minutes each (not complimentary--- they should be longer!). 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -35,7 +35,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 **Windmill Scene and post punk stuff (that isn't Geese)**
 -
-Obviously Geese and Cameron Winter blew up big this year, 
+Obviously Geese and Cameron Winter blew up big this year, and already-popular bands like Wet Leg and Black Country, New Road dropped good albums as well. 
 
 **Releases from artists I like**
 -
@@ -46,7 +46,7 @@ Obviously Geese and Cameron Winter blew up big this year,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzk0MTczMiwxMDQ1NDkwODYsLTE2Mz
+eyJoaXN0b3J5IjpbLTM0ODA2ODM4NywxMDQ1NDkwODYsLTE2Mz
 Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
 MDQ5LDEwNTMwNjU0MTFdfQ==
 -->
