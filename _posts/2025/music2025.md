@@ -3,7 +3,7 @@
 layout: post
 title: My favorite moments in music from 2025
 subtitle: 
-tags: [music, pop culture, short]
+tags: [music, pop culture, recs]
 ---
 As the year closes, I thought I'd make a list of songs, albums, performances etc. that I especially enjoyed this year- in particular, to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like Geese Wednesday Cameron Winter MJ Lenderman This is Lorelei etc etc etc as much as everyone else, they won't be mentioned here. Without further ado:
 
@@ -46,7 +46,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODA2ODM4NywxMDQ1NDkwODYsLTE2Mz
+eyJoaXN0b3J5IjpbMTEzNTIwMDIyOCwxMDQ1NDkwODYsLTE2Mz
 Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
 MDQ5LDEwNTMwNjU0MTFdfQ==
 -->
