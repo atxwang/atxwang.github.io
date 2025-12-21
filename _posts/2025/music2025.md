@@ -63,14 +63,21 @@ Many of my favorite artists dropped great projects this year which
 **venturing's *Ghostholding***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+**Deafheaven's *Lonely People With Power***:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 **Miscellaneous moments**
 -
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMz
-EyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkw
-ODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNy
-wxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbLTEwMzgzODE1NzYsLTk2NTExNjg1MCwtOT
+AwODMwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0
+MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1Mz
+YsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
+
 -->
