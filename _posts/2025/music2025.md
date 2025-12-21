@@ -9,10 +9,10 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 
 **Nina Protocol's IG reels**
 -
-[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Whether 
+[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Whether or not you think this is web3 bullshit 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTExMDk4NiwyMTM2MTYzOTA3LDE3Nj
+eyJoaXN0b3J5IjpbMTc4MTY0NzUyOSwyMTM2MTYzOTA3LDE3Nj
 c0NTAwNDksMTA1MzA2NTQxMV19
 -->
