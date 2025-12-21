@@ -46,7 +46,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 **shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime," this record is for you.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of th
+**Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2iD7JYKrmAAT0erQWjkj96?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6wymdowW8HbQ4H3nVs93Hj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -59,7 +59,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTI4ODY3NywtMTI0MTg0MzkwNCwxMD
+eyJoaXN0b3J5IjpbMjAyNDg3MTg1MywtMTI0MTg0MzkwNCwxMD
 Q1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2
 MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
 -->
