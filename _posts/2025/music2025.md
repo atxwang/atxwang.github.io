@@ -17,17 +17,18 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 **punxsutawney's *Untitled***: This is just a great, very restrained post-rock project. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**New finds from this year**
+**Spotify's Discover Weekly feature**
 -
-Besides social media, I mostly find new music through Spotify's Discover Weekly feature. 
+Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. 
 
-**Windmill music that isn't Geese**
+**Windmill Scene (that isn't Geese)**
 -
-**Releases f
+**Releases from artists I like**
+-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDEwNzQ4OSwtMTYzNDk3MzQxMSwtMT
-A4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2
-NTQxMV19
+eyJoaXN0b3J5IjpbLTIwMTk2NDM0MjMsLTE2MzQ5NzM0MTEsLT
+EwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMw
+NjU0MTFdfQ==
 -->
