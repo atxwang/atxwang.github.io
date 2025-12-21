@@ -14,7 +14,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 **Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming on songs no longer than two minutes each (complimentary). 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is just a great, very intelligently-restrained post-rock project. 
+**punxsutawney's *Untitled***: This is just a great, very intelligently-restrained instrumental post-rock project. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Spotify's Discover Weekly feature**
@@ -24,7 +24,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific--- this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine"
+**Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine", which contains some of the freshest songwriting I've heard 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **f5ve's *SEQUENCE 01***: 
@@ -37,7 +37,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MTM2NDgwLC0xNjM0OTczNDExLC0xMD
+eyJoaXN0b3J5IjpbNTQ5NzkxODA2LC0xNjM0OTczNDExLC0xMD
 gzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1
 NDExXX0=
 -->
