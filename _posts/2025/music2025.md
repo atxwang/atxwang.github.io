@@ -40,7 +40,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 **Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album combined with their rhythmic, percussive style has a universal appeal**. Funnily enough, I think of all this year's politically-charged Windmill albums, *Cowards* succeeds the most via its indirect, literary-inspired lyrics.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too much like the best parts of Arcade Fire and Isaac Wood-led Black Country, to be true. 
+**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too engineered, too much like the designer baby between Arcade Fire and Isaac Wood-led Black Country, to be true. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime," this record is for you.
@@ -60,8 +60,8 @@ Many of my favorite artists dropped great projects this year.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg2MTc4NjMsMTMzMTIwODY2NywyMT
-A2MDk2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3
-MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwND
-ksMTA1MzA2NTQxMV19
+eyJoaXN0b3J5IjpbMjUwOTU5NzksMTMzMTIwODY2NywyMTA2MD
+k2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQx
+MSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMT
+A1MzA2NTQxMV19
 -->
