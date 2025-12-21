@@ -33,17 +33,20 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **haloplus+'s *Musicality***: This is up there with the aforementioned *Cherish* and *Untitled* as one of my top 5 finds of the year, and possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think it best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
 **Windmill Scene and post punk stuff (that isn't Geese)**
 -
+Obviously Geese and Cameron Winter blew up big this year, 
+
 **Releases from artists I like**
 -
+
 **Miscellaneous moments**
 -
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTQ5MDg2LC0xNjM0OTczNDExLC0xMD
-gzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1
-NDExXX0=
+eyJoaXN0b3J5IjpbMTcwNzk0MTczMiwxMDQ1NDkwODYsLTE2Mz
+Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
+MDQ5LDEwNTMwNjU0MTFdfQ==
 -->
