@@ -34,14 +34,14 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-**Windmill Scene (that isn't Geese)**
+**Windmill Scene stuff (that isn't Geese)**
 -
 **Releases from artists I like**
 -
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg5ODQ0NiwtMTYzNDk3MzQxMSwtMT
-A4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2
-NTQxMV19
+eyJoaXN0b3J5IjpbNjUwODc5MDQ2LC0xNjM0OTczNDExLC0xMD
+gzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1
+NDExXX0=
 -->
