@@ -52,7 +52,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 **Releases from artists I like**
 -
-Many of my favorite artists dropped great projects this year. 
+Many of my favorite artists dropped great projects this year which 
 
 **Miscellaneous moments**
 -
@@ -60,8 +60,8 @@ Many of my favorite artists dropped great projects this year.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwOTU5NzksMTMzMTIwODY2NywyMTA2MD
-k2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQx
-MSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMT
-A1MzA2NTQxMV19
+eyJoaXN0b3J5IjpbLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
+YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
+NDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OS
+wxMDUzMDY1NDExXX0=
 -->
