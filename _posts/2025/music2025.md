@@ -24,6 +24,9 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific--- this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+**Secret Monument's debut singles**
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 **Windmill Scene (that isn't Geese)**
 -
 **Releases from artists I like**
@@ -31,7 +34,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NDMxNzY3LC0xNjM0OTczNDExLC0xMD
-gzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1
-NDExXX0=
+eyJoaXN0b3J5IjpbLTU1OTgwNDc1MiwtMTYzNDk3MzQxMSwtMT
+A4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2
+NTQxMV19
 -->
