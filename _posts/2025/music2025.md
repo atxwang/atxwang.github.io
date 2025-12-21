@@ -33,9 +33,9 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **haloplus+'s *Musicality***: This is up there with the aforementioned *Cherish* and *Untitled* as one of my top 5 finds of the year, and possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think it best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Windmill Scene and post punk stuff (that isn't Geese)**
+**Windmill Scene; post-punk/post-rock stuff (that isn't Geese)**
 -
-Obviously Geese and Cameron Winter blew up big this year, and already-popular bands like Wet Leg and Black Country, New Road dropped good albums as well. 
+Obviously Geese and Cameron Winter blew up big this year, and already-popular bands like Wet Leg and Black Country, New Road dropped good albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the ongoing
 
 **Releases from artists I like**
 -
@@ -46,7 +46,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTIwMDIyOCwxMDQ1NDkwODYsLTE2Mz
+eyJoaXN0b3J5IjpbLTMyNzQ4MDgyOSwxMDQ1NDkwODYsLTE2Mz
 Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
 MDQ5LDEwNTMwNjU0MTFdfQ==
 -->
