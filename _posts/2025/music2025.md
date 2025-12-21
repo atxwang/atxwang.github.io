@@ -21,7 +21,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 -
 Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Doesn't it come from Spotify, which is generally an evil company? Yeah. But does it actually lock in on suggesting new, great music every once in a while? Yeah- this year it recommended me the following great releases. 
 
-**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific, and this is only one of three proj
+**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific--- this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Windmill Scene (that isn't Geese)**
@@ -31,7 +31,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODc2OTM0MywtMTYzNDk3MzQxMSwtMT
+eyJoaXN0b3J5IjpbMTc4OTYxNTY4MSwtMTYzNDk3MzQxMSwtMT
 A4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2
 NTQxMV19
 -->
