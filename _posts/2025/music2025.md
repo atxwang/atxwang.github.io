@@ -11,10 +11,10 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 -
 [Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feelings on Web3, streaming, or the independent music industry, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with surprisingly big artists like Yung Lean, Mac DeMarco, and Bassvictim. Nina's put me onto two of my favorite projects this year, both of which have less than 4000 monthly listeners on Spotify, which serves as a good reminder that there's always great music bubbling far beneath the surface. Maybe that's the beauty of Nina- reminding you to keep an open mind and telling you where to look.
 
-**Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming on songs (complimentary) no longer than two minutes each (not complimentary--- they should be longer!). 
+**Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming on songs (complimentary) no longer than two minutes each (not complimentary--- they should be longer!!). 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is a great, if muted, instrumental project with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids". 
+**punxsutawney's *Untitled***: This is a great, if muted, instrumental project with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids."
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Spotify's Discover Weekly feature**
@@ -43,7 +43,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 **Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too much like the best parts of Arcade Fire and Isaac Wood-led Black Country, to be true. 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**shame's *Cutthroat***: It's unfortunate that this album hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. Just imagine if Wipers 
+**shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime", this record is for you.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Releases from artists I like**
@@ -55,7 +55,7 @@ Obviously Geese and Cameron Winter blew up big this year, and already-popular ba
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzEyMzY1OSwxMDQ1NDkwODYsLTE2Mz
-Q5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUw
-MDQ5LDEwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbNDk5OTk4NzcxLDEwNDU0OTA4NiwtMTYzND
+k3MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAw
+NDksMTA1MzA2NTQxMV19
 -->
