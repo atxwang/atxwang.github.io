@@ -15,7 +15,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 *Favorite track*: "Shadowplay"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is a great, if muted, instrumental EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
+**punxsutawney's *Untitled***: This is a great, if muted, instrumental EP with some fun guitar hooks that's a promising debut project for punxsutawney. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
 *Favorite track*: "Landing System"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -90,10 +90,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ4NDM2MDYsMTc2MTMwNjY0Niw3OD
-EyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2
-NSwtOTY1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMT
-A2MDk2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3
-MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwND
-ksMTA1MzA2NTQxMV19
+eyJoaXN0b3J5IjpbNzg1NzI4MzM1LDE3NjEzMDY2NDYsNzgxMj
+k4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUs
+LTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNj
+A5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0
+MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LD
+EwNTMwNjU0MTFdfQ==
 -->
