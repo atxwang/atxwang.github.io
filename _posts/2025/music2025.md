@@ -112,16 +112,16 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 **Miscellaneous moments**
 -
-**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce the Chinese underground scene to the West: weird "Chinese century" guys and increasing attention on Asian hyperpop , spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, but in actuality that honor should go to one of Africakid, Akemen, Arthurnevawakes, 迪诺哥Dino, or Angpang.
+**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce the Chinese underground scene to the West: weird "Chinese century" guys and increasing attention on Asian hyperpop, spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, but in actuality that honor should go to one of Africakid, Akemen, Arthurnevawakes, 迪诺哥Dino, or Angpang.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTMwNTQ4OCw2MDk0NDA5Myw5MTUwMj
-gyOTAsMTAzNjg2NzgzMiwzMDE4MjczMywtOTg3NjI3NTE3LDIx
-NzkzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MT
-MsLTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0
-MTYwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMz
-UwLC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjVd
-fQ==
+eyJoaXN0b3J5IjpbLTE5NDk2MzAxNTQsNjA5NDQwOTMsOTE1MD
+I4MjkwLDEwMzY4Njc4MzIsMzAxODI3MzMsLTk4NzYyNzUxNywy
+MTc5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4ND
+EzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDks
+NDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMD
+M1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1
+XX0=
 -->
