@@ -84,7 +84,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jane Remover's *♡* and venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, who hasn't yet made it to SNL or *Rolling Stone* but is already a star on their internet equivalents. And while I loved her entire output this year, including the ragey breakout album *Revengeseekerz* (listen to "Psychoboost" with Danny Brown if you haven't already), my favorite projects of theirs were way more understated: EP *♡*, delivering a svelte, minimalistic (by Jane's standards) take on digital pop, and side project venturing's magical, 90's-inspired *Ghostholding
+**Jane Remover's *♡* and venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, who hasn't yet made it to SNL or *Rolling Stone* but is already a star on their internet equivalents. And while I loved her entire output this year, including the ragey breakout album *Revengeseekerz* (listen to "Psychoboost" with Danny Brown if you haven't already), my favorite projects of theirs were way more understated: EP *♡*, delivering a svelte, minimalistic (by Jane's standards) take on digital pop, and side project venturing's magical, 90's-inspired *Ghostholding*.
 *Favorite track*: "Magic I Want U"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2XeflvA0dNvjpX0vxukgiv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -94,8 +94,8 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 **Deafheaven's *Lonely People With Power***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another 
-*Favorite track*:
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects 
+*Favorite track*: "One in A Million"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 *Favorite track*: 
@@ -113,11 +113,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDU3OTExNCwtMzk4NjM1Mzg2LDY0NT
-I0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAsMTQxMjUzNDgx
-MiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1LDUzOT
-cxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMy
-MTMsLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3NjEzMDY2NDYsNz
-gxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkz
-NjVdfQ==
+eyJoaXN0b3J5IjpbMjY4ODc2MDk2LC0zOTg2MzUzODYsNjQ1Mj
+QwMzk3LDMyODY3ODQxMywtMTM5MTMzMjk1MCwxNDEyNTM0ODEy
+LC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4MTk4NzI1MzUsNTM5Nz
+E1NTIxLDIxMjc4MTAzNTAsLTE3MzE4NDQzNjIsMjE0NTQwMzIx
+MywtMTI4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MTMwNjY0Niw3OD
+EyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2
+NV19
 -->
