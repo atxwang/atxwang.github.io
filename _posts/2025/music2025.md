@@ -70,7 +70,7 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 
 **Releases from artists I like**
 -
-Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. 
+Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. Of course, actual quality-be-damned, the idiosyncratic nature of this list means I am here to recommend them to you anyway.
 
 **Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3kZk3M80kQTJus45lgRKyv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -100,7 +100,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY1Njg5MDksNDE2MDAwMTA1LDgxOT
+eyJoaXN0b3J5IjpbLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOT
 g3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2
 MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNz
 YxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2Njcy
