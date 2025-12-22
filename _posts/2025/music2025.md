@@ -44,10 +44,11 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 Obviously Geese and Cameron Winter blew up big this year, and indie rock mainstays like Wet Leg and Black Country, New Road dropped decent albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
 
 **Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album, combined with their rhythmic, percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literary-inspired lyrics.
-*Favorite track*
+*Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too engineered, too much like the designer baby between Arcade Fire and Isaac Wood-led Black Country, to be true. 
+*Favorite track*: "Emily"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime," this record is for you.
@@ -89,7 +90,7 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDk5NTI3NywxNzYxMzA2NjQ2LDc4MT
+eyJoaXN0b3J5IjpbMTkwNjkzNDM1OSwxNzYxMzA2NjQ2LDc4MT
 I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
 LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
 YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
