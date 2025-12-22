@@ -120,12 +120,12 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3jIVX95zSWM?si=rQBLE-86WUgqsvta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Adamn Killa's meteoric rise**: From [crashing out generationally over label abuse](https://www.reddit.com/r/sadboys/comments/1gn3bbg/adamn_killa_fully_explains_his_fallout_with/)
+**Adamn Killa's meteoric rise**: From [crashing out generationally over label abuse](https://www.reddit.com/r/sadboys/comments/1gn3bbg/adamn_killa_fully_explains_his_fallout_with/) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wIuiXIGTnDU?si=qJyA0pwwcYqkcmgu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTQ5MDgzMCwxMDI2OTQ3NzI0LC0xMj
+eyJoaXN0b3J5IjpbMTQ5ODM2NjI5OCwxMDI2OTQ3NzI0LC0xMj
 k1MDEwMDI0LC0xOTQ5NjMwMTU0LDYwOTQ0MDkzLDkxNTAyODI5
 MCwxMDM2ODY3ODMyLDMwMTgyNzMzLC05ODc2Mjc1MTcsMjE3OT
 M0NjIxLC0zOTg2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywt
