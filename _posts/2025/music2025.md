@@ -35,7 +35,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 *Favorite track*: "Magic Clock"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
+**haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies both the cutting edge of music in 2025, and where it's heading in 2026, so definitely check this one out** (especially if you like Water From Your Eyes)!
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Windmill Scene; post-punk/post-rock stuff (that isn't Geese)**
@@ -87,7 +87,7 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjMxMTEzMSwxNzYxMzA2NjQ2LDc4MT
+eyJoaXN0b3J5IjpbLTI1ODAyNDg0NCwxNzYxMzA2NjQ2LDc4MT
 I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
 LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
 YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
