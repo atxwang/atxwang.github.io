@@ -102,7 +102,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "TAPPAR ANDAN"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**yeule's *Evangelic Girl is a Gun***: Every year, Pitchfork produces several opinions that are so bad as to incite mass uproar, characterized mainly by bomb threats against their HQ. This year, *Evangelic Girl* was a victim, despite being a wonderfully modern, ethereal take on trip-hop and 90's alternative ballads, all through the lens of gorgeous and imaginative lyrics, as is typical of yeule's discography. #justiceforyeule
+**yeule's *Evangelic Girl is a Gun***: Every year, Pitchfork produces several opinions that are so bad as to incite mass uproar, characterized mainly by bomb threats against their HQ. This year, *Evangelic Girl* was a victim, despite being a wonderfully modern, ethereal take on trip-hop and 90's alternative ballads, all through the lens of gorgeous and imaginative lyrics (as is typical of yeule's discography). #justiceforyeule
 *Favorite track*: "Evangelic Girl is a Gun"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzczNzI4MSwzMDE4MjczMywtOTg3Nj
-I3NTE3LDIxNzkzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5Nywz
-Mjg2Nzg0MTMsLTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2OD
-I2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwy
-MTI3ODEwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyOD
-A0NTcyMjUsNzA0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4
-XX0=
+eyJoaXN0b3J5IjpbLTE1MjgzMzYwODIsMzAxODI3MzMsLTk4Nz
+YyNzUxNywyMTc5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcs
+MzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNj
+gyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEs
+MjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMj
+gwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3
+OF19
 -->
