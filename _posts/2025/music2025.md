@@ -84,7 +84,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**venturing's *Ghostholding***: I lied earlier---if 2025 didn't belong to Cameron Winter, it might actually belong to 
+**venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would surely belong to Jane Remover, 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Deafheaven's *Lonely People With Power***:
@@ -106,7 +106,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzODkzNDcyLC0xMzkxMzMyOTUwLDE0MT
+eyJoaXN0b3J5IjpbMzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MT
 I1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUz
 NSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMT
 Q1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2
