@@ -112,16 +112,16 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 **Miscellaneous moments**
 -
-**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce Chinese underground to the West: weird "Chinese century" guys and increasing attention on the Asian hyperpop scene, spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, but in actuality that honor should go to one of Africakid, Akemen, Arthurnevawakes, 迪诺哥Dino, 
+**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce the Chinese underground scene to the West: weird "Chinese century" guys and increasing attention on Asian hyperpop , spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, but in actuality that honor should go to one of Africakid, Akemen, Arthurnevawakes, 迪诺哥Dino, or Angpang.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NDQwOTMsOTE1MDI4MjkwLDEwMzY4Nj
-c4MzIsMzAxODI3MzMsLTk4NzYyNzUxNywyMTc5MzQ2MjEsLTM5
-ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOT
-UwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgx
-OTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0ND
-M2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MF19
-
+eyJoaXN0b3J5IjpbMTcwOTMwNTQ4OCw2MDk0NDA5Myw5MTUwMj
+gyOTAsMTAzNjg2NzgzMiwzMDE4MjczMywtOTg3NjI3NTE3LDIx
+NzkzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MT
+MsLTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0
+MTYwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMz
+UwLC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjVd
+fQ==
 -->
