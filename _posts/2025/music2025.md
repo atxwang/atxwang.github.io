@@ -9,13 +9,13 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 
 **Nina Protocol's Instagram presence**
 -
-[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feelings on Web3, streaming, or the independent music industry, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with surprisingly big artists like Yung Lean, Mac DeMarco, and Bassvictim. Nina's put me onto two of my favorite new artists this year, both of which have less than 4000 monthly listeners on Spotify, which serves as a good reminder that there's always great music bubbling far beneath the surface. Maybe that's the beauty of Nina- reminding you to keep an open mind and telling you where to look.
+[Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feelings on Web3, streaming, or the independent music industry, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with surprisingly big artists like Yung Lean, Mac DeMarco, and Bassvictim. Nina's put me onto two of my favorite new artists this year, both of which have less than 4000 monthly listeners on Spotify, which serves as a good reminder that there's always great music bubbling far beneath the surface. Maybe that's the beauty of Nina---reminding you to keep an open mind and telling you where to look.
 
-**Crochet's *Cherish***: Crochet brings this year's trend of twangy, intricate guitar noodling (almost reminiscent of Nate Amos or Hooky) to skramz/screamo in a really innovative way. The only negative thing I have to say about this album is that I wish the songs were longer.
+**Crochet's *Cherish***: Crochet brings this year's trend of twangy, intricate guitar noodling (almost reminiscent of Nate Amos or Hooky) to skramz/screamo in a really innovative way. I just wish the songs were longer.
 *Favorite track*: "Shadowplay"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is a great, if muted, instrumental EP with some fun guitar hooks that's a promising debut project for punxsutawney. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
+**punxsutawney's *Untitled***: This is a great, if somewhat restrained, instrumental EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
 *Favorite track*: "Landing System"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAwNjM3OTQsLTk4NzYyNzUxNywyMT
-c5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEz
-LC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksND
-E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
-MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
-cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
-NTZdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDU1MDk1MSwtOTg3NjI3NTE3LDIxNz
+kzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMs
+LTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MT
+YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
+LC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNz
+A0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1
+Nl19
 -->
