@@ -102,7 +102,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "TAPPAR ANDAN"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**yeule's *Evangelic Girl is a Gun***: Every year, Pitchfork produces several opinions that are so bad as to incite mass uproar, characterized mainly by bomb threats against their HQ. This year, *Evangelic Girl* was a victim, despite being a wonderfully modern, ethereal take on trip-hop colored as usual with yeule's gorgeous and imaginative lyrics. #justiceforyeule
+**yeule's *Evangelic Girl is a Gun***: Every year, Pitchfork produces several opinions that are so bad as to incite mass uproar, characterized mainly by bomb threats against their HQ. This year, *Evangelic Girl* was a victim, despite being a wonderfully modern, ethereal take on trip-hop and 90's electronic, colored as usual with yeule's gorgeous and imaginative lyrics. #justiceforyeule
 *Favorite track*: "Evangelic Girl is a Gun"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUxMzgyNTAsLTk4NzYyNzUxNywyMT
-c5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEz
-LC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksND
-E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
-MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
-cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
-NTZdfQ==
+eyJoaXN0b3J5IjpbMjI0OTIzMjI2LC05ODc2Mjc1MTcsMjE3OT
+M0NjIxLC0zOTg2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywt
+MTM5MTMzMjk1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNj
+AwMDEwNSw4MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAs
+LTE3MzE4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MD
+QwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2
+XX0=
 -->
