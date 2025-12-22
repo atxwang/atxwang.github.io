@@ -120,13 +120,15 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3jIVX95zSWM?si=rQBLE-86WUgqsvta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Adamn Killa's metero
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjk0NzcyNCwtMTI5NTAxMDAyNCwtMT
-k0OTYzMDE1NCw2MDk0NDA5Myw5MTUwMjgyOTAsMTAzNjg2Nzgz
-MiwzMDE4MjczMywtOTg3NjI3NTE3LDIxNzkzNDYyMSwtMzk4Nj
-M1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAs
-MTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5OD
-cyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYy
+eyJoaXN0b3J5IjpbLTEzMjM2MTAxNjAsMTAyNjk0NzcyNCwtMT
+I5NTAxMDAyNCwtMTk0OTYzMDE1NCw2MDk0NDA5Myw5MTUwMjgy
+OTAsMTAzNjg2NzgzMiwzMDE4MjczMywtOTg3NjI3NTE3LDIxNz
+kzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMs
+LTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MT
+YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
 XX0=
 -->
