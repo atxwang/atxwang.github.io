@@ -61,7 +61,7 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 
 *Favorite track*: "Reconcile"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6wymdowW8HbQ4H3nVs93Hj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-While I'm here, 
+While I'm here, I'l
 
 **Releases from artists I like**
 -
@@ -95,11 +95,11 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE4NDQzNjIsMjE0NTQwMzIxMywtMT
-I4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgy
-NzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOT
-Y1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2
-Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMS
-wtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1
-MzA2NTQxMV19
+eyJoaXN0b3J5IjpbMTc3MzI4Mzk3MCwtMTczMTg0NDM2MiwyMT
+Q1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2
+NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMT
+A4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4
+NjY3LDIxMDYwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC
+0xNjM0OTczNDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2
+NzQ1MDA0OV19
 -->
