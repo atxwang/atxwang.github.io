@@ -72,9 +72,11 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 -
 Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. Of course, actual quality-be-damned, the idiosyncratic nature of this list means I am here to recommend them to you anyway.
 
-**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: If 2025 didn't belong to Cameron Winter, it would surely belong to Ethel Cain, who's achieved two hallmarks of success in the music industry: a rabid Twitter fanbase and a confusingly-motivated beef started against her by Lana Del Rey. 
+**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: If 2025 didn't belong to Cameron Winter, it would surely belong to Ethel Cain, who's achieved two hallmarks of success in pop music: a rabid Twitter fanbase and a confusingly-motivated beef started against her by Lana Del Rey. 
 *Favorite track*: "Amber Waves"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3kZk3M80kQTJus45lgRKyv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7aamc4vRYmHLYI2aKTDjdJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Dean Blunt and Elias Ronnenfelt's *lucre***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -101,11 +103,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk4MjE1NTksLTEzNjgyNjM4NDksND
-E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
-MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
-cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
-NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05NjUxMTY4NTAsLT
-kwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMDYwOTYyNzUsLTEyNDE4
-NDM5MDRdfQ==
+eyJoaXN0b3J5IjpbLTg1NDMwODY3NCwtMTM2ODI2Mzg0OSw0MT
+YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
+LC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNz
+A0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1
+NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUsLTk2NTExNjg1MCwtOT
+AwODMwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0
+MzkwNF19
 -->
