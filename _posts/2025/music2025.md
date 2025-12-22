@@ -84,7 +84,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, 
+**venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, who 
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -110,7 +110,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTE0NjY4OCw2NDUyNDAzOTcsMzI4Nj
+eyJoaXN0b3J5IjpbMTg4NzY5NzI1MCw2NDUyNDAzOTcsMzI4Nj
 c4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4
 NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNz
 gxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3
