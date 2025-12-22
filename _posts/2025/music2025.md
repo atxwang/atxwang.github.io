@@ -43,7 +43,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 -
 Obviously Geese and Cameron Winter blew up big, and indie rock mainstays like Wet Leg and Black Country, New Road dropped decent albums this year as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of the post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
 
-**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album, combined with their signature rhythmic percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literary-inspired approach.
+**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album, combined with their signature rhythmic and percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literary-inspired approach.
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -90,7 +90,7 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MzU5OTE1LDE3NjEzMDY2NDYsNzgxMj
+eyJoaXN0b3J5IjpbNzA0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMj
 k4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUs
 LTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNj
 A5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0
