@@ -72,9 +72,7 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 -
 Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. Of course, actual quality-be-damned, the idiosyncratic nature of this list means I am here to recommend them to you anyway.
 
-**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: If 2025 didn't belong to Cameron Winter, it would surely belong to Ethel Cain, who's achieved several hallmarks of success: a rabid Twitter standom, a confusingly-motivated beef instigated by Lana Del Rey, and getting her mostly pop-oriented fanbase to rally behind greatest project yet is *Perverts*, an alienating and haunting noise/drone/ambient EP 
-
-And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest installment in Cain's ever-expanding Southern Gothic narrative---I am forever grateful that she released "Dust Bowl" and "Waco, Texas"
+**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: If 2025 didn't belong to Cameron Winter, it would surely belong to Ethel Cain, who's achieved several hallmarks of success: a rabid Twitter standom, a confusingly-motivated beef instigated by Lana Del Rey, and getting her mostly pop-oriented fanbase to rally behind *Perverts*, a haunting, alienating noise/drone/ambient EP that's her greatest project yet. And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest installment in Cain's ever-expanding Southern Gothic narrative---I am forever grateful that she released "Dust Bowl" and "Waco, Texas", so I no longer have to look for Soundcloud bootlegs of two of her best-written tracks.
 *Favorite track*: "Amber Waves"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3kZk3M80kQTJus45lgRKyv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -107,11 +105,11 @@ And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMDYzNTUzLC0xMzY4MjYzODQ5LDQxNj
-AwMDEwNSw4MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAs
-LTE3MzE4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MD
-QwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2
-LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MD
-A4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQz
-OTA0XX0=
+eyJoaXN0b3J5IjpbLTIxMDExNTQxNDgsLTEzNjgyNjM4NDksND
+E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
+MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
+cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
+NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05NjUxMTY4NTAsLT
+kwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMDYwOTYyNzUsLTEyNDE4
+NDM5MDRdfQ==
 -->
