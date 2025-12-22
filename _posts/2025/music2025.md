@@ -5,7 +5,7 @@ title: My favorite music from 2025
 subtitle: that Pitchfork hasn't already talked about
 tags: [music, pop culture, recs]
 ---
-As the year closes, I thought I'd make a list of songs, albums, performances etc. that I especially enjoyed this year- in particular, I'd like to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like Geese Wednesday Cameron Winter MJ Lenderman This is Lorelei etc etc etc as much as the next person, they won't be mentioned here. Without further ado:
+As the year closes, I thought I'd make a list of songs, albums, performances etc. that I especially enjoyed this year- in particular, I'd like to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like Geese Wednesday Cameron Winter MJ Lenderman This is Lorelei etc etc etc as much as the next person, they won't be mentioned here,. Without further ado:
 
 **Nina Protocol's Instagram presence**
 -
@@ -15,7 +15,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 *Favorite track*: "Shadowplay"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is a great, if somewhat restrained, instrumental EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
+**punxsutawney's *Untitled***: This is a great, if somewhat restrained, instrumental EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check punxsutawney's debut out if you like First Day Back.
 *Favorite track*: "Landing System"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDU1MDk1MSwtOTg3NjI3NTE3LDIxNz
-kzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMs
-LTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MT
-YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
-LC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNz
-A0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1
-Nl19
+eyJoaXN0b3J5IjpbLTE5NjY5NjA5NDIsLTk4NzYyNzUxNywyMT
+c5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEz
+LC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksND
+E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
+MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
+cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
+NTZdfQ==
 -->
