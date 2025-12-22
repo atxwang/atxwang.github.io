@@ -47,7 +47,7 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Model/Actriz's *Pirouette***: As much as I adore **Model/Actriz---they're perhaps the freshest act in 2020's post-punk**---I struggle to recommend them, because the last time I did, I lowkey scared the hoes.  Yeah the concept of Xiu Xiu's Jamie Stewart covering *Pretty Hate Machine* 
+**Model/Actriz's *Pirouette***: As much as I adore **Model/Actriz---they're perhaps the freshest act in 2020's post-punk**---I struggle to recommend them, because the last time I did, I lowkey scared the hoes.  Yeah the concept of Xiu Xiu's Jamie Stewart and Cake covering *Pretty Hate Machine* 
 *Favorite track*: 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3MAtJ9jJmvkBZTGUhAHupj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -100,7 +100,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0NTUxODAsNDE2MDAwMTA1LDgxOT
+eyJoaXN0b3J5IjpbLTExMjExMDQ0MjcsNDE2MDAwMTA1LDgxOT
 g3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2
 MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNz
 YxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2Njcy
