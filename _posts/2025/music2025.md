@@ -112,12 +112,12 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 **Miscellaneous moments**
 -
-**China's 2025 
+**China's 2025 Freshman Cypher**: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTUzNjQzNywzMDE4MjczMywtOTg3Nj
+eyJoaXN0b3J5IjpbMTAzNjg2NzgzMiwzMDE4MjczMywtOTg3Nj
 I3NTE3LDIxNzkzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5Nywz
 Mjg2Nzg0MTMsLTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2OD
 I2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwy
