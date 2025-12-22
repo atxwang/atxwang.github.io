@@ -5,7 +5,7 @@ title: My favorite music from 2025
 subtitle: that Pitchfork hasn't already talked about
 tags: [music, pop culture, recs]
 ---
-As the year closes, I thought I'd make a list of songs, albums, performances etc. that I especially enjoyed this year- in particular, I'd like to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like Geese Wednesday Cameron Winter MJ Lenderman This is Lorelei etc etc etc as much as the next person, they won't be mentioned here,. Without further ado:
+As the year closes, I thought I'd make a list of songs, albums, performances etc. that I especially enjoyed this year- in particular, I'd like to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like Geese Wednesday Cameron Winter MJ Lenderman This is Lorelei etc etc etc as much as the next person, they won't be mentioned here, except to guide you towards my own recommendations with similar vibes. Without further ado:
 
 **Nina Protocol's Instagram presence**
 -
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY5NjA5NDIsLTk4NzYyNzUxNywyMT
-c5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEz
-LC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksND
-E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
-MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
-cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
-NTZdfQ==
+eyJoaXN0b3J5IjpbMzAxODI3MzMsLTk4NzYyNzUxNywyMTc5Mz
+Q2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0x
+MzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MD
+AwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwt
+MTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwND
+A1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTZd
+fQ==
 -->
