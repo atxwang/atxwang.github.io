@@ -112,12 +112,12 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 **Miscellaneous moments**
 -
-**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce Chinese underground to the West: 
+**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce Chinese underground to the West: weird "Chinese century" guys and increasing attention on the Asian hyperpop scene, spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3NzAwNTA5LDkxNTAyODI5MCwxMDM2OD
+eyJoaXN0b3J5IjpbNzg5ODU4NTQyLDkxNTAyODI5MCwxMDM2OD
 Y3ODMyLDMwMTgyNzMzLC05ODc2Mjc1MTcsMjE3OTM0NjIxLC0z
 OTg2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MTMzMj
 k1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4
