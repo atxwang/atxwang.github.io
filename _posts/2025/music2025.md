@@ -106,7 +106,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Evangelic Girl is a Gun"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Deftones' *private music***: This album isn't reinventing the wheel, but man is it yet another impressive, banger-after-banger addition to Deftones' catalog. 
+**Deftones' *private music***: This album isn't reinventing the wheel, but man is it yet another impressive, banger-after-banger addition to Deftones' catalog. Perhaps the most innovative thing about this record is its demonstration 
 *Favorite track*: "infinite source"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1gmWnG5TeRj91Tdm2lpEvJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzk0NDkzLC05ODc2Mjc1MTcsMjE3OT
-M0NjIxLC0zOTg2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywt
-MTM5MTMzMjk1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNj
-AwMDEwNSw4MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAs
-LTE3MzE4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MD
-QwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2
-XX0=
+eyJoaXN0b3J5IjpbLTcwMzU3NTI3NiwtOTg3NjI3NTE3LDIxNz
+kzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMs
+LTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MT
+YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
+LC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNz
+A0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1
+Nl19
 -->
