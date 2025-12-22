@@ -91,7 +91,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**. After a series of relatively divisive releases, the entire fanbase of Deafheaven---one of the greatest black metal bands ever---has seemed to coalesce around this 
+**Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**. To put it into perspective: after a series of relatively divisive releases, the entire fanbase of Deafheaven---one of the greatest black metal bands ever---has seemed to coalesce around this record. So you know *Lonely People* kicks ass
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects 
@@ -113,7 +113,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjAzMzEyMiwtMzk4NjM1Mzg2LDY0NT
+eyJoaXN0b3J5IjpbMTM5MDcxMTU0MiwtMzk4NjM1Mzg2LDY0NT
 I0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAsMTQxMjUzNDgx
 MiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1LDUzOT
 cxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMy
