@@ -35,12 +35,13 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 *Favorite track*: "Magic Clock"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the much-lauded Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies both the cutting edge of music in 2025 and where all of alt-pop is heading in 2026, so definitely check this one out** (especially if you like Water From Your Eyes)!
+**haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the much-lauded Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies both the cutting edge of music in 2025 and where pop is heading in 2026, so definitely check this one out** (especially if you like Water From Your Eyes)!
+*Favorite track
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Windmill Scene; post-punk/post-rock stuff (that isn't Geese)**
 -
-Obviously Geese and Cameron Winter blew up big this year, and already-popular bands like Wet Leg and Black Country, New Road dropped decent albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
+Obviously Geese and Cameron Winter blew up big this year, and indie rock mainstays like Wet Leg and Black Country, New Road dropped decent albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
 
 **Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album combined with their rhythmic, percussive style has a universal appeal**. Funnily enough, I think of all this year's politically-charged Windmill albums, *Cowards* succeeds the most via its indirect, literary-inspired lyrics.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -87,10 +88,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODMyNzkxMSwxNzYxMzA2NjQ2LDc4MT
-I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
-LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
-YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
-NDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OS
-wxMDUzMDY1NDExXX0=
+eyJoaXN0b3J5IjpbODAwMjQ2MTcxLDE3NjEzMDY2NDYsNzgxMj
+k4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUs
+LTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNj
+A5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0
+MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LD
+EwNTMwNjU0MTFdfQ==
 -->
