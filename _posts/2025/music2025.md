@@ -47,11 +47,12 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too engineered, too much like the designer baby of prime Arcade Fire and Isaac Wood-led Black Country, to receive the coveted indie credential of "authenticity". 
+**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too well-crafted, too engineered, too much like the designer baby of prime Arcade Fire and Isaac Wood-led Black Country, to receive the coveted indie credential of "authenticity." It may be fake, but it sure as hell is perfect.
 *Favorite track*: "Emily"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy, guitar-forward post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime," this record is for you.
+*Favorite track*:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from someone like Zack de la Rocha's) and adore his singing, but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
@@ -90,10 +91,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3Nj
-EzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1
-LDExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMz
-EyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkw
-ODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNy
-wxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbLTYwMjQwNzAsLTEyODA0NTcyMjUsNzA0MD
+U0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1Niwy
+MTI1NTY2NzI1LDExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwOD
+MwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0Mzkw
+NCwxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMj
+EzNjE2MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
 -->
