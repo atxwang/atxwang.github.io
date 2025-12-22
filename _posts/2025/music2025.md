@@ -115,12 +115,12 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 **China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce the Chinese underground scene to the West: weird "Chinese century" guys and increasing attention on Asian hyperpop, spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, but in actuality that honor should go to one of Africakid, Akemen, Arthurnevawakes, 迪诺哥Dino, or Angpang.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**riria's Boiler Room**: Not only is this the best Boiler Room of all time in terms of crowd energy, 
+**riria's Boiler Room**: Not only is this the best Boiler Room of all time in terms of crowd energy, it is also home to the best song ever made: foxela's Jersey C
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fa8LQLy4C5A?si=1bhmj4efYJzMreL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwODQyNzM5LC0xOTQ5NjMwMTU0LDYwOT
+eyJoaXN0b3J5IjpbNzYyNTE4NjM4LC0xOTQ5NjMwMTU0LDYwOT
 Q0MDkzLDkxNTAyODI5MCwxMDM2ODY3ODMyLDMwMTgyNzMzLC05
 ODc2Mjc1MTcsMjE3OTM0NjIxLC0zOTg2MzUzODYsNjQ1MjQwMz
 k3LDMyODY3ODQxMywtMTM5MTMzMjk1MCwxNDEyNTM0ODEyLC0x
