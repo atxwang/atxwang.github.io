@@ -84,7 +84,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**venturing's *Ghostholding***:
+**venturing's *Ghostholding***: I lied earlier---if 2025 didn't belong 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Deafheaven's *Lonely People With Power***:
@@ -106,11 +106,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMT
-M2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUy
-MSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLT
-EyODA0NTcyMjUsNzA0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4
-Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUsLT
-k2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNjA5
-NjI3NV19
+eyJoaXN0b3J5IjpbLTE0Njc5NTcxNTUsLTEzOTEzMzI5NTAsMT
+QxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcy
+NTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYyLD
+IxNDU0MDMyMTMsLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3NjEz
+MDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LD
+ExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEy
+MDg2NjddfQ==
 -->
