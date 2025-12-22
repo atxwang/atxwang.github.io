@@ -47,7 +47,7 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Model/Actriz's *Pirouette***: As much as I adore **Model/Actriz---they're perhaps the freshest act in 2020's post-punk**---I 
+**Model/Actriz's *Pirouette***: As much as I adore **Model/Actriz---they're perhaps the freshest act in 2020's post-punk**---I struggle to recommend them, because the last time I did, I lowkey scared the hoes. 
 *Favorite track*: 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3MAtJ9jJmvkBZTGUhAHupj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -100,11 +100,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE3NzgwNzUsNDE2MDAwMTA1LDgxOT
-g3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2
-MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNz
-YxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2Njcy
-NSwxMTA4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMz
-MxMjA4NjY3LDIxMDYwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5
-MDg2XX0=
+eyJoaXN0b3J5IjpbLTY4NDY4OTI4OSw0MTYwMDAxMDUsODE5OD
+cyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYy
+LDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3Nj
+EzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1
+LDExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMz
+EyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkw
+ODZdfQ==
 -->
