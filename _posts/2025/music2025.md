@@ -72,7 +72,7 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 -
 Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. Of course, actual quality-be-damned, the idiosyncratic nature of this list means I am here to recommend them to you anyway.
 
-**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: If 2025 didn't belong to Cameron Winter, it would surely belong to Ethel Cain, who's achieved several hallmarks of success: a rabid Twitter standom, a confusingly-motivated beef instigated by Lana Del Rey, and getting her mostly pop-oriented fanbase to rally behind *Perverts*, a haunting, alienating noise/drone/ambient EP that's her greatest project yet. And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest installment in Cain's ever-expanding Southern Gothic narrative---I am forever grateful that she released "Dust Bowl" and "Waco, Texas", so I no longer have to look for Soundcloud bootlegs of her best-written tracks.
+**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: Ethel Cain's achieved several hallmarks of success this year: a rabid Twitter standom, a confusingly-motivated beef instigated by Lana Del Rey, and getting her mostly pop-oriented fanbase to rally behind *Perverts*, a haunting, alienating noise/drone/ambient EP that's her greatest project yet. And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest installment in Cain's ever-expanding Southern Gothic narrative---I am forever grateful that she released "Dust Bowl" and "Waco, Texas", so I no longer have to look for Soundcloud bootlegs of her best-written tracks.
 *Favorite track*: "Amber Waves"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3kZk3M80kQTJus45lgRKyv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -84,7 +84,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**venturing's *Ghostholding***: I lied earlier---if 2025 didn't belong 
+**venturing's *Ghostholding***: I lied earlier---if 2025 didn't belong to Cameron Winter, it might actually belong to 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Deafheaven's *Lonely People With Power***:
@@ -106,11 +106,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc5NTcxNTUsLTEzOTEzMzI5NTAsMT
-QxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcy
-NTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYyLD
-IxNDU0MDMyMTMsLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3NjEz
-MDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LD
-ExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEy
-MDg2NjddfQ==
+eyJoaXN0b3J5IjpbOTYzODkzNDcyLC0xMzkxMzMyOTUwLDE0MT
+I1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUz
+NSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMT
+Q1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2
+NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMT
+A4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4
+NjY3XX0=
 -->
