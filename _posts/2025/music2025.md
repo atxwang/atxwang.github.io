@@ -66,7 +66,7 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 
 **Releases from artists I like**
 -
-Many of my favorite artists dropped great projects this year which 
+Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, 
 
 **Ethel Cain's *Perverts***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3kZk3M80kQTJus45lgRKyv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -96,7 +96,7 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mzk2MzY3MiwtMTczMTg0NDM2MiwyMT
+eyJoaXN0b3J5IjpbMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMT
 Q1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2
 NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMT
 A4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4
