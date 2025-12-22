@@ -102,7 +102,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "BLOMSTERID"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**yeule's *Evangelic Girl is a Gun***:
+**yeule's *Evangelic Girl is a Gun***: Every year Pitchfork produces an opinion which incites mass uproar
 *Favorite track*: "Evangelic Girl is a Gun"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzYyNzUxNywyMTc5MzQ2MjEsLTM5OD
-YzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUw
-LDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOT
-g3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2
-MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNz
-YxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2Njcy
-NV19
+eyJoaXN0b3J5IjpbLTEzODcxNTU5MTQsLTk4NzYyNzUxNywyMT
+c5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEz
+LC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksND
+E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
+MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
+cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
+NTZdfQ==
 -->
