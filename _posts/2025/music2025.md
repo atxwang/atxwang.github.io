@@ -112,16 +112,16 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 **Miscellaneous moments**
 -
-**China's 2025 Freshman Cypher**: 
+**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce Chinese underground to the West: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MDI4MjkwLDEwMzY4Njc4MzIsMzAxOD
-I3MzMsLTk4NzYyNzUxNywyMTc5MzQ2MjEsLTM5ODYzNTM4Niw2
-NDUyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MTI1Mz
-Q4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1
-Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMTQ1ND
-AzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2
-XX0=
+eyJoaXN0b3J5IjpbODk3NzAwNTA5LDkxNTAyODI5MCwxMDM2OD
+Y3ODMyLDMwMTgyNzMzLC05ODc2Mjc1MTcsMjE3OTM0NjIxLC0z
+OTg2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MTMzMj
+k1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4
+MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3MzE4ND
+QzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQzNzBd
+fQ==
 -->
