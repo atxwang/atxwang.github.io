@@ -120,16 +120,16 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3jIVX95zSWM?si=rQBLE-86WUgqsvta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Adamn Killa's meteoric rise**: From [crashing out generationally over label abuse](https://www.reddit.com/r/sadboys/comments/1gn3bbg/adamn_killa_fully_explains_his_fallout_with/) to being able to support your son as a musician AND eclipsing those who did you dirty by hundreds of thousands of Instagram followers. A story for the ages. We love you Adamn, you were right all along.
+**Adamn Killa's meteoric rise**: From [crashing out generationally over label abuse](https://www.reddit.com/r/sadboys/comments/1gn3bbg/adamn_killa_fully_explains_his_fallout_with/) to being able to support your son with your music AND [eclipsing those who did you dirty by hundreds of thousands of Instagram followers.](https://atxwang.github.io/assets/bladee_vs_adamn.png) A story for the ages. We love you Adamn, you were right all along.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wIuiXIGTnDU?si=qJyA0pwwcYqkcmgu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTM4ODI4OSwtMjAwMDAwMTMzLDEwMj
-Y5NDc3MjQsLTEyOTUwMTAwMjQsLTE5NDk2MzAxNTQsNjA5NDQw
-OTMsOTE1MDI4MjkwLDEwMzY4Njc4MzIsMzAxODI3MzMsLTk4Nz
-YyNzUxNywyMTc5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcs
-MzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNj
-gyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjFd
-fQ==
+eyJoaXN0b3J5IjpbMTc0NDQ2Nzk5OSwtNTE1Mzg4Mjg5LC0yMD
+AwMDAxMzMsMTAyNjk0NzcyNCwtMTI5NTAxMDAyNCwtMTk0OTYz
+MDE1NCw2MDk0NDA5Myw5MTUwMjgyOTAsMTAzNjg2NzgzMiwzMD
+E4MjczMywtOTg3NjI3NTE3LDIxNzkzNDYyMSwtMzk4NjM1Mzg2
+LDY0NTI0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAsMTQxMj
+UzNDgxMiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1
+XX0=
 -->
