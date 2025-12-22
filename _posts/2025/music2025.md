@@ -70,7 +70,7 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 
 **Releases from artists I like**
 -
-Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. Of course, actual quality-be-damned, the idiosyncratic nature of this list means I am here to recommend them to you anyway.
+Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. Of course, actual quality or innovation-be-damned, the idiosyncratic nature of this list means I am here to recommend them to you anyway.
 
 **Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: Ethel Cain's achieved several hallmarks of success this year: a rabid Twitter standom, a confusingly-motivated beef instigated by Lana Del Rey, and getting her mostly pop-oriented fanbase to rally behind *Perverts*, a haunting, alienating noise/drone/ambient EP that's her greatest project yet. And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest installment in Cain's ever-expanding Southern Gothic narrative---I am forever grateful that she released "Dust Bowl" and "Waco, Texas", so I no longer have to look for Soundcloud bootlegs of her best-written tracks.
 *Favorite track*: "Amber Waves"
@@ -91,7 +91,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Deafheaven's *Lonely People With Power***: This is another 
+**Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects 
@@ -113,7 +113,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjQ4OTg2NywtMzk4NjM1Mzg2LDY0NT
+eyJoaXN0b3J5IjpbMTE2MzQyNDEyMCwtMzk4NjM1Mzg2LDY0NT
 I0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAsMTQxMjUzNDgx
 MiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1LDUzOT
 cxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMy
