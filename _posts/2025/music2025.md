@@ -35,7 +35,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 *Favorite track*: "Magic Clock"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the much-lauded Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies both the cutting edge of music in 2025 and also where alt-pop is heading in 2026---so definitely check this one out** (especially if you like Water From Your Eyes)!
+**haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the much-lauded Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies both the cutting edge of music in 2025 and also where alt-pop is heading in 2026---so definitely check this one out** (especially if you like the cross-genre whimsy of Water From Your Eyes)!
 *Favorite track*: "Open Air Backseat"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -94,10 +94,11 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MD
-QwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2
-LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MD
-A4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQz
-OTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMSwtMTA4MzEzMDUzNi
-wyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2NTQxMV19
+eyJoaXN0b3J5IjpbLTExNTQ1NjkwNDYsMjE0NTQwMzIxMywtMT
+I4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgy
+NzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOT
+Y1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2
+Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMS
+wtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1
+MzA2NTQxMV19
 -->
