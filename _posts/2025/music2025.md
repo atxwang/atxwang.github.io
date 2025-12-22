@@ -43,7 +43,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 -
 Obviously Geese and Cameron Winter have been blowing up big (at time of writing they've just been parodied on SNL), and indie rock mainstays like Wet Leg and Black Country, New Road dropped decent albums this year as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of the post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
 
-**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite currently-active bands, but because **their new orchestral direction on this album, combined with their signature rhythmic and percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literary-inspired approach to lyricism.
+**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album, combined with their signature rhythmic, percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literature-inspired approach to lyricism.
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -90,10 +90,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwODMzODUyLDcwNDA1NDM3MCwxNzYxMz
-A2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwx
-MTA4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMj
-A4NjY3LDIxMDYwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2
-LC0xNjM0OTczNDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMT
-c2NzQ1MDA0OSwxMDUzMDY1NDExXX0=
+eyJoaXN0b3J5IjpbLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3Nj
+EzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1
+LDExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMz
+EyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkw
+ODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNy
+wxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
 -->
