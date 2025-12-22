@@ -52,14 +52,14 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy, guitar-forward post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime," maybe with a touch of early Arctic Monkeys, this record is for you.
-*Favorite track*: 
+*Favorite track*: "Cutthroat"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from someone like Zack de la Rocha's) and adore his singing, but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
-*Favorite track*:
+*Favorite track*: 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2iD7JYKrmAAT0erQWjkj96?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-*Favorite track*:
+*Favorite track*: "Reconcile"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6wymdowW8HbQ4H3nVs93Hj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Releases from artists I like**
@@ -94,7 +94,7 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTAxNTgwMCwtMTI4MDQ1NzIyNSw3MD
+eyJoaXN0b3J5IjpbMTI2MDMzMDk4NCwtMTI4MDQ1NzIyNSw3MD
 QwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2
 LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MD
 A4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQz
