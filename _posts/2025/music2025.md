@@ -56,11 +56,12 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from someone like Zack de la Rocha's) and adore his singing ("Saoirse" and "Reconcile" are gorgeous), but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
-*Favorite track*: 
+*Favorite track*: "Ceathair"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2iD7JYKrmAAT0erQWjkj96?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 *Favorite track*: "Reconcile"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6wymdowW8HbQ4H3nVs93Hj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+While I'm here, 
 
 **Releases from artists I like**
 -
@@ -94,11 +95,11 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ0NzI4NywyMTQ1NDAzMjEzLC0xMj
-gwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3
-OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05Nj
-UxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMDYwOTYy
-NzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTczNDExLC
-0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUz
-MDY1NDExXX0=
+eyJoaXN0b3J5IjpbLTE3MzE4NDQzNjIsMjE0NTQwMzIxMywtMT
+I4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgy
+NzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOT
+Y1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2
+Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMS
+wtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1
+MzA2NTQxMV19
 -->
