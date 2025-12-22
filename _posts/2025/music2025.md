@@ -47,7 +47,7 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too well-crafted, too engineered, too much like the designer baby of prime Arcade Fire and Isaac Wood-led Black Country, to receive the coveted indie credential of "authenticity." It may be fake, but it sure as hell is perfect.
+**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too well-crafted, too engineered, too much like the designer baby of prime Arcade Fire and Isaac Wood-led Black Country, to receive the coveted indie credential of "authenticity." Maybe it is fake, but it sure as hell is perfect.
 *Favorite track*: "Emily"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -55,7 +55,7 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Cutthroat"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from someone like Zack de la Rocha's) and adore his singing, but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
+**Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from someone like Zack de la Rocha's) and adore his singing ("Saoirse" and "Reconcile" are gorgeous), but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
 *Favorite track*: 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2iD7JYKrmAAT0erQWjkj96?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -94,7 +94,7 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDMzMDk4NCwtMTI4MDQ1NzIyNSw3MD
+eyJoaXN0b3J5IjpbMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MD
 QwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2
 LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MD
 A4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQz
