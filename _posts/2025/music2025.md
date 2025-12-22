@@ -43,15 +43,15 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 -
 Obviously Geese and Cameron Winter blew up big this year, and indie rock mainstays like Wet Leg and Black Country, New Road dropped decent albums as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
 
-**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album, combined with their rhythmic, percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literary-inspired lyrics.
+**Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album, combined with their rhythmic, percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literary-inspired approach.
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too engineered, too much like the designer baby of Arcade Fire and Isaac Wood-led Black Country, to receive the coveted indie credentials of "authenticity". 
+**Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too perfect, too engineered, too much like the designer baby of prime Arcade Fire and Isaac Wood-led Black Country, to receive the coveted indie credential of "authenticity". 
 *Favorite track*: "Emily"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime," this record is for you.
+**shame's *Cutthroat***: It's unfortunate that this release hasn't received more popular or critical attention (Pitchfork doesn't even have a review!), because this thing is like the platonic ideal of a fun, thrashy, guitar-forward post-punk album. If you're intrigued by the concept of Wipers covering "Life During Wartime," this record is for you.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from someone like Zack de la Rocha's) and adore his singing, but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
@@ -90,10 +90,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODY3NDQ3OCwxNzYxMzA2NjQ2LDc4MT
-I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
-LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
-YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
-NDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OS
-wxMDUzMDY1NDExXX0=
+eyJoaXN0b3J5IjpbLTE5NzQ4NDM2MDYsMTc2MTMwNjY0Niw3OD
+EyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2
+NSwtOTY1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMT
+A2MDk2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3
+MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwND
+ksMTA1MzA2NTQxMV19
 -->
