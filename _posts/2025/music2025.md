@@ -91,7 +91,8 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**. To put it into perspective: after a series of relatively divisive releases, the entire fanbase of Deafheaven---one of the greatest black metal bands ever---has seemed to coalesce around this one, so you know it kicks ass. And fortunately, it also contains the year's most salient
+**Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**. To put it into perspective: after a series of relatively divisive releases, the entire fanbase of Deafheaven---one of the greatest black metal bands ever---has seemed to coalesce around this one, so you know it kicks ass. And fortunately, **it also contains the year's most salient, intelligent social criticisms on, well, lonely people with power**.
+*Favorite track*: 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects 
@@ -113,11 +114,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTAxMDg0OCwyMTc5MzQ2MjEsLTM5OD
-YzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUw
-LDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOT
-g3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2
-MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNz
-YxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2Njcy
-NV19
+eyJoaXN0b3J5IjpbNTQwMDI1NTUsMjE3OTM0NjIxLC0zOTg2Mz
+UzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MTMzMjk1MCwx
+NDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4MTk4Nz
+I1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3MzE4NDQzNjIs
+MjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MT
+MwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjVd
+fQ==
 -->
