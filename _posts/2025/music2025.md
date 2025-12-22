@@ -68,7 +68,7 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 -
 Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. 
 
-**Ethel Cain's *Perverts***:
+**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3kZk3M80kQTJus45lgRKyv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Dean Blunt and Elias Ronnenfelt's *lucre***:
@@ -96,11 +96,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3Mz
-E4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQz
-NzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2LDIxMj
-U1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MDA4MzAy
-NjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQzOTA0LD
-EwNDU0OTA4NiwtMTYzNDk3MzQxMSwtMTA4MzEzMDUzNiwyMTM2
-MTYzOTA3XX0=
+eyJoaXN0b3J5IjpbODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3OD
+EwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcy
+MjUsNzA0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5Nz
+E0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUsLTk2NTExNjg1
+MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMT
+I0MTg0MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMx
+MzA1MzZdfQ==
 -->
