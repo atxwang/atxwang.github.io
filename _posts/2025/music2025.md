@@ -95,7 +95,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Winona"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects 
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects that go unnoticed by the wider public but find rabid adorers among t
 *Favorite track*: "One in A Million"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -114,7 +114,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUzNjcwOTUsMjE3OTM0NjIxLC0zOT
+eyJoaXN0b3J5IjpbLTEyNDM1ODU1NTksMjE3OTM0NjIxLC0zOT
 g2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MTMzMjk1
 MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4MT
 k4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3MzE4NDQz
