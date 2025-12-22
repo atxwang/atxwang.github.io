@@ -95,11 +95,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Winona"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects that go unnoticed by the wider public but find rabid adorers among the drainers themselves. As a fan of St. George, I have to endorse 
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects that go unnoticed by the wider public but find rabid adorers among the drainers themselves. As a fan of St. George, I have to endorse Bladee's recent "martyr" fixation, but the real sleeper here is *DYR*, an ode to Europop by Dj Billybool 
 *Favorite track*: "One in A Million"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-*Favorite track*: 
+*Favorite track*: "BLOMSTERID"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **yeule's *Evangelic Girl is a Gun***:
@@ -114,7 +114,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MTAzNjA5LDIxNzkzNDYyMSwtMzk4Nj
+eyJoaXN0b3J5IjpbOTA5MDk2Mjk3LDIxNzkzNDYyMSwtMzk4Nj
 M1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAs
 MTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5OD
 cyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYy
