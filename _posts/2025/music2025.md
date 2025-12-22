@@ -95,7 +95,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Winona"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects that go unnoticed by the wider public but find rabid adorers among the drainers themselves. As a fan of St. George, I have to endorse Bladee's recent "martyr" fixation, but the real sleeper here is *DYR*, an ode to Europop by Dj Billybool 
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects that go unnoticed by the wider public but find rabid adorers among the drainers themselves. As a fan of St. George, I have to endorse Bladee's recent "martyr" fixation, but the real sleeper here is *DYR*, another ode to Europop by Dj Billybool, side project of the highly-underrated Thaiboy Digital.
 *Favorite track*: "One in A Million"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -103,9 +103,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **yeule's *Evangelic Girl is a Gun***:
+*Favorite track*: "Evangelic Girl is a Gun"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Deftones' *private music***:
+*Favorite track*: "infinite source"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1gmWnG5TeRj91Tdm2lpEvJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Miscellaneous moments**
@@ -114,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MDk2Mjk3LDIxNzkzNDYyMSwtMzk4Nj
-M1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAs
-MTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5OD
-cyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYy
-LDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3Nj
-EzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1
-XX0=
+eyJoaXN0b3J5IjpbLTk4NzYyNzUxNywyMTc5MzQ2MjEsLTM5OD
+YzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUw
+LDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOT
+g3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2
+MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNz
+YxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2Njcy
+NV19
 -->
