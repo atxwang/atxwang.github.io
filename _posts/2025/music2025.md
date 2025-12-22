@@ -72,7 +72,7 @@ While I'm here, I'll add that Maruja had my favorite album/merch art of the year
 -
 Many of my favorite artists dropped projects I adored this year that, perhaps justifiably, did not make it on many year-end lists. Of course, actual quality-be-damned, the idiosyncratic nature of this list means I am here to recommend them to you anyway.
 
-**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: If 2025 didn't belong to Cameron Winter, it would surely belong to Ethel Cain, who's achieved two hallmarks of success in pop music: a rabid Twitter fanbase and a confusingly-motivated beef started against her by Lana Del Rey. Yet her greatest project yet is *Perverts*, an alienating and haunting noise/drone/ambient EP 
+**Ethel Cain's *Perverts*, "Dust Bowl", and "Waco, Texas"**: If 2025 didn't belong to Cameron Winter, it would surely belong to Ethel Cain, who's achieved several hallmarks of success: a rabid Twitter standom, a confusingly-motivated beef instigated by Lana Del Rey, and getting her mostly pop-oriented fanbase to rally behind greatest project yet is *Perverts*, an alienating and haunting noise/drone/ambient EP 
 
 And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest installment in Cain's ever-expanding Southern Gothic narrative---I am forever grateful that she released "Dust Bowl" and "Waco, Texas"
 *Favorite track*: "Amber Waves"
@@ -107,11 +107,11 @@ And while I didn't love *Willoughby Tucker, I Will Always Love You*---the newest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzODY3NjQsLTEzNjgyNjM4NDksNDE2MD
-AwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwt
-MTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwND
-A1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYs
-MjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05NjUxMTY4NTAsLTkwMD
-gzMDI2MCwxMzMxMjA4NjY3LDIxMDYwOTYyNzUsLTEyNDE4NDM5
-MDRdfQ==
+eyJoaXN0b3J5IjpbNjgxMDYzNTUzLC0xMzY4MjYzODQ5LDQxNj
+AwMDEwNSw4MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAs
+LTE3MzE4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MD
+QwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2
+LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MD
+A4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQz
+OTA0XX0=
 -->
