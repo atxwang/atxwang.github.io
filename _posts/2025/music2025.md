@@ -59,7 +59,7 @@ Obviously Geese and Cameron Winter have been blowing up big, and indie rock main
 *Favorite track*: "Cutthroat"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3Wm7UlvuhjWq4kiUBOqZeE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from someone like Zack de la Rocha's) and adore his singing ("Saoirse" and "Reconcile" are gorgeous), but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
+**Maruja's *Tir na nOg* and *Pain to Power***: Maruja has been knocking it out of the park for a while now with stunning instrumental post-rock/jazz-rock projects like *Tir na nOg*, but the addition of Harry Wilkinson's vocals on their debut album has made it one of the most divisive releases of the year. I happen to like Wilkinson's rapping (to all the haters---it's really not different from like, Zack de la Rocha's) and adore his singing ("Saoirse" and "Reconcile" are gorgeous), but I'll happily admit that the best bits of *Pain to Power* are the thrashy instrumental breakdowns and cathartic, sweeping outros.
 *Favorite track*: "Ceathair"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2iD7JYKrmAAT0erQWjkj96?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -116,11 +116,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxODI3MzMsLTk4NzYyNzUxNywyMTc5Mz
-Q2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0x
-MzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MD
-AwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwt
-MTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LDcwND
-A1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTZd
-fQ==
+eyJoaXN0b3J5IjpbLTE5ODMyODQ4NjcsMzAxODI3MzMsLTk4Nz
+YyNzUxNywyMTc5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcs
+MzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNj
+gyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEs
+MjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMj
+gwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3
+OF19
 -->
