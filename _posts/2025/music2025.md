@@ -115,16 +115,18 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 **China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce the Chinese underground scene to the West: weird "Chinese century" guys and increasing attention on Asian hyperpop, spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, but in actuality that honor should go to one of Africakid, Akemen, Arthurnevawakes, 迪诺哥Dino, or Angpang.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**riria's Boiler Room**: Not only is this the best Boiler Room of all time in terms of crowd energy, it also includes a performance of the best song ever made: foxela's Jersey Club remix of NewJeans' "ETA". 
+**Boiler Room**: Not only is riria's Boiler Room the best of all time in terms of crowd energy, it also includes a performance of the greatest song ever made: foxela's Jersey Club remix of NewJeans' "ETA". 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fa8LQLy4C5A?si=1bhmj4efYJzMreL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3jIVX95zSWM?si=rQBLE-86WUgqsvta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUwMTAwMjQsLTE5NDk2MzAxNTQsNj
-A5NDQwOTMsOTE1MDI4MjkwLDEwMzY4Njc4MzIsMzAxODI3MzMs
-LTk4NzYyNzUxNywyMTc5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyND
-AzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIs
-LTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MT
-U1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEz
-XX0=
+eyJoaXN0b3J5IjpbLTEyODU1MDkwMjUsLTEyOTUwMTAwMjQsLT
+E5NDk2MzAxNTQsNjA5NDQwOTMsOTE1MDI4MjkwLDEwMzY4Njc4
+MzIsMzAxODI3MzMsLTk4NzYyNzUxNywyMTc5MzQ2MjEsLTM5OD
+YzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUw
+LDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOT
+g3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2
+Ml19
 -->
