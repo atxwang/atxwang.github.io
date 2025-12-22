@@ -92,7 +92,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**. To put it into perspective: after a series of relatively divisive releases, the entire fanbase of Deafheaven---one of the greatest black metal bands ever---has seemed to coalesce around this one, so you know it kicks ass. And fortunately, **it also contains the year's most salient, intelligent social criticisms on, well, lonely people with power**.
-*Favorite track*: 
+*Favorite track*: "Winona"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects 
@@ -114,11 +114,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMDI1NTUsMjE3OTM0NjIxLC0zOTg2Mz
-UzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MTMzMjk1MCwx
-NDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4MTk4Nz
-I1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3MzE4NDQzNjIs
-MjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MT
-MwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjVd
-fQ==
+eyJoaXN0b3J5IjpbLTE0NTUzNjcwOTUsMjE3OTM0NjIxLC0zOT
+g2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MTMzMjk1
+MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4MT
+k4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3MzE4NDQz
+NjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQzNzAsMT
+c2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3
+MjVdfQ==
 -->
