@@ -14,12 +14,12 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 **Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming (complimentary) on songs no longer than two minutes each (not complimentary--- they should be longer!!). 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is a great, if muted, instrumental debut with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids."
+**punxsutawney's *Untitled***: This is a great, if muted, instrumental debut EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids."
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Spotify's Discover Weekly feature**
 -
-Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Does it come from Spotify, which is generally an evil company? Yeah. Does it actually lock in on suggesting new, great music every once in a while? Yeah--- for example, this year it recommended me the following releases. 
+Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Does it come from Spotify, which is generally an evil company? Yeah. Does it actually lock in on suggesting new, great music every once in a while? Yeah--- for example, this year it recommended me the following releases:
 
 **Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific--- this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -82,9 +82,9 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05Nj
-UxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMDYwOTYy
-NzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTczNDExLC
-0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUz
-MDY1NDExXX0=
+eyJoaXN0b3J5IjpbMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwOD
+k1OTM2NSwtOTY1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2
+NywyMTA2MDk2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMT
+YzNDk3MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0
+NTAwNDksMTA1MzA2NTQxMV19
 -->
