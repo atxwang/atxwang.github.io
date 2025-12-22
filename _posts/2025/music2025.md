@@ -85,13 +85,17 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would surely belong to Jane Remover, 
+*Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Deafheaven's *Lonely People With Power***:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***:
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another 
+*Favorite track*:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+*Favorite track*: 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **yeule's *Evangelic Girl is a Gun***:
@@ -106,11 +110,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MT
-I1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUz
-NSw1Mzk3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMT
-Q1NDAzMjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2
-NjQ2LDc4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMT
-A4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4
-NjY3XX0=
+eyJoaXN0b3J5IjpbNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MT
+MzMjk1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEw
+NSw4MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3Mz
+E4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQz
+NzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2LDIxMj
+U1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MDA4MzAy
+NjBdfQ==
 -->
