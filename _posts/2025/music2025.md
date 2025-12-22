@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title: My favorite moments in music from 2025
-subtitle: 
+title: My favorite music from 2025
+subtitle: that Pitchfork hasn't already talked about
 tags: [music, pop culture, recs]
 ---
 As the year closes, I thought I'd make a list of songs, albums, performances etc. that I especially enjoyed this year- in particular, I'd like to highlight music that I haven't seen in many critics' year-end lists (I've been cross-referencing Pitchfork to make sure we don't have too much overlap)! So while I like Geese Wednesday Cameron Winter MJ Lenderman This is Lorelei etc etc etc as much as the next person, they won't be mentioned here. Without further ado:
@@ -82,9 +82,9 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTU0NjYzNCwxOTcxNDc3NTYsMjEyNT
-U2NjcyNSwxMTA4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2
-MCwxMzMxMjA4NjY3LDIxMDYwOTYyNzUsLTEyNDE4NDM5MDQsMT
-A0NTQ5MDg2LC0xNjM0OTczNDExLC0xMDgzMTMwNTM2LDIxMzYx
-NjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1NDExXX0=
+eyJoaXN0b3J5IjpbNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NT
+Y2NzI1LDExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwODMwMjYw
+LDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0MzkwNCwxMD
+Q1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMjEzNjE2
+MzkwNywxNzY3NDUwMDQ5LDEwNTMwNjU0MTFdfQ==
 -->
