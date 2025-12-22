@@ -21,7 +21,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 -
 Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Does it come from Spotify, which is generally an evil company? Yeah. Does it actually lock in on suggesting new, great music every once in a while? Yeah--- for example, this year it recommended me the following releases:
 
-**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific--- this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good.
+**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific---this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine", which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
@@ -30,7 +30,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**haloplus+'s *Musicality***: This is up there with the aforementioned *Cherish* and *Untitled* as one of my top 5 finds of the year, and possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think it best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
+**haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Windmill Scene; post-punk/post-rock stuff (that isn't Geese)**
@@ -82,10 +82,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MT
-Q3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUw
-LC05MDA4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMj
-QxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMSwtMTA4MzEz
-MDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1MzA2NTQxMV
-19
+eyJoaXN0b3J5IjpbLTk2ODUwNzk2OSwxNzYxMzA2NjQ2LDc4MT
+I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
+LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
+YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
+NDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OS
+wxMDUzMDY1NDExXX0=
 -->
