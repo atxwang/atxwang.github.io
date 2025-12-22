@@ -28,7 +28,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found upcoming LA band Secret Monument's debut EP, which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
-*Fav orite track*: "Bent Around the Seine"
+*Favorite track*: "Bent Around the Seine"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane (though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite).
@@ -36,7 +36,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the much-lauded Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies both the cutting edge of music in 2025 and where pop is heading in 2026, so definitely check this one out** (especially if you like Water From Your Eyes)!
-*Favorite track
+*Favorite track*: "Open Air Backseat"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6rcnlJU0yDzWJf59i4SP6X?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Windmill Scene; post-punk/post-rock stuff (that isn't Geese)**
@@ -88,10 +88,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMjQ2MTcxLDE3NjEzMDY2NDYsNzgxMj
-k4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUs
-LTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNj
-A5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0
-MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LD
-EwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzc2OTQxNDEsMTc2MTMwNjY0Niw3OD
+EyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2
+NSwtOTY1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMT
+A2MDk2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3
+MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwND
+ksMTA1MzA2NTQxMV19
 -->
