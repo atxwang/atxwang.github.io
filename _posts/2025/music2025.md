@@ -23,7 +23,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 -
 Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Does it come from Spotify, which is generally an evil company? Yeah. Does it actually lock in on suggesting new, great music every once in a while? Yeah--- for example, this year it recommended me the following releases:
 
-**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific---this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good (and endorsed by Kendrick Lamar, if that matters).
+**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific---this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for both the rest of his discography and whatever he has in store for the future, because this album is still *really* good (and endorsed by Kendrick Lamar, if that matters).
 *Favorite track*: "The Apple That Scarcely Fell (feat. McKinley Dixon)"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -31,7 +31,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 *Favorite track*: "Bent Around the Seine"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane (though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite).
+**f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook---what's not to like? I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane (though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite).
 *Favorite track*: "Magic Clock"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -94,11 +94,11 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ1NjkwNDYsMjE0NTQwMzIxMywtMT
-I4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MTMwNjY0Niw3ODEyOTgy
-NzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2NSwtOT
-Y1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2
-Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMS
-wtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1
-MzA2NTQxMV19
+eyJoaXN0b3J5IjpbLTE4MjQ0NzI4NywyMTQ1NDAzMjEzLC0xMj
+gwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3
+OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05Nj
+UxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMDYwOTYy
+NzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTczNDExLC
+0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUz
+MDY1NDExXX0=
 -->
