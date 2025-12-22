@@ -84,9 +84,9 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jventuring's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, who hasn't yet made it to SNL or *Rolling Stone* but is already a star on their internet equivalents. And while I loved her entire output this year, including breakout album *Revengeseekerz*
-*Favorite track*: "Psychoboost"
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/21b4cDNse2AMpj94ykfuON?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+**Jane Remover's *Revengeseekerz* and venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, who hasn't yet made it to SNL or *Rolling Stone* but is already a star on their internet equivalents. And while I loved her entire output this year, including breakout album *Revengeseekerz*
+*Favorite track*: "Magic I Want U"
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2XeflvA0dNvjpX0vxukgiv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -113,7 +113,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTU5NDcxNywtMzk4NjM1Mzg2LDY0NT
+eyJoaXN0b3J5IjpbMTg5NzkxMDkyMCwtMzk4NjM1Mzg2LDY0NT
 I0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMzI5NTAsMTQxMjUzNDgx
 MiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUsODE5ODcyNTM1LDUzOT
 cxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMy
