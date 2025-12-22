@@ -47,7 +47,7 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Model/Actriz's *Pirouette***: As much as I adore Model/Actriz
+**Model/Actriz's *Pirouette***: As much as I adore Model/Actriz (they, alongside 
 *Favorite track*: 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3MAtJ9jJmvkBZTGUhAHupj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -100,7 +100,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTQxMTEyMiw0MTYwMDAxMDUsODE5OD
+eyJoaXN0b3J5IjpbMTk0OTQzOTQ1NCw0MTYwMDAxMDUsODE5OD
 cyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxODQ0MzYy
 LDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNzA0MDU0MzcwLDE3Nj
 EzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1
