@@ -41,7 +41,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 
 **Windmill Scene; post-punk/post-rock stuff (that isn't Geese)**
 -
-Obviously Geese and Cameron Winter have been blowing up big (at time of writing they've just been parodied on SNL), and indie rock mainstays like Wet Leg and Black Country, New Road dropped decent albums this year as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of the post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
+Obviously Geese and Cameron Winter have been blowing up big, and indie rock mainstays like Wet Leg and Black Country, New Road dropped decent albums this year as well. But these acts are far from the end all be all if you (like me) love the "Windmill" sound, as the most recent incarnation of the post-punk revival has been dubbed. You (like me) might even prefer the following records to *Getting Killed* or *Forever Howlong*...
 
 **Squid's *Cowards***: This is another one **I have to recommend**, and not just because Squid is one of my favorite active bands, but because **their new orchestral direction on this album, combined with their signature rhythmic, percussive style, contains a universal appeal**. Funnily enough, I think of all this year's many politically-charged Windmill albums, *Cowards* succeeds the most at social commentary via its indirect, literature-inspired approach to lyricism.
 *Favorite track*: "Crispy Skin"
@@ -84,7 +84,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would surely belong to Jane Remover, 
+**venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, 
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -110,11 +110,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MT
-MzMjk1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEw
-NSw4MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3Mz
-E4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQz
-NzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2LDIxMj
-U1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MDA4MzAy
-NjBdfQ==
+eyJoaXN0b3J5IjpbMTY5NTE0NjY4OCw2NDUyNDAzOTcsMzI4Nj
+c4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4
+NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNz
+gxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3
+MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOT
+cxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05NjUxMTY4
+NTBdfQ==
 -->
