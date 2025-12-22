@@ -120,16 +120,16 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3jIVX95zSWM?si=rQBLE-86WUgqsvta" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Adamn Killa's meteoric rise**: From [crashing out generationally over label abuse](https://www.reddit.com/r/sadboys/comments/1gn3bbg/adamn_killa_fully_explains_his_fallout_with/) to being able to support your son as a musician AND eclipsing those who did you di
+**Adamn Killa's meteoric rise**: From [crashing out generationally over label abuse](https://www.reddit.com/r/sadboys/comments/1gn3bbg/adamn_killa_fully_explains_his_fallout_with/) to being able to support your son as a musician AND eclipsing those who did you dirty by hundreds of thousands of Instagram followers. A story for the ages. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wIuiXIGTnDU?si=qJyA0pwwcYqkcmgu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDgzNTM4LDEwMjY5NDc3MjQsLTEyOT
-UwMTAwMjQsLTE5NDk2MzAxNTQsNjA5NDQwOTMsOTE1MDI4Mjkw
-LDEwMzY4Njc4MzIsMzAxODI3MzMsLTk4NzYyNzUxNywyMTc5Mz
-Q2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEzLC0x
-MzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksNDE2MD
-AwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1MF19
-
+eyJoaXN0b3J5IjpbLTIwMDAwMDEzMywxMDI2OTQ3NzI0LC0xMj
+k1MDEwMDI0LC0xOTQ5NjMwMTU0LDYwOTQ0MDkzLDkxNTAyODI5
+MCwxMDM2ODY3ODMyLDMwMTgyNzMzLC05ODc2Mjc1MTcsMjE3OT
+M0NjIxLC0zOTg2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywt
+MTM5MTMzMjk1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNj
+AwMDEwNSw4MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTBd
+fQ==
 -->
