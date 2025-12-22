@@ -14,7 +14,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 **Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming (complimentary) on songs no longer than two minutes each (not complimentary--- they should be longer!!). 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is a great, if muted, instrumental debut EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids."
+**punxsutawney's *Untitled***: This is a great, if muted, instrumental debut EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Spotify's Discover Weekly feature**
@@ -27,7 +27,7 @@ Besides social media, I mostly find new music through Spotify's Discover Weekly 
 **Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine", which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**f5ve's *SEQUENCE 01***: Ear candy by J-POP veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
+**f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **haloplus+'s *Musicality***: This is up there with the aforementioned *Cherish* and *Untitled* as one of my top 5 finds of the year, and possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think it best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
@@ -82,9 +82,9 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwOD
-k1OTM2NSwtOTY1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2
-NywyMTA2MDk2Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMT
-YzNDk3MzQxMSwtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0
-NTAwNDksMTA1MzA2NTQxMV19
+eyJoaXN0b3J5IjpbMTE0OTU0NjYzNCwxOTcxNDc3NTYsMjEyNT
+U2NjcyNSwxMTA4OTU5MzY1LC05NjUxMTY4NTAsLTkwMDgzMDI2
+MCwxMzMxMjA4NjY3LDIxMDYwOTYyNzUsLTEyNDE4NDM5MDQsMT
+A0NTQ5MDg2LC0xNjM0OTczNDExLC0xMDgzMTMwNTM2LDIxMzYx
+NjM5MDcsMTc2NzQ1MDA0OSwxMDUzMDY1NDExXX0=
 -->
