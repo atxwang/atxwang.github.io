@@ -84,7 +84,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, who hasn't yet made it to SNL or *Rolling Stone* but certainly their internet equivalents. 
+**venturing's *Ghostholding***: If 2025 didn't belong to Cameron Winter, it would certainly belong to Jane Remover, who hasn't yet made it to SNL or *Rolling Stone* but is already a star on their internet equivalents. 
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -110,11 +110,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Nj
-c4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4
-NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNz
-gxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3
-MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOT
-cxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05NjUxMTY4
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjI1NjY0NDMsLTM5ODYzNTM4Niw2ND
+UyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4
+MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mz
+k3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAz
+MjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LD
+c4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5
+MzY1XX0=
 -->
