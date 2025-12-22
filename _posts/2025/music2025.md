@@ -102,7 +102,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "TAPPAR ANDAN"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1aa72DCd42NynXvbWIz15S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**yeule's *Evangelic Girl is a Gun***: Every year, Pitchfork produces several opinions that are so bad as to incite mass uproar, characterized mainly by bomb threats against their HQ. This year, *Evangelic Girl* was a victim, 
+**yeule's *Evangelic Girl is a Gun***: Every year, Pitchfork produces several opinions that are so bad as to incite mass uproar, characterized mainly by bomb threats against their HQ. This year, *Evangelic Girl* was a victim, despite being a wonderfully modern, ethereal take on trip-hop colored as usual by yeu
 #justiceforyeule
 *Favorite track*: "Evangelic Girl is a Gun"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -117,7 +117,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTYxMzM3MywtOTg3NjI3NTE3LDIxNz
+eyJoaXN0b3J5IjpbMTU2NzQ5NjA0NCwtOTg3NjI3NTE3LDIxNz
 kzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMs
 LTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MT
 YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
