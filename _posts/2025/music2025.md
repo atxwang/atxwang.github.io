@@ -12,26 +12,27 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 [Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feelings on Web3, streaming, or the independent music industry, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with surprisingly big artists like Yung Lean, Mac DeMarco, and Bassvictim. Nina's put me onto two of my favorite new artists this year, both of which have less than 4000 monthly listeners on Spotify, which serves as a good reminder that there's always great music bubbling far beneath the surface. Maybe that's the beauty of Nina- reminding you to keep an open mind and telling you where to look.
 
 **Crochet's *Cherish***: I think Crochet is unique among other skramz/screamo bands for their incredibly intricate, almost baroque guitar noodling. The only negative thing I have to say about this album is that I wish the songs were longer.
-*Fav track*: "Shadowplay"
+*Favorite track*: "Shadowplay"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **punxsutawney's *Untitled***: This is a great, if muted, instrumental EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
-*Fav track*: "Landing System"
+*Favorite track*: "Landing System"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Spotify's Discover Weekly feature**
 -
 Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Does it come from Spotify, which is generally an evil company? Yeah. Does it actually lock in on suggesting new, great music every once in a while? Yeah--- for example, this year it recommended me the following releases:
 
-**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific---this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good (and endorsed by Kendrick Lamar).
-*Fav track*: "The Apple That Scarcely Fell (feat. McKinley Dixon)"
+**Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific---this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good (and endorsed by Kendrick Lamar, if that matters).
+*Favorite track*: "The Apple That Scarcely Fell (feat. McKinley Dixon)"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found upcoming LA band Secret Monument's debut EP, which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
-*Fav track*: "Bent Around the Seine"
+*Fav orite track*: "Bent Around the Seine"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
+**f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane (though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite).
+*Favorite track*: "Magic Clock"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2dsk3MlHRNOqWqrUZoqI0K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **haloplus+'s *Musicality***: haloplus+ is possibly my favorite project to come out of the Copenhagen scene so far. **Of this list, I think *Musicality* best exemplifies the cutting edge of music in 2025, so definitely check this one out** (especially if you like Water From Your Eyes)!
@@ -86,7 +87,7 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjQyMTkxOCwxNzYxMzA2NjQ2LDc4MT
+eyJoaXN0b3J5IjpbMTQ5MjMxMTEzMSwxNzYxMzA2NjQ2LDc4MT
 I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
 LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
 YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
