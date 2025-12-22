@@ -91,7 +91,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Sister"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7quQ97KCEOY9Ro5Si6o5bn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**. Deafheaven is 
+**Deafheaven's *Lonely People With Power***: Forget what I said in the intro blurb---this album deserves to make it into every critic's list and **is my personal AOTY**. Deafheaven is one of the greatest black metal bands ever 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects 
@@ -113,11 +113,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNTE5OTgxLC0zOTg2MzUzODYsNjQ1Mj
-QwMzk3LDMyODY3ODQxMywtMTM5MTMzMjk1MCwxNDEyNTM0ODEy
-LC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4MTk4NzI1MzUsNTM5Nz
-E1NTIxLDIxMjc4MTAzNTAsLTE3MzE4NDQzNjIsMjE0NTQwMzIx
-MywtMTI4MDQ1NzIyNSw3MDQwNTQzNzAsMTc2MTMwNjY0Niw3OD
-EyOTgyNzgsMTk3MTQ3NzU2LDIxMjU1NjY3MjUsMTEwODk1OTM2
-NV19
+eyJoaXN0b3J5IjpbLTE5MjM4MDU3MTAsLTM5ODYzNTM4Niw2ND
+UyNDAzOTcsMzI4Njc4NDEzLC0xMzkxMzMyOTUwLDE0MTI1MzQ4
+MTIsLTEzNjgyNjM4NDksNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mz
+k3MTU1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAz
+MjEzLC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LD
+c4MTI5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5
+MzY1XX0=
 -->
