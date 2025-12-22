@@ -95,7 +95,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 *Favorite track*: "Winona"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5Eh3xMVdGFAUiYwuoPOzXc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects that go unnoticed by the wider public but find rabid adorers among the drainers themselves. As a fan of St. George, I have to endorse Bladee's recent "martyr" fixation, but the real sleeper here is *DYR*, another ode to Europop by Dj Billybool, side project of the highly-underrated Thaiboy Digital.
+**Bladee's *Ste The Beautiful Martyr 1st Attempt* and Dj Billybool's *DYR***: Another year, another set of Drain Gang projects that go unnoticed by the wider public but find rabid adorers among the drainers themselves. As a fan of St. George, I have to endorse Bladee's recent "martyr" fixation, but the real sleeper here is *DYR*, another ode to 00's Europop by Dj Billybool, side project of the highly-underrated Thaiboy Digital.
 *Favorite track*: "One in A Million"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/55QB0uS2Bp83KLN1qW5UGB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -117,11 +117,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ1MjQ3NDcsLTk4NzYyNzUxNywyMT
-c5MzQ2MjEsLTM5ODYzNTM4Niw2NDUyNDAzOTcsMzI4Njc4NDEz
-LC0xMzkxMzMyOTUwLDE0MTI1MzQ4MTIsLTEzNjgyNjM4NDksND
-E2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MTU1MjEsMjEyNzgxMDM1
-MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEzLC0xMjgwNDU3MjI1LD
-cwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MTI5ODI3OCwxOTcxNDc3
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTI1NTYxMzM3MywtOTg3NjI3NTE3LDIxNz
+kzNDYyMSwtMzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMs
+LTEzOTEzMzI5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MT
+YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
+LC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNz
+A0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1
+Nl19
 -->
