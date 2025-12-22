@@ -47,6 +47,9 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Crispy Skin"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2PXkyoHGhPBTdumrGSh8Ta?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+**Model/Actriz's *Pirouette***: 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3MAtJ9jJmvkBZTGUhAHupj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 **Racing Mount Pleasant's *Racing Mount Pleasant***: It's shocking that *Racing Mount Pleasant*, like *SEQUENCE 01*, has been excluded from so many year-end lists. My theory: it sounds too well-crafted, too engineered, too much like the designer baby of prime Arcade Fire and Isaac Wood-led Black Country, to receive the coveted indie credential of "authenticity." Maybe it is fake, but it sure as hell is perfect.
 *Favorite track*: "Emily"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -96,11 +99,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3OD
-EwMzUwLC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcy
-MjUsNzA0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5Nz
-E0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUsLTk2NTExNjg1
-MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMT
-I0MTg0MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMx
-MzA1MzZdfQ==
+eyJoaXN0b3J5IjpbNDE2MDAwMTA1LDgxOTg3MjUzNSw1Mzk3MT
+U1MjEsMjEyNzgxMDM1MCwtMTczMTg0NDM2MiwyMTQ1NDAzMjEz
+LC0xMjgwNDU3MjI1LDcwNDA1NDM3MCwxNzYxMzA2NjQ2LDc4MT
+I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
+LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
+YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
+NDExXX0=
 -->
