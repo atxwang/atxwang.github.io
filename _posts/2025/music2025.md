@@ -11,7 +11,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 -
 [Nina Protocol](https://www.dazeddigital.com/music/article/63054/1/music-streaming-platform-of-the-future-nina-protocol) is a new streaming platform that aims to give independent artists more direct control over their product and earnings using blockchain. Regardless of your feelings on Web3, streaming, or the independent music industry, it cannot be denied that Nina has a great social media presence, featuring both great recommendations of new music and interviews with surprisingly big artists like Yung Lean, Mac DeMarco, and Bassvictim. Nina's put me onto two of my favorite new artists this year, both of which have less than 4000 monthly listeners on Spotify, which serves as a good reminder that there's always great music bubbling far beneath the surface. Maybe that's the beauty of Nina- reminding you to keep an open mind and telling you where to look.
 
-**Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming on songs (complimentary) no longer than two minutes each (not complimentary--- they should be longer!!). 
+**Crochet's *Cherish***: I would describe this album as weirdly intricate guitar noodling accompanied by screaming (complimentary) on songs no longer than two minutes each (not complimentary--- they should be longer!!). 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **punxsutawney's *Untitled***: This is a great, if muted, instrumental debut with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids."
@@ -82,9 +82,9 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYyMTc2NjUsMTEwODk1OTM2NSwtOT
-Y1MTE2ODUwLC05MDA4MzAyNjAsMTMzMTIwODY2NywyMTA2MDk2
-Mjc1LC0xMjQxODQzOTA0LDEwNDU0OTA4NiwtMTYzNDk3MzQxMS
-wtMTA4MzEzMDUzNiwyMTM2MTYzOTA3LDE3Njc0NTAwNDksMTA1
-MzA2NTQxMV19
+eyJoaXN0b3J5IjpbMjEyNTU2NjcyNSwxMTA4OTU5MzY1LC05Nj
+UxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMDYwOTYy
+NzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTczNDExLC
+0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OSwxMDUz
+MDY1NDExXX0=
 -->
