@@ -15,7 +15,7 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 *Fav track*: "Shadowplay"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Dov1Po7unVVvZIrZUep4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**punxsutawney's *Untitled***: This is a great, if muted, instrumental debut EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
+**punxsutawney's *Untitled***: This is a great, if muted, instrumental EP with some fun guitar hooks. As Nina describes, it's "post-rock for the emo kids." Check this one out if you like First Day Back.
 *Fav track*: "Landing System"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2bV4uqDImMN0yM789FsSi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -24,10 +24,11 @@ As the year closes, I thought I'd make a list of songs, albums, performances etc
 Besides social media, I mostly find new music through Spotify's Discover Weekly playlist. Does it often recommend songs/artists you already listen to? Yeah. Does it usually contain mostly the same kind of Gen Z shoegaze slop? Yeah. Does it come from Spotify, which is generally an evil company? Yeah. Does it actually lock in on suggesting new, great music every once in a while? Yeah--- for example, this year it recommended me the following releases:
 
 **Ghais Guevara's *Goyard Ibn Said***: Guevara is pretty prolific---this is only one of three albums/EPs he's dropped this year, and most fans seem to think this is far from his best. But that's a promising claim for the rest of his discography, because this album is still *really* good (and endorsed by Kendrick Lamar).
-*Fav track*: "The Apple That Scarcely Fell (feat. McKin
+*Fav track*: "The Apple That Scarcely Fell (feat. McKinley Dixon)"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/2NiS2Ky8v1yGAjDLVxaIV3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found "Bent Around the Seine", which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
+**Secret Monument's debut singles**: Just when I was getting tired of female-fronted indie rock, I found upcoming LA band Secret Monument's debut EP, which contains some of the freshest songwriting I've heard all year. Sort of like if Lush existed in the '60s.
+*Fav track*: "Bent Around the Seine"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7Iw7s7WQ0wziNc5b9zmYNP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **f5ve's *SEQUENCE 01***: Ear candy by a supergroup of J-Pop veterans with production from hyperpop legends like A.G. Cook. I'm legitimately shocked I couldn't find this on any year-end lists--- not even the remix album, which is also excellent and contains contributions from scene darlings like umru, Doss, and easyFun/Finn Keane... though for the record, Dorian Electra and Count Baldor's remix of "UFO" is my favorite.
@@ -85,10 +86,10 @@ Many of my favorite artists dropped great projects this year which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1NTA0NTY1LDE3NjEzMDY2NDYsNzgxMj
-k4Mjc4LDE5NzE0Nzc1NiwyMTI1NTY2NzI1LDExMDg5NTkzNjUs
-LTk2NTExNjg1MCwtOTAwODMwMjYwLDEzMzEyMDg2NjcsMjEwNj
-A5NjI3NSwtMTI0MTg0MzkwNCwxMDQ1NDkwODYsLTE2MzQ5NzM0
-MTEsLTEwODMxMzA1MzYsMjEzNjE2MzkwNywxNzY3NDUwMDQ5LD
-EwNTMwNjU0MTFdfQ==
+eyJoaXN0b3J5IjpbLTM5NjQyMTkxOCwxNzYxMzA2NjQ2LDc4MT
+I5ODI3OCwxOTcxNDc3NTYsMjEyNTU2NjcyNSwxMTA4OTU5MzY1
+LC05NjUxMTY4NTAsLTkwMDgzMDI2MCwxMzMxMjA4NjY3LDIxMD
+YwOTYyNzUsLTEyNDE4NDM5MDQsMTA0NTQ5MDg2LC0xNjM0OTcz
+NDExLC0xMDgzMTMwNTM2LDIxMzYxNjM5MDcsMTc2NzQ1MDA0OS
+wxMDUzMDY1NDExXX0=
 -->
