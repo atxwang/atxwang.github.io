@@ -80,7 +80,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1gVsiqgAxncJ4sKcuT7HW6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Dean Blunt and Elias Ronnenfelt's *lucre***: I've seen a lot of praise for 
+**Dean Blunt and Elias Ronnenfelt's *lucre***: I've seen a lot of praise for Blunt/Ronnenfelt collabs this year, but not this EP specifically, probably because it's so short 
 *Favorite track*: "7"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/76qQt7n5SKtIa38BmZxvl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -106,7 +106,7 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjcwOTg4MywtMTM2ODI2Mzg0OSw0MT
+eyJoaXN0b3J5IjpbMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MT
 YwMDAxMDUsODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUw
 LC0xNzMxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNz
 A0MDU0MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1
