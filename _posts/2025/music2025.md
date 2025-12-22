@@ -62,7 +62,7 @@ Obviously Geese and Cameron Winter have been blowing up big (at time of writing 
 *Favorite track*: "Reconcile"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6wymdowW8HbQ4H3nVs93Hj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-While I'm here, I'll add that Maruja had my favorite album/merch art of the year (RIP [Tir na nOg shirt](https://store.marujaofficial.co.uk/products/tir-na-nog-t-shirt)). 
+While I'm here, I'll add that Maruja had my favorite album/merch art of the year (especially the [Tir na nOg shirt](https://store.marujaofficial.co.uk/products/tir-na-nog-t-shirt) and the various *Pain to Power* covers). 
 
 **Releases from artists I like**
 -
@@ -96,11 +96,11 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjM0NDE3MSwyMTI3ODEwMzUwLC0xNz
-MxODQ0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNzA0MDU0
-MzcwLDE3NjEzMDY2NDYsNzgxMjk4Mjc4LDE5NzE0Nzc1NiwyMT
-I1NTY2NzI1LDExMDg5NTkzNjUsLTk2NTExNjg1MCwtOTAwODMw
-MjYwLDEzMzEyMDg2NjcsMjEwNjA5NjI3NSwtMTI0MTg0MzkwNC
-wxMDQ1NDkwODYsLTE2MzQ5NzM0MTEsLTEwODMxMzA1MzYsMjEz
-NjE2MzkwN119
+eyJoaXN0b3J5IjpbNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3Mz
+E4NDQzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQz
+NzAsMTc2MTMwNjY0Niw3ODEyOTgyNzgsMTk3MTQ3NzU2LDIxMj
+U1NjY3MjUsMTEwODk1OTM2NSwtOTY1MTE2ODUwLC05MDA4MzAy
+NjAsMTMzMTIwODY2NywyMTA2MDk2Mjc1LC0xMjQxODQzOTA0LD
+EwNDU0OTA4NiwtMTYzNDk3MzQxMSwtMTA4MzEzMDUzNiwyMTM2
+MTYzOTA3XX0=
 -->
