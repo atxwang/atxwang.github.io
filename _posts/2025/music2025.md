@@ -112,16 +112,16 @@ Many of my favorite artists dropped projects I adored this year that, perhaps ju
 
 **Miscellaneous moments**
 -
-**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce Chinese underground to the West: weird "Chinese century" guys and increasing attention on the Asian hyperpop scene, spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, 
+**China's 2025 Freshman Cypher**: In 2025, two forces perfectly aligned to introduce Chinese underground to the West: weird "Chinese century" guys and increasing attention on the Asian hyperpop scene, spearheaded by artists like kimj, the Deep, and Effie (who recently opened for 2hollis). You might expect jackzebra, China's earliest export, to have the strongest showing on this cypher, but in actuality that honor should go to one of AFRICAKID, Ak
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRYOOGIIRkw?si=6zumCHBQE9HICEJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDE3NzQyLDkxNTAyODI5MCwxMDM2OD
-Y3ODMyLDMwMTgyNzMzLC05ODc2Mjc1MTcsMjE3OTM0NjIxLC0z
-OTg2MzUzODYsNjQ1MjQwMzk3LDMyODY3ODQxMywtMTM5MTMzMj
-k1MCwxNDEyNTM0ODEyLC0xMzY4MjYzODQ5LDQxNjAwMDEwNSw4
-MTk4NzI1MzUsNTM5NzE1NTIxLDIxMjc4MTAzNTAsLTE3MzE4ND
-QzNjIsMjE0NTQwMzIxMywtMTI4MDQ1NzIyNSw3MDQwNTQzNzBd
-fQ==
+eyJoaXN0b3J5IjpbMTYxODgzNDc3MCw5MTUwMjgyOTAsMTAzNj
+g2NzgzMiwzMDE4MjczMywtOTg3NjI3NTE3LDIxNzkzNDYyMSwt
+Mzk4NjM1Mzg2LDY0NTI0MDM5NywzMjg2Nzg0MTMsLTEzOTEzMz
+I5NTAsMTQxMjUzNDgxMiwtMTM2ODI2Mzg0OSw0MTYwMDAxMDUs
+ODE5ODcyNTM1LDUzOTcxNTUyMSwyMTI3ODEwMzUwLC0xNzMxOD
+Q0MzYyLDIxNDU0MDMyMTMsLTEyODA0NTcyMjUsNzA0MDU0Mzcw
+XX0=
 -->
