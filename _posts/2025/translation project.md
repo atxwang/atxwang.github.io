@@ -5,8 +5,10 @@ title: On my childhood
 subtitle: Translation project
 tags: [translation project, personal]
 ---
-In 
+In this post I reminisce upon the song of my childhood:
+
+	"When I was a child, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NDI4NjI5LC0xMzgwMDYwMDYwLC0xNT
-I3OTk4MjUxXX0=
+eyJoaXN0b3J5IjpbLTkzNDM4OTk3NSwtMTM4MDA2MDA2MCwtMT
+UyNzk5ODI1MV19
 -->
