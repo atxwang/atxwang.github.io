@@ -1,10 +1,12 @@
 
 ---
 layout: post
-title: Title tba
+title: On my childhood
 subtitle: Translation project
-tags: [translation, personal]
+tags: [translation project, personal]
 ---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc5OTgyNTFdfQ==
+eyJoaXN0b3J5IjpbLTEzODAwNjAwNjAsLTE1Mjc5OTgyNTFdfQ
+==
 -->
