@@ -6,7 +6,7 @@ title: On my childhood
 subtitle: Translation project
 tags: [translation project, personal]
 ---
-> Written with [StackEdit](https://stackedit.io/).
+*This is a translation of some of my paternal grandmother's writings. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNzE0NDY0XX0=
+eyJoaXN0b3J5IjpbMTA3ODk4MDMyNywyOTA3MTQ0NjRdfQ==
 -->
