@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title: Some of my memories 
+title: Some memories before the end of the 
 subtitle: Translation project
 tags: [translation project, personal]
 ---
@@ -10,6 +10,6 @@ tags: [translation project, personal]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTMyNjY5NCw4NjQxMDYxMDMsMTQxNT
-I3MzY0NCwyOTA3MTQ0NjRdfQ==
+eyJoaXN0b3J5IjpbLTEzNTgzMzcwMTYsLTU2MTMyNjY5NCw4Nj
+QxMDYxMDMsMTQxNTI3MzY0NCwyOTA3MTQ0NjRdfQ==
 -->
