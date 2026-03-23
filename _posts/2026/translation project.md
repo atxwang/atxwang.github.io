@@ -6,7 +6,8 @@ title: On my childhood
 subtitle: Translation project
 tags: [translation project, personal]
 ---
-*This is my English translation of some of my paternal grandmother's writings. She is 92 now and suffering from Alzheimer's
+*This is my English translation of some of my paternal grandmother's writings. She is 92 now and suffering from Alzheimer's, but I am happy to have these memories preserved
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTI3MzY0NCwyOTA3MTQ0NjRdfQ==
+eyJoaXN0b3J5IjpbMTcxMzMwMTk5LDE0MTUyNzM2NDQsMjkwNz
+E0NDY0XX0=
 -->
