@@ -56,13 +56,14 @@ the purpose of a post-suicide attempt hospitalization is ostensibly to check you
 
 when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my all-girls facility. the other patients were from low-income areas, and they appeared physically and mentally younger than me (they'd beg the nurses to put disney movies on the tv and sing along). when we had group sessions, there were allusions to sexual and domestic abuse, violence, serious trauma, addiction, all the words one associates with "cycle of poverty". it was pretty cheesy. i had software engineer parents, an awareness that nothing very bad had really happened in my life, and (by then) an offer of admission to a top 10 college (somehow i could not picture a future for myself even with binding admission to the university of chicago). it's not possible to put into words just how ridiculous and just how stupid i felt. i felt an intense, incredulous scrutiny casted on me by my so-called peers. i felt entrapped by this, more than the boredom of having none of my possessions and nothing to pass the time, more than the regret of being barred from my friends and parents (i who had fought with my mom every day in the past year was really beginning to miss her), more than the inability to leave. i came running back out, humiliated but relieved.
 
-
+in the following weeks 
 
 ** Why you should stop wanting to kill yourself**
 -
 there are very many good reasons to not kill yourself. for example:
 
-- 
+- to kill yourself
+- to kill yourself
 
 that you have already probably considered if you want to kill yourself (indeed, i was quite cognizant of these back in the day). however, they bear repeating, so i list them here:
 
@@ -72,9 +73,9 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDUyNzkyMiwtMzY5NTE4NTAyLDE3OD
-A0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3
-ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMT
-I3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcy
-NDYwMV19
+eyJoaXN0b3J5IjpbODMxNDExMTU3LC0zNjk1MTg1MDIsMTc4MD
+QyODIxMiwtNTk5OTMyNTQ4LC0xNDU5MDIxMjY4LDQ3MjE1NTc4
+NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4MiwxMj
+cyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtNDIxNzI0
+NjAxXX0=
 -->
