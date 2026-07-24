@@ -54,11 +54,12 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state ,with just estranged enough features for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). i made my dad fetch me books from the local library. i blew through *the three body problem*, *one hundred years of solitude*, and *dune* and enjoyed them (marquez especially was to me a very life-affirming writer)! after months of variantly masked emotional numbness, i had actually extracted enjoyment from the world beyond my bedroom...
 
-when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my facility for teenage girls
+when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my facility for teenage girls. my fellow patients were from low-income 
 
 ridiculous
 embarassed
 stupid
+silly
 
 i think these are pretty frivolous reasons for not wanting to do something as severe as die. but even now, when i 
 1. 
@@ -74,8 +75,8 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Nzk2ODY0OSwtMTQ1OTAyMTI2OCw0Nz
-IxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5
-ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLT
-QyMTcyNDYwMV19
+eyJoaXN0b3J5IjpbNDc2NDU1MDAyLC0xNDU5MDIxMjY4LDQ3Mj
+E1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4
+MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtND
+IxNzI0NjAxXX0=
 -->
