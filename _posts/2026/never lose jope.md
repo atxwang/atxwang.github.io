@@ -42,7 +42,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i was obsessed with hating myself. i had no identity. 
 
-after my first attempt my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. 
+after my first attempt my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. each time i tried killing myself there was nothing premeditated about it.
 
 
 
@@ -57,7 +57,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future. it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTIxNDI5NywtMjAzMzU5MTI2LC04MT
+eyJoaXN0b3J5IjpbMjEwNDE0ODQxMiwtMjAzMzU5MTI2LC04MT
 IzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4
 OTcsLTQyMTcyNDYwMV19
 -->
