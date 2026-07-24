@@ -40,7 +40,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i was a lonely teenager. i had few genuine friends with whom most of my communication was online. i suspected most others found me repulsive. i was praised for "emotional maturity" which meant a refusal to speak about my life to my parents and a refusal to take risks---i didn't go to parties. i damaged my brain lurking places like r/redscarepod, 4chan /tttt/, edtwt, because i felt my gen x immigrant parents couldn't possibly understand the concept of "mental illness" (despite their high level of education and 30 years of americanization), because i felt as if friends were only consoling me to make me shut up, because even though i was not dimes square-affiliated, a trans woman, or seriously eating-disordered i felt as if these fuckups and i shared a deeper understanding. every time i tried to kill myself i couldn't resist making it public, even in small ways, because i needed to show others the extent of my terrible suffering. i have this impulse to thank for my survival. it is likely that if my breakdowns were in private, if i hadn't had the urge to write to loved ones in my "final moments," i would have gotten away with murder.
 
-**why?** i was obsessed with hating myself. i had no identity. 
+**why?** i was obsessed with hating myself. i had no identity and couldn't quite perceive having a physical body. i was uncertain of everything, my gender, my sexual identity, my interests, except for that 
 
 after my first attempt my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. each time i tried killing myself there was nothing premeditated about it.
 
@@ -58,7 +58,7 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzkyNDY0MywtNzExNDIxNTA4LC0yMD
+eyJoaXN0b3J5IjpbMTExMjAxMjQ1MCwtNzExNDIxNTA4LC0yMD
 MzNTkxMjYsLTgxMjM0Nzk4MiwxMjcyNDk3OTg0LC0yMTM3MDg5
 NTY4LDcwNDA3OTg5NywtNDIxNzI0NjAxXX0=
 -->
