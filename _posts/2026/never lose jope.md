@@ -66,8 +66,8 @@ it was an ev calculation for me. whatever had drawn me to try to kill myself in 
 -
 there are very many good reasons to not kill yourself. for example:
 
-- to kill yourself is the biggest pain and destruction you can possibly cause for those around you. i know this as a former inflictor of this pain, as someone who has observed its effect on others, and as someone who has been on the receiving end. people who try to kill themselves are often well-liked and usually have other people in their lives that love and care about them, that would shrink into themselves and possibly never come out if you were gone. 
-- to kill yourself means you rob yourself of life. people who want to kill themselves still have things that they enjoy, even as trivial as a favorite food, and can no longer enjoy them once they are dead. plus, personal experience and statistical evidence point to the urge to kill oneself being very typically temporary. it is not very smart to act on a desire you may no longer have one, five, ten years into the future and that precludes you from doing literal 
+- **to kill yourself is the biggest pain and destruction you can possibly cause for those around you**. i know this as a former inflictor of this pain, as someone who has observed its effect on others, and as someone who has been on the receiving end. people who try to kill themselves are often well-liked and usually have other people in their lives that love and care about them, that would shrink into themselves and possibly never come out of their bodies even if you were not totally gone, even if you were (like i was) only playing very dangerously with 
+- to kill yourself means you rob yourself of life (seriously!). people who want to kill themselves still have things that they enjoy, even as trivial as a favorite food, and can no longer enjoy them once they are dead. plus, personal experience and statistical evidence point to the urge to kill oneself being very typically temporary. it is not very smart to act on a desire you may no longer have one, five, ten years into the future and that precludes you from doing literally anything else.
 
 yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). 
 
@@ -82,9 +82,9 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDI4MjUyMiwtMzY5NTE4NTAyLDE3OD
-A0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3
-ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMT
-I3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcy
-NDYwMV19
+eyJoaXN0b3J5IjpbLTExNjY0MDI1NzAsLTM2OTUxODUwMiwxNz
+gwNDI4MjEyLC01OTk5MzI1NDgsLTE0NTkwMjEyNjgsNDcyMTU1
+Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3OTgyLD
+EyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3
+MjQ2MDFdfQ==
 -->
