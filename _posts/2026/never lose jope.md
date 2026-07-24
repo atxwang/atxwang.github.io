@@ -69,7 +69,7 @@ there are very many good reasons to not kill yourself. for example:
 - **to kill yourself is the biggest pain and destruction you can possibly cause for those around you**. i know this as a former inflictor of this pain, as someone who has observed its effect on others, and as someone who has been on the receiving end. people who try to kill themselves are often well-liked and usually have other people in their lives that love and care about them, that would shrink into themselves and possibly never come out of their bodies if you were gone, and even if you were (like i was) only playing very dangerously with the idea of being gone. 
 - to kill yourself means you rob yourself of life (seriously!). people who want to kill themselves still have things that they enjoy, even as trivial as a favorite food, and can no longer enjoy them once they are dead. plus, personal experience and statistical evidence point to the urge to kill oneself being very typically temporary. it is not very smart to act on a desire you may no longer have one, five, ten years into the future and that precludes you from doing literally anything else.
 
-yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). it is hard not to be if all day every day you are thinking about killing yourself. i did care and was occasionally saddened by these thoughts, but not as much as i was transfixed on the fantasy of self-inflicted death. i thought that maybe my loved ones would be sad if i was gone, but that i was such an intolerable burden on their lives that they would heal and move on quickly and forget about me in the process. i thought that i wanted my friends and family to suffer deeply as revenge for their "failure" to acknowledge my internal tumult; i wanted to scar them irrevocably. i didn't think there was any music i could listen t
+yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). it is hard not to be if all day every day you are thinking about killing yourself. i did care and was occasionally saddened by these thoughts, but not as much as i was transfixed on the fantasy of self-inflicted death. i thought that maybe my loved ones would be sad if i was gone, but that i was such an intolerable burden on their lives that they would heal and move on quickly and forget about me in the process. i thought that i wanted my friends and family to suffer deeply as revenge for their "failure" to acknowledge my internal tumult; i wanted to scar them irrevocably. i didn't think there was any music i could listen to, anything i could learn about, anywhere i could go and just wander that would be wo
 
 the risk
 
@@ -77,9 +77,9 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5ODE4MTM2LC0xODUxODQ2Njk2LC0zNj
-k1MTg1MDIsMTc4MDQyODIxMiwtNTk5OTMyNTQ4LC0xNDU5MDIx
-MjY4LDQ3MjE1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLT
-gxMjM0Nzk4MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3
-OTg5NywtNDIxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbLTEyNDY3MzUwNDIsLTE4NTE4NDY2OTYsLT
+M2OTUxODUwMiwxNzgwNDI4MjEyLC01OTk5MzI1NDgsLTE0NTkw
+MjEyNjgsNDcyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNi
+wtODEyMzQ3OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0
+MDc5ODk3LC00MjE3MjQ2MDFdfQ==
 -->
