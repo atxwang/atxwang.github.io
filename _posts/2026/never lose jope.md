@@ -73,15 +73,15 @@ yet to repeat these vacuously true statements is worthless for a suicidal person
 
 the risk of talking about suicide to the suicidal is that everything you say can be used against you, against themselves. you can give them the "i was sick, now i'm not, and you can be too" spiel. that is easily dismissed, and the suicidal will mentally accuse you of not earnestly reaching the depths of their descent, and therefore not capable of true understanding. you can pathologize them, as is done in psychiatry and can often be quite beneficial to do, but that can engender complacency, and to a suicidal person the advice to "stop thinking the thoughts that make you want to kill yourself" can be about as helpful as telling a cancer patient to make their tumor cells stop dividing. when i was suicidal i could only really find comfort in the words of other suicidal persons, for whatever reasons of community and belonging that i still can't quite place. that too was quite dangerous, because i became convinced that the comfort came from suicide and not the narrative of suicide. i constructed a very beautiful, very artistic mythology around my own self-undoing, some millais' *ophelia* type shit. i thought of and tried to execute poetic ways of dying (which really did amount to like, being cryptic on social media).
 
-by publicizing my own narrative of suicide i know i am contributing to this risk
+by publicizing my own narrative of suicide i know i am contributing to this risk. all i can say is that i am far enough removed from the events described that i can 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NTY0NzQ2LC0xODUxODQ2Njk2LC0zNj
-k1MTg1MDIsMTc4MDQyODIxMiwtNTk5OTMyNTQ4LC0xNDU5MDIx
-MjY4LDQ3MjE1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLT
-gxMjM0Nzk4MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3
-OTg5NywtNDIxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbMjExMDczMDE3MywtMTg1MTg0NjY5NiwtMz
+Y5NTE4NTAyLDE3ODA0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAy
+MTI2OCw0NzIxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC
+04MTIzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQw
+Nzk4OTcsLTQyMTcyNDYwMV19
 -->
