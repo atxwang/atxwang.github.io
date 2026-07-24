@@ -28,7 +28,7 @@ susanna understood this:
 there were many other things she understood that i thought i was "actually crazy", singularly so, for thinking. the sentence that most described my life back then is one i still remember now:
 > "Viscosity and velocity are opposites, yet they can look the same. Viscosity causes the stillness of disinclination; velocity causes the stillness of fascination" (p. 71).
 
-psychiatry has the difficulty of being utterly alien to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. *girl interrupted* was guttural, throttling me around between complete psychological and emotional identification with its characters and the threat of a deeply repulsive near-future (disassociation, self-destructive romantic relationships, professional failure) that was quite plausible for me. it was funny, and to this day the most cathartic book i've ever read.
+psychiatry has the difficulty of being utterly farcical to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. *girl interrupted* was guttural, throttling me around between complete psychological and emotional identification with its characters and the threat of a deeply repulsive near-future (disassociation, self-destructive romantic relationships, professional failure) that was quite plausible for me. it was funny, and to this day the most cathartic book i've ever read.
 
 i am writing now as candidly as possible. i edit only for clarity. there is no structure, only meandering testimony from a reformed mental invert who once tried to shirk the basic biological instinct of survival and is trying to stop from other mental inverts from doing the same.
 
@@ -46,7 +46,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future.  th
 
 > "Once you’ve posed that question, it won’t go away. I think many people kill themselves simply to stop the debate about whether they will or they won’t" (p. 38).
 
-
+i didn't want to "live", but i was highly noncommittal about suicide. 
 
 **Why I stopped wanting to kill myself**
 -
@@ -54,14 +54,17 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 ** Why you should stop wanting to kill yourself**
 -
-there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself. 
+there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself. however, they bear repeating, so i list them here:
+
+- 
+- 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc1MDc2NzUsLTE0NTkwMjEyNjgsND
-cyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3
-OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC
-00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbMTMzNTQzNTc1MSwtMTQ1OTAyMTI2OCw0Nz
+IxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5
+ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLT
+QyMTcyNDYwMV19
 -->
