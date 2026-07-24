@@ -34,6 +34,7 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 
 **Why I tried to kill myself***
 -
+this is a question i still don't truly know how to answer. 
 
 **Why I stopped wanting to kill myself**
 -
@@ -46,7 +47,7 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMzE0MzE1LC04MTIzNDc5ODIsMTI3Mj
-Q5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcyNDYw
-MV19
+eyJoaXN0b3J5IjpbLTU5NDgxODExNywtODEyMzQ3OTgyLDEyNz
+I0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3MjQ2
+MDFdfQ==
 -->
