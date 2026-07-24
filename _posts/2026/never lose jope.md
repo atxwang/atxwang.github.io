@@ -60,7 +60,7 @@ ridiculous
 embarassed
 stupid
 
-i think these are pretty frivolous reasons for not wanting to do something as severe as die. 
+i think these are pretty frivolous reasons for not wanting to do something as severe as die. but 
 
 ** Why you should stop wanting to kill yourself**
 -
@@ -73,8 +73,8 @@ there are very many good reasons to not kill yourself that you have already prob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjQ1NjE4LC0xNDU5MDIxMjY4LDQ3Mj
-E1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4
-MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtND
-IxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbLTE5MTg2NzcyNjMsLTE0NTkwMjEyNjgsND
+cyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3
+OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC
+00MjE3MjQ2MDFdfQ==
 -->
