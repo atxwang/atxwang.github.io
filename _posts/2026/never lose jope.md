@@ -34,7 +34,7 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 
 **Why I tried to kill myself***
 -
-the story is straightforward. i was in my senior year of high school. i was a top student stressed about college admissions. i was quite functional and always busy. i worked (inefficiently and distractedly) late into the night, i overslept for classes consistently but still managed perfect grades. i was waiting on results of a competition to which i had submitted (supposedly essential for elite college admissions). i lost, some others won, and i very spontaneously and publicly tried to kill myself. it was downhill from there. my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. 
+the story is straightforward. i was in my senior year of high school. i was a top student stressed about college admissions. i was quite functional and always busy. i worked (inefficiently and distractedly) late into the night, i overslept for classes consistently but still managed perfect grades. i was waiting on results of a competition to which i had submitted (supposedly essential for elite college admissions). i lost, some others won, and i very spontaneously and publicly tried to kill myself. it was downhill from there. 
 
 **why?** i succumbed to stress and high pressure. interpersonal comparison spurs an obsessive perfectionism in me. when i was maybe 7 or 8, my piano teacher told me i wasn't working as hard as another student, so i began a habit of practicing long hours into the night, daily, replaying pieces over in their entirety if i detected a single wrong note. i would throw fits and even threaten to cut off my fingers with a kitchen knife (yes, really) if my family so much as chided me to "cool down". but my high school wasn't super competitive and my parents, far from the stereotypical "tiger mom/dad", were incredibly patient and nurturing of all of my interests.
 
@@ -42,7 +42,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i hated myself. i had no identity. 
 
-
+my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. 
 
 
 
@@ -57,7 +57,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYxMTM4NTEsLTIwMzM1OTEyNiwtOD
+eyJoaXN0b3J5IjpbLTE2OTA2MDMxNjksLTIwMzM1OTEyNiwtOD
 EyMzQ3OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5
 ODk3LC00MjE3MjQ2MDFdfQ==
 -->
