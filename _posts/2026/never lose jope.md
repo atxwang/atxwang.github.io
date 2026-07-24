@@ -18,7 +18,7 @@ i am older now though, and i have seen enough people my age succumb, each time t
 
 **Why I am writing this**
 -
-during the months in which i tried to kill myself, 
+during the months in which i tried to kill myself, i found solace in two pieces of media: susanna kaysen's *girl interrupted* and jeffrey eugenides' *the virgin suicides*. 
 
 **Why I tried to kill myself***
 -
@@ -34,5 +34,5 @@ during the months in which i tried to kill myself,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDM2MzE1XX0=
+eyJoaXN0b3J5IjpbLTk4MTI3NDQzOV19
 -->
