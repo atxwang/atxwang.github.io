@@ -60,13 +60,13 @@ in the following weeks i did still think about it, that is, killing myself. but 
 1. if you kill yourself, you won't be able to read *one hundred years of solitude*.
 2. if you try to kill yourself and fail, you will be sent back to inpatient, probably for a much longer time, which would be worse than both dying successfully and living how you are now.
 
-it was an ev-calculation for me. whatever had drawn me to try to kill myself in the first place was overshadowed by the certainty and dread of these two possibilities.
+it was an ev calculation for me. whatever had drawn me to try to kill myself in the first place was overshadowed by the certainty and dread of these two possibilities.
 
 ** Why you should stop wanting to kill yourself**
 -
 there are very many good reasons to not kill yourself. for example:
 
-- to kill yourself is the biggest pain and destruction you can possibly cause for those around you. 
+- to kill yourself is the biggest pain and destruction you can possibly cause for those around you. i know this as a former inflictor of this pain, as someone who has observed its effect on others, and as someone who has been on the receiving end.
 - to kill yourself
 - 
 
@@ -83,9 +83,9 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDE0MjU0NCwtMzY5NTE4NTAyLDE3OD
-A0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3
-ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMT
-I3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcy
-NDYwMV19
+eyJoaXN0b3J5IjpbLTE3NTI1MzkzOTUsLTM2OTUxODUwMiwxNz
+gwNDI4MjEyLC01OTk5MzI1NDgsLTE0NTkwMjEyNjgsNDcyMTU1
+Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3OTgyLD
+EyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3
+MjQ2MDFdfQ==
 -->
