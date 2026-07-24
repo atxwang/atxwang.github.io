@@ -18,7 +18,9 @@ i am older now though, and i have seen enough people my age succumb, each time t
 
 **Why I am writing this**
 -
-during the months in which i tried to kill myself, i found solace in a single piece of media: susanna kaysen's *girl interrupted*. sue me i'm a basic bitch. i pirated it as a pdf and would kind of just read it over and over again. the reason for this was very simple. when you want to kill yourself you often don't know why, and any logical justification you construct falls apart upon pretty basic questioning. yet the emotional truth beneath persists. so i was reading *g
+during the months in which i tried to kill myself, i found solace in a single piece of media: susanna kaysen's *girl interrupted*. sue me i'm a basic bitch. i pirated it as a pdf and would kind of just read it over and over again. the reason for this was very simple. when you want to kill yourself you often don't know why, and any logical justification you construct falls apart upon pretty basic questioning. yet the emotional truth beneath persists. so i was reading *girl interrupted* to try to articulate to myself why i wanted to die, to stop living.
+
+i didn't *like* therapy
 
 
 
@@ -36,5 +38,5 @@ during the months in which i tried to kill myself, i found solace in a single pi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDk4NTk4NV19
+eyJoaXN0b3J5IjpbNDczNjYwOTI2XX0=
 -->
