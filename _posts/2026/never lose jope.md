@@ -18,13 +18,14 @@ i am older now though, and i have seen enough people my age succumb, each time t
 
 **Why I am writing this**
 -
-during the period 
+during the months in which i tried to kill myself, 
 
 **Why I tried to kill myself***
 -
 
 **Why I stopped wanting to kill myself**
 -
+
 ** Why you should stop wanting to kill yourself**
 -
 
@@ -33,5 +34,5 @@ during the period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTU3NjcwM119
+eyJoaXN0b3J5IjpbNTExMDM2MzE1XX0=
 -->
