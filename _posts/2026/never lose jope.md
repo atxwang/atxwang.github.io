@@ -73,15 +73,15 @@ yet to repeat these vacuously true statements is worthless for a suicidal person
 
 the risk of talking about suicide to the suicidal is that everything you say can be used against you, against themselves. you can give them the "i was sick, now i'm not, and you can be too" spiel. that is easily dismissed, and the suicidal will mentally accuse you of not earnestly reaching the depths of their descent, and therefore not capable of true understanding. you can pathologize them, as is done in psychiatry and can often be quite beneficial to do, but that can engender complacency, and to a suicidal person the advice to "stop thinking the thoughts that make you want to kill yourself" can be about as helpful as telling a cancer patient to make their tumor cells stop dividing. when i was suicidal i could only really find comfort in the words of other suicidal persons, for whatever reasons of community and belonging that i still can't quite place. that too was quite dangerous, because i became convinced that the comfort came from suicide and not the narrative of suicide. i constructed a very beautiful, very artistic mythology around my own self-undoing, some millais' *ophelia* type shit. i thought of and tried to execute poetic ways of dying (which really did amount to like, being cryptic on social media).
 
-by publicizing my own narrative of suicide i know i am contributing to this risk. all i can say is that i am far enough removed from the events described that i can talk about them objectively, or at least without shame. it felt like nothing could convince me not to kill myself until one day i really did stop wanting to kill myself. my period of suicidality was not beautiful, was not poetic. it added no value to my life. it was boring. i wish i had done anything productive besides sleeping longer than i should have and thinking about killing myself. i didnt reinvent myself in any profound way, i didnt produce great art as a result of my suffering (what i did manage to scrawl out was silly and juvenile), i merely went through the motions of high school and occasionally humiliated myself publicly on account of my melodramatics. i did not suffer uniquely, in fact my feelings of pathological sadness were quite normative, which i knew rationally but could not feel deep down until i was moved to inpatient care. it was just a time in my life that sucked and really did not have to, and despite my sincere feeling at the time that i was trapped in an eternal labyrinth from which i could never find my way out, 
+by publicizing my own narrative of suicide i know i am contributing to this risk. all i can say is that i am far enough removed from the events described that i can talk about them objectively, or at least without shame. it felt like nothing could convince me not to kill myself until one day i really did stop wanting to kill myself. my period of suicidality was not beautiful, was not poetic. it added no value to my life. it was boring. i wish i had done anything productive besides sleeping longer than i should have and thinking about killing myself. i didnt reinvent myself in any profound way, i didnt produce great art as a result of my suffering (what i did manage to scrawl out was silly and juvenile), i merely went through the motions of high school and occasionally humiliated myself publicly on account of my melodramatics. i did not suffer uniquely, in fact my feelings of pathological sadness were quite normative, which i knew rationally but could not feel deep down until i was moved to inpatient care. it was just a time in my life that sucked and really did not have to, and despite my sincere feeling at the time that i was trapped in an eternal labyrinth from which i could never find my way out, i did get out. i stumbled inadvertently and unconsciously 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk0Mzc3NjksLTE4NTE4NDY2OTYsLT
-M2OTUxODUwMiwxNzgwNDI4MjEyLC01OTk5MzI1NDgsLTE0NTkw
-MjEyNjgsNDcyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNi
-wtODEyMzQ3OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0
-MDc5ODk3LC00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTI1NDcwNzg1OCwtMTg1MTg0NjY5NiwtMz
+Y5NTE4NTAyLDE3ODA0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAy
+MTI2OCw0NzIxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC
+04MTIzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQw
+Nzk4OTcsLTQyMTcyNDYwMV19
 -->
