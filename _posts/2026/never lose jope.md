@@ -54,6 +54,8 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals
 
+when i was moved to inpatient i continued to read voraciously 
+
 ** Why you should stop wanting to kill yourself**
 -
 there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself (indeed, i was quite cognizant of these back in the day). however, they bear repeating, so i list them here:
@@ -65,7 +67,7 @@ there are very many good reasons to not kill yourself that you have already prob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcyMjIyMjUsLTE0NTkwMjEyNjgsND
+eyJoaXN0b3J5IjpbLTE2OTgyODg0MDYsLTE0NTkwMjEyNjgsND
 cyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3
 OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC
 00MjE3MjQ2MDFdfQ==
