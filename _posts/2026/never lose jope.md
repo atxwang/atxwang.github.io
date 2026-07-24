@@ -46,7 +46,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future.  th
 
 > "Once you’ve posed that question, it won’t go away. I think many people kill themselves simply to stop the debate about whether they will or they won’t" (p. 38).
 
-i didn't want to "live", but i was highly noncommittal about suicide. i was scared of the Great Beyond (tm) so my tendencies towards relatively non-lethal methods and public scenes gave me some relief. i made my attempts on a whim, on 
+i didn't want to "live", but i was highly noncommittal about suicide. i was scared of the Great Beyond (tm) so my tendencies towards relatively non-lethal methods and public scenes gave me some relief. i made my attempts on a whim, on impulse or when i was bored, because i was far too exhausted and maled to premeditate anything.
 
 **Why I stopped wanting to kill myself**
 -
@@ -63,8 +63,8 @@ there are very many good reasons to not kill yourself that you have already prob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNjI5ODQ5LC0xNDU5MDIxMjY4LDQ3Mj
-E1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4
-MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtND
-IxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbLTE5NTU3NjQzNzIsLTE0NTkwMjEyNjgsND
+cyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3
+OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC
+00MjE3MjQ2MDFdfQ==
 -->
