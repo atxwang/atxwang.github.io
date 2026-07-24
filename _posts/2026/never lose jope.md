@@ -30,7 +30,7 @@ there were many other things she understood that i thought i was "actually crazy
 
 psychiatry has the difficulty of being utterly alien to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. 
 
-i am w
+i am writing now
 
 
 **Why I tried to kill myself***
@@ -47,6 +47,6 @@ i am w
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzAwODM3OSw3MDQwNzk4OTcsLTQyMT
-cyNDYwMV19
+eyJoaXN0b3J5IjpbLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00Mj
+E3MjQ2MDFdfQ==
 -->
