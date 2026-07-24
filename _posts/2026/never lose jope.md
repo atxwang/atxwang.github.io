@@ -66,10 +66,11 @@ it was an ev-calculation for me. whatever had drawn me to try to kill myself in 
 -
 there are very many good reasons to not kill yourself. for example:
 
-- to kill yourself is the biggest p
+- to kill yourself is the biggest pain and destruction you can possibly cause for those around you. 
 - to kill yourself
+- 
 
-yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did) 
+yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). 
 
 
 that you have already probably considered if you want to kill yourself (indeed, i was quite cognizant of these back in the day). 
@@ -82,7 +83,7 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTA1Mjg5MiwtMzY5NTE4NTAyLDE3OD
+eyJoaXN0b3J5IjpbMTQ1NDE0MjU0NCwtMzY5NTE4NTAyLDE3OD
 A0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3
 ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMT
 I3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcy
