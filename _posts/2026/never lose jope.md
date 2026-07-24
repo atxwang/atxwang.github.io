@@ -14,7 +14,7 @@ over some months in 2023, i tried to kill myself 3 times (tbh lost track). the l
 
 i am older now though, and i have seen enough people my age succumb, each time thinking that in some sense i was in their brains not too long ago, and that it wouldn't have taken more than a nudge to send me tumbling down with them. this is a thought that is hard to hold in, so i have chosen to write it down.
 
-**NOTE TO POTENTIAL EMPLOYERS: I am healthy, stable, and (mostly) happy now. **
+**NOTE TO POTENTIAL EMPLOYERS: i am healthy, stable, and (mostly) happy now. many people, especially in youth, are pathologically sad, and i was one of them. i have pursued professional help and medication to which i owe **
 
 **Why I am writing this**
 -
@@ -31,5 +31,5 @@ during the period
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzE4NDAzMl19
+eyJoaXN0b3J5IjpbLTE3ODU2MDk0ODJdfQ==
 -->
