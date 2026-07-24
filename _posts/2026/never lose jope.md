@@ -42,7 +42,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i was obsessed with hating myself. i was uncertain of everything, my sexual identity, my interests, my existence as a physical body, except for that i was smart and that i was going to be an Important Person, that i *needed* to get into one of three possible universities to achieve this, and that my admission would require absolute perfection in all my endeavors. when that didn't happen i had no identity. i think that i thought that if i killed myself, i would give my life a last-ditch sort of meaning now that i had tried and failed to achieve its original purpose.
 
-after my first attempt my ambitions evaporated. i couldn't picture a future. the activity of waking life became unbearable. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. 
+after my first attempt my ambitions evaporated. i couldn't picture a future and i didn't want to accomplish anything. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. 
 
 > "Once you’ve posed that question, it won’t go away. I think many people kill themselves simply to stop the debate about whether they will or they won’t" (p. 38).
 
@@ -52,7 +52,7 @@ i didn't want to "live", but i was highly noncommittal about suicide. i was scar
 -
 i stopped wanting to kill myself for two reasons: hospitalization and inpatient care. 
 
-the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state, with features just estranged enough from my regular sad life for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). i made my dad fetch me books from the local library. i tore through *the three body problem*, *one hundred years of solitude*, and *dune* and enjoyed them (marquez especially was to me a very life-affirming writer)! i had something to seriously occupy my brain besides the constant repetition of the should-i-kill-myself question in various forms, which i could typically mask through a mechanical mimicry of the everyday routines i now had no access to. 
+the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state, with features just estranged enough from my regular sad life for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). i made my dad fetch me books from the local library. i tore through *the three body problem*, *one hundred years of solitude*, and *dune* and enjoyed them (marquez especially was to me a very life-affirming writer)! i had something to seriously occupy my brain besides the constant repetition of the should-i-kill-myself question in various forms, which i could typically numb through a mechanical mimicry of the everyday routines to which i no longer had acces
 
 when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my all-girls facility. the other patients were from low-income areas, and 
 
@@ -75,8 +75,8 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NzM5MDIxLC0xNDU5MDIxMjY4LDQ3Mj
-E1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4
-MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtND
-IxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbLTM4NDI5MDMxNCwtMTQ1OTAyMTI2OCw0Nz
+IxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5
+ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLT
+QyMTcyNDYwMV19
 -->
