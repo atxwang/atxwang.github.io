@@ -20,7 +20,7 @@ i am older now though, and i have seen enough people my age succumb, each time t
 -
 during the months in which i tried to kill myself, i found solace in a single piece of media: susanna kaysen's *girl interrupted*. sue me i'm a basic bitch. i pirated it as a pdf and would kind of just read it over and over again. the reason for this was very simple. when you want to kill yourself you often don't know why, and any logical justification you construct falls apart upon pretty basic questioning. yet the emotional truth beneath persists. so i was reading *girl interrupted* to try to articulate to myself why i wanted to die, to stop living.
 
-i hated therapy then and still don't *like* it, strictly speaking (not sure if anyone does). i perceived of therapists as a kind of sidequest npc in a shitty video game, where you can exactly anticipate the right responses to run-of-the-mill dialogue prompts, to complete the task and get them to leave you alone faster. i may have had bad therapists, but more fundamentally it was my refusal to engage that caused this perception. 
+i hated therapy then and still don't *like* it, strictly speaking (not sure if anyone does). i perceived of therapists as a kind of sidequest npc in a shitty video game, where you can exactly anticipate the right responses to run-of-the-mill dialogue prompts, to complete the task and get them to leave you alone faster. i may have had bad therapists, but more fundamentally it was my refusal to engage that caused this perception. i mean, i knew my patterns of thought were deeply disordered and more importantly utterly 
 
 
 **Why I tried to kill myself***
@@ -37,5 +37,5 @@ i hated therapy then and still don't *like* it, strictly speaking (not sure if a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MjA5NTY1XX0=
+eyJoaXN0b3J5IjpbLTE5NDQwMTgxM119
 -->
