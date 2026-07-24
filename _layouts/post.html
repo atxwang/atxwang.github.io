@@ -39,9 +39,48 @@ layout: base
         </div>
       {% endif %}
 
-      <div class="blog-post">
-        {{ content }}
-      </div>
+      {% if page.protected %}
+        <div class="blog-post protected-post" data-protected-post>
+          <section class="protected-post__gate" aria-labelledby="protected-post-title">
+            <div class="protected-post__lock" aria-hidden="true">
+              <i class="fas fa-lock"></i>
+            </div>
+            <h2 id="protected-post-title">This article is password protected</h2>
+            <p>Enter the password to read it. The password is checked locally and is never sent anywhere.</p>
+            <form class="protected-post__form" data-protected-post-form>
+              <label for="protected-post-password">Password</label>
+              <div class="protected-post__controls">
+                <input
+                  id="protected-post-password"
+                  name="password"
+                  type="password"
+                  autocomplete="current-password"
+                  required
+                  autofocus
+                  data-protected-post-password
+                >
+                <button type="submit" data-protected-post-submit>Unlock</button>
+              </div>
+              <p class="protected-post__status" role="status" aria-live="polite" data-protected-post-status></p>
+            </form>
+            <noscript>This article requires JavaScript to decrypt it in your browser.</noscript>
+          </section>
+        </div>
+        <script id="protected-post-data" type="application/json">
+          {
+            "version": {{ page.password_protection.version }},
+            "iterations": {{ page.password_protection.iterations }},
+            "salt": "{{ page.password_protection.salt }}",
+            "iv": "{{ page.password_protection.iv }}",
+            "ciphertext": "{{ page.password_protection.content }}"
+          }
+        </script>
+        <script src="{{ '/assets/js/password-protected-post.js' | relative_url }}"></script>
+      {% else %}
+        <div class="blog-post">
+          {{ content }}
+        </div>
+      {% endif %}
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
