@@ -8,9 +8,9 @@ tags: [essay, personal]
 ---
 what a title amiright????
 
-in 2023, i tried to kill myself, 2 or 3 odd times (i lost track). 
+over some months in 2023, i tried to kill myself, 2 or 3 odd times (lost track). it is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg0NjY1MzNdfQ==
+eyJoaXN0b3J5IjpbLTU0MDk4NDM0MF19
 -->
