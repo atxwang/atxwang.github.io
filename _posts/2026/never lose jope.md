@@ -38,11 +38,13 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i succumbed to stress and high pressure. interpersonal comparison spurs an obsessive perfectionism in me. when i was maybe 7 or 8, my piano teacher told me i wasn't working as hard as another student, so i began a habit of practicing long hours into the night, daily, replaying pieces over in their entirety if i detected a single wrong note. i would throw fits and even threaten to cut off my fingers with a kitchen knife (yes, really) if my family so much as chided me to "cool down". but my high school wasn't super competitive and my parents, far from the stereotypical "tiger mom/dad", were incredibly patient and nurturing of all of my interests.
 
-**why?** i was a lonely teenager. i had few genuine friends 
+**why?** i was a lonely teenager. i had few genuine friends who i didn't go to parties 
 
 **why?** i was obsessed with hating myself. i had no identity. 
 
 after my first attempt my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. each time i tried killing myself there was nothing premeditated about it.
+
+> "Once you’ve posed that question, it won’t go away. I think many people kill themselves simply to stop the debate about whether they will or they won’t" (p. 38).
 
 **Why I stopped wanting to kill myself**
 -
@@ -55,7 +57,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future. it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MT
-IzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4
-OTcsLTQyMTcyNDYwMV19
+eyJoaXN0b3J5IjpbMTc0NjIzMjg4OCwtNzExNDIxNTA4LC0yMD
+MzNTkxMjYsLTgxMjM0Nzk4MiwxMjcyNDk3OTg0LC0yMTM3MDg5
+NTY4LDcwNDA3OTg5NywtNDIxNzI0NjAxXX0=
 -->
