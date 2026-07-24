@@ -30,8 +30,7 @@ there were many other things she understood that i thought i was "actually crazy
 
 psychiatry has the difficulty of being utterly alien to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. *girl interrupted* was guttural, throttling me around between complete psychological and emotional identification with its characters and the threat of a deeply repulsive near-future (disassociation, self-destructive romantic relationships, professional failure) that was quite plausible for me. it was funny and to this day the most cathartic book i've ever read.
 
-i am writing now as candidly as possible. i edit only for clarity. there is no structure, only meandering testimony from a reformed 
-
+i am writing now as candidly as possible. i edit only for clarity. there is no structure, only meandering testimony from a reformed mental invert who once tried to shirk the basic biological instinct of survival and is trying to stop from other mental inverts from doing the same.
 
 **Why I tried to kill myself***
 -
@@ -47,7 +46,7 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDU1NzM4OSwtODEyMzQ3OTgyLDEyNz
-I0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3MjQ2
-MDFdfQ==
+eyJoaXN0b3J5IjpbNDMzMzE0MzE1LC04MTIzNDc5ODIsMTI3Mj
+Q5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcyNDYw
+MV19
 -->
