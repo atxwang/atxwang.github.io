@@ -69,7 +69,7 @@ there are very many good reasons to not kill yourself. for example:
 - **to kill yourself is the biggest pain and destruction you can possibly cause for those around you**. i know this as a former inflictor of this pain, as someone who has observed its effect on others, and as someone who has been on the receiving end. people who try to kill themselves are often well-liked and usually have other people in their lives that love and care about them, that would shrink into themselves and possibly never come out of their bodies if you were gone, and even if you were (like i was) only playing very dangerously with the idea of being gone. 
 - to kill yourself means you rob yourself of life (seriously!). people who want to kill themselves still have things that they enjoy, even as trivial as a favorite food, and can no longer enjoy them once they are dead. plus, personal experience and statistical evidence point to the urge to kill oneself being very typically temporary. it is not very smart to act on a desire you may no longer have one, five, ten years into the future and that precludes you from doing literally anything else.
 
-yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). it is hard not to be if all day every day you are thinking about killing yourself. i did care and was occasionally saddened by these thoughts, but not a
+yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). it is hard not to be if all day every day you are thinking about killing yourself. i did care and was occasionally saddened by these thoughts, but not as much as i was transfixed on the fantasy of self-inflicted death. i thought that maybe my loved ones would be sad if i was gone, but that i was such an intolerable burden on their lives that they would heal and move on 
 
 the risk
 
@@ -77,7 +77,7 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjAzNDQ4NywtMTg1MTg0NjY5NiwtMz
+eyJoaXN0b3J5IjpbMTMxMDcxNTA3MywtMTg1MTg0NjY5NiwtMz
 Y5NTE4NTAyLDE3ODA0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAy
 MTI2OCw0NzIxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC
 04MTIzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQw
