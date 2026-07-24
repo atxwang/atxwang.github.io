@@ -38,7 +38,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i succumbed to stress and high pressure. interpersonal comparison spurs an obsessive perfectionism in me. when i was maybe 7 or 8, my piano teacher told me i wasn't working as hard as another student, so i began a habit of practicing long hours into the night, daily, replaying pieces over in their entirety if i detected a single wrong note. i would throw fits and even threaten to cut off my fingers with a kitchen knife (yes, really) if my family so much as chided me to "cool down". but my high school wasn't super competitive and my parents, far from the stereotypical "tiger mom/dad", were incredibly patient and nurturing of all of my interests.
 
-**why?** i was a lonely teenager. i had few genuine friends with whom most of my communication was online. i suspected most others found me repulsive. i was praised for "emotional maturity" which meant a refusal to speak about my life to my parents and a refusal to take risks---i didn't go to parties. 
+**why?** i was a lonely teenager. i had few genuine friends with whom most of my communication was online. i suspected most others found me repulsive. i was praised for "emotional maturity" which meant a refusal to speak about my life to my parents and a refusal to take risks---i didn't go to parties. i damaged my brain lurking places like r/redscarepod, 4chan, 
 
 **why?** i was obsessed with hating myself. i had no identity. 
 
@@ -57,7 +57,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future. it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNzk0ODY5LC03MTE0MjE1MDgsLTIwMz
-M1OTEyNiwtODEyMzQ3OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1
-NjgsNzA0MDc5ODk3LC00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTExMzE3MTU2NjksLTcxMTQyMTUwOCwtMj
+AzMzU5MTI2LC04MTIzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4
+OTU2OCw3MDQwNzk4OTcsLTQyMTcyNDYwMV19
 -->
