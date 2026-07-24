@@ -28,7 +28,7 @@ susanna understood this:
 there were many other things she understood that i thought i was "actually crazy", singularly so, for thinking. the sentence that most described my life back then is one i still remember now:
 > "Viscosity and velocity are opposites, yet they can look the same. Viscosity causes the stillness of disinclination; velocity causes the stillness of fascination" (p. 71).
 
-psychiatry has the difficulty of being utterly alien to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. *girl interrupted* was guttural, throttling me around between complete psychological and emotional identification with its characters and the threat of deeply repu
+psychiatry has the difficulty of being utterly alien to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. *girl interrupted* was guttural, throttling me around between complete psychological and emotional identification with its characters and the threat of a deeply repulsive near-future (disassociation, self-destructive romantic relationships, professional failure) that was quite plausible for me. 
 
 i am writing now
 
@@ -47,6 +47,6 @@ i am writing now
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTgwNjg3MDQsLTIxMzcwODk1NjgsNz
-A0MDc5ODk3LC00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MD
+QwNzk4OTcsLTQyMTcyNDYwMV19
 -->
