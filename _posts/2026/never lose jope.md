@@ -20,6 +20,8 @@ i am older now though, and i have seen enough people my age succumb, each time t
 -
 during the months in which i tried to kill myself, i found solace in a single piece of media: susanna kaysen's *girl interrupted*. sue me i'm a basic bitch. i pirated it as a pdf and would kind of just read it over and over again. 
 
+the reason for this was very simple. 
+
 
 
 **Why I tried to kill myself***
@@ -36,5 +38,5 @@ during the months in which i tried to kill myself, i found solace in a single pi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjA1NTUwOF19
+eyJoaXN0b3J5IjpbLTEzMzM2ODI2OTldfQ==
 -->
