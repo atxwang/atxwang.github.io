@@ -40,7 +40,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** 
 
-**why?** i hated myself. i had no identity. 
+**why?** i was obsessed with hating myself. i had no identity. 
 
 my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. 
 
@@ -57,7 +57,7 @@ my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2MDMxNjksLTIwMzM1OTEyNiwtOD
-EyMzQ3OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5
-ODk3LC00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTg4OTUxNzIzNSwtMjAzMzU5MTI2LC04MT
+IzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4
+OTcsLTQyMTcyNDYwMV19
 -->
