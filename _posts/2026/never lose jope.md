@@ -14,13 +14,15 @@ over some months in 2023, i tried to kill myself three times (tbh lost track). t
 
 i am older now though, and i have seen enough people my age succumb, each time thinking that in some sense i was in their brains not too long ago, and that it wouldn't have taken more than a nudge to send me tumbling down with them. this is a thought that is hard to hold in, so i have chosen to write it down.
 
-**NOTE TO POTENTIAL EMPLOYERS: i am healthy, stable, and mostly happy now. many people, especially in youth, are pathologically sad, and i was one of them. i have pursued professional help and medication to which i owe a lot, and i also like to think that i have matured in the four years since age 17. you should not consider my past illness, which has been since effectively treated, as a reason not to hire me :)**
+**NOTE TO POTENTIAL EMPLOYERS: i am healthy, stable, and mostly happy now. many people, especially in youth, are pathologically sad, and i was one of them. i have pursued professional help and medication to which i owe a lot, and i also like to think that i have matured in the four years since age 17. you should not consider my past illness, which has since been effectively treated, as a reason not to hire me :)**
 
 **Why I am writing this**
 -
 during the months in which i tried to kill myself, i found solace in a single piece of media: susanna kaysen's *girl interrupted*. sue me i'm a basic bitch. i pirated it as a pdf and would kind of just read it over and over again. the reason for this was very simple. when you want to kill yourself you often don't know why, and any logical justification you construct falls apart upon pretty basic questioning. yet the emotional truth beneath persists. so i was reading *girl interrupted* to try to articulate to myself why i wanted to die, to stop living.
 
-i hated therapy then and still don't *like* it, strictly speaking (not sure if anyone does). i perceived of therapists as a kind of sidequest npc in a shitty video game, 
+i hated therapy then and still don't *like* it, strictly speaking (not sure if anyone does). i perceived of therapists as a kind of sidequest npc in a shitty video game, where you can exactly anticipate 
+
+this
 
 
 
@@ -38,5 +40,5 @@ i hated therapy then and still don't *like* it, strictly speaking (not sure if a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzI5NzkyXX0=
+eyJoaXN0b3J5IjpbMTg3MDQ4MjgyXX0=
 -->
