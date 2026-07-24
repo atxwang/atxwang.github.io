@@ -56,7 +56,9 @@ the purpose of a post-suicide attempt hospitalization is ostensibly to check you
 
 when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my all-girls facility. the other patients were from low-income areas, and they appeared physically and mentally younger than me (they'd beg the nurses to put disney movies on the tv and sing along). when we had group sessions, there were allusions to sexual and domestic abuse, violence, serious trauma, addiction, all the words one associates with "cycle of poverty". it was pretty cheesy. i had software engineer parents, an awareness that nothing very bad had really happened in my life, and (by then) an offer of admission to a top 10 college (somehow i could not picture a future for myself even with binding admission to the university of chicago). it's not possible to put into words just how ridiculous and just how stupid i felt. i felt an intense, incredulous scrutiny casted on me by my so-called peers. i felt entrapped by this, more than the boredom of having none of my possessions and nothing to pass the time, more than the regret of being barred from my friends and parents (i who had fought with my mom every day in the past year was really beginning to miss her), more than the inability to leave. i came running back out, humiliated but relieved.
 
-in the following weeks i did still think about it, that is, killing myself. but e
+in the following weeks i did still think about it, that is, killing myself. but everytime i did i thought:
+1. if you kill yourself, you won't be able to read *one hundred years of solitude*.
+2. if you try to kill yourself and fail, you will be sent back to inpatient, probably for
 
 ** Why you should stop wanting to kill yourself**
 -
@@ -73,7 +75,7 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTA4ODA2OCwtMzY5NTE4NTAyLDE3OD
+eyJoaXN0b3J5IjpbLTE5MTU5MzgxNywtMzY5NTE4NTAyLDE3OD
 A0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3
 ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMT
 I3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcy
