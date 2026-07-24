@@ -25,7 +25,8 @@ i hated therapy then and still don't *like* it, strictly speaking (not sure if a
 susanna understood this:
 > "It was my misfortune—or salvation—to be at all times perfectly conscious of my misperceptions of reality" (p. 43).
 
-there were many other things she understood that i thought i was "actually crazy", singularly so, for thinking. 
+there were many other things she understood that i thought i was "actually crazy", singularly so, for thinking. the sentence that 
+> "Viscosity and velocity are opposites, yet they can look the same. Viscosity causes the stillness of disinclination; velocity causes the stillness of fascination" (p. 71)
 
 **Why I tried to kill myself***
 -
@@ -41,5 +42,5 @@ there were many other things she understood that i thought i was "actually crazy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4NDg5MTk4LC00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTIzODI3OTk1NSwtNDIxNzI0NjAxXX0=
 -->
