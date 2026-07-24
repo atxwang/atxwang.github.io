@@ -25,7 +25,7 @@ i hated therapy then and still don't *like* it, strictly speaking (not sure if a
 susanna understood this:
 > "It was my misfortune—or salvation—to be at all times perfectly conscious of my misperceptions of reality" (p. 43).
 
-there were many 
+there were many other things she understood that i thought i was "actually crazy", singularly so, for thinking. 
 
 **Why I tried to kill myself***
 -
@@ -41,5 +41,5 @@ there were many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjA0MjE0NCwtNDIxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbNTI4NDg5MTk4LC00MjE3MjQ2MDFdfQ==
 -->
