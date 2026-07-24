@@ -34,7 +34,7 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 
 **Why I tried to kill myself***
 -
-the story is rather straightforward. i was in my senior year of high school. 
+the story is rather straightforward. i was in my senior year of high school. i was a very busy top student stressed about college admissions. 
 
 **Why I stopped wanting to kill myself**
 -
@@ -47,7 +47,7 @@ the story is rather straightforward. i was in my senior year of high school.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTExOTY2MzMsLTgxMjM0Nzk4MiwxMj
-cyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtNDIxNzI0
-NjAxXX0=
+eyJoaXN0b3J5IjpbLTIwMzM1OTEyNiwtODEyMzQ3OTgyLDEyNz
+I0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3MjQ2
+MDFdfQ==
 -->
