@@ -54,7 +54,7 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state, with features just estranged enough from my regular sad life for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). i made my dad fetch me books from the local library. i tore through *the three body problem*, *one hundred years of solitude*, and *dune* and enjoyed them (marquez especially was to me a very life-affirming writer)! i had something to seriously occupy my brain besides the constant repetition of the should-i-kill-myself question in various forms, which i could typically numb through a mechanical mimicry of the everyday routines to which i no longer had access...
 
-when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my all-girls facility. the other patients were from low-income areas, and they appeared physically and mentally younger than me (they'd beg the nurses to put disney movies on the tv and sing along). when we had group sessions, there were allusions to sexual and domestic abuse, violence, serious trauma, addiction, all the words one associates 
+when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my all-girls facility. the other patients were from low-income areas, and they appeared physically and mentally younger than me (they'd beg the nurses to put disney movies on the tv and sing along). when we had group sessions, there were allusions to sexual and domestic abuse, violence, serious trauma, addiction, all the words one associates with "cycle of poverty". it was pretty cheesy. 
 
 eyed me quite incredulously throughout my stay in the ward. 
 ridiculous
@@ -74,8 +74,8 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDQyODIxMiwtNTk5OTMyNTQ4LC0xND
-U5MDIxMjY4LDQ3MjE1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkx
-MjYsLTgxMjM0Nzk4MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LD
-cwNDA3OTg5NywtNDIxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbNzMxOTE4MTExLDE3ODA0MjgyMTIsLTU5OT
+kzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3ODQsLTcxMTQyMTUw
+OCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMTI3MjQ5Nzk4NCwtMj
+EzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcyNDYwMV19
 -->
