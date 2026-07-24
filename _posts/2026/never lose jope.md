@@ -52,9 +52,13 @@ i didn't want to "live", but i was highly noncommittal about suicide. i was scar
 -
 i stopped wanting to kill myself for two reasons: hospitalization and inpatient care. 
 
-the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state ,with just estranged enough features for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were c
+the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state ,with just estranged enough features for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). 
 
 when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged.
+
+ridiculous
+embarassed
+stupid
 
 ** Why you should stop wanting to kill yourself**
 -
@@ -67,7 +71,7 @@ there are very many good reasons to not kill yourself that you have already prob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODY0ODQzNCwtMTQ1OTAyMTI2OCw0Nz
+eyJoaXN0b3J5IjpbMTE0MzEzODY5MiwtMTQ1OTAyMTI2OCw0Nz
 IxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5
 ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLT
 QyMTcyNDYwMV19
