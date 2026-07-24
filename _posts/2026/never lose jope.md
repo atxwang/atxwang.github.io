@@ -46,6 +46,8 @@ after my first attempt my ambitions evaporated. i couldn't picture a future.  th
 
 > "Once you’ve posed that question, it won’t go away. I think many people kill themselves simply to stop the debate about whether they will or they won’t" (p. 38).
 
+
+
 **Why I stopped wanting to kill myself**
 -
 i stopped wanting to kill myself for two reasons: hospitalization and inpatient care. 
@@ -58,7 +60,8 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMz
-M1OTEyNiwtODEyMzQ3OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1
-NjgsNzA0MDc5ODk3LC00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTkwMjEyNjgsNDcyMTU1Nzg0LC03MT
+E0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3OTgyLDEyNzI0OTc5
+ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3MjQ2MDFdfQ
+==
 -->
