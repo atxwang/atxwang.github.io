@@ -58,7 +58,9 @@ when i was moved to inpatient i continued to read voraciously, mainly because i 
 
 in the following weeks i did still think about it, that is, killing myself. but everytime i did i thought:
 1. if you kill yourself, you won't be able to read *one hundred years of solitude*.
-2. if you try to kill yourself and fail, you will be sent back to inpatient, probably for
+2. if you try to kill yourself and fail, you will be sent back to inpatient, probably for a much longer time, which would be worse than both dying successfully and living how you are now.
+
+it was a simple ev-calculation for me. 
 
 ** Why you should stop wanting to kill yourself**
 -
@@ -75,9 +77,9 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU5MzgxNywtMzY5NTE4NTAyLDE3OD
-A0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3
-ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMT
-I3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcy
-NDYwMV19
+eyJoaXN0b3J5IjpbNzc0NTEyOTAyLC0zNjk1MTg1MDIsMTc4MD
+QyODIxMiwtNTk5OTMyNTQ4LC0xNDU5MDIxMjY4LDQ3MjE1NTc4
+NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4MiwxMj
+cyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtNDIxNzI0
+NjAxXX0=
 -->
