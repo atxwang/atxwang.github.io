@@ -61,19 +61,20 @@ embarassed
 stupid
 
 i think these are pretty frivolous reasons for not wanting to do something as severe as die. but even now, when i 
+1. 
+2. 
 
 ** Why you should stop wanting to kill yourself**
 -
 there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself (indeed, i was quite cognizant of these back in the day). however, they bear repeating, so i list them here:
 
-- 
-- 
+the risk
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzI0OTA5NSwtMTQ1OTAyMTI2OCw0Nz
+eyJoaXN0b3J5IjpbMTUxMjkyMzEyNCwtMTQ1OTAyMTI2OCw0Nz
 IxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5
 ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLT
 QyMTcyNDYwMV19
