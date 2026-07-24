@@ -54,14 +54,14 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 ** Why you should stop wanting to kill yourself**
 -
-
+there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTkwMjEyNjgsNDcyMTU1Nzg0LC03MT
-E0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3OTgyLDEyNzI0OTc5
-ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3MjQ2MDFdfQ
-==
+eyJoaXN0b3J5IjpbLTEzMzc1MDc2NzUsLTE0NTkwMjEyNjgsND
+cyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3
+OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC
+00MjE3MjQ2MDFdfQ==
 -->
