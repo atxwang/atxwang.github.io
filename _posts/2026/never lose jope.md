@@ -46,7 +46,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future.  th
 
 > "Once you’ve posed that question, it won’t go away. I think many people kill themselves simply to stop the debate about whether they will or they won’t" (p. 38).
 
-i didn't want to "live", but i was highly noncommittal about suicide. i was scared of the Great Beyond (tm) so my tendencies towards relatively non-lethal methods and public scenes gave me some relief. 
+i didn't want to "live", but i was highly noncommittal about suicide. i was scared of the Great Beyond (tm) so my tendencies towards relatively non-lethal methods and public scenes gave me some relief. i made my attempts on a whim, on 
 
 **Why I stopped wanting to kill myself**
 -
@@ -54,7 +54,7 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 ** Why you should stop wanting to kill yourself**
 -
-there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself. however, they bear repeating, so i list them here:
+there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself (indeed, i was quite cognizant of these back in the day). however, they bear repeating, so i list them here:
 
 - 
 - 
@@ -63,8 +63,8 @@ there are very many good reasons to not kill yourself that you have already prob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzc2NDE1NSwtMTQ1OTAyMTI2OCw0Nz
-IxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5
-ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLT
-QyMTcyNDYwMV19
+eyJoaXN0b3J5IjpbODQzNjI5ODQ5LC0xNDU5MDIxMjY4LDQ3Mj
+E1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4
+MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtND
+IxNzI0NjAxXX0=
 -->
