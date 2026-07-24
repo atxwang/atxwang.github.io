@@ -36,7 +36,11 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 -
 the story is straightforward. i was in my senior year of high school. i was a top student stressed about college admissions. i was quite functional and always busy. i worked (inefficiently and distractedly) late into the night, i overslept for classes consistently but still managed perfect grades. i was waiting on results of a competition to which i had submitted (supposedly essential for elite college admissions). i lost, some others won, and i very spontaneously and publicly tried to kill myself. it was downhill from there. my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. 
 
-**why?** 
+**why?** it was easiest to blame stress and high pressure. my high school wasn't super competitive and my parents were pretty gentle. 
+
+**why?**
+
+**why?**
 
 
 
@@ -53,7 +57,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUxOTI1MywtMjAzMzU5MTI2LC04MT
+eyJoaXN0b3J5IjpbLTQ4MDExMzIxOSwtMjAzMzU5MTI2LC04MT
 IzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4
 OTcsLTQyMTcyNDYwMV19
 -->
