@@ -40,7 +40,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i was a lonely teenager. i had few genuine friends with whom most of my communication was online. i suspected most others found me repulsive. i was praised for "emotional maturity" which meant a refusal to speak about my life to my parents and a refusal to take risks---i didn't go to parties. i damaged my brain lurking places like r/redscarepod, 4chan /tttt/, edtwt, because i felt my gen x immigrant parents couldn't possibly understand the concept of "mental illness" (despite their high level of education and 30 years of americanization), because i felt as if friends were only consoling me to make me shut up, because even though i was not dimes square-affiliated, a trans woman, or seriously eating-disordered i felt as if these fuckups and i shared a deeper understanding. every time i tried to kill myself i couldn't resist making it public, even in small ways, because i needed to show others the extent of my terrible suffering. i have this impulse to thank for my survival. it is likely that if my breakdowns were in private, if i hadn't had the urge to write to loved ones in my "final moments," i would have gotten away with murder.
 
-**why?** i was obsessed with hating myself. i was uncertain of everything, my gender, my sexual identity, my interests, except for that i was smart and that i was going to be an Important Person, that i *needed* to get into one of three possible universities to achieve this, and that my admission would require absolute perfection in all my endeavors. when that didn't happen i had no identity. i couldn't quite perceive having a physical body. the activity of life (wake up, brush teeth, leave school
+**why?** i was obsessed with hating myself. i was uncertain of everything, my sexual identity, my interests, except for that i was smart and that i was going to be an Important Person, that i *needed* to get into one of three possible universities to achieve this, and that my admission would require absolute perfection in all my endeavors. when that didn't happen i had no identity. i couldn't quite perceive having a physical body. the activity of life (wake up, brush teeth, leave school, etc.) became unbearable. i 
 
 after my first attempt my ambitions evaporated. i couldn't picture a future. it wasn't so much that i *wanted* to kill myself as much as i wanted to be left alone, under the covers in my childhood bed, to slowly disintegrate for a rest of my life of indeterminate length. each time i tried killing myself there was nothing premeditated about it.
 
@@ -58,7 +58,7 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzY1Nzc2NywtNzExNDIxNTA4LC0yMD
-MzNTkxMjYsLTgxMjM0Nzk4MiwxMjcyNDk3OTg0LC0yMTM3MDg5
-NTY4LDcwNDA3OTg5NywtNDIxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbLTE0NDc5NjUxMDIsLTcxMTQyMTUwOCwtMj
+AzMzU5MTI2LC04MTIzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4
+OTU2OCw3MDQwNzk4OTcsLTQyMTcyNDYwMV19
 -->
