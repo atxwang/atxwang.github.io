@@ -38,7 +38,7 @@ the story is straightforward. i was in my senior year of high school. i was a to
 
 **why?** i succumbed to stress and high pressure. interpersonal comparison spurs an obsessive perfectionism in me. when i was maybe 7 or 8, my piano teacher told me i wasn't working as hard as another student, so i began a habit of practicing long hours into the night, daily, replaying pieces over in their entirety if i detected a single wrong note. i would throw fits and even threaten to cut off my fingers with a kitchen knife (yes, really) if my family so much as chided me to "cool down". but my high school wasn't super competitive and my parents, far from the stereotypical "tiger mom/dad", were incredibly patient and nurturing of all of my interests.
 
-**why?** i was a lonely teenager. i had few genuine friends with whom most of my communication was online. i suspected most others found me repulsive. i was praised for "emotional maturity" which meant a refusal to speak about my life to my parents and a refusal to take risks---i didn't go to parties. i damaged my brain lurking places like r/redscarepod, 4chan /tttt/, edtwt, because i felt my gen x immigrant parents couldn't possibly understand the concept 
+**why?** i was a lonely teenager. i had few genuine friends with whom most of my communication was online. i suspected most others found me repulsive. i was praised for "emotional maturity" which meant a refusal to speak about my life to my parents and a refusal to take risks---i didn't go to parties. i damaged my brain lurking places like r/redscarepod, 4chan /tttt/, edtwt, because i felt my gen x immigrant parents couldn't possibly understand the concept of "mental illness" (despite their 
 
 **why?** i was obsessed with hating myself. i had no identity. 
 
@@ -48,6 +48,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future. it 
 
 **Why I stopped wanting to kill myself**
 -
+i stopped wanting to kill myself for two reasons: 
 
 ** Why you should stop wanting to kill yourself**
 -
@@ -57,7 +58,7 @@ after my first attempt my ambitions evaporated. i couldn't picture a future. it 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDQzODE0NCwtNzExNDIxNTA4LC0yMD
-MzNTkxMjYsLTgxMjM0Nzk4MiwxMjcyNDk3OTg0LC0yMTM3MDg5
-NTY4LDcwNDA3OTg5NywtNDIxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbLTE1NzY4NDgwODcsLTcxMTQyMTUwOCwtMj
+AzMzU5MTI2LC04MTIzNDc5ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4
+OTU2OCw3MDQwNzk4OTcsLTQyMTcyNDYwMV19
 -->
