@@ -52,9 +52,9 @@ i didn't want to "live", but i was highly noncommittal about suicide. i was scar
 -
 i stopped wanting to kill myself for two reasons: hospitalization and inpatient care. 
 
-the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals
+the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. 
 
-when i was moved to inpatient i continued to read voraciously 
+when i was moved to inpatient i continued to read voraciously, mainly because 
 
 ** Why you should stop wanting to kill yourself**
 -
@@ -67,8 +67,8 @@ there are very many good reasons to not kill yourself that you have already prob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTgyODg0MDYsLTE0NTkwMjEyNjgsND
-cyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3
-OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC
-00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbNTIzMzkxODU2LC0xNDU5MDIxMjY4LDQ3Mj
+E1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4
+MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtND
+IxNzI0NjAxXX0=
 -->
