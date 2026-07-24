@@ -22,8 +22,10 @@ during the months in which i tried to kill myself, i found solace in a single pi
 
 i hated therapy then and still don't *like* it, strictly speaking (not sure if anyone does). i perceived of therapists as a kind of sidequest npc in a shitty video game, where you can exactly anticipate the right responses to run-of-the-mill dialogue prompts, to complete the task and get them to leave you alone faster. i may have had bad therapists, but more fundamentally it was my refusal to engage with them that caused this perception. i mean, i knew my patterns of thought were deeply disordered and more importantly utterly fantastical. i knew exactly when i was catastrophizing or attention-seeking or making a big deal over nothing. i just didn't give a fuck, so cbt (cognitive behavioral therapy) was useless for me.
 
+susanna understood this:
+> "It was my misfortune—or salvation—to be at all times perfectly conscious of my misperceptions of reality" (p. 43).
 
-
+there were many 
 
 **Why I tried to kill myself***
 -
@@ -39,5 +41,5 @@ i hated therapy then and still don't *like* it, strictly speaking (not sure if a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTcyNDYwMV19
+eyJoaXN0b3J5IjpbLTc4MjA0MjE0NCwtNDIxNzI0NjAxXX0=
 -->
