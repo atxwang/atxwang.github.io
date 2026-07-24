@@ -34,7 +34,7 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 
 **Why I tried to kill myself***
 -
-
+the story is rather straightforward. i was in my senior year of high school. 
 
 **Why I stopped wanting to kill myself**
 -
@@ -47,7 +47,7 @@ i am writing now as candidly as possible. i edit only for clarity. there is no s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE0ODc0NTksLTgxMjM0Nzk4MiwxMj
+eyJoaXN0b3J5IjpbLTEwMTExOTY2MzMsLTgxMjM0Nzk4MiwxMj
 cyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtNDIxNzI0
 NjAxXX0=
 -->
