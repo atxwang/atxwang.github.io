@@ -18,7 +18,7 @@ i am older now though, and i have seen enough people my age succumb, each time t
 
 **Why I am writing this**
 -
-during the months in which i tried to kill myself, i found solace in a single piece of media: susanna kaysen's *girl interrupted*. sue me i'm a basic bitch. i pirated it as a pdf and would kind of just read it over and over again. the reason for this was very simple. when you want to kill yourself you often don't know why, and any logical justification you construct falls apart upon pretty basic questioning. yet the emotional truth beneath persists. so i was reading *girl interrupted* to try to articulate to myself why i wanted to die, to stop living.
+during the months in which i tried to kill myself, i found solace in a single piece of media: susanna kaysen's *girl, interrupted*. sue me i'm a basic bitch. i pirated it as a pdf and would kind of just read it over and over again. the reason for this was very simple. when you want to kill yourself you often don't know why, and any logical justification you construct falls apart upon pretty basic questioning. yet the emotional truth beneath persists. so i was reading *girl interrupted* to try to articulate to myself why i wanted to die, to stop living.
 
 i hated therapy then and still don't *like* it, strictly speaking (not sure if anyone does). i perceived of therapists as a kind of sidequest npc in a shitty video game, where you can exactly anticipate the right responses to run-of-the-mill dialogue prompts, to complete the task and get them to leave you alone faster. i may have had bad therapists, but more fundamentally it was my refusal to engage with them that caused this perception. i mean, i knew my patterns of thought were deeply disordered and more importantly utterly fantastical. i knew exactly when i was catastrophizing or attention-seeking or making a big deal over nothing. i just didn't give a fuck, so cbt (cognitive behavioral therapy) was useless for me.
 
@@ -28,7 +28,7 @@ susanna understood this:
 there were many other things she understood that i thought i was "actually crazy", singularly so, for thinking. the sentence that most described my life back then is one i still remember now:
 > "Viscosity and velocity are opposites, yet they can look the same. Viscosity causes the stillness of disinclination; velocity causes the stillness of fascination" (p. 71).
 
-psychiatry has the difficulty of being utterly farcical to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. *girl interrupted* was guttural, throttling me around between complete psychological and emotional identification with its characters and the threat of a deeply repulsive near-future (disassociation, self-destructive romantic relationships, professional failure) that was quite plausible for me. it was funny, and to this day the most cathartic book i've ever read.
+psychiatry has the difficulty of being utterly farcical to its subjects. i was willing to concede that there was something wrong with me, but i liked my brain and wasn't keen on changing it. the mental health initiatives and therapy-speak that subsumed my late gen z childhood were counterproductive. like everyone else, i bsed my way through those "wellness" worksheets and consigned them mentally to the world of naive, "concerned" adults. *girl, interrupted* was guttural, throttling me around between complete psychological and emotional identification with its characters and the threat of a deeply repulsive near-future (disassociation, self-destructive romantic relationships, professional failure) that was quite plausible for me. it was funny, and to this day the most cathartic book i've ever read.
 
 i am writing now as candidly as possible. i edit only for clarity. there is no structure, only meandering testimony from a reformed mental invert who once tried to shirk the basic biological instinct of survival and is trying to stop from other mental inverts from doing the same.
 
@@ -75,7 +75,7 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDY5MzQ2MiwtMTQ1OTAyMTI2OCw0Nz
+eyJoaXN0b3J5IjpbMTA2ODk1MTQ4NCwtMTQ1OTAyMTI2OCw0Nz
 IxNTU3ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5
 ODIsMTI3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLT
 QyMTcyNDYwMV19
