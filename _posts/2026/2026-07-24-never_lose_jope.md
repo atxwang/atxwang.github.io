@@ -74,11 +74,11 @@ the risk of talking about suicide to the suicidal is that everything you say can
 by publicizing my own narrative of suicide i know i am contributing to this risk. all i can say is that i am far enough removed from the events described that i can talk about them objectively, or at least without shame. it felt like nothing could convince me not to kill myself until one day i really did stop wanting to kill myself. my period of suicidality was not beautiful, was not poetic. it added no value to my life. it was boring. i wish i had done anything productive besides sleeping longer than i should have and thinking about killing myself. i didnt reinvent myself in any profound way, i didnt produce great art as a result of my suffering (what i did manage to scrawl out was silly and juvenile), i merely went through the motions of high school and occasionally humiliated myself publicly on account of my melodramatics. i did not suffer uniquely, in fact my feelings of pathological sadness were quite normative, which i knew rationally but could not feel deep down until i was moved to inpatient care. it was just a time in my life that sucked and really did not have to, and despite my sincere feeling at the time that i was trapped in an eternal labyrinth from which i could never find my way out, i did get out. i stumbled inadvertently and unconsciously on an exit, and i am happy i did, because i am very very partial to living nowadays.
 
 -
-[](https://www.iasp.info/suicidalthoughts/ 
+[Obligatory get help link](https://www.iasp.info/suicidalthoughts/)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzUyOTkzMiwtMTEwMDExMzI3Nl19
+eyJoaXN0b3J5IjpbMTc1Mjg2ODk0NCwtMTEwMDExMzI3Nl19
 -->
