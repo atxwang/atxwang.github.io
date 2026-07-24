@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Why you shouldn't kill yourself
@@ -82,5 +80,5 @@ https://www.iasp.info/suicidalthoughts/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDAxMTMyNzZdfQ==
+eyJoaXN0b3J5IjpbMTg2OTIzMDI0OCwtMTEwMDExMzI3Nl19
 -->
