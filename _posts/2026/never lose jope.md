@@ -54,7 +54,7 @@ i stopped wanting to kill myself for two reasons: hospitalization and inpatient 
 
 the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state, with features just estranged enough from my regular sad life for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). i made my dad fetch me books from the local library. i tore through *the three body problem*, *one hundred years of solitude*, and *dune* and enjoyed them (marquez especially was to me a very life-affirming writer)! i had something to seriously occupy my brain besides the constant repetition of the should-i-kill-myself question in various forms, which i could typically numb through a mechanical mimicry of the everyday routines to which i no longer had access...
 
-when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my all-girls facility. the other patients were from low-income areas, and they appeared physically and mentally younger than me (they'd beg the nurses to put disney movies on the tv and sing along). when we had group sessions, there were allusions to sexual and domestic abuse, violence, serious trauma, addiction, all the words one associates with "cycle of poverty". it was pretty cheesy. i had software engineer parents, awareness that nothing 
+when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged and off kilter. at 17, i was the oldest patient in my all-girls facility. the other patients were from low-income areas, and they appeared physically and mentally younger than me (they'd beg the nurses to put disney movies on the tv and sing along). when we had group sessions, there were allusions to sexual and domestic abuse, violence, serious trauma, addiction, all the words one associates with "cycle of poverty". it was pretty cheesy. i had software engineer parents, awareness that nothing very bad had really happened in my life, and (by then) an offer of admission to a top 10 college (somehow i could not picture a future even with binding admission to the university of chicago). 
 
 eyed me quite incredulously throughout my stay in the ward. 
 ridiculous
@@ -74,8 +74,8 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE1NTg5MTIsMTc4MDQyODIxMiwtNT
-k5OTMyNTQ4LC0xNDU5MDIxMjY4LDQ3MjE1NTc4NCwtNzExNDIx
-NTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4MiwxMjcyNDk3OTg0LC
-0yMTM3MDg5NTY4LDcwNDA3OTg5NywtNDIxNzI0NjAxXX0=
+eyJoaXN0b3J5IjpbLTM2OTUxODUwMiwxNzgwNDI4MjEyLC01OT
+k5MzI1NDgsLTE0NTkwMjEyNjgsNDcyMTU1Nzg0LC03MTE0MjE1
+MDgsLTIwMzM1OTEyNiwtODEyMzQ3OTgyLDEyNzI0OTc5ODQsLT
+IxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3MjQ2MDFdfQ==
 -->
