@@ -26,8 +26,9 @@ susanna understood this:
 > "It was my misfortune—or salvation—to be at all times perfectly conscious of my misperceptions of reality" (p. 43).
 
 there were many other things she understood that i thought i was "actually crazy", singularly so, for thinking. the sentence that most described my life back then is one i still remember now:
-> "Viscosity and velocity are opposites, yet they can look the same. Viscosity causes the stillness of disinclination; velocity causes the stillness of fascination" (p. 71)
+> "Viscosity and velocity are opposites, yet they can look the same. Viscosity causes the stillness of disinclination; velocity causes the stillness of fascination" (p. 71).
 
+psychiatry has the difficulty of being utterly alien to its subjects. i was willing to concede that there was something wrong with me, 
 
 
 **Why I tried to kill myself***
@@ -44,5 +45,6 @@ there were many other things she understood that i thought i was "actually crazy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MDc5ODk3LC00MjE3MjQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTYzMDgxMjczOCw3MDQwNzk4OTcsLTQyMT
+cyNDYwMV19
 -->
