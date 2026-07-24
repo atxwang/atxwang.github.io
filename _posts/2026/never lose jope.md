@@ -71,16 +71,13 @@ there are very many good reasons to not kill yourself. for example:
 
 yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). it is hard not to be if all day every day you are thinking about killing yourself. 
 
-
-
-
 the risk
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc0NTg1OTAsLTM2OTUxODUwMiwxNz
+eyJoaXN0b3J5IjpbLTE4NTE4NDY2OTYsLTM2OTUxODUwMiwxNz
 gwNDI4MjEyLC01OTk5MzI1NDgsLTE0NTkwMjEyNjgsNDcyMTU1
 Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3OTgyLD
 EyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3
