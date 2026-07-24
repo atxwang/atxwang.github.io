@@ -71,13 +71,13 @@ there are very many good reasons to not kill yourself. for example:
 
 yet to repeat these vacuously true statements is worthless for a suicidal person, because if you want to kill yourself (as i once did), you are already acutely, painstakingly aware of them (as i once was). it is hard not to be if all day every day you are thinking about killing yourself. i did care and was occasionally saddened by these thoughts, but not as much as i was transfixed on the fantasy of self-inflicted death. i thought that maybe my loved ones would be sad if i was gone, but that i was such an intolerable burden on their lives that they would heal and move on quickly and forget about me in the process. i thought that i wanted my friends and family to suffer deeply as revenge for their "failure" to acknowledge my internal tumult; i wanted to scar them irrevocably. i didn't think there was any music i could listen to, anything i could learn about, anywhere i could go and just wander that would be worth extending what i perceived as a life that had already ended. 
 
-the risk of talking about suicide to the suicidal is that 
+the risk of talking about suicide to the suicidal is that everything you say can be used against you, against themselves. you can give them the "i was sick, now i'm not, and you can be too" spiel 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE2MTUyNTgsLTE4NTE4NDY2OTYsLT
+eyJoaXN0b3J5IjpbLTEwMDMxMDA0NjUsLTE4NTE4NDY2OTYsLT
 M2OTUxODUwMiwxNzgwNDI4MjEyLC01OTk5MzI1NDgsLTE0NTkw
 MjEyNjgsNDcyMTU1Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNi
 wtODEyMzQ3OTgyLDEyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0
