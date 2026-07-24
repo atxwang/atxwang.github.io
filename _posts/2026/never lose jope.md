@@ -60,7 +60,11 @@ when i was moved to inpatient i continued to read voraciously, mainly because i 
 
 ** Why you should stop wanting to kill yourself**
 -
-there are very many good reasons to not kill yourself that you have already probably considered if you want to kill yourself (indeed, i was quite cognizant of these back in the day). however, they bear repeating, so i list them here:
+there are very many good reasons to not kill yourself. for example:
+
+- 
+
+that you have already probably considered if you want to kill yourself (indeed, i was quite cognizant of these back in the day). however, they bear repeating, so i list them here:
 
 the risk
 
@@ -68,7 +72,7 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjA1NDAzMiwtMzY5NTE4NTAyLDE3OD
+eyJoaXN0b3J5IjpbMTA0NDUyNzkyMiwtMzY5NTE4NTAyLDE3OD
 A0MjgyMTIsLTU5OTkzMjU0OCwtMTQ1OTAyMTI2OCw0NzIxNTU3
 ODQsLTcxMTQyMTUwOCwtMjAzMzU5MTI2LC04MTIzNDc5ODIsMT
 I3MjQ5Nzk4NCwtMjEzNzA4OTU2OCw3MDQwNzk4OTcsLTQyMTcy
