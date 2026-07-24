@@ -52,7 +52,7 @@ i didn't want to "live", but i was highly noncommittal about suicide. i was scar
 -
 i stopped wanting to kill myself for two reasons: hospitalization and inpatient care. 
 
-the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state ,with just estranged enough features for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). i made my dad fetch me books from the local library. i blew through *the three body problem*, *one hundred years of solitude*, and *dune* and enjoyed them (marquez especially was to me a life-affirming writer)! after months of variantly masked emotional numbness, i had actually extracted enjoyment from the world beyond my bedroom.
+the purpose of a post-suicide attempt hospitalization is ostensibly to check your vitals and make sure that whatever pills you tried to overdose on didn't take you down too many notches. the main benefit for me (i was perfectly fine as a result of my nonlethal methods) was isolation. hospital life was a mirror image of my bedrotting cave hermit state ,with just estranged enough features for me to seriously question the nature of my withdrawal. i was prone on my bed, this time in an uncomfortable hospital gown and with a nurse coming to draw my blood every few hours. visitors could only come for a short window, and people asked me to explain myself less. for the first time since childhood, i passed most of the time reading (my possessions, including my phone, were confiscated). i made my dad fetch me books from the local library. i blew through *the three body problem*, *one hundred years of solitude*, and *dune* and enjoyed them (marquez especially was to me a life-affirming writer)! after months of variantly masked emotional numbness, i had actually extracted enjoyment from the world beyond my bedroom...
 
 when i was moved to inpatient i continued to read voraciously, mainly because i felt even more estranged.
 
@@ -73,7 +73,7 @@ there are very many good reasons to not kill yourself that you have already prob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MjkxMDU4LC0xNDU5MDIxMjY4LDQ3Mj
+eyJoaXN0b3J5IjpbMTcwMjQ1NjE4LC0xNDU5MDIxMjY4LDQ3Mj
 E1NTc4NCwtNzExNDIxNTA4LC0yMDMzNTkxMjYsLTgxMjM0Nzk4
 MiwxMjcyNDk3OTg0LC0yMTM3MDg5NTY4LDcwNDA3OTg5NywtND
 IxNzI0NjAxXX0=
