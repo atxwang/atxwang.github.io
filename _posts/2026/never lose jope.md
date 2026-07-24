@@ -66,7 +66,7 @@ it was an ev calculation for me. whatever had drawn me to try to kill myself in 
 -
 there are very many good reasons to not kill yourself. for example:
 
-- to kill yourself is the biggest pain and destruction you can possibly cause for those around you. i know this as a former inflictor of this pain, as someone who has observed its effect on others, and as someone who has been on the receiving end.
+- to kill yourself is the biggest pain and destruction you can possibly cause for those around you. i know this as a former inflictor of this pain, as someone who has observed its effect on others, and as someone who has been on the receiving end. people who try to kill themselves are often well-liked and usually have other people in their lives that love and care about them
 - to kill yourself
 - 
 
@@ -83,7 +83,7 @@ the risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI1MzkzOTUsLTM2OTUxODUwMiwxNz
+eyJoaXN0b3J5IjpbLTEzMzg2MTk5NTUsLTM2OTUxODUwMiwxNz
 gwNDI4MjEyLC01OTk5MzI1NDgsLTE0NTkwMjEyNjgsNDcyMTU1
 Nzg0LC03MTE0MjE1MDgsLTIwMzM1OTEyNiwtODEyMzQ3OTgyLD
 EyNzI0OTc5ODQsLTIxMzcwODk1NjgsNzA0MDc5ODk3LC00MjE3
