@@ -23,13 +23,13 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
-          {% if page.subtitle %}
+          <h1{% if page.protected %} data-protected-page-title{% endif %}>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
+          {% if page.subtitle or page.protected %}
             {% if include.type == "page" %}
               <hr class="small">
               <span class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</span>
             {% else %}
-              <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
+              <h2 class="{{ include.type }}-subheading"{% if page.protected %} data-protected-page-subtitle hidden{% endif %}>{{ page.subtitle | strip_html }}</h2>
             {% endif %}
           {% endif %}
           

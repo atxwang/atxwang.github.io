@@ -19,7 +19,10 @@ const payloadMatch = html.match(
 
 assert(payloadMatch, "The built site does not contain an encrypted post payload.");
 assert(!html.includes("what a title amiright"), "Plaintext article content leaked into the built page.");
+assert(!html.includes("Why you shouldn"), "The private article title leaked into the built page.");
+assert(!html.includes("even if you think"), "The private article subtitle leaked into the built page.");
 assert(!html.includes(password), "The password leaked into the built page.");
+assert(html.includes("<h1 data-protected-page-title>Private article</h1>"));
 
 const payload = JSON.parse(payloadMatch[1]);
 
@@ -66,6 +69,8 @@ async function exerciseClientScript() {
   };
   const submitButton = { disabled: false };
   const status = { textContent: "" };
+  const pageTitle = { textContent: "Private article" };
+  const pageSubtitle = { hidden: true, textContent: "" };
   const form = {
     addEventListener(eventName, handler) {
       assert.equal(eventName, "submit");
@@ -95,11 +100,16 @@ async function exerciseClientScript() {
     }
   };
   const document = {
+    title: "Private article | Alice's digital dumping ground",
     getElementById(id) {
       return id === "protected-post-data" ? dataElement : null;
     },
     querySelector(selector) {
-      return selector === "[data-protected-post]" ? container : null;
+      return {
+        "[data-protected-post]": container,
+        "[data-protected-page-title]": pageTitle,
+        "[data-protected-page-subtitle]": pageSubtitle
+      }[selector] || null;
     }
   };
   const clientScript = fs.readFileSync(
@@ -129,6 +139,10 @@ async function exerciseClientScript() {
   passwordInput.value = password;
   await submitHandler({ preventDefault() {} });
   assert(container.innerHTML.includes("what a title amiright"));
+  assert.equal(pageTitle.textContent, "Why you shouldn't kill yourself");
+  assert.equal(pageSubtitle.textContent, "even if you think you might want to");
+  assert.equal(pageSubtitle.hidden, false);
+  assert.equal(document.title, "Why you shouldn't kill yourself | Alice's digital dumping ground");
   assert.equal(dataElement.removed, true);
 }
 
@@ -151,11 +165,13 @@ function findProtectedPage(directory) {
 
 (async function run() {
   await assert.rejects(decrypt("definitely-the-wrong-password"));
-  const plaintext = await decrypt(password);
+  const article = JSON.parse(await decrypt(password));
   assert(
-    plaintext.includes("what a title amiright"),
+    article.html.includes("what a title amiright"),
     "The correct password did not recover the expected article."
   );
+  assert.equal(article.title, "Why you shouldn't kill yourself");
+  assert.equal(article.subtitle, "even if you think you might want to");
   await exerciseClientScript();
   console.log(`Password protection passed for ${path.relative(process.cwd(), protectedPage)}.`);
 }()).catch((error) => {

@@ -3,8 +3,9 @@ theme is beautiful-jekyll by dean attali
 ## Password-protected articles
 
 This site can publish an article as AES-256-GCM ciphertext and decrypt it locally
-in the reader's browser. GitHub Pages serves only the encrypted body; the password
-is not stored in the repository or sent to a server.
+in the reader's browser. GitHub Pages serves only a `Private article` placeholder;
+the real title, subtitle, and body are encrypted. The password is not stored in
+the repository or sent to a server.
 
 Protect a post:
 

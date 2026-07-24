@@ -4,6 +4,7 @@
 require "base64"
 require "date"
 require "io/console"
+require "json"
 require "openssl"
 require "optparse"
 require "yaml"
@@ -11,6 +12,7 @@ require "kramdown"
 require "kramdown-parser-gfm"
 
 ITERATIONS = 310_000
+PRIVATE_TITLE = "Private article"
 PROTECTED_EXCERPT = "This article is password protected."
 ENCRYPTED_BODY = "<!-- Encrypted article. Run scripts/protect_post.rb --decrypt to restore the Markdown source. -->\n"
 PROTECTION_KEYS = %w[protected password_protection].freeze
@@ -89,11 +91,23 @@ if options[:decrypt]
 
   salt = Base64.strict_decode64(protection.fetch("salt"))
   key = derive_key(password, salt, protection.fetch("iterations"))
-  restored_markdown = decrypt(
+  restored_source = decrypt(
     protection.fetch("source"),
     protection.fetch("source_iv"),
     key
   )
+  if protection.fetch("version") >= 2
+    source_payload = JSON.parse(restored_source)
+    metadata["title"] = source_payload.fetch("title")
+    if source_payload["subtitle"]
+      metadata["subtitle"] = source_payload["subtitle"]
+    else
+      metadata.delete("subtitle")
+    end
+    restored_markdown = source_payload.fetch("markdown")
+  else
+    restored_markdown = restored_source
+  end
   PROTECTION_KEYS.each { |field| metadata.delete(field) }
   metadata.delete("excerpt") if metadata["excerpt"] == PROTECTED_EXCERPT
   metadata.delete("share-description") if metadata["share-description"] == PROTECTED_EXCERPT
@@ -102,17 +116,31 @@ if options[:decrypt]
 else
   abort "#{path} is already password protected." if metadata["protected"]
 
+  article_title = metadata.fetch("title")
+  article_subtitle = metadata["subtitle"]
   salt = OpenSSL::Random.random_bytes(16)
   key = derive_key(password, salt, ITERATIONS)
   rendered_html = Kramdown::Document.new(markdown, input: "GFM").to_html
-  content_iv, encrypted_content = encrypt(rendered_html, key)
-  source_iv, encrypted_source = encrypt(markdown, key)
+  browser_payload = JSON.generate(
+    "title" => article_title,
+    "subtitle" => article_subtitle,
+    "html" => rendered_html
+  )
+  source_payload = JSON.generate(
+    "title" => article_title,
+    "subtitle" => article_subtitle,
+    "markdown" => markdown
+  )
+  content_iv, encrypted_content = encrypt(browser_payload, key)
+  source_iv, encrypted_source = encrypt(source_payload, key)
 
+  metadata["title"] = PRIVATE_TITLE
+  metadata.delete("subtitle")
   metadata["protected"] = true
   metadata["excerpt"] = PROTECTED_EXCERPT
   metadata["share-description"] = PROTECTED_EXCERPT
   metadata["password_protection"] = {
-    "version" => 1,
+    "version" => 2,
     "iterations" => ITERATIONS,
     "salt" => Base64.strict_encode64(salt),
     "iv" => content_iv,

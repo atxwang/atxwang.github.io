@@ -12,6 +12,8 @@
   var passwordInput = container.querySelector("[data-protected-post-password]");
   var submitButton = container.querySelector("[data-protected-post-submit]");
   var status = container.querySelector("[data-protected-post-status]");
+  var pageTitle = document.querySelector("[data-protected-page-title]");
+  var pageSubtitle = document.querySelector("[data-protected-page-subtitle]");
 
   function decodeBase64(value) {
     var binary = window.atob(value);
@@ -80,15 +82,28 @@
     try {
       var payload = JSON.parse(dataElement.textContent);
 
-      if (payload.version !== 1) {
+      if (payload.version !== 1 && payload.version !== 2) {
         throw new Error("Unsupported encrypted article format.");
       }
 
-      var articleHtml = await decrypt(payload, passwordInput.value);
+      var decryptedContent = await decrypt(payload, passwordInput.value);
+      var article = payload.version === 2
+        ? JSON.parse(decryptedContent)
+        : { html: decryptedContent };
+      var publicTitle = pageTitle ? pageTitle.textContent.trim() : "";
+
       passwordInput.value = "";
       dataElement.remove();
+      if (article.title && pageTitle) {
+        pageTitle.textContent = article.title;
+        document.title = document.title.replace(publicTitle, article.title);
+      }
+      if (article.subtitle && pageSubtitle) {
+        pageSubtitle.textContent = article.subtitle;
+        pageSubtitle.hidden = false;
+      }
       container.classList.add("protected-post--unlocked");
-      container.innerHTML = articleHtml;
+      container.innerHTML = article.html;
     } catch (error) {
       status.textContent = "That password is incorrect.";
       passwordInput.value = "";
